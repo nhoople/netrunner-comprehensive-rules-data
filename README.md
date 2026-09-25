@@ -54,11 +54,11 @@ print(nodes[rule_id]["text_plain"])
 # If the text of a card directly contradicts these rules, the text of the card takes precedence.
 ```
 
-JavaScript — fetch the flat node list from a tagged release (replace `OWNER/REPO`):
+JavaScript — fetch the flat node list from a tagged release:
 
 ```js
 const base =
-  "https://raw.githubusercontent.com/OWNER/REPO/v26.03/data";
+  "https://raw.githubusercontent.com/nhoople/netrunner-comprehensive-rules-data/v26.03/data";
 const index = await fetch(`${base}/index.json`).then((r) => r.json());
 const nodes = await fetch(`${base}/nodes.json`).then((r) => r.json());
 const byId = Object.fromEntries(nodes.map((n) => [n.id, n]));
