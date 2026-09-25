@@ -1,0 +1,42 @@
+{
+  "id": "rule_announce_targets",
+  "kind": "subsection",
+  "number": "1.15.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_targets",
+  "child_ids": [
+    "rule_target_indicate",
+    "rule_targets_must_be_valid",
+    "rule_targets_must_be_in_play_area",
+    "rule_multiple_targets",
+    "rule_distinct_targets",
+    "rule_targeting_only_once"
+  ],
+  "text_markup": "Immediately before an instruction becomes imminent, the player resolving that instruction must first choose the targets required by that instruction. For each time the instruction requires a player to choose 1 or more objects and/or subroutines, that player {term:announces} appropriate targets. Once players are finished announcing targets for an instruction, the instruction becomes imminent, and players have the opportunity to modify the effects of that instruction with interrupt abilities before it resolves. See {ref:sec_interrupts_replacements}.",
+  "text_plain": "Immediately before an instruction becomes imminent, the player resolving that instruction must first choose the targets required by that instruction. For each time the instruction requires a player to choose 1 or more objects and/or subroutines, that player announces appropriate targets. Once players are finished announcing targets for an instruction, the instruction becomes imminent, and players have the opportunity to modify the effects of that instruction with interrupt abilities before it resolves. See section 9.9.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 258,
+      "end": 267,
+      "target": "announces"
+    },
+    {
+      "type": "ref",
+      "start": 512,
+      "end": 523,
+      "ids": [
+        "sec_interrupts_replacements"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_announce_targets"
+}

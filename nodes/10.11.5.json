@@ -1,0 +1,28 @@
+{
+  "id": "rule_mark_designated_condition_check",
+  "kind": "rule",
+  "number": "10.11.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_mark",
+  "child_ids": [
+    "rule_mark_designated_condition_check__example_1"
+  ],
+  "text_markup": "When a condition checks a game property related to a player's mark, it only checks from the moment that server was designated as the mark.",
+  "text_plain": "When a condition checks a game property related to a player's mark, it only checks from the moment that server was designated as the mark.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_mark_designated_condition_check__example_1",
+      "text_markup": "The Runner has no mark and plays {card:Jailbreak} to make a run on HQ. When the run is successful, they draw {card:Virtuoso} with {card:Jailbreak}'s ability. The Runner continues their turn by installing {card:Virtuoso} and playing {card:Carpe Diem}. If {card:Carpe Diem}'s instruction to \"identify your mark\" results in HQ becoming the mark, the subsequent run it allows will meet the trigger condition for {card:Virtuoso}'s third ability if it is successful. Even though there was a successful run on HQ earlier in the turn, HQ was not designated as the mark at that time, so the run made with {card:Carpe Diem} is the first time the Runner makes a successful run on their mark this turn. The Runner will access 1 additional card when they breach HQ.",
+      "text_plain": "The Runner has no mark and plays Jailbreak to make a run on HQ. When the run is successful, they draw Virtuoso with Jailbreak's ability. The Runner continues their turn by installing Virtuoso and playing Carpe Diem. If Carpe Diem's instruction to \"identify your mark\" results in HQ becoming the mark, the subsequent run it allows will meet the trigger condition for Virtuoso's third ability if it is successful. Even though there was a successful run on HQ earlier in the turn, HQ was not designated as the mark at that time, so the run made with Carpe Diem is the first time the Runner makes a successful run on their mark this turn. The Runner will access 1 additional card when they breach HQ.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mark_designated_condition_check"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "rule_base_link_citation",
+  "kind": "rule",
+  "number": "2.9.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_base_link",
+  "child_ids": [],
+  "text_markup": "The Runner's base link contributes to their link value. {ref:Sec_link} defines how the Runner's link value is calculated, and {ref:sec_traces} explains how it contributes to contesting trace attempts.",
+  "text_plain": "The Runner's base link contributes to their link value. Section 10.7 defines how the Runner's link value is calculated, and section 10.8 explains how it contributes to contesting trace attempts.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 56,
+      "end": 68,
+      "ids": [
+        "sec_link"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 124,
+      "end": 136,
+      "ids": [
+        "sec_traces"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_base_link_citation"
+}

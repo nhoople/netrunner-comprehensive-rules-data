@@ -1,0 +1,29 @@
+{
+  "id": "sec_abilities_general",
+  "kind": "section",
+  "number": "9.1",
+  "ref_type": "section",
+  "title": "General",
+  "parent_id": "chpt_abilities",
+  "child_ids": [
+    "rule_ability",
+    "rule_resolve_ability",
+    "rule_source",
+    "rule_abilities_resolution_independent",
+    "rule_effect",
+    "rule_using",
+    "rule_ability_active",
+    "rule_ability_active_inactive_source_card",
+    "rule_gaining_losing_abilities"
+  ],
+  "text_markup": "General",
+  "text_plain": "General",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_abilities_general"
+}

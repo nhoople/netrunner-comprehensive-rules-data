@@ -1,0 +1,27 @@
+{
+  "id": "rule_pay_costs_controlled_objects",
+  "kind": "subsection",
+  "number": "1.14.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_ownership",
+  "child_ids": [
+    "rule_remove_tags_or_bad_publicity_as_cost"
+  ],
+  "text_markup": "A player can only pay costs using objects they control{n}, unless specifically indicated.{/n}",
+  "text_plain": "A player can only pay costs using objects they control, unless specifically indicated.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 54,
+      "end": 86
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_pay_costs_controlled_objects"
+}

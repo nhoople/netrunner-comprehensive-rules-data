@@ -1,0 +1,26 @@
+{
+  "id": "rule_tag",
+  "kind": "rule",
+  "number": "10.5.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_tags",
+  "child_ids": [],
+  "text_markup": "A {term:tag} refers to a tag counter placed on the Runner. Tags are used in card abilities and basic actions.",
+  "text_plain": "A tag refers to a tag counter placed on the Runner. Tags are used in card abilities and basic actions.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 5,
+      "target": "tag"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_tag"
+}

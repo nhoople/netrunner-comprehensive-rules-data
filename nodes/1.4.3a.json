@@ -1,0 +1,19 @@
+{
+  "id": "rule_outside_the_deck",
+  "kind": "rule",
+  "number": "1.4.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_minimum_deck_size",
+  "child_ids": [],
+  "text_markup": "Identity cards, extra cards that begin the game outside the deck, and player aid cards are not part of the deck and are not counted towards the size of the deck.",
+  "text_plain": "Identity cards, extra cards that begin the game outside the deck, and player aid cards are not part of the deck and are not counted towards the size of the deck.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_outside_the_deck"
+}

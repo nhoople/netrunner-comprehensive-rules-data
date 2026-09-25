@@ -1,0 +1,24 @@
+{
+  "id": "rule_cost",
+  "kind": "subsection",
+  "number": "1.16.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_costs",
+  "child_ids": [
+    "rule_cost_no_interrupt",
+    "rule_cost_interrupt_static_mandatory",
+    "rule_cost_restrictions",
+    "rule_cost_zero"
+  ],
+  "text_markup": "In order to use an ability or apply an effect, a player may be required to pay a cost. A cost can take the form of any card, counter, or other item a player must spend; an effect a player must resolve; or other type of requirement a player must meet. If a player cannot pay the full cost of an action or ability all at once with cards and counters they control, they cannot use the effect associated with that cost.",
+  "text_plain": "In order to use an ability or apply an effect, a player may be required to pay a cost. A cost can take the form of any card, counter, or other item a player must spend; an effect a player must resolve; or other type of requirement a player must meet. If a player cannot pay the full cost of an action or ability all at once with cards and counters they control, they cannot use the effect associated with that cost.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cost"
+}

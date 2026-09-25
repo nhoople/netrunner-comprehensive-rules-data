@@ -1,0 +1,35 @@
+{
+  "id": "movement_search",
+  "kind": "rule",
+  "number": "8.2.8",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_movements",
+  "child_ids": [],
+  "text_markup": "To {term:search} is to look at a specified zone and potentially set aside cards from that zone. The full rules for searching are detailed in {ref:sec_searching_cards}.",
+  "text_plain": "To search is to look at a specified zone and potentially set aside cards from that zone. The full rules for searching are detailed in section 8.7.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 9,
+      "target": "search"
+    },
+    {
+      "type": "ref",
+      "start": 134,
+      "end": 145,
+      "ids": [
+        "sec_searching_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=movement_search"
+}

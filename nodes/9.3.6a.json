@@ -1,0 +1,26 @@
+{
+  "id": "rule_ability_flag_types",
+  "kind": "rule",
+  "number": "9.3.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_flag",
+  "child_ids": [],
+  "text_markup": "There are six ability flags: access, interface, [interrupt], persistent, threat N, and once per turn.",
+  "text_plain": "There are six ability flags: access, interface, {interrupt}, persistent, threat N, and once per turn.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 48,
+      "end": 59,
+      "target": "interrupt"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ability_flag_types"
+}

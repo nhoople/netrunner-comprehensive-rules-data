@@ -1,0 +1,19 @@
+{
+  "id": "rule_hand_secret",
+  "kind": "rule",
+  "number": "4.3.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_hand",
+  "child_ids": [],
+  "text_markup": "A player's hand is kept secret from their opponent. A player may look at the cards in their own hand, but not at any of the cards in their opponent's hands.",
+  "text_plain": "A player's hand is kept secret from their opponent. A player may look at the cards in their own hand, but not at any of the cards in their opponent's hands.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hand_secret"
+}

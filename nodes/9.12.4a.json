@@ -1,0 +1,19 @@
+{
+  "id": "rule_repeat_this_process",
+  "kind": "rule",
+  "number": "9.12.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_repeat_this_process",
+  "child_ids": [],
+  "text_markup": "If an ability instructs a player to \"repeat this process\" without specifying how many times to do so, then that player resolves the ability again, including the instruction to \"repeat this process\" if it is still applicable.",
+  "text_plain": "If an ability instructs a player to \"repeat this process\" without specifying how many times to do so, then that player resolves the ability again, including the instruction to \"repeat this process\" if it is still applicable.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_repeat_this_process"
+}

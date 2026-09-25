@@ -1,0 +1,39 @@
+{
+  "id": "rule_checkpoints",
+  "kind": "subsection",
+  "number": "10.3.1",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_checkpoints",
+  "child_ids": [
+    "step_checkpoint_conditional_abilities",
+    "step_checkpoint_duration_abilities",
+    "step_checkpoint_agenda_points",
+    "step_checkpoint_uniqueness",
+    "step_checkpoint_card_restrictions",
+    "step_checkpoint_hosted_on_agenda",
+    "step_checkpoint_hosted_on_installed_cards",
+    "step_checkpoint_remote_server",
+    "step_checkpoint_vacant_position",
+    "step_checkpoint_card_entering_root_during_breach",
+    "step_checkpoint_discard_pile_cards",
+    "step_checkpoint_discard_pile_counters"
+  ],
+  "text_markup": "A {term:checkpoint} is a process wherein objects that have entered an illegal state are corrected, expired effects are removed, and other important conditions are checked. This procedure is automatically performed at several timing points during the game, and entails the following steps, which are performed in order:",
+  "text_plain": "A checkpoint is a process wherein objects that have entered an illegal state are corrected, expired effects are removed, and other important conditions are checked. This procedure is automatically performed at several timing points during the game, and entails the following steps, which are performed in order:",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 12,
+      "target": "checkpoint"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_checkpoints"
+}

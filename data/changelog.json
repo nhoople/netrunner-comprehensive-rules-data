@@ -1,0 +1,432 @@
+{
+  "metadata": {
+    "version": "26.03",
+    "effective_date": "2026-03-02",
+    "effective_date_display": "2 March 2026",
+    "source_repo": "https://github.com/rubenpieters/netrunner-comprehensive-rules",
+    "source_sha": "552afb75323ff8f0dc2f8f4428cccc1a5c36db44",
+    "published_url": "https://rules.nullsignal.games/",
+    "published_hub": "https://nullsignal.games/rules/comp-rules/",
+    "node_count": 1885
+  },
+  "entries": [
+    {
+      "text_markup": "Added {ref:rule_melies_u_detail} to support Méliès U's ability.",
+      "text_plain": "Added rule 1.5.2b to support Méliès U's ability.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 6,
+          "end": 17,
+          "ids": [
+            "rule_melies_u_detail"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Clarify link between {ref:rule_inactive_cards_characteristics,sec_facedown_runner_cards} referencing facedown installed Runner cards.",
+      "text_plain": "Clarify link between rules 1.8.4b and 8.1.4 referencing facedown installed Runner cards.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 21,
+          "end": 43,
+          "ids": [
+            "rule_inactive_cards_characteristics",
+            "sec_facedown_runner_cards"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Added {ref:rule_hosted_counters_not_on_player} and {ref:rule_hosted_object_same_zone_as_host} to clarify properties of hosted objects.",
+      "text_plain": "Added rule 1.13.3 and rule 1.13.12 to clarify properties of hosted objects.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 6,
+          "end": 17,
+          "ids": [
+            "rule_hosted_counters_not_on_player"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "ref",
+          "start": 22,
+          "end": 34,
+          "ids": [
+            "rule_hosted_object_same_zone_as_host"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Added {ref:rule_reveal_not_turn_faceup} to clarify that revealing does not turn cards faceup.",
+      "text_plain": "Added rule 1.21.3a to clarify that revealing does not turn cards faceup.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 6,
+          "end": 18,
+          "ids": [
+            "rule_reveal_not_turn_faceup"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Updated the list of subtypes ({ref:rule_subtypes_list}) to remove {subtype:illicit} and add {subtype:liability}.",
+      "text_plain": "Updated the list of subtypes (section 2.16.7) to remove illicit and add liability.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 30,
+          "end": 44,
+          "ids": [
+            "rule_subtypes_list"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "subtype",
+          "start": 56,
+          "end": 63,
+          "target": "illicit"
+        },
+        {
+          "type": "subtype",
+          "start": 72,
+          "end": 81,
+          "target": "liability"
+        }
+      ]
+    },
+    {
+      "text_markup": "Added {ref:sec_server_indicator} to describe the server indicators on the back of Méliès U.",
+      "text_plain": "Added section 2.18 to describe the server indicators on the back of Méliès U.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 6,
+          "end": 18,
+          "ids": [
+            "sec_server_indicator"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Updated {ref:rule_region_swap} to address all effects that could move a {subtype:region} upgrade between servers, not just swap effects.",
+      "text_plain": "Updated rule 3.6.5e to address all effects that could move a region upgrade between servers, not just swap effects.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 8,
+          "end": 19,
+          "ids": [
+            "rule_region_swap"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "subtype",
+          "start": 61,
+          "end": 67,
+          "target": "region"
+        }
+      ]
+    },
+    {
+      "text_markup": "Updated rules about the locations of counters in the play area in {ref:rule_play_area_organization}.",
+      "text_plain": "Updated rules about the locations of counters in the play area in section 4.6.5.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 66,
+          "end": 79,
+          "ids": [
+            "rule_play_area_organization"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Added {ref:rule_pass_after_breaking} to define what it means for the Runner to pass a piece of ice \"after fully breaking it\".",
+      "text_plain": "Added rule 6.1.3f to define what it means for the Runner to pass a piece of ice \"after fully breaking it\".",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 6,
+          "end": 17,
+          "ids": [
+            "rule_pass_after_breaking"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Expanded rules about how \"end the run\" effects interact with other timing structures, particularly for cases where there is not actually a run in progress to end. Consolidated {ref:rule_forced_encounter_during_run,rule_end_run_ends_access,rule_end_run_ends_breach} to cover all of these cases in {ref:rule_end_the_run}.",
+      "text_plain": "Expanded rules about how \"end the run\" effects interact with other timing structures, particularly for cases where there is not actually a run in progress to end. Consolidated rules 6.5.9b, 7.1.8 and 7.3.7 to cover all of these cases in section 6.1.4.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 176,
+          "end": 205,
+          "ids": [
+            "rule_forced_encounter_during_run",
+            "rule_end_run_ends_access",
+            "rule_end_run_ends_breach"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "ref",
+          "start": 237,
+          "end": 250,
+          "ids": [
+            "rule_end_the_run"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Updated {ref:rule_run_ends_other_priority_windows} to clarify that new timing structures cannot be initiated by abilities that were pending when an \"end the run\" effect resolves.",
+      "text_plain": "Updated rule 6.8.2c to clarify that new timing structures cannot be initiated by abilities that were pending when an \"end the run\" effect resolves.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 8,
+          "end": 19,
+          "ids": [
+            "rule_run_ends_other_priority_windows"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Simplified rules about counting accessed cards in {ref:rule_counting_random_access_limit} and {ref:rule_number_of_accesses}.",
+      "text_plain": "Simplified rules about counting accessed cards in rule 7.3.5c and rule 7.3.6.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 50,
+          "end": 61,
+          "ids": [
+            "rule_counting_random_access_limit"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "ref",
+          "start": 66,
+          "end": 76,
+          "ids": [
+            "rule_number_of_accesses"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Clarified rules about prohibitions on accesses in {ref:rule_prohibiting_access} and {ref:rule_candidates_entering_root}.",
+      "text_plain": "Clarified rules about prohibitions on accesses in section 7.4.2 and rule 7.4.6a.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 50,
+          "end": 63,
+          "ids": [
+            "rule_prohibiting_access"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "ref",
+          "start": 68,
+          "end": 79,
+          "ids": [
+            "rule_candidates_entering_root"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Expanded {ref:rule_arrange_secretly} to add a rule ensuring that cards about to be arranged in any order don't need to have their order maintained for other effects in the same instruction.",
+      "text_plain": "Expanded section 8.3.3 to add a rule ensuring that cards about to be arranged in any order don't need to have their order maintained for other effects in the same instruction.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 9,
+          "end": 22,
+          "ids": [
+            "rule_arrange_secretly"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Updated {ref:rule_x_server_only} to account for \"Central server only\" and for abilities that can move arbitrary upgrades other than by swapping.",
+      "text_plain": "Updated rule 8.5.12 to account for \"Central server only\" and for abilities that can move arbitrary upgrades other than by swapping.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 8,
+          "end": 19,
+          "ids": [
+            "rule_x_server_only"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Added {ref:rule_delayed_run_ends_condition_outside_run} to clarify that abilities cannot create delayed \"When this run ends\" conditional abilities if there is not a run in progress.",
+      "text_plain": "Added rule 9.6.13d to clarify that abilities cannot create delayed \"When this run ends\" conditional abilities if there is not a run in progress.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 6,
+          "end": 18,
+          "ids": [
+            "rule_delayed_run_ends_condition_outside_run"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Updated {ref:rule_subroutines_ordered} and added {ref:rule_subroutine_origins} to detail the ordering of added subroutines from multiple effects. Incorporated material into these sections from previous rules in {ref:sec_subroutines} about {card:Hive} and about static abilities that grant a variable number of subroutines to a piece of ice.",
+      "text_plain": "Updated section 9.8.2 and added section 9.8.3 to detail the ordering of added subroutines from multiple effects. Incorporated material into these sections from previous rules in section 9.8 about Hive and about static abilities that grant a variable number of subroutines to a piece of ice.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 8,
+          "end": 21,
+          "ids": [
+            "rule_subroutines_ordered"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "ref",
+          "start": 32,
+          "end": 45,
+          "ids": [
+            "rule_subroutine_origins"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "ref",
+          "start": 178,
+          "end": 189,
+          "ids": [
+            "sec_subroutines"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "card",
+          "start": 196,
+          "end": 200,
+          "target": "Hive",
+          "card_code": "20087"
+        }
+      ]
+    },
+    {
+      "text_markup": "Updated {ref:rule_calculated_quantity} to handle cases where an ability includes multiple effects under a \"for each\" or other quantifier. Also updated related examples and moved them from {ref:rule_aggregated_instructions} to {ref:rule_calculated_quantity}.",
+      "text_plain": "Updated rule 9.12.2b to handle cases where an ability includes multiple effects under a \"for each\" or other quantifier. Also updated related examples and moved them from rule 9.12.2c to rule 9.12.2b.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 8,
+          "end": 20,
+          "ids": [
+            "rule_calculated_quantity"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "ref",
+          "start": 170,
+          "end": 182,
+          "ids": [
+            "rule_aggregated_instructions"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "ref",
+          "start": 186,
+          "end": 198,
+          "ids": [
+            "rule_calculated_quantity"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Updated {ref:rule_meat_net_damage} and {ref:rule_core_damage} to specify which player performs card trashing when the Runner suffers damage.",
+      "text_plain": "Updated rule 10.4.2a and rule 10.4.2b to specify which player performs card trashing when the Runner suffers damage.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 8,
+          "end": 20,
+          "ids": [
+            "rule_meat_net_damage"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "ref",
+          "start": 25,
+          "end": 37,
+          "ids": [
+            "rule_core_damage"
+          ],
+          "combiner": "and"
+        }
+      ]
+    },
+    {
+      "text_markup": "Updated rules for bad publicity in {ref:sec_bad_publicity}, {ref:rule_initiation_bad_publicity}, and elsewhere. Bad publicity credits are now kept in a separate location, not in the Runner's credit pool.",
+      "text_plain": "Updated rules for bad publicity in section 10.6, rule 6.3.3, and elsewhere. Bad publicity credits are now kept in a separate location, not in the Runner's credit pool.",
+      "spans": [
+        {
+          "type": "ref",
+          "start": 35,
+          "end": 47,
+          "ids": [
+            "sec_bad_publicity"
+          ],
+          "combiner": "and"
+        },
+        {
+          "type": "ref",
+          "start": 49,
+          "end": 59,
+          "ids": [
+            "rule_initiation_bad_publicity"
+          ],
+          "combiner": "and"
+        }
+      ]
+    }
+  ]
+}

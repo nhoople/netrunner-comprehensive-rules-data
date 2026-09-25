@@ -1,0 +1,26 @@
+{
+  "id": "sec_bidding",
+  "kind": "section",
+  "number": "10.14",
+  "ref_type": "section",
+  "title": "Bidding",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_bidding",
+    "rule_bid_secret",
+    "rule_bid_possible",
+    "rule_bid_reveal_spend",
+    "rule_bid_secretly_spend",
+    "sec_psi_games"
+  ],
+  "text_markup": "Bidding",
+  "text_plain": "Bidding",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_bidding"
+}

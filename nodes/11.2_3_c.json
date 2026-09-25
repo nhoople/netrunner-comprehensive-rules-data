@@ -1,0 +1,26 @@
+{
+  "id": "sec_appendix_timing_structure_corps_turn_3_c",
+  "kind": "timing_structure",
+  "number": "11.2_3_c",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_corps_turn_3",
+  "child_ids": [],
+  "text_markup": "The Corp loses unspent [click].",
+  "text_plain": "The Corp loses unspent {click}.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 23,
+      "end": 30,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_corps_turn_3_c"
+}

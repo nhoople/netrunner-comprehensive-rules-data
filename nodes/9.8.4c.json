@@ -1,0 +1,19 @@
+{
+  "id": "rule_subroutine_status_lifetime",
+  "kind": "rule",
+  "number": "9.8.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subroutines_status",
+  "child_ids": [],
+  "text_markup": "When an encounter ends, card abilities can still check whether subroutines were broken or unbroken during that encounter.",
+  "text_plain": "When an encounter ends, card abilities can still check whether subroutines were broken or unbroken during that encounter.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutine_status_lifetime"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_negative_values_imminent",
+  "kind": "rule",
+  "number": "9.9.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_calculating_expected_effect_values",
+  "child_ids": [
+    "rule_negative_values_imminent__example_1"
+  ],
+  "text_markup": "While an instruction is imminent, values associated with that instruction can be reduced below 0. Values 0 or lower can still be modified by other interrupt abilities while the instruction remains imminent.",
+  "text_plain": "While an instruction is imminent, values associated with that instruction can be reduced below 0. Values 0 or lower can still be modified by other interrupt abilities while the instruction remains imminent.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_negative_values_imminent__example_1",
+      "text_markup": "The Runner takes a tag on their turn, allowing the Corp to trigger {card:Mr. Stone}. While the 1 meat damage from {card:Mr. Stone}'s ability is imminent, both players can trigger interrupts to modify the damage effect. Since it is the Runner's turn, they receive priority first and use {card:Biometric Spoofing} to prevent 2 damage. The imminent effect is now expected to do -1 damage. When the Corp receives priority, they trigger two copies of {card:The Cleaners} that each add 1 to the expected damage, increasing the total to 0 and then to 1. The ability will resolve with 1 damage even though the amount of damage was temporarily 0 or less while the effect was imminent.",
+      "text_plain": "The Runner takes a tag on their turn, allowing the Corp to trigger Mr. Stone. While the 1 meat damage from Mr. Stone's ability is imminent, both players can trigger interrupts to modify the damage effect. Since it is the Runner's turn, they receive priority first and use Biometric Spoofing to prevent 2 damage. The imminent effect is now expected to do -1 damage. When the Corp receives priority, they trigger two copies of The Cleaners that each add 1 to the expected damage, increasing the total to 0 and then to 1. The ability will resolve with 1 damage even though the amount of damage was temporarily 0 or less while the effect was imminent.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_negative_values_imminent"
+}

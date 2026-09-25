@@ -1,0 +1,29 @@
+{
+  "id": "rule_paid_ability_window_corp_rez",
+  "kind": "rule",
+  "number": "9.2.7c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_paid_ability_window",
+  "child_ids": [],
+  "text_markup": "During some paid ability windows, the Corp has the option to rez an asset or upgrade while they have priority. Within this document, the symbol (R) denotes a paid ability window in which cards can be rezzed. See {ref:sec_faceup_facedown_status}.",
+  "text_plain": "During some paid ability windows, the Corp has the option to rez an asset or upgrade while they have priority. Within this document, the symbol (R) denotes a paid ability window in which cards can be rezzed. See section 8.1.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 212,
+      "end": 223,
+      "ids": [
+        "sec_faceup_facedown_status"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_paid_ability_window_corp_rez"
+}

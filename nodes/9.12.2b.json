@@ -1,0 +1,66 @@
+{
+  "id": "rule_calculated_quantity",
+  "kind": "rule",
+  "number": "9.12.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_quantities_and_sets",
+  "child_ids": [
+    "rule_calculated_quantity__example_1",
+    "rule_calculated_quantity__example_2",
+    "rule_calculated_quantity__example_3"
+  ],
+  "text_markup": "{n}Some abilities perform effects based on a calculated quantity, usually indicated by a phrase like \"for each\", \"for every\", or \"plus\". If all of the effects tied to a quantity in this way are listed in {ref:rule_aggregated_instructions}, then the effects are performed only once, with the values included in the effect aggregated according to the calculated quantity. If a value aggregated in this way is less than or equal to 0, instead the part of the effect associated with that value does not take place at all. If an ability indicates that effects should be performed a number of times or across a number of targets and any part of those effects is not listed in {ref:rule_aggregated_instructions}, then the effects are not aggregated.{/n}",
+  "text_plain": "Some abilities perform effects based on a calculated quantity, usually indicated by a phrase like \"for each\", \"for every\", or \"plus\". If all of the effects tied to a quantity in this way are listed in rule 9.12.2c, then the effects are performed only once, with the values included in the effect aggregated according to the calculated quantity. If a value aggregated in this way is less than or equal to 0, instead the part of the effect associated with that value does not take place at all. If an ability indicates that effects should be performed a number of times or across a number of targets and any part of those effects is not listed in rule 9.12.2c, then the effects are not aggregated.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 201,
+      "end": 213,
+      "ids": [
+        "rule_aggregated_instructions"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 645,
+      "end": 657,
+      "ids": [
+        "rule_aggregated_instructions"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "new",
+      "start": 0,
+      "end": 695
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_calculated_quantity__example_1",
+      "text_markup": "The Runner plays {card:Ritual} while they have 3 [click] remaining and an installed copy of {card:The Class Act}. {card:Ritual}'s instruction will have the Runner perform 1 instance of drawing 3 cards, so {card:The Class Act}'s interrupt ability will first have the Runner look at the top 4 cards of their stack and add 1 to the bottom.",
+      "text_plain": "The Runner plays Ritual while they have 3 {click} remaining and an installed copy of The Class Act. Ritual's instruction will have the Runner perform 1 instance of drawing 3 cards, so The Class Act's interrupt ability will first have the Runner look at the top 4 cards of their stack and add 1 to the bottom.",
+      "is_new": true
+    },
+    {
+      "id": "rule_calculated_quantity__example_2",
+      "text_markup": "The Runner accesses {card:Urtica Cipher} with 3 hosted advancement counters. The Corp resolves the instruction \"do 2 net damage plus 1 net damage for each hosted advancement counter\", doing a single instance of 5 net damage. They can only apply the interrupt ability from {card:Prāna Condenser} to the damage once.",
+      "text_plain": "The Runner accesses Urtica Cipher with 3 hosted advancement counters. The Corp resolves the instruction \"do 2 net damage plus 1 net damage for each hosted advancement counter\", doing a single instance of 5 net damage. They can only apply the interrupt ability from Prāna Condenser to the damage once.",
+      "is_new": true
+    },
+    {
+      "id": "rule_calculated_quantity__example_3",
+      "text_markup": "The Corp has a rezzed copy of {card:NASX} and plays {card:realloc()}. Its ability has the Corp gain credits based on a \"for each\", but it also has the Corp derez cards based on the same \"for each\". Since derezzing cards is not an aggregated effect, none of the effects are aggregated, and the Corp will be able to resolve 2 separate instances of the second ability on {card:NASX}.",
+      "text_plain": "The Corp has a rezzed copy of NASX and plays realloc(). Its ability has the Corp gain credits based on a \"for each\", but it also has the Corp derez cards based on the same \"for each\". Since derezzing cards is not an aggregated effect, none of the effects are aggregated, and the Corp will be able to resolve 2 separate instances of the second ability on NASX.",
+      "is_new": true
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_calculated_quantity"
+}

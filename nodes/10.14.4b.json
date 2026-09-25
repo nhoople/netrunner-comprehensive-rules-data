@@ -1,0 +1,29 @@
+{
+  "id": "rule_bid_is_cost",
+  "kind": "rule",
+  "number": "10.14.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_bid_reveal_spend",
+  "child_ids": [],
+  "text_markup": "Spending credits for a bid counts as paying a nested cost. See {ref:sec_costs}.",
+  "text_plain": "Spending credits for a bid counts as paying a nested cost. See section 1.16.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 63,
+      "end": 75,
+      "ids": [
+        "sec_costs"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bid_is_cost"
+}

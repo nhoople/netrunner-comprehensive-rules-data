@@ -1,0 +1,35 @@
+{
+  "id": "rule_rnd_name",
+  "kind": "rule",
+  "number": "4.2.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_rnd",
+  "child_ids": [],
+  "text_markup": "{term:R&D} is the name for the Corp's deck. It is also one of the Corp's central servers. See {ref:subsec_central_servers}.",
+  "text_plain": "R&D is the name for the Corp's deck. It is also one of the Corp's central servers. See section 4.6.7.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 3,
+      "target": "R&D"
+    },
+    {
+      "type": "ref",
+      "start": 87,
+      "end": 100,
+      "ids": [
+        "subsec_central_servers"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rnd_name"
+}

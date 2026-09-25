@@ -1,0 +1,19 @@
+{
+  "id": "rule_install_cannot_destroy_server",
+  "kind": "rule",
+  "number": "8.5.9",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [],
+  "text_markup": "The Corp cannot destroy a server by installing cards. While the Corp is installing a card with a remote server as its destination, that server does not cease to exist during any checkpoints that occur before the install effect is complete. Even if the last card installed in the root of or protecting a remote server is trashed during the installation process, it is still considered the same server after the new card has been installed.",
+  "text_plain": "The Corp cannot destroy a server by installing cards. While the Corp is installing a card with a remote server as its destination, that server does not cease to exist during any checkpoints that occur before the install effect is complete. Even if the last card installed in the root of or protecting a remote server is trashed during the installation process, it is still considered the same server after the new card has been installed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_cannot_destroy_server"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_max_hand_size_default",
+  "kind": "rule",
+  "number": "5.5.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_max_hand_size",
+  "child_ids": [],
+  "text_markup": "Players begin the game with a maximum hand size of five cards.",
+  "text_plain": "Players begin the game with a maximum hand size of five cards.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_max_hand_size_default"
+}

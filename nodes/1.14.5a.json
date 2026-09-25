@@ -1,0 +1,35 @@
+{
+  "id": "rule_trigger_condition_effect_by_player",
+  "kind": "rule",
+  "number": "1.14.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_controller_choices",
+  "child_ids": [
+    "rule_trigger_condition_effect_by_player__example_1",
+    "rule_trigger_condition_effect_by_player__example_2"
+  ],
+  "text_markup": "Some trigger conditions care about effects performed by a particular player. These conditions are only met when that player is the one to carry out the relevant effect.",
+  "text_plain": "Some trigger conditions care about effects performed by a particular player. These conditions are only met when that player is the one to carry out the relevant effect.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_trigger_condition_effect_by_player__example_1",
+      "text_markup": "The Corp has a rezzed {card:Hostile Infrastructure}. Apocalypse does not specify who trashes the cards, so the Runner is responsible for the trashing and {card:Hostile Infrastructure} meets its trigger condition.",
+      "text_plain": "The Corp has a rezzed Hostile Infrastructure. Apocalypse does not specify who trashes the cards, so the Runner is responsible for the trashing and Hostile Infrastructure meets its trigger condition.",
+      "is_new": false
+    },
+    {
+      "id": "rule_trigger_condition_effect_by_player__example_2",
+      "text_markup": "{card:Alice Merchant} states that \"the Corp must trash 1 card from HQ\", so the Corp carries out this effect even though {card:Alice Merchant} is a Runner card, and therefore {card:Hostile Infrastructure} does not meet its trigger condition.",
+      "text_plain": "Alice Merchant states that \"the Corp must trash 1 card from HQ\", so the Corp carries out this effect even though Alice Merchant is a Runner card, and therefore Hostile Infrastructure does not meet its trigger condition.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trigger_condition_effect_by_player"
+}

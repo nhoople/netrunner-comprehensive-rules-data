@@ -1,0 +1,22 @@
+{
+  "id": "rule_draw_procedure",
+  "kind": "subsection",
+  "number": "8.4.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_drawing_cards",
+  "child_ids": [
+    "rule_draw_relevant_abilities_see_set_aside",
+    "rule_draw_irrelevant_abilities_dont_see_set_aside"
+  ],
+  "text_markup": "To draw 1 or more cards, a player sets aside that many cards from the top of their deck facedown. The cards are then considered drawn, and abilities with trigger conditions related to cards being drawn can act on them. When resolving any such abilities is complete, the set-aside cards are added to their owner's hand.",
+  "text_plain": "To draw 1 or more cards, a player sets aside that many cards from the top of their deck facedown. The cards are then considered drawn, and abilities with trigger conditions related to cards being drawn can act on them. When resolving any such abilities is complete, the set-aside cards are added to their owner's hand.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_draw_procedure"
+}

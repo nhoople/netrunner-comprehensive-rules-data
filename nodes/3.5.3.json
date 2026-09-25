@@ -1,0 +1,29 @@
+{
+  "id": "rule_operation_trash_cost",
+  "kind": "rule",
+  "number": "3.5.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_operations",
+  "child_ids": [],
+  "text_markup": "Some operations have trash costs. If the Runner accesses an operation with a trash cost, they may pay the trash cost to trash that operation. See {ref:rule_basic_trash_ability}.",
+  "text_plain": "Some operations have trash costs. If the Runner accesses an operation with a trash cost, they may pay the trash cost to trash that operation. See section 7.1.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 146,
+      "end": 159,
+      "ids": [
+        "rule_basic_trash_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_operation_trash_cost"
+}

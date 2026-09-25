@@ -1,0 +1,41 @@
+{
+  "id": "rule_type_virus_counter",
+  "kind": "rule",
+  "number": "1.9.5g",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_counter_types",
+  "child_ids": [],
+  "text_markup": "{term:Virus counters} are a generic counter, used primarily by {subtype:virus} programs, that can be removed by the Corp purging them. See {ref:rule_purge}.",
+  "text_plain": "Virus counters are a generic counter, used primarily by virus programs, that can be removed by the Corp purging them. See rule 10.1.2.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 14,
+      "target": "Virus counters"
+    },
+    {
+      "type": "subtype",
+      "start": 56,
+      "end": 61,
+      "target": "virus"
+    },
+    {
+      "type": "ref",
+      "start": 122,
+      "end": 133,
+      "ids": [
+        "rule_purge"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_type_virus_counter"
+}

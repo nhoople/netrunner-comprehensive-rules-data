@@ -1,0 +1,56 @@
+{
+  "id": "rule_symbol_trash",
+  "kind": "rule",
+  "number": "1.3.8",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_symbols",
+  "child_ids": [],
+  "text_markup": "The symbol [trash] (plaintext: {curly:trash}) stands for \"trash this card\". It is used as a self-referential cost in card text, such as \"[trash]: Draw 2 cards,\" which means \"Trash this card to draw 2 cards.\" See {ref:sec_costs} for rules about costs, and {ref:sec_trashing} for rules about trashing cards.",
+  "text_plain": "The symbol {trash} (plaintext: {trash}) stands for \"trash this card\". It is used as a self-referential cost in card text, such as \"{trash}: Draw 2 cards,\" which means \"Trash this card to draw 2 cards.\" See section 1.16 for rules about costs, and section 1.19 for rules about trashing cards.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 11,
+      "end": 18,
+      "target": "trash"
+    },
+    {
+      "type": "symbol",
+      "start": 31,
+      "end": 38,
+      "target": "trash"
+    },
+    {
+      "type": "symbol",
+      "start": 131,
+      "end": 138,
+      "target": "trash"
+    },
+    {
+      "type": "ref",
+      "start": 206,
+      "end": 218,
+      "ids": [
+        "sec_costs"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 246,
+      "end": 258,
+      "ids": [
+        "sec_trashing"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_symbol_trash"
+}

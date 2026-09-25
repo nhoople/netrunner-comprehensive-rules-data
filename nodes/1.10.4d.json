@@ -1,0 +1,29 @@
+{
+  "id": "rule_hosted_credits_use",
+  "kind": "rule",
+  "number": "1.10.4d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_hosted_credits",
+  "child_ids": [],
+  "text_markup": "Spending credits from a card is considered \"using\" the card that allowed those credits to be spent. See {ref:rule_using}.",
+  "text_plain": "Spending credits from a card is considered \"using\" the card that allowed those credits to be spent. See section 9.1.6.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 104,
+      "end": 117,
+      "ids": [
+        "rule_using"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_credits_use"
+}

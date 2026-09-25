@@ -1,0 +1,35 @@
+{
+  "id": "rule_condition_met_multiple_times",
+  "kind": "rule",
+  "number": "9.6.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trigger_condition_multiple_instances",
+  "child_ids": [
+    "rule_condition_met_multiple_times__example_1",
+    "rule_condition_met_multiple_times__example_2"
+  ],
+  "text_markup": "If the trigger condition of an ability is met more than once between consecutive checkpoints, multiple instances of that ability become pending in the next reaction window.",
+  "text_plain": "If the trigger condition of an ability is met more than once between consecutive checkpoints, multiple instances of that ability become pending in the next reaction window.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_condition_met_multiple_times__example_1",
+      "text_markup": "The Runner plays {card:Singularity}, trashing 3 Corp cards simultaneously. Since {card:Hostile Infrastructure}'s trigger condition is met separately for each card trashed, the next checkpoint handles all of those occurrences, and 3 instances of the ability become pending in the same reaction window.",
+      "text_plain": "The Runner plays Singularity, trashing 3 Corp cards simultaneously. Since Hostile Infrastructure's trigger condition is met separately for each card trashed, the next checkpoint handles all of those occurrences, and 3 instances of the ability become pending in the same reaction window.",
+      "is_new": false
+    },
+    {
+      "id": "rule_condition_met_multiple_times__example_2",
+      "text_markup": "The Runner controls {card:Blackguard} and plays {card:Satellite Uplink}, exposing 2 cards in a single instruction. In the next checkpoint, two instances of {card:Blackguard}'s ability become pending, one corresponding to each card that was exposed.",
+      "text_plain": "The Runner controls Blackguard and plays Satellite Uplink, exposing 2 cards in a single instruction. In the next checkpoint, two instances of Blackguard's ability become pending, one corresponding to each card that was exposed.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_condition_met_multiple_times"
+}

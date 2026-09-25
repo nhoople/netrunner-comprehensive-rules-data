@@ -1,0 +1,52 @@
+{
+  "id": "rule_costs_with_click__example_1",
+  "kind": "example",
+  "number": "5.2.1a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_costs_with_click",
+  "child_ids": [],
+  "text_markup": "The ability \"[click]: Gain 1[c] and draw 1 card.\" on {card:Professional Contacts} is an action. The ability \"Lose [click]: Break 1 subroutine on this ice. Only the Runner can use this ability.\" on {card:Eli 1.0} is not an action and is used during a paid ability window.",
+  "text_plain": "The ability \"{click}: Gain 1{c} and draw 1 card.\" on Professional Contacts is an action. The ability \"Lose {click}: Break 1 subroutine on this ice. Only the Runner can use this ability.\" on Eli 1.0 is not an action and is used during a paid ability window.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 13,
+      "end": 20,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 28,
+      "end": 31,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 53,
+      "end": 74,
+      "target": "Professional Contacts",
+      "card_code": "31036"
+    },
+    {
+      "type": "symbol",
+      "start": 107,
+      "end": 114,
+      "target": "click"
+    },
+    {
+      "type": "card",
+      "start": 190,
+      "end": 197,
+      "target": "Eli 1.0",
+      "card_code": "31043"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

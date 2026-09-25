@@ -1,0 +1,35 @@
+{
+  "id": "rule_region_unique",
+  "kind": "rule",
+  "number": "4.6.6g",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_servers",
+  "child_ids": [],
+  "text_markup": "Only 1 {subtype:region} upgrade can be installed in the root of a server at a time. See {ref:subsec_regions}.",
+  "text_plain": "Only 1 region upgrade can be installed in the root of a server at a time. See section 3.6.5.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 7,
+      "end": 13,
+      "target": "region"
+    },
+    {
+      "type": "ref",
+      "start": 78,
+      "end": 91,
+      "ids": [
+        "subsec_regions"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_region_unique"
+}

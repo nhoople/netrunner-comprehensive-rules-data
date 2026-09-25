@@ -1,0 +1,29 @@
+{
+  "id": "rule_conditional_ability",
+  "kind": "subsection",
+  "number": "9.6.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [
+    "rule_primary_condition",
+    "rule_primary_condition_front"
+  ],
+  "text_markup": "A {term:conditional ability} is an ability that a player can or must trigger at a specific point in the game. Conditional abilities always include a primary condition and one or more instructions, but they have no special syntax requirements.",
+  "text_plain": "A conditional ability is an ability that a player can or must trigger at a specific point in the game. Conditional abilities always include a primary condition and one or more instructions, but they have no special syntax requirements.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 21,
+      "target": "conditional ability"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_conditional_ability"
+}

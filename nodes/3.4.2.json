@@ -1,0 +1,32 @@
+{
+  "id": "rule_ice_install",
+  "kind": "subsection",
+  "number": "3.4.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_ice",
+  "child_ids": [
+    "rule_ice_layout",
+    "rule_ice_instal_outermost"
+  ],
+  "text_markup": "Ice are the only type of card installed protecting servers. Ice are not installed in the roots of servers. See {ref:subsec_protecting_a_server}.",
+  "text_plain": "Ice are the only type of card installed protecting servers. Ice are not installed in the roots of servers. See section 4.6.9.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 111,
+      "end": 124,
+      "ids": [
+        "subsec_protecting_a_server"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_install"
+}

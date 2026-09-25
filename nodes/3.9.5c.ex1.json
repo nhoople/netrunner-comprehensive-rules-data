@@ -1,0 +1,33 @@
+{
+  "id": "rule_icebreaker_strength_increase_specified__example_1",
+  "kind": "example",
+  "number": "3.9.5c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_icebreaker_strength_increase_specified",
+  "child_ids": [],
+  "text_markup": "{card:Gordian Blade} has the ability \"1[c]: +1 strength for the remainder of this run.\" This ability applies until the end of the current run, whether it is triggered during an encounter or another step of the run. If the ability is triggered during an encounter that takes place outside of a run, the strength increase applies for the duration of that encounter.",
+  "text_plain": "Gordian Blade has the ability \"1{c}: +1 strength for the remainder of this run.\" This ability applies until the end of the current run, whether it is triggered during an encounter or another step of the run. If the ability is triggered during an encounter that takes place outside of a run, the strength increase applies for the duration of that encounter.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 13,
+      "target": "Gordian Blade",
+      "card_code": "31033"
+    },
+    {
+      "type": "symbol",
+      "start": 32,
+      "end": 35,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

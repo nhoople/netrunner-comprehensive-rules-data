@@ -1,0 +1,19 @@
+{
+  "id": "rule_deck_location",
+  "kind": "rule",
+  "number": "4.1.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_location",
+  "child_ids": [],
+  "text_markup": "A card in a player's deck has a location identified by how many cards it is from the top of that deck.",
+  "text_plain": "A card in a player's deck has a location identified by how many cards it is from the top of that deck.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_deck_location"
+}

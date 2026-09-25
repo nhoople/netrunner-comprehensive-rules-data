@@ -1,0 +1,21 @@
+{
+  "id": "rule_influence_limit",
+  "kind": "subsection",
+  "number": "1.4.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_deck_construction",
+  "child_ids": [
+    "rule_influence_by_copy"
+  ],
+  "text_markup": "Neutral cards and cards that belong to a faction other than the corresponding identity's faction are all considered out-of-faction. The total influence cost of out-of-faction cards in the deck must not exceed the influence limit of that identity.",
+  "text_plain": "Neutral cards and cards that belong to a faction other than the corresponding identity's faction are all considered out-of-faction. The total influence cost of out-of-faction cards in the deck must not exceed the influence limit of that identity.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_influence_limit"
+}

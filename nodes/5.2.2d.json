@@ -1,0 +1,38 @@
+{
+  "id": "rule_finish_action_trigger_condition",
+  "kind": "rule",
+  "number": "5.2.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_initiate_action",
+  "child_ids": [],
+  "text_markup": "Some conditional abilities meet their trigger conditions due to an action \"ending\", \"finishing\", or \"completing\". These abilities resolve in the reaction window following {ref:step_corp_turn_action} or {ref:step_runner_turn_action}, for actions taken by the Corp and Runner, respectively.",
+  "text_plain": "Some conditional abilities meet their trigger conditions due to an action \"ending\", \"finishing\", or \"completing\". These abilities resolve in the reaction window following step 5.6.2b or step 5.7.1f, for actions taken by the Corp and Runner, respectively.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 171,
+      "end": 182,
+      "ids": [
+        "step_corp_turn_action"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 186,
+      "end": 197,
+      "ids": [
+        "step_runner_turn_action"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_finish_action_trigger_condition"
+}

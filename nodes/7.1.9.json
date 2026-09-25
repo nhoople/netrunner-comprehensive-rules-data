@@ -1,0 +1,45 @@
+{
+  "id": "rule_access_set_of_cards",
+  "kind": "rule",
+  "number": "7.1.9",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_accessing_cards",
+  "child_ids": [],
+  "text_markup": "One card, {card:Information Sifting}, uses a method other than a breach to establish a set of cards for the Runner to access. The Runner accesses those cards one at a time in the order of their choice. Each access is performed as a separate instruction. See {ref:rule_split_up_instruction}. Accessing cards in this way is an exception to {ref:rule_act_on_multiple_cards}.",
+  "text_plain": "One card, Information Sifting, uses a method other than a breach to establish a set of cards for the Runner to access. The Runner accesses those cards one at a time in the order of their choice. Each access is performed as a separate instruction. See rule 9.11.4b. Accessing cards in this way is an exception to rule 9.12.2a.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 29,
+      "target": "Information Sifting",
+      "card_code": "10079"
+    },
+    {
+      "type": "ref",
+      "start": 251,
+      "end": 263,
+      "ids": [
+        "rule_split_up_instruction"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 312,
+      "end": 324,
+      "ids": [
+        "rule_act_on_multiple_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_access_set_of_cards"
+}

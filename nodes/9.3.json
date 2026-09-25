@@ -1,0 +1,27 @@
+{
+  "id": "sec_interpreting_card_text",
+  "kind": "section",
+  "number": "9.3",
+  "ref_type": "section",
+  "title": "Interpreting Card Text",
+  "parent_id": "chpt_abilities",
+  "child_ids": [
+    "rule_text_classification",
+    "rule_condition",
+    "rule_restriction",
+    "rule_instruction",
+    "rule_declaration",
+    "rule_ability_flag",
+    "rule_ability_classification"
+  ],
+  "text_markup": "Interpreting Card Text",
+  "text_plain": "Interpreting Card Text",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_interpreting_card_text"
+}

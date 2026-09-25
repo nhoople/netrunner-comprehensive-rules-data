@@ -1,0 +1,38 @@
+{
+  "id": "rule_play_no_trash_left_play_area",
+  "kind": "rule",
+  "number": "8.6.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_no_trash",
+  "child_ids": [
+    "rule_play_no_trash_left_play_area__example_1"
+  ],
+  "text_markup": "If the played card is no longer in the play area when {ref:rule_steps_playing_trash_played_card} is reached, it is not trashed.",
+  "text_plain": "If the played card is no longer in the play area when step 8.6.7g is reached, it is not trashed.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 54,
+      "end": 65,
+      "ids": [
+        "rule_steps_playing_trash_played_card"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_play_no_trash_left_play_area__example_1",
+      "text_markup": "The Runner plays {card:Ashen Epilogue} and resolves its play abilities. Its last ability removes it from the game.",
+      "text_plain": "The Runner plays Ashen Epilogue and resolves its play abilities. Its last ability removes it from the game.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_no_trash_left_play_area"
+}

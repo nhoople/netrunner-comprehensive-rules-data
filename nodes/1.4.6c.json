@@ -1,0 +1,19 @@
+{
+  "id": "rule_50_54",
+  "kind": "rule",
+  "number": "1.4.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_agenda_points",
+  "child_ids": [],
+  "text_markup": "A deck with 50 to 54 cards must contain 22 or 23 agenda points.",
+  "text_plain": "A deck with 50 to 54 cards must contain 22 or 23 agenda points.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_50_54"
+}

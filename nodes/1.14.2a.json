@@ -1,0 +1,19 @@
+{
+  "id": "rule_controller_card_play_area",
+  "kind": "rule",
+  "number": "1.14.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_controller_object",
+  "child_ids": [],
+  "text_markup": "The controller of a card in the play area is the player who installed or placed it there.",
+  "text_plain": "The controller of a card in the play area is the player who installed or placed it there.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_controller_card_play_area"
+}

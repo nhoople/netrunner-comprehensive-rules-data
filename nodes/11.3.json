@@ -1,0 +1,32 @@
+{
+  "id": "sec_appendix_timing_structure_runners_turn",
+  "kind": "section",
+  "number": "11.3",
+  "ref_type": "section",
+  "title": "Timing Structure of The Runner's Turn",
+  "parent_id": "chpt_appendix_timing_structures",
+  "child_ids": [
+    "sec_appendix_timing_structure_runners_turn_1",
+    "sec_appendix_timing_structure_runners_turn_2"
+  ],
+  "text_markup": "Timing Structure of The Runner's Turn ({ref:Sec_steps_runner_turn})",
+  "text_plain": "Timing Structure of The Runner's Turn (Section 5.7)",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 39,
+      "end": 50,
+      "ids": [
+        "sec_steps_runner_turn"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_runners_turn"
+}

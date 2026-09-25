@@ -1,0 +1,22 @@
+{
+  "id": "sec_ending_the_game",
+  "kind": "section",
+  "number": "1.7",
+  "ref_type": "section",
+  "title": "Ending the Game",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_game_end",
+    "rule_win_conditions"
+  ],
+  "text_markup": "Ending the Game",
+  "text_plain": "Ending the Game",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_ending_the_game"
+}

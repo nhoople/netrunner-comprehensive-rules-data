@@ -1,0 +1,35 @@
+{
+  "id": "rule_type_click_counter",
+  "kind": "rule",
+  "number": "1.9.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_counter_types",
+  "child_ids": [],
+  "text_markup": "{term:Click counters} are a gameplay aid used to track the clicks the active player has spent or has left to spend during their turn. Rules for clicks are in {ref:sec_clicks}.",
+  "text_plain": "Click counters are a gameplay aid used to track the clicks the active player has spent or has left to spend during their turn. Rules for clicks are in section 1.11.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 14,
+      "target": "Click counters"
+    },
+    {
+      "type": "ref",
+      "start": 151,
+      "end": 163,
+      "ids": [
+        "sec_clicks"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_type_click_counter"
+}

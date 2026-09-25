@@ -1,0 +1,38 @@
+{
+  "id": "rule_icebreaker_interface_during_encounter",
+  "kind": "rule",
+  "number": "3.9.5f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_icebreakers",
+  "child_ids": [],
+  "text_markup": "The Runner can only use an interface ability during {ref:step_encounter_paw} of an encounter, and can only choose the encountered piece of ice and its subroutines as targets for the ability's effects. See {ref:sec_targets} for more information about targeting.",
+  "text_plain": "The Runner can only use an interface ability during step 6.9.3b of an encounter, and can only choose the encountered piece of ice and its subroutines as targets for the ability's effects. See section 1.15 for more information about targeting.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 52,
+      "end": 63,
+      "ids": [
+        "step_encounter_paw"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 192,
+      "end": 204,
+      "ids": [
+        "sec_targets"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_icebreaker_interface_during_encounter"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_play_checkpoint",
+  "kind": "rule",
+  "number": "9.11.1d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction_pause",
+  "child_ids": [],
+  "text_markup": "When an event or operation is played, a checkpoint occurs at {ref:rule_steps_playing_played_checkpoint} of that procedure.",
+  "text_plain": "When an event or operation is played, a checkpoint occurs at step 8.6.7e of that procedure.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 61,
+      "end": 72,
+      "ids": [
+        "rule_steps_playing_played_checkpoint"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_checkpoint"
+}

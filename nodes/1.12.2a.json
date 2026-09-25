@@ -1,0 +1,28 @@
+{
+  "id": "rule_identify_object_after_move",
+  "kind": "rule",
+  "number": "1.12.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_no_memory",
+  "child_ids": [
+    "rule_identify_object_after_move__example_1"
+  ],
+  "text_markup": "An ability that moves cards can identify the new objects that those cards become and continue to act on them.",
+  "text_plain": "An ability that moves cards can identify the new objects that those cards become and continue to act on them.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_identify_object_after_move__example_1",
+      "text_markup": "The Corp plays {card:Priority Construction}, installing a piece of ice from HQ. That ice is now a new object in the play area, but {card:Priority Construction}'s second instruction can still find it and place advancement counters on it.",
+      "text_plain": "The Corp plays Priority Construction, installing a piece of ice from HQ. That ice is now a new object in the play area, but Priority Construction's second instruction can still find it and place advancement counters on it.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identify_object_after_move"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_program_memory_not_a_cost",
+  "kind": "rule",
+  "number": "3.9.3d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_program_memory_cost",
+  "child_ids": [],
+  "text_markup": "A program's memory cost is not a cost. It cannot be increased, lowered, ignored, or otherwise modified by abilities that affect costs to install programs.",
+  "text_plain": "A program's memory cost is not a cost. It cannot be increased, lowered, ignored, or otherwise modified by abilities that affect costs to install programs.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_program_memory_not_a_cost"
+}

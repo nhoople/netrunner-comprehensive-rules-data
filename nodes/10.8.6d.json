@@ -1,0 +1,19 @@
+{
+  "id": "step_trace_runner_spend_credits",
+  "kind": "rule",
+  "number": "10.8.6d",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_steps_of_resolving_trace_attempt",
+  "child_ids": [],
+  "text_markup": "The Runner may spend credits to increase their link strength.",
+  "text_plain": "The Runner may spend credits to increase their link strength.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_trace_runner_spend_credits"
+}

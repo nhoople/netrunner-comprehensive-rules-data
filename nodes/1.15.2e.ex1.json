@@ -1,0 +1,34 @@
+{
+  "id": "rule_distinct_targets__example_1",
+  "kind": "example",
+  "number": "1.15.2e.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_distinct_targets",
+  "child_ids": [],
+  "text_markup": "The Runner accesses an {card:Aggressive Secretary} with three advancement counters on it. The Runner only has two installed programs, so the Corp chooses both of those programs for {card:Aggressive Secretary}. After the programs have been chosen, they are both trashed simultaneously.",
+  "text_plain": "The Runner accesses an Aggressive Secretary with three advancement counters on it. The Runner only has two installed programs, so the Corp chooses both of those programs for Aggressive Secretary. After the programs have been chosen, they are both trashed simultaneously.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 23,
+      "end": 43,
+      "target": "Aggressive Secretary",
+      "card_code": "20065"
+    },
+    {
+      "type": "card",
+      "start": 174,
+      "end": 194,
+      "target": "Aggressive Secretary",
+      "card_code": "20065"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

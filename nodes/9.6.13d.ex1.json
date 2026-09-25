@@ -1,0 +1,41 @@
+{
+  "id": "rule_delayed_run_ends_condition_outside_run__example_1",
+  "kind": "example",
+  "number": "9.6.13d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_delayed_run_ends_condition_outside_run",
+  "child_ids": [],
+  "text_markup": "The Runner encounters a piece of ice outside of a run, and uses {card:Mayfly} to break its subroutines. Since there is no run in progress, the delayed conditional ability inside {card:Mayfly}'s interface ability cannot be created, and {card:Mayfly} will not be trashed.",
+  "text_plain": "The Runner encounters a piece of ice outside of a run, and uses Mayfly to break its subroutines. Since there is no run in progress, the delayed conditional ability inside Mayfly's interface ability cannot be created, and Mayfly will not be trashed.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 64,
+      "end": 70,
+      "target": "Mayfly",
+      "card_code": "30032"
+    },
+    {
+      "type": "card",
+      "start": 171,
+      "end": 177,
+      "target": "Mayfly",
+      "card_code": "30032"
+    },
+    {
+      "type": "card",
+      "start": 221,
+      "end": 227,
+      "target": "Mayfly",
+      "card_code": "30032"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

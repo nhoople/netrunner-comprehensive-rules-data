@@ -1,0 +1,19 @@
+{
+  "id": "rule_fully_broken_not_retracted",
+  "kind": "rule",
+  "number": "6.5.7d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_fully_break",
+  "child_ids": [],
+  "text_markup": "If the encountered piece of ice gains subroutines after the Runner fully breaks it, the Runner's status of having fully broken the ice remains in place. Conditions that check whether the Runner fully broke the ice will still be met as normal. Breaking the new subroutines will not fully break the ice or meet related conditions again.",
+  "text_plain": "If the encountered piece of ice gains subroutines after the Runner fully breaks it, the Runner's status of having fully broken the ice remains in place. Conditions that check whether the Runner fully broke the ice will still be met as normal. Breaking the new subroutines will not fully break the ice or meet related conditions again.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_fully_broken_not_retracted"
+}

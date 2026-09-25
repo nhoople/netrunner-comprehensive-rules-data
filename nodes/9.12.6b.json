@@ -1,0 +1,19 @@
+{
+  "id": "rule_choose_next_mode",
+  "kind": "rule",
+  "number": "9.12.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_modal_abilities",
+  "child_ids": [],
+  "text_markup": "Each modal ability contains an instruction directing its controller to resolve 1 or more of its modes. The effect of this instruction is for the relevant player to choose the next mode to resolve. The first instruction of the chosen mode will be the next instruction to become imminent. The player does not need to choose modes in the order they are written. If the description of the number of modes to resolve contains \"up to\", the player may also choose not to resolve any more modes.",
+  "text_plain": "Each modal ability contains an instruction directing its controller to resolve 1 or more of its modes. The effect of this instruction is for the relevant player to choose the next mode to resolve. The first instruction of the chosen mode will be the next instruction to become imminent. The player does not need to choose modes in the order they are written. If the description of the number of modes to resolve contains \"up to\", the player may also choose not to resolve any more modes.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_choose_next_mode"
+}

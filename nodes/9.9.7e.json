@@ -1,0 +1,28 @@
+{
+  "id": "rule_modified_values_retain_properties",
+  "kind": "rule",
+  "number": "9.9.7e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_calculating_expected_effect_values",
+  "child_ids": [
+    "rule_modified_values_retain_properties__example_1"
+  ],
+  "text_markup": "Any effects making use of modified values maintain their restrictions and specifications with the new values.",
+  "text_plain": "Any effects making use of modified values maintain their restrictions and specifications with the new values.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_modified_values_retain_properties__example_1",
+      "text_markup": "While the result of a successful trace from {card:Flare} is imminent, the Corp triggers {card:The Cleaners} to increase the imminent meat damage by 1. Even though the damage from {card:Flare} has been increased from 2 to 3, none of that meat damage can be prevented.",
+      "text_plain": "While the result of a successful trace from Flare is imminent, the Corp triggers The Cleaners to increase the imminent meat damage by 1. Even though the damage from Flare has been increased from 2 to 3, none of that meat damage can be prevented.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modified_values_retain_properties"
+}

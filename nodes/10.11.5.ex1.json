@@ -1,0 +1,76 @@
+{
+  "id": "rule_mark_designated_condition_check__example_1",
+  "kind": "example",
+  "number": "10.11.5.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_mark_designated_condition_check",
+  "child_ids": [],
+  "text_markup": "The Runner has no mark and plays {card:Jailbreak} to make a run on HQ. When the run is successful, they draw {card:Virtuoso} with {card:Jailbreak}'s ability. The Runner continues their turn by installing {card:Virtuoso} and playing {card:Carpe Diem}. If {card:Carpe Diem}'s instruction to \"identify your mark\" results in HQ becoming the mark, the subsequent run it allows will meet the trigger condition for {card:Virtuoso}'s third ability if it is successful. Even though there was a successful run on HQ earlier in the turn, HQ was not designated as the mark at that time, so the run made with {card:Carpe Diem} is the first time the Runner makes a successful run on their mark this turn. The Runner will access 1 additional card when they breach HQ.",
+  "text_plain": "The Runner has no mark and plays Jailbreak to make a run on HQ. When the run is successful, they draw Virtuoso with Jailbreak's ability. The Runner continues their turn by installing Virtuoso and playing Carpe Diem. If Carpe Diem's instruction to \"identify your mark\" results in HQ becoming the mark, the subsequent run it allows will meet the trigger condition for Virtuoso's third ability if it is successful. Even though there was a successful run on HQ earlier in the turn, HQ was not designated as the mark at that time, so the run made with Carpe Diem is the first time the Runner makes a successful run on their mark this turn. The Runner will access 1 additional card when they breach HQ.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 33,
+      "end": 42,
+      "target": "Jailbreak",
+      "card_code": "30028"
+    },
+    {
+      "type": "card",
+      "start": 102,
+      "end": 110,
+      "target": "Virtuoso",
+      "card_code": "33015"
+    },
+    {
+      "type": "card",
+      "start": 116,
+      "end": 125,
+      "target": "Jailbreak",
+      "card_code": "30028"
+    },
+    {
+      "type": "card",
+      "start": 183,
+      "end": 191,
+      "target": "Virtuoso",
+      "card_code": "33015"
+    },
+    {
+      "type": "card",
+      "start": 204,
+      "end": 214,
+      "target": "Carpe Diem",
+      "card_code": "33012"
+    },
+    {
+      "type": "card",
+      "start": 219,
+      "end": 229,
+      "target": "Carpe Diem",
+      "card_code": "33012"
+    },
+    {
+      "type": "card",
+      "start": 366,
+      "end": 374,
+      "target": "Virtuoso",
+      "card_code": "33015"
+    },
+    {
+      "type": "card",
+      "start": 547,
+      "end": 557,
+      "target": "Carpe Diem",
+      "card_code": "33012"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

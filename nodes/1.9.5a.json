@@ -1,0 +1,35 @@
+{
+  "id": "rule_type_credit_counter",
+  "kind": "rule",
+  "number": "1.9.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_counter_types",
+  "child_ids": [],
+  "text_markup": "{term:Credit counters} are used to track the number of credits each player has in their credit pool; they can also be placed on cards. Rules for credits, the credit pool, and other related concepts are in {ref:sec_credits}.",
+  "text_plain": "Credit counters are used to track the number of credits each player has in their credit pool; they can also be placed on cards. Rules for credits, the credit pool, and other related concepts are in section 1.10.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 15,
+      "target": "Credit counters"
+    },
+    {
+      "type": "ref",
+      "start": 198,
+      "end": 210,
+      "ids": [
+        "sec_credits"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_type_credit_counter"
+}

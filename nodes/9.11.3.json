@@ -1,0 +1,19 @@
+{
+  "id": "rule_instructions_in_ability_text",
+  "kind": "rule",
+  "number": "9.11.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_identifying_instructions",
+  "child_ids": [],
+  "text_markup": "Usually, each sentence in the text of an ability forms a single instruction. After each instruction, an ability pauses its resolution to allow priority windows to open and other abilities to resolve. First, a checkpoint occurs, allowing any appropriate conditional abilities to be marked as pending in a reaction window, then targets are announced for the next instruction. Finally, the next instruction becomes imminent, allowing interrupts relevant to that instruction to resolve in an interrupt window.",
+  "text_plain": "Usually, each sentence in the text of an ability forms a single instruction. After each instruction, an ability pauses its resolution to allow priority windows to open and other abilities to resolve. First, a checkpoint occurs, allowing any appropriate conditional abilities to be marked as pending in a reaction window, then targets are announced for the next instruction. Finally, the next instruction becomes imminent, allowing interrupts relevant to that instruction to resolve in an interrupt window.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_instructions_in_ability_text"
+}

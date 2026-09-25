@@ -1,0 +1,28 @@
+{
+  "id": "rule_gain_subroutines_in_any_order",
+  "kind": "rule",
+  "number": "9.8.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subroutines_ordered",
+  "child_ids": [
+    "rule_gain_subroutines_in_any_order__example_1"
+  ],
+  "text_markup": "Some Corp abilities grant 1 or more subroutines \"in the order of your choice\". When such an ability resolves, the Corp declares the order of each subroutine added by the ability relative to each other subroutine the ice has at that time, regardless of categories.",
+  "text_plain": "Some Corp abilities grant 1 or more subroutines \"in the order of your choice\". When such an ability resolves, the Corp declares the order of each subroutine added by the ability relative to each other subroutine the ice has at that time, regardless of categories.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_gain_subroutines_in_any_order__example_1",
+      "text_markup": "The Runner encounters a copy of {card:Lancelot} hosting a condition counter from {card:Sub Boost}. The Corp reveals a copy of {card:Merlin} in HQ to add a \"[sub] Do 2 net damage.\" subroutine to {card:Lancelot}. The Corp declares whether the subroutine from {card:Merlin} will be added before {card:Lancelot}'s printed \"[sub] Trash 1 installed program.\" subroutine, between the printed subroutine and the \"[sub] End the run.\" subroutine granted by the condition counter, or after the \"[sub] End the run.\" subroutine.",
+      "text_plain": "The Runner encounters a copy of Lancelot hosting a condition counter from Sub Boost. The Corp reveals a copy of Merlin in HQ to add a \"{sub} Do 2 net damage.\" subroutine to Lancelot. The Corp declares whether the subroutine from Merlin will be added before Lancelot's printed \"{sub} Trash 1 installed program.\" subroutine, between the printed subroutine and the \"{sub} End the run.\" subroutine granted by the condition counter, or after the \"{sub} End the run.\" subroutine.",
+      "is_new": true
+    }
+  ],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_gain_subroutines_in_any_order"
+}

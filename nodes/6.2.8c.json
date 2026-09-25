@@ -1,0 +1,29 @@
+{
+  "id": "rule_ineffective_move",
+  "kind": "rule",
+  "number": "6.2.8c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_move_runner_to_position",
+  "child_ids": [],
+  "text_markup": "If an ability instructs the Runner to move to a position during the Success Phase, during the Run Ends Phase, or while there is no run in progress, instead the Runner does nothing. See {ref:rule_no_position_after_approach_server}.",
+  "text_plain": "If an ability instructs the Runner to move to a position during the Success Phase, during the Run Ends Phase, or while there is no run in progress, instead the Runner does nothing. See rule 6.2.5d.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 185,
+      "end": 196,
+      "ids": [
+        "rule_no_position_after_approach_server"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ineffective_move"
+}

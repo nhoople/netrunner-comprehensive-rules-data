@@ -1,0 +1,35 @@
+{
+  "id": "step_checkpoint_duration_abilities",
+  "kind": "rule",
+  "number": "10.3.1b",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_checkpoints",
+  "child_ids": [
+    "step_checkpoint_duration_abilities__example_1",
+    "step_checkpoint_duration_abilities__example_2"
+  ],
+  "text_markup": "Any ability with a duration that has passed is removed from the game state.",
+  "text_plain": "Any ability with a duration that has passed is removed from the game state.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "step_checkpoint_duration_abilities__example_1",
+      "text_markup": "During the checkpoint that follows the end of an encounter, abilities that increased the strength of an {subtype:icebreaker} during that encounter expire and the {subtype:icebreaker}'s strength is correspondingly lowered.",
+      "text_plain": "During the checkpoint that follows the end of an encounter, abilities that increased the strength of an icebreaker during that encounter expire and the icebreaker's strength is correspondingly lowered.",
+      "is_new": false
+    },
+    {
+      "id": "step_checkpoint_duration_abilities__example_2",
+      "text_markup": "The Corp has {card:Targeted Marketing} in the play area when the Runner steals an agenda. In the next checkpoint, the game recognizes that the ability on {card:Targeted Marketing} that was preventing the operation from being trashed no longer applies, and so the Corp trashes {card:Targeted Marketing} as if it were completing its resolution.",
+      "text_plain": "The Corp has Targeted Marketing in the play area when the Runner steals an agenda. In the next checkpoint, the game recognizes that the ability on Targeted Marketing that was preventing the operation from being trashed no longer applies, and so the Corp trashes Targeted Marketing as if it were completing its resolution.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_checkpoint_duration_abilities"
+}

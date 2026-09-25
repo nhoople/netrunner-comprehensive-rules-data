@@ -1,0 +1,41 @@
+{
+  "id": "rule_calculated_quantity__example_3",
+  "kind": "example",
+  "number": "9.12.2b.ex3",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_calculated_quantity",
+  "child_ids": [],
+  "text_markup": "The Corp has a rezzed copy of {card:NASX} and plays {card:realloc()}. Its ability has the Corp gain credits based on a \"for each\", but it also has the Corp derez cards based on the same \"for each\". Since derezzing cards is not an aggregated effect, none of the effects are aggregated, and the Corp will be able to resolve 2 separate instances of the second ability on {card:NASX}.",
+  "text_plain": "The Corp has a rezzed copy of NASX and plays realloc(). Its ability has the Corp gain credits based on a \"for each\", but it also has the Corp derez cards based on the same \"for each\". Since derezzing cards is not an aggregated effect, none of the effects are aggregated, and the Corp will be able to resolve 2 separate instances of the second ability on NASX.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 30,
+      "end": 34,
+      "target": "NASX",
+      "card_code": "11118"
+    },
+    {
+      "type": "card",
+      "start": 45,
+      "end": 54,
+      "target": "realloc()",
+      "card_code": "36033"
+    },
+    {
+      "type": "card",
+      "start": 354,
+      "end": 358,
+      "target": "NASX",
+      "card_code": "11118"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

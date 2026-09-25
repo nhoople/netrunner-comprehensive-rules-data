@@ -1,0 +1,68 @@
+{
+  "id": "rule_replace_subroutine_resolution__example_1",
+  "kind": "example",
+  "number": "9.8.9.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_replace_subroutine_resolution",
+  "child_ids": [],
+  "text_markup": "The Runner encounters {card:Bloop} while {card:Tsakhia \"Bankhar\" Gantulga}'s replacement effect applies. All 3 of {card:Bloop}'s subroutines would resolve, but are replaced by \"[sub] Do 1 net damage.\" by the replacement effect. These subroutines count as resolving from {card:Bloop}, so when the Runner passes {card:Bloop} after the encounter, the Runner can use {card:Persephone} to trash the top card of their stack and the top 3 cards of R&D.",
+  "text_plain": "The Runner encounters Bloop while Tsakhia \"Bankhar\" Gantulga's replacement effect applies. All 3 of Bloop's subroutines would resolve, but are replaced by \"{sub} Do 1 net damage.\" by the replacement effect. These subroutines count as resolving from Bloop, so when the Runner passes Bloop after the encounter, the Runner can use Persephone to trash the top card of their stack and the top 3 cards of R&D.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 22,
+      "end": 27,
+      "target": "Bloop",
+      "card_code": "33098"
+    },
+    {
+      "type": "card",
+      "start": 34,
+      "end": 60,
+      "target": "Tsakhia \"Bankhar\" Gantulga",
+      "card_code": "33074"
+    },
+    {
+      "type": "card",
+      "start": 100,
+      "end": 105,
+      "target": "Bloop",
+      "card_code": "33098"
+    },
+    {
+      "type": "symbol",
+      "start": 156,
+      "end": 161,
+      "target": "sub"
+    },
+    {
+      "type": "card",
+      "start": 249,
+      "end": 254,
+      "target": "Bloop",
+      "card_code": "33098"
+    },
+    {
+      "type": "card",
+      "start": 282,
+      "end": 287,
+      "target": "Bloop",
+      "card_code": "33098"
+    },
+    {
+      "type": "card",
+      "start": 328,
+      "end": 338,
+      "target": "Persephone",
+      "card_code": "12042"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "rule_replacement_effect_must_have_something_to_replace__example_1",
+  "kind": "example",
+  "number": "9.9.11a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_replacement_effect_must_have_something_to_replace",
+  "child_ids": [],
+  "text_markup": "The Runner chooses HQ with {card:Security Testing} when their turn begins, then plays {card:Account Siphon}. When the run becomes successful, both {card:Security Testing} and {card:Account Siphon} create replacement effects. When {ref:step_breach} of the run becomes imminent, the Runner must choose to apply either the replacement effect from {card:Security Testing} or the one from {card:Account Siphon}. Since neither effect creates a new instance of breaching the server, the effect not chosen to apply first has nothing to replace and does not apply.",
+  "text_plain": "The Runner chooses HQ with Security Testing when their turn begins, then plays Account Siphon. When the run becomes successful, both Security Testing and Account Siphon create replacement effects. When step 6.9.5b of the run becomes imminent, the Runner must choose to apply either the replacement effect from Security Testing or the one from Account Siphon. Since neither effect creates a new instance of breaching the server, the effect not chosen to apply first has nothing to replace and does not apply.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 27,
+      "end": 43,
+      "target": "Security Testing",
+      "card_code": "31024"
+    },
+    {
+      "type": "card",
+      "start": 79,
+      "end": 93,
+      "target": "Account Siphon",
+      "card_code": "01018"
+    },
+    {
+      "type": "card",
+      "start": 133,
+      "end": 149,
+      "target": "Security Testing",
+      "card_code": "31024"
+    },
+    {
+      "type": "card",
+      "start": 154,
+      "end": 168,
+      "target": "Account Siphon",
+      "card_code": "01018"
+    },
+    {
+      "type": "ref",
+      "start": 202,
+      "end": 213,
+      "ids": [
+        "step_breach"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "card",
+      "start": 310,
+      "end": 326,
+      "target": "Security Testing",
+      "card_code": "31024"
+    },
+    {
+      "type": "card",
+      "start": 343,
+      "end": 357,
+      "target": "Account Siphon",
+      "card_code": "01018"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

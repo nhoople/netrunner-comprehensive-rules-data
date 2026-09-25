@@ -1,0 +1,19 @@
+{
+  "id": "rule_targeting_only_once",
+  "kind": "rule",
+  "number": "1.15.2f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_announce_targets",
+  "child_ids": [],
+  "text_markup": "Targets cannot be chosen for an instruction at any other time. Even if the game state changes due to interrupt abilities while the instruction is imminent, unannounced targets remain unchosen.",
+  "text_plain": "Targets cannot be chosen for an instruction at any other time. Even if the game state changes due to interrupt abilities while the instruction is imminent, unannounced targets remain unchosen.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_targeting_only_once"
+}

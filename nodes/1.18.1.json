@@ -1,0 +1,26 @@
+{
+  "id": "rule_advance",
+  "kind": "rule",
+  "number": "1.18.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_advancing_cards",
+  "child_ids": [],
+  "text_markup": "To {term:advance} a card is to place an advancement counter from the bank on it. The Corp typically advances cards with a basic action during their action phase, but card abilities can also advance cards.",
+  "text_plain": "To advance a card is to place an advancement counter from the bank on it. The Corp typically advances cards with a basic action during their action phase, but card abilities can also advance cards.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 10,
+      "target": "advance"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_advance"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sec_play_abilities",
+  "kind": "section",
+  "number": "9.7",
+  "ref_type": "section",
+  "title": "Play Abilities",
+  "parent_id": "chpt_abilities",
+  "child_ids": [
+    "rule_play_ability",
+    "sec_steps_of_resolving_a_play_ability"
+  ],
+  "text_markup": "Play Abilities",
+  "text_plain": "Play Abilities",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_play_abilities"
+}

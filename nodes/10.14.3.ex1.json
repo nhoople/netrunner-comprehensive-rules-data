@@ -1,0 +1,66 @@
+{
+  "id": "rule_bid_possible__example_1",
+  "kind": "example",
+  "number": "10.14.3.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_bid_possible",
+  "child_ids": [],
+  "text_markup": "The Runner has no credits in their credit pool and 1 credit hosted on {card:Fencer Fueno} when they make a successful run on a server with {card:Adrian Seis} rezzed in its root. When the ability on {card:Adrian Seis} resolves, the players play a Psi Game, which requires them both to bid 0, 1, or 2[c]. In this case, the Runner cannot bid 2[c], as they are not able to spend that number of credits. They can, however, bid 1[c], as they will be able to spend the credit from {card:Fencer Fueno} to pay for that bid.",
+  "text_plain": "The Runner has no credits in their credit pool and 1 credit hosted on Fencer Fueno when they make a successful run on a server with Adrian Seis rezzed in its root. When the ability on Adrian Seis resolves, the players play a Psi Game, which requires them both to bid 0, 1, or 2{c}. In this case, the Runner cannot bid 2{c}, as they are not able to spend that number of credits. They can, however, bid 1{c}, as they will be able to spend the credit from Fencer Fueno to pay for that bid.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 70,
+      "end": 82,
+      "target": "Fencer Fueno",
+      "card_code": "26007"
+    },
+    {
+      "type": "card",
+      "start": 132,
+      "end": 143,
+      "target": "Adrian Seis",
+      "card_code": "34046"
+    },
+    {
+      "type": "card",
+      "start": 184,
+      "end": 195,
+      "target": "Adrian Seis",
+      "card_code": "34046"
+    },
+    {
+      "type": "symbol",
+      "start": 277,
+      "end": 280,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 319,
+      "end": 322,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 402,
+      "end": 405,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 453,
+      "end": 465,
+      "target": "Fencer Fueno",
+      "card_code": "26007"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

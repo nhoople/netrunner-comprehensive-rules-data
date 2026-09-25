@@ -1,0 +1,41 @@
+{
+  "id": "rule_trash_hosted_objects_when_host_trashed__example_3",
+  "kind": "example",
+  "number": "1.13.13.ex3",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_trash_hosted_objects_when_host_trashed",
+  "child_ids": [],
+  "text_markup": "The Runner has {card:Next Big Thing} in their score area with a hosted agenda counter. The Corp plays {card:Exchange of Information} to swap that agenda to their own score area. The agenda counter remains hosted on {card:Next Big Thing}.",
+  "text_plain": "The Runner has Next Big Thing in their score area with a hosted agenda counter. The Corp plays Exchange of Information to swap that agenda to their own score area. The agenda counter remains hosted on Next Big Thing.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 29,
+      "target": "Next Big Thing",
+      "card_code": "35060"
+    },
+    {
+      "type": "card",
+      "start": 95,
+      "end": 118,
+      "target": "Exchange of Information",
+      "card_code": "10092"
+    },
+    {
+      "type": "card",
+      "start": 201,
+      "end": 215,
+      "target": "Next Big Thing",
+      "card_code": "35060"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

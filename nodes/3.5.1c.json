@@ -1,0 +1,41 @@
+{
+  "id": "rule_operation_lockdown",
+  "kind": "rule",
+  "number": "3.5.1c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_operation_play",
+  "child_ids": [],
+  "text_markup": "Some operations have the subtype {subtype:lockdown}. As part of their abilities, {subtype:lockdown} operations prevent themselves from being trashed until the start of the Corp's next turn after the operation is played. Once the Corp's turn begins, this effect expires and the operation is trashed during the next checkpoint, before any conditional abilities marked pending at that time can be triggered. See {ref:rule_play_not_trashed_until}.",
+  "text_plain": "Some operations have the subtype lockdown. As part of their abilities, lockdown operations prevent themselves from being trashed until the start of the Corp's next turn after the operation is played. Once the Corp's turn begins, this effect expires and the operation is trashed during the next checkpoint, before any conditional abilities marked pending at that time can be triggered. See rule 8.6.6c.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 33,
+      "end": 41,
+      "target": "lockdown"
+    },
+    {
+      "type": "subtype",
+      "start": 71,
+      "end": 79,
+      "target": "lockdown"
+    },
+    {
+      "type": "ref",
+      "start": 389,
+      "end": 400,
+      "ids": [
+        "rule_play_not_trashed_until"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_operation_lockdown"
+}

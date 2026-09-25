@@ -1,0 +1,19 @@
+{
+  "id": "rule_sabotage_hq_first",
+  "kind": "rule",
+  "number": "10.12.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_sabotage_with_not_enough_cards",
+  "child_ids": [],
+  "text_markup": "If there are fewer than N cards in R&D, but at least N cards total in HQ and R&D combined, the Corp must choose enough cards to trash from HQ such that the remaining number of cards to be trashed from the top of R&D is equal to or less than the actual number of cards in R&D.",
+  "text_plain": "If there are fewer than N cards in R&D, but at least N cards total in HQ and R&D combined, the Corp must choose enough cards to trash from HQ such that the remaining number of cards to be trashed from the top of R&D is equal to or less than the actual number of cards in R&D.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_sabotage_hq_first"
+}

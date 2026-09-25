@@ -1,0 +1,90 @@
+{
+  "id": "rule_drawn_card_swapped__example_1",
+  "kind": "example",
+  "number": "8.4.3b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_drawn_card_swapped",
+  "child_ids": [],
+  "text_markup": "The Corp takes their mandatory draw while they have {card:Daily Business Show} and {card:Raman Rai} rezzed. They set aside {card:Wraparound} and {card:Enigma} from the top of R&D. After looking at those cards and the cards in Archives, the Corp uses {card:Raman Rai} to reveal the {card:Enigma} and a {card:Tollbooth} from Archives and swap them. Then, the corp uses {card:Daily Business Show} to add {card:Tollbooth} to the bottom of the deck. Finally, the Corp adds {card:Wraparound} to HQ.",
+  "text_plain": "The Corp takes their mandatory draw while they have Daily Business Show and Raman Rai rezzed. They set aside Wraparound and Enigma from the top of R&D. After looking at those cards and the cards in Archives, the Corp uses Raman Rai to reveal the Enigma and a Tollbooth from Archives and swap them. Then, the corp uses Daily Business Show to add Tollbooth to the bottom of the deck. Finally, the Corp adds Wraparound to HQ.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 52,
+      "end": 71,
+      "target": "Daily Business Show",
+      "card_code": "31063"
+    },
+    {
+      "type": "card",
+      "start": 76,
+      "end": 85,
+      "target": "Raman Rai",
+      "card_code": "10068"
+    },
+    {
+      "type": "card",
+      "start": 109,
+      "end": 119,
+      "target": "Wraparound",
+      "card_code": "31067"
+    },
+    {
+      "type": "card",
+      "start": 124,
+      "end": 130,
+      "target": "Enigma",
+      "card_code": "31081"
+    },
+    {
+      "type": "card",
+      "start": 222,
+      "end": 231,
+      "target": "Raman Rai",
+      "card_code": "10068"
+    },
+    {
+      "type": "card",
+      "start": 246,
+      "end": 252,
+      "target": "Enigma",
+      "card_code": "31081"
+    },
+    {
+      "type": "card",
+      "start": 259,
+      "end": 268,
+      "target": "Tollbooth",
+      "card_code": "31066"
+    },
+    {
+      "type": "card",
+      "start": 318,
+      "end": 337,
+      "target": "Daily Business Show",
+      "card_code": "31063"
+    },
+    {
+      "type": "card",
+      "start": 345,
+      "end": 354,
+      "target": "Tollbooth",
+      "card_code": "31066"
+    },
+    {
+      "type": "card",
+      "start": 405,
+      "end": 415,
+      "target": "Wraparound",
+      "card_code": "31067"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "rule_play_area_credit_pool",
+  "kind": "rule",
+  "number": "4.6.5e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_area_organization",
+  "child_ids": [],
+  "text_markup": "{n}Credits in the play area are always placed in a designated location: the Corp's credit pool, the Runner's credit pool, the bad publicity fund, or hosted on a card. See {ref:sec_credits} for information about credit pools, and see {ref:sec_bad_publicity} for information about the bad publicity fund.{/n}",
+  "text_plain": "Credits in the play area are always placed in a designated location: the Corp's credit pool, the Runner's credit pool, the bad publicity fund, or hosted on a card. See section 1.10 for information about credit pools, and see section 10.6 for information about the bad publicity fund.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 168,
+      "end": 180,
+      "ids": [
+        "sec_credits"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 225,
+      "end": 237,
+      "ids": [
+        "sec_bad_publicity"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "new",
+      "start": 0,
+      "end": 283
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_credit_pool"
+}

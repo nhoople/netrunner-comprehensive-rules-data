@@ -1,0 +1,28 @@
+{
+  "id": "rule_look",
+  "kind": "subsection",
+  "number": "1.21.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_card_visibility",
+  "child_ids": [
+    "rule_look_at_controlled_facedown"
+  ],
+  "text_markup": "When a player {term:looks} at a card, they are allowed to see the front face of the card even if the front face would not normally be visible to them. A player should look at that card without showing it to the other player if it is not normally visible to that player.",
+  "text_plain": "When a player looks at a card, they are allowed to see the front face of the card even if the front face would not normally be visible to them. A player should look at that card without showing it to the other player if it is not normally visible to that player.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 14,
+      "end": 19,
+      "target": "looks"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_look"
+}

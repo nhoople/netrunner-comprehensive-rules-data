@@ -1,0 +1,29 @@
+{
+  "id": "rule_breach_link",
+  "kind": "rule",
+  "number": "6.7.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_success_phase",
+  "child_ids": [],
+  "text_markup": "When the Runner breaches the server, they follow the procedures detailed in {ref:chpt_access_breach}.",
+  "text_plain": "When the Runner breaches the server, they follow the procedures detailed in section 7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 76,
+      "end": 85,
+      "ids": [
+        "chpt_access_breach"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_breach_link"
+}

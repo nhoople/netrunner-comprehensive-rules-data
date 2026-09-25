@@ -1,0 +1,19 @@
+{
+  "id": "rule_mid_access_window_priority",
+  "kind": "rule",
+  "number": "9.2.10a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_mid_access_window",
+  "child_ids": [],
+  "text_markup": "A mid-access ability window gives only the Runner priority.",
+  "text_plain": "A mid-access ability window gives only the Runner priority.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mid_access_window_priority"
+}

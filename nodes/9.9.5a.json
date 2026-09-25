@@ -1,0 +1,28 @@
+{
+  "id": "rule_ordinal_would",
+  "kind": "rule",
+  "number": "9.9.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_prevent_avoid",
+  "child_ids": [
+    "rule_ordinal_would__example_1"
+  ],
+  "text_markup": "Some abilities look for an ordinal instance of an effect that \"would\" take place within a specified time period. These abilities look for the appropriate number of times that effect becomes imminent, not whether the effect actually resolves. Preventing or replacing an effect does not allow these abilities to meet their trigger conditions again in the same time period.",
+  "text_plain": "Some abilities look for an ordinal instance of an effect that \"would\" take place within a specified time period. These abilities look for the appropriate number of times that effect becomes imminent, not whether the effect actually resolves. Preventing or replacing an effect does not allow these abilities to meet their trigger conditions again in the same time period.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_ordinal_would__example_1",
+      "text_markup": "{card:Tori Hanzō}'s interrupt can only be used \"the first time you would do net damage\" during a run. If the first net damage that becomes imminent is prevented by the Runner using {card:Feedback Filter}, {card:Tori Hanzō} cannot be used on any other instances of net damage for the remainder of the run, as the next imminent net damage is the second time the Corp \"would\" deal net damage, not the first time.",
+      "text_plain": "Tori Hanzō's interrupt can only be used \"the first time you would do net damage\" during a run. If the first net damage that becomes imminent is prevented by the Runner using Feedback Filter, Tori Hanzō cannot be used on any other instances of net damage for the remainder of the run, as the next imminent net damage is the second time the Corp \"would\" deal net damage, not the first time.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ordinal_would"
+}

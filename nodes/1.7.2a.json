@@ -1,0 +1,29 @@
+{
+  "id": "rule_win_agenda_points",
+  "kind": "rule",
+  "number": "1.7.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_win_conditions",
+  "child_ids": [],
+  "text_markup": "Either player can win by collecting agenda points in their score area (usually done by scoring or stealing agendas; see {ref:sec_score_scoring_steal}). A player with a score of 7 or more wins the game.",
+  "text_plain": "Either player can win by collecting agenda points in their score area (usually done by scoring or stealing agendas; see section 1.17). A player with a score of 7 or more wins the game.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 120,
+      "end": 132,
+      "ids": [
+        "sec_score_scoring_steal"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_win_agenda_points"
+}

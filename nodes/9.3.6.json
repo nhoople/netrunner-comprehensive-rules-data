@@ -1,0 +1,34 @@
+{
+  "id": "rule_ability_flag",
+  "kind": "subsection",
+  "number": "9.3.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interpreting_card_text",
+  "child_ids": [
+    "rule_ability_flag_types",
+    "rule_access_flag",
+    "rule_interface_flag",
+    "rule_interrupt_flag",
+    "rule_persistent_flag",
+    "rule_threat_flag",
+    "rule_once_per_turn_flag"
+  ],
+  "text_markup": "An {term:ability flag} is a keyword or symbol that appears at the beginning of an ability. Ability flags are separated from the main text of the ability by an arrow (→). Each ability flag changes the rules for how the flagged ability functions.",
+  "text_plain": "An ability flag is a keyword or symbol that appears at the beginning of an ability. Ability flags are separated from the main text of the ability by an arrow (→). Each ability flag changes the rules for how the flagged ability functions.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 15,
+      "target": "ability flag"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ability_flag"
+}

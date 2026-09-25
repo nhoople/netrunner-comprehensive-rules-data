@@ -1,0 +1,40 @@
+{
+  "id": "rule_type_bad_pub_counter",
+  "kind": "rule",
+  "number": "1.9.5d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_counter_types",
+  "child_ids": [],
+  "text_markup": "{term:Bad publicity counters} {n}are used to represent bad publicity on the Corp{/n}. Rules for bad publicity are in {ref:sec_bad_publicity}.",
+  "text_plain": "Bad publicity counters are used to represent bad publicity on the Corp. Rules for bad publicity are in section 10.6.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 22,
+      "target": "Bad publicity counters"
+    },
+    {
+      "type": "new",
+      "start": 23,
+      "end": 70
+    },
+    {
+      "type": "ref",
+      "start": 103,
+      "end": 115,
+      "ids": [
+        "sec_bad_publicity"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_type_bad_pub_counter"
+}

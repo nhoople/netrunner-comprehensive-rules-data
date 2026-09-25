@@ -1,0 +1,39 @@
+{
+  "id": "rule_end_the_run",
+  "kind": "subsection",
+  "number": "6.1.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_run_general",
+  "child_ids": [
+    "rule_end_run_access_or_breach_during_run",
+    "rule_end_encounter_outside_run",
+    "rule_end_run_no_run_or_encounter"
+  ],
+  "text_markup": "To {term:end the run} is to halt the Runner's progress toward the server. When an effect ends the run, the current phase of the run ends without following any of its remaining steps, and before completing open priority windows. The game immediately moves from the current timing point to {ref:rule_sec_run_run_ends_phase}, the Run Ends Phase.",
+  "text_plain": "To end the run is to halt the Runner's progress toward the server. When an effect ends the run, the current phase of the run ends without following any of its remaining steps, and before completing open priority windows. The game immediately moves from the current timing point to step 6.9.6, the Run Ends Phase.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 14,
+      "target": "end the run"
+    },
+    {
+      "type": "ref",
+      "start": 281,
+      "end": 291,
+      "ids": [
+        "rule_sec_run_run_ends_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_end_the_run"
+}

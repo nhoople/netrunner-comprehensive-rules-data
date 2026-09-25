@@ -1,0 +1,52 @@
+{
+  "id": "rule_run_ends_other_priority_windows",
+  "kind": "rule",
+  "number": "6.8.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_run_ends_process_priority_windows",
+  "child_ids": [
+    "rule_run_ends_other_priority_windows__example_1"
+  ],
+  "text_markup": "Any other open priority window is completed normally, {n}except that new timing structures (including a breach that was delayed according to {ref:rule_consecutive_breaches}) cannot be initiated{/n}. If more than one priority window needs to be completed this way, they are resolved in the usual order described in {ref:rule_resolve_ability}.",
+  "text_plain": "Any other open priority window is completed normally, except that new timing structures (including a breach that was delayed according to rule 7.3.8) cannot be initiated. If more than one priority window needs to be completed this way, they are resolved in the usual order described in section 9.1.2.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 138,
+      "end": 148,
+      "ids": [
+        "rule_consecutive_breaches"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "new",
+      "start": 54,
+      "end": 169
+    },
+    {
+      "type": "ref",
+      "start": 286,
+      "end": 299,
+      "ids": [
+        "rule_resolve_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_run_ends_other_priority_windows__example_1",
+      "text_markup": "The run is ended during the reaction window following {ref:step_approach_server}, while {card:Formicary}'s ability is still pending. The Corp can rez {card:Formicary} and move it to the approached server, but the Runner's position cannot be moved and an encounter cannot be initiated.",
+      "text_plain": "The run is ended during the reaction window following step 6.9.4g, while Formicary's ability is still pending. The Corp can rez Formicary and move it to the approached server, but the Runner's position cannot be moved and an encounter cannot be initiated.",
+      "is_new": true
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_run_ends_other_priority_windows"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rule_defferent_actions__example_1",
+  "kind": "example",
+  "number": "5.2.5b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_defferent_actions",
+  "child_ids": [],
+  "text_markup": "The Corp, playing {card:MirrorMorph: Endless Iteration}, plays {card:Hedge Fund} as the first action of their turn, then plays {card:Lateral Growth}. Even though two different cards were played, both times the Corp used the basic action to \"Play 1 operation from HQ\". Since their first two actions were the same, the Corp will not be able to trigger the ability on MirrorMorph this turn.",
+  "text_plain": "The Corp, playing MirrorMorph: Endless Iteration, plays Hedge Fund as the first action of their turn, then plays Lateral Growth. Even though two different cards were played, both times the Corp used the basic action to \"Play 1 operation from HQ\". Since their first two actions were the same, the Corp will not be able to trigger the ability on MirrorMorph this turn.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 18,
+      "end": 48,
+      "target": "MirrorMorph: Endless Iteration",
+      "card_code": "26031"
+    },
+    {
+      "type": "card",
+      "start": 56,
+      "end": 66,
+      "target": "Hedge Fund",
+      "card_code": "30075"
+    },
+    {
+      "type": "card",
+      "start": 113,
+      "end": 127,
+      "target": "Lateral Growth",
+      "card_code": "10104"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

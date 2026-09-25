@@ -1,0 +1,19 @@
+{
+  "id": "sec_appendix_timing_structure_corps_turn_2_b_ii",
+  "kind": "timing_structure",
+  "number": "11.2_2_b_ii",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_corps_turn_2_b",
+  "child_ids": [],
+  "text_markup": "If yes, the Corp takes an action.",
+  "text_plain": "If yes, the Corp takes an action.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_corps_turn_2_b_ii"
+}

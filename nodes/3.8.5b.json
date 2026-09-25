@@ -1,0 +1,32 @@
+{
+  "id": "rule_install_console",
+  "kind": "rule",
+  "number": "3.8.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_consoles",
+  "child_ids": [],
+  "text_markup": "If a player ever controls more than one installed {subtype:console}, all but the most recently active {subtype:console} are trashed. Trashing cards this way cannot be prevented.",
+  "text_plain": "If a player ever controls more than one installed console, all but the most recently active console are trashed. Trashing cards this way cannot be prevented.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 50,
+      "end": 57,
+      "target": "console"
+    },
+    {
+      "type": "subtype",
+      "start": 92,
+      "end": 99,
+      "target": "console"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_console"
+}

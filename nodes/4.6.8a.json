@@ -1,0 +1,26 @@
+{
+  "id": "rule_remote_server",
+  "kind": "rule",
+  "number": "4.6.8a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_remote_servers",
+  "child_ids": [],
+  "text_markup": "A {term:remote server} is the only type of server that can contain an asset or agenda in its root.",
+  "text_plain": "A remote server is the only type of server that can contain an asset or agenda in its root.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 15,
+      "target": "remote server"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_remote_server"
+}

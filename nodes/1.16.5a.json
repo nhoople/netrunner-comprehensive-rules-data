@@ -1,0 +1,19 @@
+{
+  "id": "rule_ignore_general_cost",
+  "kind": "rule",
+  "number": "1.16.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ignoring_costs",
+  "child_ids": [],
+  "text_markup": "If a player is directed to ignore 1 or more of the 6 main types of costs, the specified costs are removed from the total cost that must be paid. Any other costs (usually additional costs) that are not specified to be ignored still apply normally.",
+  "text_plain": "If a player is directed to ignore 1 or more of the 6 main types of costs, the specified costs are removed from the total cost that must be paid. Any other costs (usually additional costs) that are not specified to be ignored still apply normally.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ignore_general_cost"
+}

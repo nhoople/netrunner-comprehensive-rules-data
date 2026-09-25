@@ -1,0 +1,19 @@
+{
+  "id": "rule_set_aside",
+  "kind": "rule",
+  "number": "4.8.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_set_aside",
+  "child_ids": [],
+  "text_markup": "If an object is \"set aside\", it is moved from its current zone to the set-aside zone.",
+  "text_plain": "If an object is \"set aside\", it is moved from its current zone to the set-aside zone.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_set_aside"
+}

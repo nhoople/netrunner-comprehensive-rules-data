@@ -1,0 +1,22 @@
+{
+  "id": "rule_sabotage_with_not_enough_cards",
+  "kind": "subsection",
+  "number": "10.12.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_sabotage",
+  "child_ids": [
+    "rule_sabotage_hq_first",
+    "rule_sabotage_all_remaining_cards"
+  ],
+  "text_markup": "In resolving a \"sabotage N\" effect, the Corp may be required to trash cards from a certain zone if there are not enough cards in the other zone.",
+  "text_plain": "In resolving a \"sabotage N\" effect, the Corp may be required to trash cards from a certain zone if there are not enough cards in the other zone.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_sabotage_with_not_enough_cards"
+}

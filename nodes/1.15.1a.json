@@ -1,0 +1,29 @@
+{
+  "id": "rule_searching_does_not_target",
+  "kind": "rule",
+  "number": "1.15.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_target",
+  "child_ids": [],
+  "text_markup": "Cards found during a search are not considered targets of the instruction that performs the search. Players do not need to announce what card(s) they expect to find before the search actually takes place. See {ref:sec_searching_cards} for rules about searching.",
+  "text_plain": "Cards found during a search are not considered targets of the instruction that performs the search. Players do not need to announce what card(s) they expect to find before the search actually takes place. See section 8.7 for rules about searching.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 209,
+      "end": 220,
+      "ids": [
+        "sec_searching_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_searching_does_not_target"
+}

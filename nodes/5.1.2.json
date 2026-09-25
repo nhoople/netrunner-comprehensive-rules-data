@@ -1,0 +1,44 @@
+{
+  "id": "rule_corp_turn_phases",
+  "kind": "rule",
+  "number": "5.1.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_turn_general",
+  "child_ids": [],
+  "text_markup": "The Corp's turn consists of three phases. During the {term: draw phase}, the Corp draws the top card of R&D into HQ; during the {term: action phase}, the Corp spends [click]s to perform actions; during the {term: discard phase}, the Corp discards until the number of cards in HQ does not exceed their maximum hand size. Once the Corp's turn ends, the Runner's turn begins.",
+  "text_plain": "The Corp's turn consists of three phases. During the  draw phase, the Corp draws the top card of R&D into HQ; during the  action phase, the Corp spends {click}s to perform actions; during the  discard phase, the Corp discards until the number of cards in HQ does not exceed their maximum hand size. Once the Corp's turn ends, the Runner's turn begins.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 53,
+      "end": 64,
+      "target": " draw phase"
+    },
+    {
+      "type": "term",
+      "start": 121,
+      "end": 134,
+      "target": " action phase"
+    },
+    {
+      "type": "symbol",
+      "start": 152,
+      "end": 159,
+      "target": "click"
+    },
+    {
+      "type": "term",
+      "start": 192,
+      "end": 206,
+      "target": " discard phase"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_turn_phases"
+}

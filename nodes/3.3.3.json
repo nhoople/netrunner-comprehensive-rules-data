@@ -1,0 +1,29 @@
+{
+  "id": "rule_asset_trash_cost",
+  "kind": "rule",
+  "number": "3.3.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_assets",
+  "child_ids": [],
+  "text_markup": "Assets are among the card types that have trash costs. If the Runner accesses an asset, they may pay the trash cost to trash that asset. See {ref:rule_basic_trash_ability}.",
+  "text_plain": "Assets are among the card types that have trash costs. If the Runner accesses an asset, they may pay the trash cost to trash that asset. See section 7.1.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 141,
+      "end": 154,
+      "ids": [
+        "rule_basic_trash_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_asset_trash_cost"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rule_modify_ability_with_choice__example_1",
+  "kind": "example",
+  "number": "9.12.1c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_modify_ability_with_choice",
+  "child_ids": [],
+  "text_markup": "If {card:Chronos Protocol} and {card:Titanium Ribs} are both active, both players are instructed to choose the card trashed by the first net damage each turn. Since this is impossible, only the active player chooses that card. Since {card:Chronos Protocol} also instructs the Corp to look at the Runner's grip and this is not prevented or contradicted by any other ability, this part of the effect happens on either player's turn.",
+  "text_plain": "If Chronos Protocol and Titanium Ribs are both active, both players are instructed to choose the card trashed by the first net damage each turn. Since this is impossible, only the active player chooses that card. Since Chronos Protocol also instructs the Corp to look at the Runner's grip and this is not prevented or contradicted by any other ability, this part of the effect happens on either player's turn.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 3,
+      "end": 19,
+      "target": "Chronos Protocol",
+      "card_code": "08111"
+    },
+    {
+      "type": "card",
+      "start": 24,
+      "end": 37,
+      "target": "Titanium Ribs",
+      "card_code": "08045"
+    },
+    {
+      "type": "card",
+      "start": 219,
+      "end": 235,
+      "target": "Chronos Protocol",
+      "card_code": "08111"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

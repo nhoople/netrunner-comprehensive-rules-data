@@ -1,0 +1,19 @@
+{
+  "id": "rule_identity_not_installed",
+  "kind": "rule",
+  "number": "3.1.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_identity_play_area",
+  "child_ids": [],
+  "text_markup": "Identities are not installed.",
+  "text_plain": "Identities are not installed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identity_not_installed"
+}

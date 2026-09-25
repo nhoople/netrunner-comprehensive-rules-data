@@ -1,0 +1,19 @@
+{
+  "id": "rule_archives_faceup_facedown",
+  "kind": "rule",
+  "number": "4.4.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_archives",
+  "child_ids": [],
+  "text_markup": "Cards in Archives can be either faceup or facedown. If a Corp card is visible to the Runner when it is trashed or discarded, it is put in Archives faceup. If a Corp card is not visible to the Runner when it is trashed or discarded, then it is put in Archives facedown. Facedown cards in Archives should be oriented horizontally so that the Runner can easily see they are present.",
+  "text_plain": "Cards in Archives can be either faceup or facedown. If a Corp card is visible to the Runner when it is trashed or discarded, it is put in Archives faceup. If a Corp card is not visible to the Runner when it is trashed or discarded, then it is put in Archives facedown. Facedown cards in Archives should be oriented horizontally so that the Runner can easily see they are present.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_archives_faceup_facedown"
+}

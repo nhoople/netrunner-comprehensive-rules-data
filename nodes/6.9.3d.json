@@ -1,0 +1,19 @@
+{
+  "id": "step_resolve_subroutine_loop",
+  "kind": "rule",
+  "number": "6.9.3d",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_encounter_ice_phase",
+  "child_ids": [],
+  "text_markup": "Return to (c).",
+  "text_plain": "Return to (c).",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_resolve_subroutine_loop"
+}

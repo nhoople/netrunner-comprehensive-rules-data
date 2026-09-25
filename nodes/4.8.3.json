@@ -1,0 +1,28 @@
+{
+  "id": "rule_set_aside_zone_passthrough",
+  "kind": "rule",
+  "number": "4.8.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_set_aside",
+  "child_ids": [
+    "rule_set_aside_zone_passthrough__example_1"
+  ],
+  "text_markup": "An ability cannot see the set-aside zone unless it specifically sets objects aside or refers to set-aside objects. Outside of these cases, cards moved into another zone from the set-aside zone are treated as though they entered that zone directly from their location prior to being set aside.",
+  "text_plain": "An ability cannot see the set-aside zone unless it specifically sets objects aside or refers to set-aside objects. Outside of these cases, cards moved into another zone from the set-aside zone are treated as though they entered that zone directly from their location prior to being set aside.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_set_aside_zone_passthrough__example_1",
+      "text_markup": "The Runner is playing as {card:Exile} and plays Test Run, searching their heap for a program. Although the program is set aside before being installed, {card:Exile}'s ability treats it as though it were installed directly from the heap, and so {card:Exile} will draw a card.",
+      "text_plain": "The Runner is playing as Exile and plays Test Run, searching their heap for a program. Although the program is set aside before being installed, Exile's ability treats it as though it were installed directly from the heap, and so Exile will draw a card.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_set_aside_zone_passthrough"
+}

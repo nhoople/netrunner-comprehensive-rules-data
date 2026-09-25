@@ -1,0 +1,19 @@
+{
+  "id": "rule_hardware_piece_of_hardware",
+  "kind": "rule",
+  "number": "3.8.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_hardware",
+  "child_ids": [],
+  "text_markup": "\"Hardware\" and \"piece of hardware\" are synonymous.",
+  "text_plain": "\"Hardware\" and \"piece of hardware\" are synonymous.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hardware_piece_of_hardware"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rule_conditional_ability_with_static_condition",
+  "kind": "subsection",
+  "number": "9.6.7",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [
+    "rule_conditional_ability_check_to_become_pending",
+    "rule_conditional_ability_check_start_of_checkpoint",
+    "rule_conditional_ability_static_one_instance",
+    "rule_conditional_ability_static_condition_no_effect"
+  ],
+  "text_markup": "Conditional abilities with a static condition instead of a trigger condition describe an effect that must be performed repeatedly, if possible, while the condition is true. Such abilities usually attempt to end their own repetition by uninstalling their source.",
+  "text_plain": "Conditional abilities with a static condition instead of a trigger condition describe an effect that must be performed repeatedly, if possible, while the condition is true. Such abilities usually attempt to end their own repetition by uninstalling their source.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_conditional_ability_with_static_condition"
+}

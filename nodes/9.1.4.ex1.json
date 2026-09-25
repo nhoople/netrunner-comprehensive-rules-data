@@ -1,0 +1,90 @@
+{
+  "id": "rule_abilities_resolution_independent__example_1",
+  "kind": "example",
+  "number": "9.1.4.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_abilities_resolution_independent",
+  "child_ids": [],
+  "text_markup": "The runner plays {card:Compile}, uses it to install {card:Mayfly} during the resulting run, and breaks subroutines with {card:Mayfly} during that run. When the run ends, delayed conditional abilities from both {card:Mayfly} and {card:Compile} become pending. The Runner decides to resolve {card:Compile} first, adding {card:Mayfly} to the bottom of their stack. The Runner then resolves the ability from {card:Mayfly}, which instructs them to trash its source program. Because {card:Mayfly} has changed zones, the copy of it on the bottom of the stack is a new object. With nothing to trash, the ability from {card:Mayfly} does nothing.",
+  "text_plain": "The runner plays Compile, uses it to install Mayfly during the resulting run, and breaks subroutines with Mayfly during that run. When the run ends, delayed conditional abilities from both Mayfly and Compile become pending. The Runner decides to resolve Compile first, adding Mayfly to the bottom of their stack. The Runner then resolves the ability from Mayfly, which instructs them to trash its source program. Because Mayfly has changed zones, the copy of it on the bottom of the stack is a new object. With nothing to trash, the ability from Mayfly does nothing.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 24,
+      "target": "Compile",
+      "card_code": "21088"
+    },
+    {
+      "type": "card",
+      "start": 45,
+      "end": 51,
+      "target": "Mayfly",
+      "card_code": "30032"
+    },
+    {
+      "type": "card",
+      "start": 106,
+      "end": 112,
+      "target": "Mayfly",
+      "card_code": "30032"
+    },
+    {
+      "type": "card",
+      "start": 189,
+      "end": 195,
+      "target": "Mayfly",
+      "card_code": "30032"
+    },
+    {
+      "type": "card",
+      "start": 200,
+      "end": 207,
+      "target": "Compile",
+      "card_code": "21088"
+    },
+    {
+      "type": "card",
+      "start": 254,
+      "end": 261,
+      "target": "Compile",
+      "card_code": "21088"
+    },
+    {
+      "type": "card",
+      "start": 276,
+      "end": 282,
+      "target": "Mayfly",
+      "card_code": "30032"
+    },
+    {
+      "type": "card",
+      "start": 355,
+      "end": 361,
+      "target": "Mayfly",
+      "card_code": "30032"
+    },
+    {
+      "type": "card",
+      "start": 421,
+      "end": 427,
+      "target": "Mayfly",
+      "card_code": "30032"
+    },
+    {
+      "type": "card",
+      "start": 546,
+      "end": 552,
+      "target": "Mayfly",
+      "card_code": "30032"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sec_agenda_points",
+  "kind": "section",
+  "number": "2.5",
+  "ref_type": "section",
+  "title": "Agenda Points",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_agenda_points_location",
+    "rule_agenda_points_citation"
+  ],
+  "text_markup": "Agenda Points",
+  "text_plain": "Agenda Points",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_agenda_points"
+}

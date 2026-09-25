@@ -1,0 +1,19 @@
+{
+  "id": "rule_counters_default_from_bank",
+  "kind": "rule",
+  "number": "4.7.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_bank",
+  "child_ids": [],
+  "text_markup": "Counters placed or loaded onto a card are taken from the bank unless otherwise specified. Counters gained by players are taken from the bank unless otherwise specified.",
+  "text_plain": "Counters placed or loaded onto a card are taken from the bank unless otherwise specified. Counters gained by players are taken from the bank unless otherwise specified.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_counters_default_from_bank"
+}

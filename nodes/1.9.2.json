@@ -1,0 +1,29 @@
+{
+  "id": "rule_bank",
+  "kind": "subsection",
+  "number": "1.9.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_counters_and_tokens",
+  "child_ids": [
+    "rule_bank_default",
+    "rule_counters_placed_condition"
+  ],
+  "text_markup": "The {term:bank} is the supply of counters not yet in play. Counters in the bank are available to both players to take and use as dictated by the game rules and card abilities. Players do not control counters in the bank and cannot spend them. The bank is an unlimited supply; running out of game pieces to track a type of counter does not prohibit a player from gaining counters of that type or placing them on cards.",
+  "text_plain": "The bank is the supply of counters not yet in play. Counters in the bank are available to both players to take and use as dictated by the game rules and card abilities. Players do not control counters in the bank and cannot spend them. The bank is an unlimited supply; running out of game pieces to track a type of counter does not prohibit a player from gaining counters of that type or placing them on cards.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 8,
+      "target": "bank"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bank"
+}

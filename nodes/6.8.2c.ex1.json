@@ -1,0 +1,43 @@
+{
+  "id": "rule_run_ends_other_priority_windows__example_1",
+  "kind": "example",
+  "number": "6.8.2c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_run_ends_other_priority_windows",
+  "child_ids": [],
+  "text_markup": "The run is ended during the reaction window following {ref:step_approach_server}, while {card:Formicary}'s ability is still pending. The Corp can rez {card:Formicary} and move it to the approached server, but the Runner's position cannot be moved and an encounter cannot be initiated.",
+  "text_plain": "The run is ended during the reaction window following step 6.9.4g, while Formicary's ability is still pending. The Corp can rez Formicary and move it to the approached server, but the Runner's position cannot be moved and an encounter cannot be initiated.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 54,
+      "end": 65,
+      "ids": [
+        "step_approach_server"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "card",
+      "start": 73,
+      "end": 82,
+      "target": "Formicary",
+      "card_code": "22054"
+    },
+    {
+      "type": "card",
+      "start": 128,
+      "end": 137,
+      "target": "Formicary",
+      "card_code": "22054"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

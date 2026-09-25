@@ -1,0 +1,28 @@
+{
+  "id": "rule_shuffle_deck_after_search",
+  "kind": "rule",
+  "number": "8.7.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_searching_cards",
+  "child_ids": [
+    "rule_shuffle_deck_after_search__example_1"
+  ],
+  "text_markup": "Once a search through a deck is complete, whether or not any cards are found, the deck must be immediately reshuffled before continuing to resolve any remaining effects from the ability that initiated the search. The shuffling takes precedence over anything that would be done with the found card(s), as well as any chain reactions that occur as a result of the search, finding, or remaining abilities.",
+  "text_plain": "Once a search through a deck is complete, whether or not any cards are found, the deck must be immediately reshuffled before continuing to resolve any remaining effects from the ability that initiated the search. The shuffling takes precedence over anything that would be done with the found card(s), as well as any chain reactions that occur as a result of the search, finding, or remaining abilities.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_shuffle_deck_after_search__example_1",
+      "text_markup": "The Corp is playing {card:Near-Earth Hub} and uses the ability on {card:Tech Startup} to search their deck for an asset and install it. After finding the asset, R&D must be immediately shuffled before the Corp installs the asset or triggers {card:Near-Earth Hub}'s ability.",
+      "text_plain": "The Corp is playing Near-Earth Hub and uses the ability on Tech Startup to search their deck for an asset and install it. After finding the asset, R&D must be immediately shuffled before the Corp installs the asset or triggers Near-Earth Hub's ability.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_shuffle_deck_after_search"
+}

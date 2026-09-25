@@ -1,0 +1,28 @@
+{
+  "id": "rule_additonal_cost_simultaenous",
+  "kind": "rule",
+  "number": "1.16.10b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_additional_cost",
+  "child_ids": [
+    "rule_additonal_cost_simultaenous__example_1"
+  ],
+  "text_markup": "A player must pay all additional costs simultaneously with the cost that is being added to, even if multiple cards or abilities are adding separate additional costs. A player cannot pay the original cost or any of the additional costs individually. If they cannot pay for all of the costs at once, then they do not pay any of the costs and the corresponding effects cannot occur.",
+  "text_plain": "A player must pay all additional costs simultaneously with the cost that is being added to, even if multiple cards or abilities are adding separate additional costs. A player cannot pay the original cost or any of the additional costs individually. If they cannot pay for all of the costs at once, then they do not pay any of the costs and the corresponding effects cannot occur.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_additonal_cost_simultaenous__example_1",
+      "text_markup": "The Runner accesses {card:Obokata Protocol} while {card:Ben Musashi} and {card:Predictive Algorithm} are both active. The Runner must be able to pay 2 credits and suffer 6 net damage all at once in order to steal the {card:Obokata Protocol}, even though each of the three costs are from different card abilities. After all costs have been paid, abilities that meet their trigger conditions from the paying of any of those costs, such as {card:I've Had Worse} or {card:Order of Sol}, can then resolve as applicable.",
+      "text_plain": "The Runner accesses Obokata Protocol while Ben Musashi and Predictive Algorithm are both active. The Runner must be able to pay 2 credits and suffer 6 net damage all at once in order to steal the Obokata Protocol, even though each of the three costs are from different card abilities. After all costs have been paid, abilities that meet their trigger conditions from the paying of any of those costs, such as I've Had Worse or Order of Sol, can then resolve as applicable.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_additonal_cost_simultaenous"
+}

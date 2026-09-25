@@ -1,0 +1,28 @@
+{
+  "id": "rule_swap_become_installed",
+  "kind": "rule",
+  "number": "8.8.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_swap_simultaneous",
+  "child_ids": [
+    "rule_swap_become_installed__example_1"
+  ],
+  "text_markup": "If only one of the cards to be swapped is installed, then it becomes uninstalled as it moves to the destination zone. Any cards or counters hosted on it are trashed. The other card becomes installed in the exact position the first card occupied, maintaining any specific location (such as server, ice position, or host). The normal procedure for installing a card is not followed, so no install cost is paid and like cards cannot be trashed. At the next checkpoint after the swap takes place, trigger conditions related to uninstalling or installing the two cards are met, respectively.",
+  "text_plain": "If only one of the cards to be swapped is installed, then it becomes uninstalled as it moves to the destination zone. Any cards or counters hosted on it are trashed. The other card becomes installed in the exact position the first card occupied, maintaining any specific location (such as server, ice position, or host). The normal procedure for installing a card is not followed, so no install cost is paid and like cards cannot be trashed. At the next checkpoint after the swap takes place, trigger conditions related to uninstalling or installing the two cards are met, respectively.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_swap_become_installed__example_1",
+      "text_markup": "The Corp is playing {card:A Teia: IP Recovery} and has {card:Tatu-Bola} protecting a remote server. The Runner runs that server and passes {card:Tatu-Bola}. The Corp swaps it with a piece of ice from HQ. After the swap, the Corp can use {card:A Teia}'s ability to install a card in the root of another remote server. They then continue resolving the next instruction of {card:Tatu-Bola}'s ability, gaining 4[c].",
+      "text_plain": "The Corp is playing A Teia: IP Recovery and has Tatu-Bola protecting a remote server. The Runner runs that server and passes Tatu-Bola. The Corp swaps it with a piece of ice from HQ. After the swap, the Corp can use A Teia's ability to install a card in the root of another remote server. They then continue resolving the next instruction of Tatu-Bola's ability, gaining 4{c}.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_swap_become_installed"
+}

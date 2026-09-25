@@ -1,0 +1,26 @@
+{
+  "id": "rule_run_initiation_phase",
+  "kind": "rule",
+  "number": "6.3.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_run_initiation",
+  "child_ids": [],
+  "text_markup": "The {term:initiation phase} sets the parameters for the run and begins the run.",
+  "text_plain": "The initiation phase sets the parameters for the run and begins the run.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 20,
+      "target": "initiation phase"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_run_initiation_phase"
+}

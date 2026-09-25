@@ -1,0 +1,41 @@
+{
+  "id": "rule_prevent_all__example_1",
+  "kind": "example",
+  "number": "9.9.7b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_prevent_all",
+  "child_ids": [],
+  "text_markup": "The Runner installs {card:Net-Ready Eyes} and uses {card:Chrome Parlor} to prevent all of the damage from its first ability. There is no longer an imminent damage effect, so the Corp cannot use {card:The Cleaners}.",
+  "text_plain": "The Runner installs Net-Ready Eyes and uses Chrome Parlor to prevent all of the damage from its first ability. There is no longer an imminent damage effect, so the Corp cannot use The Cleaners.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 34,
+      "target": "Net-Ready Eyes",
+      "card_code": "08047"
+    },
+    {
+      "type": "card",
+      "start": 44,
+      "end": 57,
+      "target": "Chrome Parlor",
+      "card_code": "08044"
+    },
+    {
+      "type": "card",
+      "start": 180,
+      "end": 192,
+      "target": "The Cleaners",
+      "card_code": "20080"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

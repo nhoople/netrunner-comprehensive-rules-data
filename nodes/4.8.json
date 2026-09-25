@@ -1,0 +1,27 @@
+{
+  "id": "sec_set_aside",
+  "kind": "section",
+  "number": "4.8",
+  "ref_type": "section",
+  "title": "Set Aside",
+  "parent_id": "chpt_game_zones",
+  "child_ids": [
+    "rule_set_aside_zone",
+    "rule_set_aside",
+    "rule_set_aside_zone_passthrough",
+    "rule_searched_cards_set_aside",
+    "rule_set_aside_hosted_counters_trash_ability",
+    "rule_set_aside_default_faceup",
+    "rule_facedown_set_aside_distinct_groups"
+  ],
+  "text_markup": "Set Aside",
+  "text_plain": "Set Aside",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_set_aside"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "rule_mid_access_window",
+  "kind": "subsection",
+  "number": "9.2.10",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_timing_and_priority",
+  "child_ids": [
+    "rule_mid_access_window_priority",
+    "rule_mid_access_window_options",
+    "rule_mid_access_window_one_ability",
+    "rule_mid_access_window_occurrence"
+  ],
+  "text_markup": "A {term:mid-access ability window} is a priority window that opens while the Runner is accessing a card.",
+  "text_plain": "A mid-access ability window is a priority window that opens while the Runner is accessing a card.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 27,
+      "target": "mid-access ability window"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mid_access_window"
+}

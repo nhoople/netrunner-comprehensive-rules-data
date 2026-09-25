@@ -1,0 +1,19 @@
+{
+  "id": "rule_action_phase_duration",
+  "kind": "rule",
+  "number": "5.4.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_action_phase",
+  "child_ids": [],
+  "text_markup": "During a player's action phase, they must continue to take actions until they have no more clicks or the phase is ended directly by a card ability. The player may take actions in any combination and order as long as they pay the appropriate costs. Once they have no remaining clicks, the action phase ends.",
+  "text_plain": "During a player's action phase, they must continue to take actions until they have no more clicks or the phase is ended directly by a card ability. The player may take actions in any combination and order as long as they pay the appropriate costs. Once they have no remaining clicks, the action phase ends.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_action_phase_duration"
+}

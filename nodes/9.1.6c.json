@@ -1,0 +1,28 @@
+{
+  "id": "rule_hosted_counter_used_condition",
+  "kind": "rule",
+  "number": "9.1.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_using",
+  "child_ids": [
+    "rule_hosted_counter_used_condition__example_1"
+  ],
+  "text_markup": "If an ability allows a player to spend or move counters, that ability's source card is considered used at the time the player pays a cost by spending or moving those counters, even if the counters are spent or moved from cards other than the card that is the source of that ability.",
+  "text_plain": "If an ability allows a player to spend or move counters, that ability's source card is considered used at the time the player pays a cost by spending or moving those counters, even if the counters are spent or moved from cards other than the card that is the source of that ability.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_hosted_counter_used_condition__example_1",
+      "text_markup": "The Runner spends the credit hosted on {card:Cyberfeeder} to pay the trigger cost of {card:Mimic}'s ability. Because the Runner triggered {card:Mimic}'s paid ability and {card:Cyberfeeder}'s ability allowed the credit to be spent, both {card:Mimic} and {card:Cyberfeeder} have been used.",
+      "text_plain": "The Runner spends the credit hosted on Cyberfeeder to pay the trigger cost of Mimic's ability. Because the Runner triggered Mimic's paid ability and Cyberfeeder's ability allowed the credit to be spent, both Mimic and Cyberfeeder have been used.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_counter_used_condition"
+}

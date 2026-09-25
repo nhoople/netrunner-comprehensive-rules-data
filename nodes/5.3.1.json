@@ -1,0 +1,19 @@
+{
+  "id": "rule_draw_phase_definition",
+  "kind": "rule",
+  "number": "5.3.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_draw_phase",
+  "child_ids": [],
+  "text_markup": "The draw phase is the first phase of the Corp's turn. It includes the formal beginning of the Corp's turn and the Corp's mandatory draw.",
+  "text_plain": "The draw phase is the first phase of the Corp's turn. It includes the formal beginning of the Corp's turn and the Corp's mandatory draw.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_draw_phase_definition"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_approach_server",
+  "kind": "rule",
+  "number": "6.6.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_movement_phase",
+  "child_ids": [],
+  "text_markup": "If the Runner does not jack out or return to the Approach Ice Phase, they approach the server. This has no inherent effects, but is referred to by some card abilities. After the Runner approaches the server, the run continues to the Success Phase, {ref:sec_success_phase}.",
+  "text_plain": "If the Runner does not jack out or return to the Approach Ice Phase, they approach the server. This has no inherent effects, but is referred to by some card abilities. After the Runner approaches the server, the run continues to the Success Phase, section 6.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 248,
+      "end": 259,
+      "ids": [
+        "sec_success_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_approach_server"
+}

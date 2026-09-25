@@ -1,0 +1,19 @@
+{
+  "id": "rule_archives_faceup_open_info",
+  "kind": "rule",
+  "number": "4.4.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_archives",
+  "child_ids": [],
+  "text_markup": "The faceup cards in Archives are open information. Any player may look through the faceup cards in Archives at any time. The facedown cards in Archives are visible only to the Corp. The Corp may look through the facedown cards in Archives at any time, but the Runner cannot look at them.",
+  "text_plain": "The faceup cards in Archives are open information. Any player may look through the faceup cards in Archives at any time. The facedown cards in Archives are visible only to the Corp. The Corp may look through the facedown cards in Archives at any time, but the Runner cannot look at them.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_archives_faceup_open_info"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_interrupt_window_opening",
+  "kind": "rule",
+  "number": "9.2.9b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_interrupt_window",
+  "child_ids": [],
+  "text_markup": "As an interrupt window opens, before players receive priority, the expected effects of the imminent instruction are determined, any applicable replacement effects are applied, and then relevant conditional abilities become pending. See {ref:sec_interrupt_window_for_imminent_instruction}.",
+  "text_plain": "As an interrupt window opens, before players receive priority, the expected effects of the imminent instruction are determined, any applicable replacement effects are applied, and then relevant conditional abilities become pending. See section 9.9.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 236,
+      "end": 249,
+      "ids": [
+        "sec_interrupt_window_for_imminent_instruction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interrupt_window_opening"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "rule_act_on_multiple_cards__example_1",
+  "kind": "example",
+  "number": "9.12.2a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_act_on_multiple_cards",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Singularity} to simultaneously trash a rezzed {card:Warroid Tracker} and a rezzed {card:Hostile Infrastructure}. {card:Hostile Infrastructure} has a trigger condition of \"Whenever the Runner trashes a Corp card\", so it sees both trashed cards and becomes pending twice. By contrast, {card:Warroid Tracker} has a trigger condition of \"Whenever the Runner trashes at least 1 card…\", so it sees only a single event that trashed multiple cards. {card:Warroid Tracker}'s ability becomes pending only once.",
+  "text_plain": "The Runner uses Singularity to simultaneously trash a rezzed Warroid Tracker and a rezzed Hostile Infrastructure. Hostile Infrastructure has a trigger condition of \"Whenever the Runner trashes a Corp card\", so it sees both trashed cards and becomes pending twice. By contrast, Warroid Tracker has a trigger condition of \"Whenever the Runner trashes at least 1 card…\", so it sees only a single event that trashed multiple cards. Warroid Tracker's ability becomes pending only once.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 27,
+      "target": "Singularity",
+      "card_code": "20004"
+    },
+    {
+      "type": "card",
+      "start": 61,
+      "end": 76,
+      "target": "Warroid Tracker",
+      "card_code": "12068"
+    },
+    {
+      "type": "card",
+      "start": 90,
+      "end": 112,
+      "target": "Hostile Infrastructure",
+      "card_code": "06083"
+    },
+    {
+      "type": "card",
+      "start": 114,
+      "end": 136,
+      "target": "Hostile Infrastructure",
+      "card_code": "06083"
+    },
+    {
+      "type": "card",
+      "start": 277,
+      "end": 292,
+      "target": "Warroid Tracker",
+      "card_code": "12068"
+    },
+    {
+      "type": "card",
+      "start": 428,
+      "end": 443,
+      "target": "Warroid Tracker",
+      "card_code": "12068"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

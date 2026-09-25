@@ -1,0 +1,29 @@
+{
+  "id": "rule_mid_access_window_options",
+  "kind": "rule",
+  "number": "9.2.10b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_mid_access_window",
+  "child_ids": [],
+  "text_markup": "During a mid-access ability window, the Runner may use a mid-access ability or may pass. In addition to any mid-access abilities available from cards, the Runner may use the basic trash ability (see {ref:rule_basic_trash_ability}).",
+  "text_plain": "During a mid-access ability window, the Runner may use a mid-access ability or may pass. In addition to any mid-access abilities available from cards, the Runner may use the basic trash ability (see section 7.1.5).",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 199,
+      "end": 212,
+      "ids": [
+        "rule_basic_trash_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mid_access_window_options"
+}

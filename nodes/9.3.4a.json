@@ -1,0 +1,38 @@
+{
+  "id": "rule_instruction_source",
+  "kind": "rule",
+  "number": "9.3.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction",
+  "child_ids": [],
+  "text_markup": "Instructions can originate from a game rule or from the text of an ability. An instruction in an ability resolves when that ability resolves (see {ref:rule_resolve_ability}). An instruction in the game rules resolves during the timing step(s) when it appears. {ref:Sec_identifying_instructions} explains how to determine the boundaries between consecutive instructions.",
+  "text_plain": "Instructions can originate from a game rule or from the text of an ability. An instruction in an ability resolves when that ability resolves (see section 9.1.2). An instruction in the game rules resolves during the timing step(s) when it appears. Section 9.11 explains how to determine the boundaries between consecutive instructions.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 146,
+      "end": 159,
+      "ids": [
+        "rule_resolve_ability"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 247,
+      "end": 259,
+      "ids": [
+        "sec_identifying_instructions"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_instruction_source"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rule_ability_classification",
+  "kind": "subsection",
+  "number": "9.3.7",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interpreting_card_text",
+  "child_ids": [
+    "rule_static_abilities_link",
+    "rule_paid_abilities_link",
+    "rule_conditional_abilities_link",
+    "rule_play_abilities_link",
+    "rule_subroutines_link"
+  ],
+  "text_markup": "The five types of abilities can be identified by the types of text they are made of.",
+  "text_plain": "The five types of abilities can be identified by the types of text they are made of.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ability_classification"
+}

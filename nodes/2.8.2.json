@@ -1,0 +1,38 @@
+{
+  "id": "rule_memory_cost_citation",
+  "kind": "rule",
+  "number": "2.8.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_memory_cost",
+  "child_ids": [],
+  "text_markup": "{ref:Sec_memory} discusses the topic of memory, and {ref:rule_program_memory_cost} details how programs interact with the Runner's memory limit based on their memory cost.",
+  "text_plain": "Section 1.20 discusses the topic of memory, and section 3.9.3 details how programs interact with the Runner's memory limit based on their memory cost.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 0,
+      "end": 12,
+      "ids": [
+        "sec_memory"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 48,
+      "end": 61,
+      "ids": [
+        "rule_program_memory_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_memory_cost_citation"
+}

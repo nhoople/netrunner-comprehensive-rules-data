@@ -1,0 +1,38 @@
+{
+  "id": "rule_determine_actual_abilities",
+  "kind": "rule",
+  "number": "9.1.9b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_gaining_losing_abilities",
+  "child_ids": [],
+  "text_markup": "To determine the actual abilities present on an object (as well as its other characteristics), follow the procedure described in {ref:rule_dependent_effects} and {ref:rule_independent_effects}.",
+  "text_plain": "To determine the actual abilities present on an object (as well as its other characteristics), follow the procedure described in rule 9.12.1d and rule 9.12.1e.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 129,
+      "end": 141,
+      "ids": [
+        "rule_dependent_effects"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 146,
+      "end": 158,
+      "ids": [
+        "rule_independent_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_determine_actual_abilities"
+}

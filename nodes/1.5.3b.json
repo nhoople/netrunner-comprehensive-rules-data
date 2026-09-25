@@ -1,0 +1,32 @@
+{
+  "id": "rule_adam_directives_install",
+  "kind": "rule",
+  "number": "1.5.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_adam",
+  "child_ids": [],
+  "text_markup": "After players reveal their identities, the player playing Adam selects exactly 3 of their provided {subtype:directive} cards. Those cards begin the game installed in the play area. All other {subtype:directives} the player brought this way remain outside the game.",
+  "text_plain": "After players reveal their identities, the player playing Adam selects exactly 3 of their provided directive cards. Those cards begin the game installed in the play area. All other directives the player brought this way remain outside the game.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 99,
+      "end": 108,
+      "target": "directive"
+    },
+    {
+      "type": "subtype",
+      "start": 181,
+      "end": 191,
+      "target": "directives"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_adam_directives_install"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_playing_timing_structure",
+  "kind": "rule",
+  "number": "8.6.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_playing_events_and_operations",
+  "child_ids": [],
+  "text_markup": "An operation or event that initiates a timing structure remains active in the play area for the duration of that timing structure. It is not considered fully resolved until the timing structure is completed and any abilities on the card that meet their trigger conditions when the timing structure ends are resolved.",
+  "text_plain": "An operation or event that initiates a timing structure remains active in the play area for the duration of that timing structure. It is not considered fully resolved until the timing structure is completed and any abilities on the card that meet their trigger conditions when the timing structure ends are resolved.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_playing_timing_structure"
+}

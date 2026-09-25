@@ -1,0 +1,28 @@
+{
+  "id": "rule_search_instruction",
+  "kind": "rule",
+  "number": "9.11.4d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction_sentence_exceptions",
+  "child_ids": [
+    "rule_search_instruction__example_1"
+  ],
+  "text_markup": "Some older cards have search effects written in the same sentence as the effects that will be performed upon any found cards. Treat these sentences as if ending the search and performing any necessary shuffling is the end of an instruction. A checkpoint occurs while cards found by the search are in the set-aside zone, then the remainder of the sentence is treated as the next instruction.",
+  "text_plain": "Some older cards have search effects written in the same sentence as the effects that will be performed upon any found cards. Treat these sentences as if ending the search and performing any necessary shuffling is the end of an instruction. A checkpoint occurs while cards found by the search are in the set-aside zone, then the remainder of the sentence is treated as the next instruction.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_search_instruction__example_1",
+      "text_markup": "The Runner uses {card:Djinn} to search for a program while the Corp has {card:Personality Profiles} in their score area. The Runner finds and sets aside a copy of {card:Datasucker} and shuffles the stack. This ends an instruction, and since the search has occurred, {card:Personality Profiles}'s ability meets its trigger condition. The Corp resolves the ability during a reaction window before the next instruction becomes imminent, forcing the Runner to trash a random card from their grip. Finally, the second instruction resolves and the Runner adds the set-aside {card:Datasucker} to their grip.",
+      "text_plain": "The Runner uses Djinn to search for a program while the Corp has Personality Profiles in their score area. The Runner finds and sets aside a copy of Datasucker and shuffles the stack. This ends an instruction, and since the search has occurred, Personality Profiles's ability meets its trigger condition. The Corp resolves the ability during a reaction window before the next instruction becomes imminent, forcing the Runner to trash a random card from their grip. Finally, the second instruction resolves and the Runner adds the set-aside Datasucker to their grip.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_search_instruction"
+}

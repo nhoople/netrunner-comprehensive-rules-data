@@ -1,0 +1,26 @@
+{
+  "id": "rule_sabotage",
+  "kind": "rule",
+  "number": "10.12.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_sabotage",
+  "child_ids": [],
+  "text_markup": "Some Runner card abilities {term:sabotage} the Corp. An instruction to \"sabotage N\" directs the Corp to trash N cards collectively from HQ and the top of R&D.",
+  "text_plain": "Some Runner card abilities sabotage the Corp. An instruction to \"sabotage N\" directs the Corp to trash N cards collectively from HQ and the top of R&D.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 27,
+      "end": 35,
+      "target": "sabotage"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_sabotage"
+}

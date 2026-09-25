@@ -1,0 +1,19 @@
+{
+  "id": "rule_object_subroutine_targets",
+  "kind": "rule",
+  "number": "1.15.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_target",
+  "child_ids": [],
+  "text_markup": "Only objects and subroutines are announced as targets. If an instruction directs a player to choose (or \"name\") a number, a card type, a subtype, a card name, a server, or one of a specified set of effects, that choice is not made until the instruction resolves.",
+  "text_plain": "Only objects and subroutines are announced as targets. If an instruction directs a player to choose (or \"name\") a number, a card type, a subtype, a card name, a server, or one of a specified set of effects, that choice is not made until the instruction resolves.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_object_subroutine_targets"
+}

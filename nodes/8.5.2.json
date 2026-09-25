@@ -1,0 +1,34 @@
+{
+  "id": "rule_corp_cards_default_install",
+  "kind": "subsection",
+  "number": "8.5.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [
+    "rule_corp_install_choose_destination_server",
+    "rule_agenda_asset_root_remote_server",
+    "rule_upgrade_root_central_remote_server",
+    "rule_ice_outermost_position"
+  ],
+  "text_markup": "Corp cards are installed facedown, unrezzed, and remain inactive until rezzed. Corp cards are installed into specific locations. See {ref:subsec_servers} for more information on servers and the locations of installed Corp cards.",
+  "text_plain": "Corp cards are installed facedown, unrezzed, and remain inactive until rezzed. Corp cards are installed into specific locations. See section 4.6.6 for more information on servers and the locations of installed Corp cards.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 133,
+      "end": 146,
+      "ids": [
+        "subsec_servers"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_cards_default_install"
+}

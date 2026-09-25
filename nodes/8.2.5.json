@@ -1,0 +1,26 @@
+{
+  "id": "movement_forfeit",
+  "kind": "rule",
+  "number": "8.2.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_movements",
+  "child_ids": [],
+  "text_markup": "To {term:forfeit} an agenda is to move it from a player's score area to the removed-from-game zone. When a player forfeits an agenda, its agenda points no longer contribute to that player's score, and any objects hosted on it are trashed.",
+  "text_plain": "To forfeit an agenda is to move it from a player's score area to the removed-from-game zone. When a player forfeits an agenda, its agenda points no longer contribute to that player's score, and any objects hosted on it are trashed.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 10,
+      "target": "forfeit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=movement_forfeit"
+}

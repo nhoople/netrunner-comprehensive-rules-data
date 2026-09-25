@@ -1,0 +1,41 @@
+{
+  "id": "rule_play_ability__example_1",
+  "kind": "example",
+  "number": "9.7.1.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_play_ability",
+  "child_ids": [],
+  "text_markup": "The operation card {card:Oppo Research} has several abilities of different types. The first ability reads \"Play only if the Runner stole or trashed a Corp card during their last turn.\" This is a static ability that contains a restriction and no declarations. The second ability (\"After you resolve this operation, your action phase ends.\") is a conditional ability that meets its trigger condition and resolves after the Corp finishes playing and resolving {card:Oppo Research}. The third and fourth abilities contain instructions with no trigger conditions or paid ability trigger costs, so they are both play abilities. They resolve in sequence while {card:Oppo Research} is being played.",
+  "text_plain": "The operation card Oppo Research has several abilities of different types. The first ability reads \"Play only if the Runner stole or trashed a Corp card during their last turn.\" This is a static ability that contains a restriction and no declarations. The second ability (\"After you resolve this operation, your action phase ends.\") is a conditional ability that meets its trigger condition and resolves after the Corp finishes playing and resolving Oppo Research. The third and fourth abilities contain instructions with no trigger conditions or paid ability trigger costs, so they are both play abilities. They resolve in sequence while Oppo Research is being played.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 19,
+      "end": 32,
+      "target": "Oppo Research",
+      "card_code": "34055"
+    },
+    {
+      "type": "card",
+      "start": 450,
+      "end": 463,
+      "target": "Oppo Research",
+      "card_code": "34055"
+    },
+    {
+      "type": "card",
+      "start": 639,
+      "end": 652,
+      "target": "Oppo Research",
+      "card_code": "34055"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

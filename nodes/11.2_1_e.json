@@ -1,0 +1,19 @@
+{
+  "id": "sec_appendix_timing_structure_corps_turn_1_e",
+  "kind": "timing_structure",
+  "number": "11.2_1_e",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_corps_turn_1",
+  "child_ids": [],
+  "text_markup": "The Corp draws 1 card.",
+  "text_plain": "The Corp draws 1 card.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_corps_turn_1_e"
+}

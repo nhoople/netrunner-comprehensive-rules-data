@@ -1,0 +1,19 @@
+{
+  "id": "rule_install_trash_programs",
+  "kind": "rule",
+  "number": "8.5.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_install_trash_like_cards",
+  "child_ids": [],
+  "text_markup": "When installing a program, the Runner may first trash any number of programs already installed. They must do so if installing the new program would exceed their memory limit.",
+  "text_plain": "When installing a program, the Runner may first trash any number of programs already installed. They must do so if installing the new program would exceed their memory limit.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_trash_programs"
+}

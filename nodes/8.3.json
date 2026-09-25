@@ -1,0 +1,23 @@
+{
+  "id": "sec_arranging_rearranging",
+  "kind": "section",
+  "number": "8.3",
+  "ref_type": "section",
+  "title": "Arranging and Rearranging Cards",
+  "parent_id": "chpt_card_manipulation",
+  "child_ids": [
+    "rule_arrange_rearrange",
+    "rule_arrange_ice",
+    "rule_arrange_secretly"
+  ],
+  "text_markup": "Arranging and Rearranging Cards",
+  "text_plain": "Arranging and Rearranging Cards",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_arranging_rearranging"
+}

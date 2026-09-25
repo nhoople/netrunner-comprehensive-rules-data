@@ -1,0 +1,21 @@
+{
+  "id": "rule_trigger_condition_checked",
+  "kind": "subsection",
+  "number": "9.6.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [
+    "rule_instruction_requirements_past_state"
+  ],
+  "text_markup": "Trigger conditions look for an instantaneous change in the game state. The next checkpoint after that change takes place marks an instance of the ability as pending for each occurrence of the change that was looked for.",
+  "text_plain": "Trigger conditions look for an instantaneous change in the game state. The next checkpoint after that change takes place marks an instance of the ability as pending for each occurrence of the change that was looked for.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trigger_condition_checked"
+}

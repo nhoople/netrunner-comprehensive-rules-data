@@ -1,0 +1,22 @@
+{
+  "id": "rule_player_roles",
+  "kind": "subsection",
+  "number": "1.6.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_starting_the_game",
+  "child_ids": [
+    "rule_setup_identity",
+    "rule_double_sided_identity"
+  ],
+  "text_markup": "The players decide who will play as the Corp and who will play as the Runner. Each player places an appropriate identity card for the side they are to play faceup in the play area, then supplies a corresponding deck, placing it facedown in the play area, and any appropriate extra cards.",
+  "text_plain": "The players decide who will play as the Corp and who will play as the Runner. Each player places an appropriate identity card for the side they are to play faceup in the play area, then supplies a corresponding deck, placing it facedown in the play area, and any appropriate extra cards.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_player_roles"
+}

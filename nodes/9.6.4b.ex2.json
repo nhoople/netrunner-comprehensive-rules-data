@@ -1,0 +1,41 @@
+{
+  "id": "rule_condition_met_multiple_times__example_2",
+  "kind": "example",
+  "number": "9.6.4b.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_condition_met_multiple_times",
+  "child_ids": [],
+  "text_markup": "The Runner controls {card:Blackguard} and plays {card:Satellite Uplink}, exposing 2 cards in a single instruction. In the next checkpoint, two instances of {card:Blackguard}'s ability become pending, one corresponding to each card that was exposed.",
+  "text_plain": "The Runner controls Blackguard and plays Satellite Uplink, exposing 2 cards in a single instruction. In the next checkpoint, two instances of Blackguard's ability become pending, one corresponding to each card that was exposed.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 30,
+      "target": "Blackguard",
+      "card_code": "04085"
+    },
+    {
+      "type": "card",
+      "start": 41,
+      "end": 57,
+      "target": "Satellite Uplink",
+      "card_code": "02023"
+    },
+    {
+      "type": "card",
+      "start": 142,
+      "end": 152,
+      "target": "Blackguard",
+      "card_code": "04085"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sec_appendix_timing_structure_corps_turn_2",
+  "kind": "timing_structure",
+  "number": "11.2_2",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_corps_turn",
+  "child_ids": [
+    "sec_appendix_timing_structure_corps_turn_2_a",
+    "sec_appendix_timing_structure_corps_turn_2_b",
+    "sec_appendix_timing_structure_corps_turn_2_c",
+    "sec_appendix_timing_structure_corps_turn_2_d"
+  ],
+  "text_markup": "Action Phase",
+  "text_plain": "Action Phase",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_corps_turn_2"
+}

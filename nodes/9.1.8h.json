@@ -1,0 +1,28 @@
+{
+  "id": "rule_active_exception_encounter_not_installed",
+  "kind": "rule",
+  "number": "9.1.8h",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_active_inactive_source_card",
+  "child_ids": [
+    "rule_active_exception_encounter_not_installed__example_1"
+  ],
+  "text_markup": "If a piece of ice is encountered while it is not installed, its subroutines are active during that encounter.",
+  "text_plain": "If a piece of ice is encountered while it is not installed, its subroutines are active during that encounter.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_active_exception_encounter_not_installed__example_1",
+      "text_markup": "The Runner accesses {card:Archangel} from HQ, and the Corp uses its ability to force the Runner to encounter it. {card:Archangel}'s subroutine is active and can resolve during that encounter.",
+      "text_plain": "The Runner accesses Archangel from HQ, and the Corp uses its ability to force the Runner to encounter it. Archangel's subroutine is active and can resolve during that encounter.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_active_exception_encounter_not_installed"
+}

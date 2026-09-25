@@ -1,0 +1,26 @@
+{
+  "id": "rule_psi_game",
+  "kind": "rule",
+  "number": "10.14.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_psi_games",
+  "child_ids": [],
+  "text_markup": "A {term:Psi Game} is a bidding contest in which the outcome depends on whether the number of credits each player bid was the same or different. The instruction \"Play a Psi Game.\" encompasses both bidding and revealing bids.",
+  "text_plain": "A Psi Game is a bidding contest in which the outcome depends on whether the number of credits each player bid was the same or different. The instruction \"Play a Psi Game.\" encompasses both bidding and revealing bids.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 10,
+      "target": "Psi Game"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_psi_game"
+}

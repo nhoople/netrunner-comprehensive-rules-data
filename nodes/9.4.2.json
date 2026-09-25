@@ -1,0 +1,19 @@
+{
+  "id": "rule_static_ability_with_condition",
+  "kind": "rule",
+  "number": "9.4.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_static_abilities",
+  "child_ids": [],
+  "text_markup": "If a static ability contains a static condition, then the constrained parts of the ability apply to the game state only if that condition is met.",
+  "text_plain": "If a static ability contains a static condition, then the constrained parts of the ability apply to the game state only if that condition is met.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_static_ability_with_condition"
+}

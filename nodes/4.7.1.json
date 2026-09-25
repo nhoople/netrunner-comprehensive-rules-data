@@ -1,0 +1,26 @@
+{
+  "id": "rule_bank_counter_supply",
+  "kind": "rule",
+  "number": "4.7.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_bank",
+  "child_ids": [],
+  "text_markup": "The {term:bank} is an inactive zone shared by both players. It holds an unlimited supply of counters for use during gameplay.",
+  "text_plain": "The bank is an inactive zone shared by both players. It holds an unlimited supply of counters for use during gameplay.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 8,
+      "target": "bank"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bank_counter_supply"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_multiple_targets",
+  "kind": "rule",
+  "number": "1.15.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_announce_targets",
+  "child_ids": [],
+  "text_markup": "Some effects allow a player to choose multiple cards as targets for a single announcement. {ref:Subsec_quantities_and_sets} contains rules about resolving effects involving sets of cards.",
+  "text_plain": "Some effects allow a player to choose multiple cards as targets for a single announcement. Section 9.12.2 contains rules about resolving effects involving sets of cards.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 91,
+      "end": 105,
+      "ids": [
+        "subsec_quantities_and_sets"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_multiple_targets"
+}

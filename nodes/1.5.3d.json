@@ -1,0 +1,19 @@
+{
+  "id": "rule_adam_directives_during_game",
+  "kind": "rule",
+  "number": "1.5.3d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_adam",
+  "child_ids": [],
+  "text_markup": "Once the game has begun, the cards installed this way are treated exactly as any other installed cards. Abilities that move these cards to other zones function normally, including shuffling them into the stack.",
+  "text_plain": "Once the game has begun, the cards installed this way are treated exactly as any other installed cards. Abilities that move these cards to other zones function normally, including shuffling them into the stack.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_adam_directives_during_game"
+}

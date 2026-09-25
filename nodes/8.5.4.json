@@ -1,0 +1,19 @@
+{
+  "id": "rule_runner_cards_default_install",
+  "kind": "rule",
+  "number": "8.5.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [],
+  "text_markup": "Runner cards are normally installed faceup, active. Runner cards are generally installed without designated locations.",
+  "text_plain": "Runner cards are normally installed faceup, active. Runner cards are generally installed without designated locations.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_runner_cards_default_install"
+}

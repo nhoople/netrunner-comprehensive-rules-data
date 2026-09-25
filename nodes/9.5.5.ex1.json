@@ -1,0 +1,34 @@
+{
+  "id": "rule_trash_ability_keeps_track_of_hosted_objects__example_1",
+  "kind": "example",
+  "number": "9.5.5.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_trash_ability_keeps_track_of_hosted_objects",
+  "child_ids": [],
+  "text_markup": "The Runner has {card:Fermenter} installed with 4 hosted virus counters. They use its paid ability, which has a cost that includes trashing {card:Fermenter}. As the Runner pays this cost, they set aside the 4 counters. When the ability resolves and refers to the number of hosted virus counters, it includes the counters that were set aside, so the Runner gains 8 credits. When the ability is finished resolving, the counters are returned to the bank.",
+  "text_plain": "The Runner has Fermenter installed with 4 hosted virus counters. They use its paid ability, which has a cost that includes trashing Fermenter. As the Runner pays this cost, they set aside the 4 counters. When the ability resolves and refers to the number of hosted virus counters, it includes the counters that were set aside, so the Runner gains 8 credits. When the ability is finished resolving, the counters are returned to the bank.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 24,
+      "target": "Fermenter",
+      "card_code": "30007"
+    },
+    {
+      "type": "card",
+      "start": 132,
+      "end": 141,
+      "target": "Fermenter",
+      "card_code": "30007"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

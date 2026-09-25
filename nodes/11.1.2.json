@@ -1,0 +1,19 @@
+{
+  "id": "rule_timing_structure_reference_only",
+  "kind": "rule",
+  "number": "11.1.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_timing_structure_overview",
+  "child_ids": [],
+  "text_markup": "These guides are intended to serve as shorthand references only; for comprehensive rules relating to each timing structure, see the accompanying rules sections.",
+  "text_plain": "These guides are intended to serve as shorthand references only; for comprehensive rules relating to each timing structure, see the accompanying rules sections.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_timing_structure_reference_only"
+}

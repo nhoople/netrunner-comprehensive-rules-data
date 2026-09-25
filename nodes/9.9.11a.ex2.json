@@ -1,0 +1,105 @@
+{
+  "id": "rule_replacement_effect_must_have_something_to_replace__example_2",
+  "kind": "example",
+  "number": "9.9.11a.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_replacement_effect_must_have_something_to_replace",
+  "child_ids": [],
+  "text_markup": "The Runner chooses R&D with {card:Security Testing} when their turn begins, then plays {card:Showing Off}. When a run on R&D becomes successful, both {card:Security Testing} and {card:Showing Off} create replacement effects. When {ref:step_breach} of the run becomes imminent, the Runner must choose to apply either the replacement effect from {card:Security Testing} or the one from {card:Showing Off}. If they choose to apply {card:Security Testing} first, {card:Showing Off}'s effect has nothing to replace and does not apply. If they choose to apply {card:Showing Off} first, the expected effects still include breaching R&D, albeit not in the usual way. {card:Security Testing} can still replace this breach, so it applies next. Either way, the Runner will gain 2[c] and will not breach the server.",
+  "text_plain": "The Runner chooses R&D with Security Testing when their turn begins, then plays Showing Off. When a run on R&D becomes successful, both Security Testing and Showing Off create replacement effects. When step 6.9.5b of the run becomes imminent, the Runner must choose to apply either the replacement effect from Security Testing or the one from Showing Off. If they choose to apply Security Testing first, Showing Off's effect has nothing to replace and does not apply. If they choose to apply Showing Off first, the expected effects still include breaching R&D, albeit not in the usual way. Security Testing can still replace this breach, so it applies next. Either way, the Runner will gain 2{c} and will not breach the server.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 28,
+      "end": 44,
+      "target": "Security Testing",
+      "card_code": "31024"
+    },
+    {
+      "type": "card",
+      "start": 80,
+      "end": 91,
+      "target": "Showing Off",
+      "card_code": "07034"
+    },
+    {
+      "type": "card",
+      "start": 136,
+      "end": 152,
+      "target": "Security Testing",
+      "card_code": "31024"
+    },
+    {
+      "type": "card",
+      "start": 157,
+      "end": 168,
+      "target": "Showing Off",
+      "card_code": "07034"
+    },
+    {
+      "type": "ref",
+      "start": 202,
+      "end": 213,
+      "ids": [
+        "step_breach"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "card",
+      "start": 310,
+      "end": 326,
+      "target": "Security Testing",
+      "card_code": "31024"
+    },
+    {
+      "type": "card",
+      "start": 343,
+      "end": 354,
+      "target": "Showing Off",
+      "card_code": "07034"
+    },
+    {
+      "type": "card",
+      "start": 380,
+      "end": 396,
+      "target": "Security Testing",
+      "card_code": "31024"
+    },
+    {
+      "type": "card",
+      "start": 404,
+      "end": 415,
+      "target": "Showing Off",
+      "card_code": "07034"
+    },
+    {
+      "type": "card",
+      "start": 492,
+      "end": 503,
+      "target": "Showing Off",
+      "card_code": "07034"
+    },
+    {
+      "type": "card",
+      "start": 590,
+      "end": 606,
+      "target": "Security Testing",
+      "card_code": "31024"
+    },
+    {
+      "type": "symbol",
+      "start": 692,
+      "end": 695,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

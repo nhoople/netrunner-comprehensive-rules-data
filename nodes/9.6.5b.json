@@ -1,0 +1,45 @@
+{
+  "id": "rule_condition_only_met_while_active",
+  "kind": "rule",
+  "number": "9.6.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trigger_description",
+  "child_ids": [
+    "rule_condition_only_met_while_active__example_1",
+    "rule_condition_only_met_while_active__example_2"
+  ],
+  "text_markup": "A conditional ability can only recognize its trigger condition occurring if the ability is active at the time the effect or game state that meets its trigger condition is processed by {ref:step_checkpoint_conditional_abilities} of a checkpoint. If a conditional ability becomes active after its trigger condition was met and a checkpoint has occurred, that ability does not become pending, even if a reaction window associated with that condition is open.",
+  "text_plain": "A conditional ability can only recognize its trigger condition occurring if the ability is active at the time the effect or game state that meets its trigger condition is processed by step 10.3.1a of a checkpoint. If a conditional ability becomes active after its trigger condition was met and a checkpoint has occurred, that ability does not become pending, even if a reaction window associated with that condition is open.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 184,
+      "end": 196,
+      "ids": [
+        "step_checkpoint_conditional_abilities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_condition_only_met_while_active__example_1",
+      "text_markup": "The Corp is resolving their \"turn begins\" abilities, and they trash {card:Reaper Function} to do 2 net damage. This trashing allows the Corp to use the ability on {card:Ob Superheavy Logistics} to install and rez {card:Nico Campaign}. The Corp cannot take credits from {card:Nico Campaign} this turn because the \"turn begins\" trigger condition has already been processed.",
+      "text_plain": "The Corp is resolving their \"turn begins\" abilities, and they trash Reaper Function to do 2 net damage. This trashing allows the Corp to use the ability on Ob Superheavy Logistics to install and rez Nico Campaign. The Corp cannot take credits from Nico Campaign this turn because the \"turn begins\" trigger condition has already been processed.",
+      "is_new": false
+    },
+    {
+      "id": "rule_condition_only_met_while_active__example_2",
+      "text_markup": "The Corp uses {card:Architect Deployment Test} to install and rez a copy of {card:Tranquility Home Grid}, which is the first card installed this turn. After completing the installation from this effect, the Corp pays the rez cost of {card:Tranquility Home Grid}. Since {card:Architect Deployment Test} specified that all costs are ignored, the rez cost is reduced to 0 (see {ref:rule_ignore_all_costs}), but this step still happens and is still followed by a checkpoint (see {ref:rule_cost_checkpoint_cost_zero}). This is the checkpoint that processes that a card was installed, but {card:Tranquility Home Grid} is not yet active and an instance of its ability cannot be created. After the checkpoint and any corresponding reaction window, the Corp finishes rezzing {card:Tranquility Home Grid} and it becomes active.",
+      "text_plain": "The Corp uses Architect Deployment Test to install and rez a copy of Tranquility Home Grid, which is the first card installed this turn. After completing the installation from this effect, the Corp pays the rez cost of Tranquility Home Grid. Since Architect Deployment Test specified that all costs are ignored, the rez cost is reduced to 0 (see rule 1.16.5c), but this step still happens and is still followed by a checkpoint (see rule 1.16.3a). This is the checkpoint that processes that a card was installed, but Tranquility Home Grid is not yet active and an instance of its ability cannot be created. After the checkpoint and any corresponding reaction window, the Corp finishes rezzing Tranquility Home Grid and it becomes active.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_condition_only_met_while_active"
+}

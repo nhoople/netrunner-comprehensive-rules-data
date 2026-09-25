@@ -1,0 +1,31 @@
+{
+  "id": "sec_relevant_interrupts",
+  "kind": "subsection",
+  "number": "9.9.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interrupts_replacements",
+  "child_ids": [
+    "rule_prevent_relevant",
+    "rule_modify_value_relevant",
+    "rule_replacement_effect_relevant",
+    "rule_would_relevant"
+  ],
+  "text_markup": "In order to trigger an interrupt, it must be {term:relevant} to an imminent instruction. An interrupt is relevant to an instruction if at least one of the following is true:",
+  "text_plain": "In order to trigger an interrupt, it must be relevant to an imminent instruction. An interrupt is relevant to an instruction if at least one of the following is true:",
+  "spans": [
+    {
+      "type": "term",
+      "start": 45,
+      "end": 53,
+      "target": "relevant"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_relevant_interrupts"
+}

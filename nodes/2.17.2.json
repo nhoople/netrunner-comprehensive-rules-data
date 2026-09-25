@@ -1,0 +1,26 @@
+{
+  "id": "rule_flavor_text",
+  "kind": "rule",
+  "number": "2.17.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_text_box",
+  "child_ids": [],
+  "text_markup": "Many cards have italicised text written after their game text. This is {term:flavor text}, and has no effect on the game or the function of the card, nor can other abilities reference or interact with it.",
+  "text_plain": "Many cards have italicised text written after their game text. This is flavor text, and has no effect on the game or the function of the card, nor can other abilities reference or interact with it.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 71,
+      "end": 82,
+      "target": "flavor text"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_flavor_text"
+}

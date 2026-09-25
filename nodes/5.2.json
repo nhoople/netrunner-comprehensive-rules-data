@@ -1,0 +1,27 @@
+{
+  "id": "sec_actions",
+  "kind": "section",
+  "number": "5.2",
+  "ref_type": "section",
+  "title": "Actions",
+  "parent_id": "chpt_turns",
+  "child_ids": [
+    "rule_action_definition",
+    "rule_initiate_action",
+    "rule_basic_actions",
+    "rule_actions_outside_action_phase",
+    "rule_same_different_actions",
+    "rule_corp_actions",
+    "rule_runner_actions"
+  ],
+  "text_markup": "Actions",
+  "text_plain": "Actions",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_actions"
+}

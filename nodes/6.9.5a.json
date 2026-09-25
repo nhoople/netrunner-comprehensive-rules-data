@@ -1,0 +1,19 @@
+{
+  "id": "step_run_declared_successful",
+  "kind": "rule",
+  "number": "6.9.5a",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_success_phase",
+  "child_ids": [],
+  "text_markup": "The run is declared successful. Conditions related to a successful run are met.",
+  "text_plain": "The run is declared successful. Conditions related to a successful run are met.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_run_declared_successful"
+}

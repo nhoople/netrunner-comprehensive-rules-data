@@ -1,0 +1,24 @@
+{
+  "id": "subsec_consoles",
+  "kind": "subsection",
+  "number": "3.8.5",
+  "ref_type": "section",
+  "title": "Consoles",
+  "parent_id": "sec_hardware",
+  "child_ids": [
+    "rule_hardware_console",
+    "rule_install_console",
+    "rule_console_limitation",
+    "rule_console_limitation_active"
+  ],
+  "text_markup": "Consoles",
+  "text_plain": "Consoles",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_consoles"
+}

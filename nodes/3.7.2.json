@@ -1,0 +1,29 @@
+{
+  "id": "rule_event_play_cost",
+  "kind": "rule",
+  "number": "3.7.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_events",
+  "child_ids": [],
+  "text_markup": "Events are the only Runner cards with play costs. An event's play cost is the number of credits the Runner must spend to play the event. See {ref:sec_playing_events_and_operations}.",
+  "text_plain": "Events are the only Runner cards with play costs. An event's play cost is the number of credits the Runner must spend to play the event. See section 8.6.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 141,
+      "end": 152,
+      "ids": [
+        "sec_playing_events_and_operations"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_event_play_cost"
+}

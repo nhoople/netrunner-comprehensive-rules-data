@@ -1,0 +1,28 @@
+{
+  "id": "rule_lingering_effect_maintaining_choice_default_duration",
+  "kind": "rule",
+  "number": "9.10.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_lingering_effect_maintain_choice",
+  "child_ids": [
+    "rule_lingering_effect_maintaining_choice_default_duration__example_1"
+  ],
+  "text_markup": "If the choice is only referred to by another lingering effect, the lingering effect maintaining the choice has the same duration as the other lingering effect.",
+  "text_plain": "If the choice is only referred to by another lingering effect, the lingering effect maintaining the choice has the same duration as the other lingering effect.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_lingering_effect_maintaining_choice_default_duration__example_1",
+      "text_markup": "The Runner resolves {card:Pelangi}'s paid ability and chooses an ice subtype. The ability then creates a lingering effect adding the chosen subtype to the encountered ice. Both the choice of subtype and the effect adding it to the ice expire at the end of the encounter.",
+      "text_plain": "The Runner resolves Pelangi's paid ability and chooses an ice subtype. The ability then creates a lingering effect adding the chosen subtype to the encountered ice. Both the choice of subtype and the effect adding it to the ice expire at the end of the encounter.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_lingering_effect_maintaining_choice_default_duration"
+}

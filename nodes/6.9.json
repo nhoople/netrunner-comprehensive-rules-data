@@ -1,0 +1,26 @@
+{
+  "id": "sec_steps_of_a_run",
+  "kind": "section",
+  "number": "6.9",
+  "ref_type": "section",
+  "title": "Steps of a Run",
+  "parent_id": "chpt_runs",
+  "child_ids": [
+    "rule_sec_run_initiation_phase",
+    "rule_sec_run_approach_ice_phase",
+    "rule_sec_run_encounter_ice_phase",
+    "rule_sec_run_movement_phase",
+    "rule_sec_run_success_phase",
+    "rule_sec_run_run_ends_phase"
+  ],
+  "text_markup": "Steps of a Run",
+  "text_plain": "Steps of a Run",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_steps_of_a_run"
+}

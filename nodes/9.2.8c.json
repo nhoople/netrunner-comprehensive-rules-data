@@ -1,0 +1,19 @@
+{
+  "id": "rule_reaction_window_options",
+  "kind": "rule",
+  "number": "9.2.8c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_reaction_window",
+  "child_ids": [],
+  "text_markup": "During a reaction window, the player with priority has the option to trigger a pending conditional ability they control that is associated with that window.",
+  "text_plain": "During a reaction window, the player with priority has the option to trigger a pending conditional ability they control that is associated with that window.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_reaction_window_options"
+}

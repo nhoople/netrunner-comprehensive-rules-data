@@ -1,0 +1,19 @@
+{
+  "id": "rule_ability_controller_specified",
+  "kind": "rule",
+  "number": "1.14.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_controller_ability",
+  "child_ids": [],
+  "text_markup": "Some abilities state that they can only be used by a specific player. The specified player controls each such ability, even if they do not control its source.",
+  "text_plain": "Some abilities state that they can only be used by a specific player. The specified player controls each such ability, even if they do not control its source.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ability_controller_specified"
+}

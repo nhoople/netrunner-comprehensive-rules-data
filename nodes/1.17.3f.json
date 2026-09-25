@@ -1,0 +1,29 @@
+{
+  "id": "rule_added_agendas_not_scored_or_stolen",
+  "kind": "rule",
+  "number": "1.17.3f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_score_steal",
+  "child_ids": [],
+  "text_markup": "If an effect causes another card to be added to a score area \"as an agenda\", the newly converted agenda is not considered scored or stolen. See {ref:rule_add_card_to_score_area}.",
+  "text_plain": "If an effect causes another card to be added to a score area \"as an agenda\", the newly converted agenda is not considered scored or stolen. See rule 10.1.3.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 144,
+      "end": 155,
+      "ids": [
+        "rule_add_card_to_score_area"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_added_agendas_not_scored_or_stolen"
+}

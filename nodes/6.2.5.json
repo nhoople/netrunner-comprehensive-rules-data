@@ -1,0 +1,25 @@
+{
+  "id": "rule_position_runner",
+  "kind": "subsection",
+  "number": "6.2.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_position",
+  "child_ids": [
+    "rule_position_initial",
+    "rule_position_progression",
+    "rule_no_position_after_innermost_ice",
+    "rule_no_position_after_approach_server",
+    "rule_no_position_outside_run"
+  ],
+  "text_markup": "During a run, the Runner occupies the attacked server's positions.",
+  "text_plain": "During a run, the Runner occupies the attacked server's positions.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_position_runner"
+}

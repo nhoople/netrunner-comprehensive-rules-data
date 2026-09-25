@@ -1,0 +1,31 @@
+{
+  "id": "rule_install_and_rez",
+  "kind": "subsection",
+  "number": "8.5.15",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [
+    "rule_install_and_rez_one_at_a_time"
+  ],
+  "text_markup": "Some abilities instruct the Corp to \"install and rez\" a card. To resolve this instruction, the Corp first installs the card normally. After the installation is complete, the Corp rezzes the card. See also {ref:rule_reveal_for_install_and_rez}.",
+  "text_plain": "Some abilities instruct the Corp to \"install and rez\" a card. To resolve this instruction, the Corp first installs the card normally. After the installation is complete, the Corp rezzes the card. See also rule 8.5.13d.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 205,
+      "end": 217,
+      "ids": [
+        "rule_reveal_for_install_and_rez"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_and_rez"
+}

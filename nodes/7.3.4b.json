@@ -1,0 +1,27 @@
+{
+  "id": "rule_corp_choosing_candidates_breaching_hq",
+  "kind": "rule",
+  "number": "7.3.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_candidates_presented",
+  "child_ids": [],
+  "text_markup": "One card, {card:Dedicated Neural Net}, instructs the Corp to choose which cards the Runner accesses from HQ. While this effect applies, the Runner still chooses candidates that are not in the Corp's hand as normal. Whenever the Runner chooses to access a candidate from the Corp's hand, instead of a candidate being chosen at random, the Corp chooses 1 of those candidates for the Runner to access. The chosen card is still treated as though the Runner had chosen it.",
+  "text_plain": "One card, Dedicated Neural Net, instructs the Corp to choose which cards the Runner accesses from HQ. While this effect applies, the Runner still chooses candidates that are not in the Corp's hand as normal. Whenever the Runner chooses to access a candidate from the Corp's hand, instead of a candidate being chosen at random, the Corp chooses 1 of those candidates for the Runner to access. The chosen card is still treated as though the Runner had chosen it.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 30,
+      "target": "Dedicated Neural Net",
+      "card_code": "10088"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_choosing_candidates_breaching_hq"
+}

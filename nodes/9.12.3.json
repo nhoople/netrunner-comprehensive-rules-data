@@ -1,0 +1,25 @@
+{
+  "id": "subsec_must",
+  "kind": "subsection",
+  "number": "9.12.3",
+  "ref_type": "section",
+  "title": "Must",
+  "parent_id": "sec_other_rules_and_terminology",
+  "child_ids": [
+    "rule_must_with_choice",
+    "rule_must_without_choice",
+    "rule_mandatory_choice",
+    "rule_mandatory_choice_effects_can_be_modified",
+    "rule_must_cannot_force_additional_cost"
+  ],
+  "text_markup": "Must",
+  "text_plain": "Must",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_must"
+}

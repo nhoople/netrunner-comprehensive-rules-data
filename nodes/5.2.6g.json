@@ -1,0 +1,41 @@
+{
+  "id": "corp_basic_action_trash_resource",
+  "kind": "rule",
+  "number": "5.2.6g",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_corp_actions",
+  "child_ids": [],
+  "text_markup": "\"[click], 2[c]: Trash 1 resource. Take this action only if the Runner is tagged.\" See {ref:sec_tags}.",
+  "text_plain": "\"{click}, 2{c}: Trash 1 resource. Take this action only if the Runner is tagged.\" See section 10.5.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 1,
+      "end": 8,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 11,
+      "end": 14,
+      "target": "credit"
+    },
+    {
+      "type": "ref",
+      "start": 86,
+      "end": 98,
+      "ids": [
+        "sec_tags"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=corp_basic_action_trash_resource"
+}

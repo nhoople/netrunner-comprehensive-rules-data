@@ -1,0 +1,34 @@
+{
+  "id": "rule_action_definition",
+  "kind": "subsection",
+  "number": "5.2.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_actions",
+  "child_ids": [
+    "rule_costs_with_click"
+  ],
+  "text_markup": "An {term:action} is any paid ability where the cost begins with a [click] symbol.",
+  "text_plain": "An action is any paid ability where the cost begins with a {click} symbol.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 9,
+      "target": "action"
+    },
+    {
+      "type": "symbol",
+      "start": 59,
+      "end": 66,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_action_definition"
+}

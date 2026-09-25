@@ -1,0 +1,29 @@
+{
+  "id": "rule_replacement_effects_apply_as_interrupt_window_opens",
+  "kind": "rule",
+  "number": "9.9.9b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_applying_replacement_effects",
+  "child_ids": [],
+  "text_markup": "If an active replacement effect can apply to the expected effects of an imminent instruction, it is applied as the interrupt window opens, and the expected effects of the instruction are updated accordingly. This happens before the expected effects are checked for relevant active abilities that could become pending. Replacement effects created by interrupts will not yet be active at this time and are applied according to {ref:rule_replace_imminent_effects} instead.",
+  "text_plain": "If an active replacement effect can apply to the expected effects of an imminent instruction, it is applied as the interrupt window opens, and the expected effects of the instruction are updated accordingly. This happens before the expected effects are checked for relevant active abilities that could become pending. Replacement effects created by interrupts will not yet be active at this time and are applied according to rule 9.9.10 instead.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 425,
+      "end": 436,
+      "ids": [
+        "rule_replace_imminent_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_replacement_effects_apply_as_interrupt_window_opens"
+}

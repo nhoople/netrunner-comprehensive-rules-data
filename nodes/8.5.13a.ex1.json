@@ -1,0 +1,19 @@
+{
+  "id": "rule_no_reveal_for_default_install__example_1",
+  "kind": "example",
+  "number": "8.5.13a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_no_reveal_for_default_install",
+  "child_ids": [],
+  "text_markup": "The Corp controls a remote server with a facedown card in its root, and uses a basic action to install another card into that root. To satisfy the rules, the new card must be an asset, upgrade, or agenda, since those are the only card types that can normally be installed in the root of a remote server. Additionally, at least one of the two cards must be an upgrade, since there can only be at most 1 asset or agenda in the root of a server. However, the Corp does not reveal cards to verify either of these properties.",
+  "text_plain": "The Corp controls a remote server with a facedown card in its root, and uses a basic action to install another card into that root. To satisfy the rules, the new card must be an asset, upgrade, or agenda, since those are the only card types that can normally be installed in the root of a remote server. Additionally, at least one of the two cards must be an upgrade, since there can only be at most 1 asset or agenda in the root of a server. However, the Corp does not reveal cards to verify either of these properties.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "rule_paid_ability_window_occurrence",
+  "kind": "rule",
+  "number": "9.2.7g",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_paid_ability_window",
+  "child_ids": [],
+  "text_markup": "Paid ability windows occur throughout the timing steps of turns and runs. {ref:Sec_steps_corp_turn,sec_steps_runner_turn,sec_steps_of_a_run} detail those steps and indicate which options are available in which windows. {ref:Chpt_appendix_timing_structures} also contains a summarized version of these steps.",
+  "text_plain": "Paid ability windows occur throughout the timing steps of turns and runs. Sections 5.6, 5.7 and 6.9 detail those steps and indicate which options are available in which windows. Section 11 also contains a summarized version of these steps.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 74,
+      "end": 99,
+      "ids": [
+        "sec_steps_corp_turn",
+        "sec_steps_runner_turn",
+        "sec_steps_of_a_run"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 178,
+      "end": 188,
+      "ids": [
+        "chpt_appendix_timing_structures"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_paid_ability_window_occurrence"
+}

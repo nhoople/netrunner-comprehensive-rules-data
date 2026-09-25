@@ -1,0 +1,19 @@
+{
+  "id": "rule_additional_identities_pile",
+  "kind": "rule",
+  "number": "1.5.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_additional_identity",
+  "child_ids": [],
+  "text_markup": "A player may bring any number of additional Runner identity cards along with their deck. These cards are kept in a pile outside the game. The Runner may look at these cards at any time.",
+  "text_plain": "A player may bring any number of additional Runner identity cards along with their deck. These cards are kept in a pile outside the game. The Runner may look at these cards at any time.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_additional_identities_pile"
+}

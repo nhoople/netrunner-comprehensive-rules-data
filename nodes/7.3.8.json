@@ -1,0 +1,28 @@
+{
+  "id": "rule_consecutive_breaches",
+  "kind": "rule",
+  "number": "7.3.8",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_breaching_servers",
+  "child_ids": [
+    "rule_consecutive_breaches__example_1"
+  ],
+  "text_markup": "If a server would be breached while a breach is already in progress, instead the new breach takes place when the current breach ends. The effect creating the delayed breach is treated as a conditional ability controlled by the Runner.",
+  "text_plain": "If a server would be breached while a breach is already in progress, instead the new breach takes place when the current breach ends. The effect creating the delayed breach is treated as a conditional ability controlled by the Runner.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_consecutive_breaches__example_1",
+      "text_markup": "The Runner steals {card:Clone Retirement} during a breach of HQ, causing the Corp to take bad publicity. The Runner must complete the current breach before beginning the breach granted from {card:Raymond Flint}'s first ability.",
+      "text_plain": "The Runner steals Clone Retirement during a breach of HQ, causing the Corp to take bad publicity. The Runner must complete the current breach before beginning the breach granted from Raymond Flint's first ability.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_consecutive_breaches"
+}

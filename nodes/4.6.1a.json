@@ -1,0 +1,29 @@
+{
+  "id": "rule_play_area_start_game",
+  "kind": "rule",
+  "number": "4.6.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_area",
+  "child_ids": [],
+  "text_markup": "{ref:Sec_extra_cards} details cases where an ability may cause cards to start the game in the play area.",
+  "text_plain": "Section 1.5 details cases where an ability may cause cards to start the game in the play area.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 0,
+      "end": 11,
+      "ids": [
+        "sec_extra_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_start_game"
+}

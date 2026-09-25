@@ -1,0 +1,62 @@
+{
+  "id": "rule_additonal_cost_simultaenous__example_1",
+  "kind": "example",
+  "number": "1.16.10b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_additonal_cost_simultaenous",
+  "child_ids": [],
+  "text_markup": "The Runner accesses {card:Obokata Protocol} while {card:Ben Musashi} and {card:Predictive Algorithm} are both active. The Runner must be able to pay 2 credits and suffer 6 net damage all at once in order to steal the {card:Obokata Protocol}, even though each of the three costs are from different card abilities. After all costs have been paid, abilities that meet their trigger conditions from the paying of any of those costs, such as {card:I've Had Worse} or {card:Order of Sol}, can then resolve as applicable.",
+  "text_plain": "The Runner accesses Obokata Protocol while Ben Musashi and Predictive Algorithm are both active. The Runner must be able to pay 2 credits and suffer 6 net damage all at once in order to steal the Obokata Protocol, even though each of the three costs are from different card abilities. After all costs have been paid, abilities that meet their trigger conditions from the paying of any of those costs, such as I've Had Worse or Order of Sol, can then resolve as applicable.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 36,
+      "target": "Obokata Protocol",
+      "card_code": "12070"
+    },
+    {
+      "type": "card",
+      "start": 43,
+      "end": 54,
+      "target": "Ben Musashi",
+      "card_code": "12054"
+    },
+    {
+      "type": "card",
+      "start": 59,
+      "end": 79,
+      "target": "Predictive Algorithm",
+      "card_code": "08017"
+    },
+    {
+      "type": "card",
+      "start": 196,
+      "end": 212,
+      "target": "Obokata Protocol",
+      "card_code": "12070"
+    },
+    {
+      "type": "card",
+      "start": 409,
+      "end": 423,
+      "target": "I've Had Worse",
+      "card_code": "07032"
+    },
+    {
+      "type": "card",
+      "start": 427,
+      "end": 439,
+      "target": "Order of Sol",
+      "card_code": "06058"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

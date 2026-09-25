@@ -1,0 +1,29 @@
+{
+  "id": "rule_set_aside_hosted_counters_trash_ability",
+  "kind": "rule",
+  "number": "4.8.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_set_aside",
+  "child_ids": [],
+  "text_markup": "Some paid abilities with a trigger cost that uninstalls or forfeits the ability's source card need to refer to or act on that card's hosted cards or counters. These abilities set aside the hosted cards or counters as the trigger cost is paid. See {ref:rule_trash_ability_keeps_track_of_hosted_objects}.",
+  "text_plain": "Some paid abilities with a trigger cost that uninstalls or forfeits the ability's source card need to refer to or act on that card's hosted cards or counters. These abilities set aside the hosted cards or counters as the trigger cost is paid. See rule 9.5.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 247,
+      "end": 257,
+      "ids": [
+        "rule_trash_ability_keeps_track_of_hosted_objects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_set_aside_hosted_counters_trash_ability"
+}

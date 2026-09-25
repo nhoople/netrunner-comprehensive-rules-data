@@ -1,0 +1,19 @@
+{
+  "id": "step_corp_turn_discard",
+  "kind": "rule",
+  "number": "5.6.3a",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "subsec_corp_discard_phase",
+  "child_ids": [],
+  "text_markup": "The Corp discards cards to reach their maximum hand size.",
+  "text_plain": "The Corp discards cards to reach their maximum hand size.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_corp_turn_discard"
+}

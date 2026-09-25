@@ -1,0 +1,19 @@
+{
+  "id": "step_pass_ice",
+  "kind": "rule",
+  "number": "6.9.4a",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_movement_phase",
+  "child_ids": [],
+  "text_markup": "If the Runner's position corresponds to a piece of ice, the Runner passes that ice. Conditions related to passing ice are met. If there are no positions more inward than the ice just passed, conditions related to passing all of the ice protecting a server are also met.",
+  "text_plain": "If the Runner's position corresponds to a piece of ice, the Runner passes that ice. Conditions related to passing ice are met. If there are no positions more inward than the ice just passed, conditions related to passing all of the ice protecting a server are also met.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_pass_ice"
+}

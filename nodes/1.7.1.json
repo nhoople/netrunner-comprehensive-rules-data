@@ -1,0 +1,21 @@
+{
+  "id": "rule_game_end",
+  "kind": "subsection",
+  "number": "1.7.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_ending_the_game",
+  "child_ids": [
+    "rule_simultaneous_win"
+  ],
+  "text_markup": "The game ends when a player meets one of their win conditions.",
+  "text_plain": "The game ends when a player meets one of their win conditions.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_game_end"
+}

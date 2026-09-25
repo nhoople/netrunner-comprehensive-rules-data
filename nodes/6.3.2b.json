@@ -1,0 +1,19 @@
+{
+  "id": "rule_additional_cost_to_run",
+  "kind": "rule",
+  "number": "6.3.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_start_initiation_phase",
+  "child_ids": [],
+  "text_markup": "Some abilities impose an additional cost to run, either generally or on a particular server. Any costs to run a server must be paid at the time that server is announced as the attacked server.",
+  "text_plain": "Some abilities impose an additional cost to run, either generally or on a particular server. Any costs to run a server must be paid at the time that server is announced as the attacked server.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_additional_cost_to_run"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "rule_host_via_install",
+  "kind": "rule",
+  "number": "1.13.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_host_relationship",
+  "child_ids": [
+    "rule_host_via_install__example_1"
+  ],
+  "text_markup": "If a card has an ability describing the types and/or numbers of cards it can host, but it does not have an ability that directly hosts cards onto itself, then the card is permitted as an eligible installation destination for the types of cards listed, up to the number specified. A host card is chosen as an installation destination during {ref:rule_steps_installing_destination} of the installation process.",
+  "text_plain": "If a card has an ability describing the types and/or numbers of cards it can host, but it does not have an ability that directly hosts cards onto itself, then the card is permitted as an eligible installation destination for the types of cards listed, up to the number specified. A host card is chosen as an installation destination during step 8.5.16b of the installation process.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 340,
+      "end": 352,
+      "ids": [
+        "rule_steps_installing_destination"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_host_via_install__example_1",
+      "text_markup": "{card:Off-Campus Apartment} has the ability, \"{card:Off-Campus Apartment} can host any number of {subtype:connections}.\" This means that whenever the Runner installs a {subtype:connection} card, they can choose to install that card into the play area hosted on {card:Off-Campus Apartment} or as normal directly into the play area.",
+      "text_plain": "Off-Campus Apartment has the ability, \"Off-Campus Apartment can host any number of connections.\" This means that whenever the Runner installs a connection card, they can choose to install that card into the play area hosted on Off-Campus Apartment or as normal directly into the play area.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_host_via_install"
+}

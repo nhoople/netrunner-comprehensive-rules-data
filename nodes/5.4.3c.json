@@ -1,0 +1,19 @@
+{
+  "id": "rule_terminal_completion",
+  "kind": "rule",
+  "number": "5.4.3c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_forced_action_phase_end",
+  "child_ids": [],
+  "text_markup": "Any currently resolving actions or abilities cease resolving and are considered complete.",
+  "text_plain": "Any currently resolving actions or abilities cease resolving and are considered complete.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_terminal_completion"
+}

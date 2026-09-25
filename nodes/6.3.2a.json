@@ -1,0 +1,28 @@
+{
+  "id": "rule_cannot_run_abilities",
+  "kind": "rule",
+  "number": "6.3.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_start_initiation_phase",
+  "child_ids": [
+    "rule_cannot_run_abilities__example_1"
+  ],
+  "text_markup": "Some abilities state that the Runner \"cannot run on\" or \"cannot initiate a run on\" certain servers under certain conditions. These effects refer to the announcement of the attacked server in the Initiation Phase.",
+  "text_plain": "Some abilities state that the Runner \"cannot run on\" or \"cannot initiate a run on\" certain servers under certain conditions. These effects refer to the announcement of the attacked server in the Initiation Phase.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_cannot_run_abilities__example_1",
+      "text_markup": "{card:Off the Grid} states in part, \"The Runner cannot initiate a run on this server.\" This only prohibits the Runner from announcing this particular remote server as the attacked server at the beginning of the run. If an ability changes the attacked server while a run is in progress, {card:Off the Grid} does not interfere with that ability.",
+      "text_plain": "Off the Grid states in part, \"The Runner cannot initiate a run on this server.\" This only prohibits the Runner from announcing this particular remote server as the attacked server at the beginning of the run. If an ability changes the attacked server while a run is in progress, Off the Grid does not interfere with that ability.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cannot_run_abilities"
+}

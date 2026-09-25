@@ -1,0 +1,31 @@
+{
+  "id": "rule_arrange_ice",
+  "kind": "subsection",
+  "number": "8.3.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_arranging_rearranging",
+  "child_ids": [
+    "rule_no_checkpoints_during_swaps"
+  ],
+  "text_markup": "When a player arranges a set of installed ice, that player carries out the arrangement by repeatedly choosing and swapping 2 pieces of ice. Each swap follows all the usual rules for swapping cards in {ref:sec_swapping_cards}.",
+  "text_plain": "When a player arranges a set of installed ice, that player carries out the arrangement by repeatedly choosing and swapping 2 pieces of ice. Each swap follows all the usual rules for swapping cards in section 8.8.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 200,
+      "end": 211,
+      "ids": [
+        "sec_swapping_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_arrange_ice"
+}

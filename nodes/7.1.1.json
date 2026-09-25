@@ -1,0 +1,26 @@
+{
+  "id": "rule_accessing",
+  "kind": "rule",
+  "number": "7.1.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_accessing_cards",
+  "child_ids": [],
+  "text_markup": "{term:Accessing} is the process of the Corp showing one of their cards to the Runner for potential interaction.",
+  "text_plain": "Accessing is the process of the Corp showing one of their cards to the Runner for potential interaction.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 9,
+      "target": "Accessing"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_accessing"
+}

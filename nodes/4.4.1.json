@@ -1,0 +1,26 @@
+{
+  "id": "rule_discard_pile",
+  "kind": "rule",
+  "number": "4.4.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_discard_pile",
+  "child_ids": [],
+  "text_markup": "A player's {term:discard pile} is the zone in which they place cards that have been trashed or discarded. Discard piles start the game empty.",
+  "text_plain": "A player's discard pile is the zone in which they place cards that have been trashed or discarded. Discard piles start the game empty.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 11,
+      "end": 23,
+      "target": "discard pile"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_discard_pile"
+}

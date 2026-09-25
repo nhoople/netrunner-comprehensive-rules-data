@@ -1,0 +1,34 @@
+{
+  "id": "rule_consecutive_breaches__example_1",
+  "kind": "example",
+  "number": "7.3.8.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_consecutive_breaches",
+  "child_ids": [],
+  "text_markup": "The Runner steals {card:Clone Retirement} during a breach of HQ, causing the Corp to take bad publicity. The Runner must complete the current breach before beginning the breach granted from {card:Raymond Flint}'s first ability.",
+  "text_plain": "The Runner steals Clone Retirement during a breach of HQ, causing the Corp to take bad publicity. The Runner must complete the current breach before beginning the breach granted from Raymond Flint's first ability.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 18,
+      "end": 34,
+      "target": "Clone Retirement",
+      "card_code": "04032"
+    },
+    {
+      "type": "card",
+      "start": 183,
+      "end": 196,
+      "target": "Raymond Flint",
+      "card_code": "04049"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

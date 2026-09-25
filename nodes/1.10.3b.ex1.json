@@ -1,0 +1,39 @@
+{
+  "id": "rule_lose_credits__example_1",
+  "kind": "example",
+  "number": "1.10.3b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_lose_credits",
+  "child_ids": [],
+  "text_markup": "If a subroutine on {card:DNA Tracker} resolves, the Runner must lose 2[c] from their credit pool, or 1[c] if that is all they have. If the Runner's credit pool is empty, the effect does nothing.",
+  "text_plain": "If a subroutine on DNA Tracker resolves, the Runner must lose 2{c} from their credit pool, or 1{c} if that is all they have. If the Runner's credit pool is empty, the effect does nothing.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 19,
+      "end": 30,
+      "target": "DNA Tracker",
+      "card_code": "11053"
+    },
+    {
+      "type": "symbol",
+      "start": 63,
+      "end": 66,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 95,
+      "end": 98,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

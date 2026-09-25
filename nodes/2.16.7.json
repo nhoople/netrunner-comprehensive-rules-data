@@ -1,0 +1,30 @@
+{
+  "id": "rule_subtypes_list",
+  "kind": "subsection",
+  "number": "2.16.7",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_subtypes",
+  "child_ids": [
+    "rule_identity_subtypes",
+    "rule_agenda_subtypes",
+    "rule_asset_subtypes",
+    "rule_ice_subtypes",
+    "rule_operation_subtypes",
+    "rule_upgrade_subtypes",
+    "rule_event_subtypes",
+    "rule_hardware_subtypes",
+    "rule_program_subtypes",
+    "rule_resource_subtypes"
+  ],
+  "text_markup": "Below is a list of all subtypes.",
+  "text_plain": "Below is a list of all subtypes.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subtypes_list"
+}

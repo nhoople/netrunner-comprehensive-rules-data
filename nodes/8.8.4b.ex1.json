@@ -1,0 +1,61 @@
+{
+  "id": "rule_swap_become_installed__example_1",
+  "kind": "example",
+  "number": "8.8.4b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_swap_become_installed",
+  "child_ids": [],
+  "text_markup": "The Corp is playing {card:A Teia: IP Recovery} and has {card:Tatu-Bola} protecting a remote server. The Runner runs that server and passes {card:Tatu-Bola}. The Corp swaps it with a piece of ice from HQ. After the swap, the Corp can use {card:A Teia}'s ability to install a card in the root of another remote server. They then continue resolving the next instruction of {card:Tatu-Bola}'s ability, gaining 4[c].",
+  "text_plain": "The Corp is playing A Teia: IP Recovery and has Tatu-Bola protecting a remote server. The Runner runs that server and passes Tatu-Bola. The Corp swaps it with a piece of ice from HQ. After the swap, the Corp can use A Teia's ability to install a card in the root of another remote server. They then continue resolving the next instruction of Tatu-Bola's ability, gaining 4{c}.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 39,
+      "target": "A Teia: IP Recovery",
+      "card_code": "34039"
+    },
+    {
+      "type": "card",
+      "start": 48,
+      "end": 57,
+      "target": "Tatu-Bola",
+      "card_code": "34044"
+    },
+    {
+      "type": "card",
+      "start": 125,
+      "end": 134,
+      "target": "Tatu-Bola",
+      "card_code": "34044"
+    },
+    {
+      "type": "card",
+      "start": 216,
+      "end": 222,
+      "target": "A Teia",
+      "card_code": "34039"
+    },
+    {
+      "type": "card",
+      "start": 342,
+      "end": 351,
+      "target": "Tatu-Bola",
+      "card_code": "34044"
+    },
+    {
+      "type": "symbol",
+      "start": 372,
+      "end": 375,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

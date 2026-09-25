@@ -1,0 +1,30 @@
+{
+  "id": "rule_condition",
+  "kind": "subsection",
+  "number": "9.3.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interpreting_card_text",
+  "child_ids": [
+    "rule_cost_condition",
+    "rule_trigger_condition",
+    "rule_static_condition"
+  ],
+  "text_markup": "A {term:condition} is a unit of text that stipulates a requirement for when an ability's effects are allowed to apply.",
+  "text_plain": "A condition is a unit of text that stipulates a requirement for when an ability's effects are allowed to apply.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 11,
+      "target": "condition"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_condition"
+}

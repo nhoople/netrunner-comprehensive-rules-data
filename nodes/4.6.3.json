@@ -1,0 +1,29 @@
+{
+  "id": "rule_play_area_card_open_info",
+  "kind": "rule",
+  "number": "4.6.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_play_area",
+  "child_ids": [],
+  "text_markup": "Whether or not a card itself and its attributes are open information while in the play area is determined by the card's status. Cards that are faceup are open information and can be examined by any player at any time. Cards that are facedown are secret information and can only be examined by the player who controls the card. See {ref:sec_information}.",
+  "text_plain": "Whether or not a card itself and its attributes are open information while in the play area is determined by the card's status. Cards that are faceup are open information and can be examined by any player at any time. Cards that are facedown are secret information and can only be examined by the player who controls the card. See section 10.2.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 331,
+      "end": 343,
+      "ids": [
+        "sec_information"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_card_open_info"
+}

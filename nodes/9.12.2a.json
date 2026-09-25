@@ -1,0 +1,28 @@
+{
+  "id": "rule_act_on_multiple_cards",
+  "kind": "rule",
+  "number": "9.12.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_quantities_and_sets",
+  "child_ids": [
+    "rule_act_on_multiple_cards__example_1"
+  ],
+  "text_markup": "If an effect acts on a set of cards for a single purpose, then the effect acts on all of those cards together simultaneously rather than one at a time.",
+  "text_plain": "If an effect acts on a set of cards for a single purpose, then the effect acts on all of those cards together simultaneously rather than one at a time.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_act_on_multiple_cards__example_1",
+      "text_markup": "The Runner uses {card:Singularity} to simultaneously trash a rezzed {card:Warroid Tracker} and a rezzed {card:Hostile Infrastructure}. {card:Hostile Infrastructure} has a trigger condition of \"Whenever the Runner trashes a Corp card\", so it sees both trashed cards and becomes pending twice. By contrast, {card:Warroid Tracker} has a trigger condition of \"Whenever the Runner trashes at least 1 card…\", so it sees only a single event that trashed multiple cards. {card:Warroid Tracker}'s ability becomes pending only once.",
+      "text_plain": "The Runner uses Singularity to simultaneously trash a rezzed Warroid Tracker and a rezzed Hostile Infrastructure. Hostile Infrastructure has a trigger condition of \"Whenever the Runner trashes a Corp card\", so it sees both trashed cards and becomes pending twice. By contrast, Warroid Tracker has a trigger condition of \"Whenever the Runner trashes at least 1 card…\", so it sees only a single event that trashed multiple cards. Warroid Tracker's ability becomes pending only once.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_act_on_multiple_cards"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "rule_deck_ordered",
+  "kind": "subsection",
+  "number": "4.2.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_deck",
+  "child_ids": [
+    "rule_deck_order_while_searching"
+  ],
+  "text_markup": "Decks are ordered. The location of each card in a deck must be maintained except when a player is explicitly directed to manipulate the cards in a deck by a rule or card ability. See {ref:rule_deck_location}.",
+  "text_plain": "Decks are ordered. The location of each card in a deck must be maintained except when a player is explicitly directed to manipulate the cards in a deck by a rule or card ability. See rule 4.1.7a.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 183,
+      "end": 194,
+      "ids": [
+        "rule_deck_location"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_deck_ordered"
+}

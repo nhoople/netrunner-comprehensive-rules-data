@@ -1,0 +1,41 @@
+{
+  "id": "rule_number_of_accesses",
+  "kind": "rule",
+  "number": "7.3.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_breaching_servers",
+  "child_ids": [
+    "rule_number_of_accesses__example_1",
+    "rule_number_of_accesses__example_2"
+  ],
+  "text_markup": "{n}Some abilities count accesses in order to establish a quantity. An ability that counts in this way only includes accesses that are actually performed.{/n}",
+  "text_plain": "Some abilities count accesses in order to establish a quantity. An ability that counts in this way only includes accesses that are actually performed.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 0,
+      "end": 150
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_number_of_accesses__example_1",
+      "text_markup": "The Runner uses {card:Hades Shard} to breach Archives during a run on HQ. For 1 of the accesses in that breach, after choosing a candidate, they use {card:Archives Interface} to apply a replacement effect, removing the chosen candidate from the game instead of accessing it. When the run ends, the Runner uses {card:Zahya Sadeghi: Versatile Smuggler} to gain 1[c] for each time they accessed a card during the run. The access that was replaced does not contribute to the number of credits the Runner gains.",
+      "text_plain": "The Runner uses Hades Shard to breach Archives during a run on HQ. For 1 of the accesses in that breach, after choosing a candidate, they use Archives Interface to apply a replacement effect, removing the chosen candidate from the game instead of accessing it. When the run ends, the Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1{c} for each time they accessed a card during the run. The access that was replaced does not contribute to the number of credits the Runner gains.",
+      "is_new": true
+    },
+    {
+      "id": "rule_number_of_accesses__example_2",
+      "text_markup": "The Runner plays {card:Immolation Script}, and the subroutine on {card:Hudson 1.0} resolves before Archives is breached. {n}When the Runner breaches Archives, the first candidate they choose is a piece of ice, and they apply the replacement effect from {card:Immolation Script} to trash a rezzed copy of the chosen ice instead of accessing the candidate copy. No card was actually accessed, so the Runner can proceed to choose another candidate. However, if the Runner had first accessed a card without applying {card:Immolation Script}'s replacement effect, they would then be prohibited from accessing any more cards, so there would be no more candidates to choose and they could not apply a replacement effect afterward.{/n}",
+      "text_plain": "The Runner plays Immolation Script, and the subroutine on Hudson 1.0 resolves before Archives is breached. When the Runner breaches Archives, the first candidate they choose is a piece of ice, and they apply the replacement effect from Immolation Script to trash a rezzed copy of the chosen ice instead of accessing the candidate copy. No card was actually accessed, so the Runner can proceed to choose another candidate. However, if the Runner had first accessed a card without applying Immolation Script's replacement effect, they would then be prohibited from accessing any more cards, so there would be no more candidates to choose and they could not apply a replacement effect afterward.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_number_of_accesses"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rule_agendas_not_rezzed",
+  "kind": "subsection",
+  "number": "3.2.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_agendas",
+  "child_ids": [
+    "rule_agendas_faceup",
+    "rule_advancemenet_requirements_modification"
+  ],
+  "text_markup": "Agendas cannot be rezzed and are inactive while installed. Agendas are active in the Corp's score area. Agendas are inactive in the Runner's score area unless the agenda's card text specifies otherwise. See {ref:sec_score_area}.",
+  "text_plain": "Agendas cannot be rezzed and are inactive while installed. Agendas are active in the Corp's score area. Agendas are inactive in the Runner's score area unless the agenda's card text specifies otherwise. See section 4.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 207,
+      "end": 218,
+      "ids": [
+        "sec_score_area"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_agendas_not_rezzed"
+}

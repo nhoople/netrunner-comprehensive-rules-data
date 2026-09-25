@@ -1,0 +1,31 @@
+{
+  "id": "rule_basic_trash_ability",
+  "kind": "subsection",
+  "number": "7.1.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_accessing_cards",
+  "child_ids": [
+    "rule_paying_trash_costs",
+    "rule_trash_in_archives",
+    "rule_access_installed_must_trash_if_able",
+    "rule_access_reveal_trash_if_able"
+  ],
+  "text_markup": "The Runner always has the ability \"Access → Pay the trash cost of the accessed card: Trash it.\" This is the {term:basic trash ability}.",
+  "text_plain": "The Runner always has the ability \"Access → Pay the trash cost of the accessed card: Trash it.\" This is the basic trash ability.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 108,
+      "end": 127,
+      "target": "basic trash ability"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_basic_trash_ability"
+}

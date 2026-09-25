@@ -1,0 +1,38 @@
+{
+  "id": "rule_adam",
+  "kind": "subsection",
+  "number": "1.5.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_extra_cards",
+  "child_ids": [
+    "rule_adam_different_directives",
+    "rule_adam_directives_install",
+    "rule_adam_directives_deck",
+    "rule_adam_directives_during_game"
+  ],
+  "text_markup": "One Runner identity, {card:Adam: Compulsive Hacker}, has the ability, \"You start the game with 3 different {subtype:directive} cards installed (these cards are not considered part of your deck).\"",
+  "text_plain": "One Runner identity, Adam: Compulsive Hacker, has the ability, \"You start the game with 3 different directive cards installed (these cards are not considered part of your deck).\"",
+  "spans": [
+    {
+      "type": "card",
+      "start": 21,
+      "end": 44,
+      "target": "Adam: Compulsive Hacker",
+      "card_code": "09037"
+    },
+    {
+      "type": "subtype",
+      "start": 100,
+      "end": 109,
+      "target": "directive"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_adam"
+}

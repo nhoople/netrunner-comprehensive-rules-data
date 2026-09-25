@@ -1,0 +1,29 @@
+{
+  "id": "rule_advancemenet_requirements_modification",
+  "kind": "rule",
+  "number": "3.2.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_agendas_not_rezzed",
+  "child_ids": [],
+  "text_markup": "Some agendas modify the requirements for stealing or scoring them. These abilities are always active, according to any restrictions or requirements specified. See {ref:rule_ability_active_inactive_source_card}.",
+  "text_plain": "Some agendas modify the requirements for stealing or scoring them. These abilities are always active, according to any restrictions or requirements specified. See section 9.1.8.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 163,
+      "end": 176,
+      "ids": [
+        "rule_ability_active_inactive_source_card"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_advancemenet_requirements_modification"
+}

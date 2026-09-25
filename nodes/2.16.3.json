@@ -1,0 +1,26 @@
+{
+  "id": "rule_lack_of_subtype",
+  "kind": "rule",
+  "number": "2.16.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_subtypes",
+  "child_ids": [],
+  "text_markup": "Some abilities reference cards by a lack of subtype, such as \"non-{subtype:virus}\". These abilities can only affect cards that do not have the specified subtype, regardless of any other subtypes the cards do have.",
+  "text_plain": "Some abilities reference cards by a lack of subtype, such as \"non-virus\". These abilities can only affect cards that do not have the specified subtype, regardless of any other subtypes the cards do have.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 66,
+      "end": 71,
+      "target": "virus"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_lack_of_subtype"
+}

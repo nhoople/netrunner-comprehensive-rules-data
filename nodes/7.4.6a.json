@@ -1,0 +1,34 @@
+{
+  "id": "rule_candidates_entering_root",
+  "kind": "rule",
+  "number": "7.4.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_candidates_entering_server",
+  "child_ids": [],
+  "text_markup": "If a card enters the root of a server during a breach of that server, the Runner decides whether that card becomes a candidate during {ref:step_checkpoint_card_entering_root_during_breach} of the next checkpoint. {n}If the Runner chooses for the card not to become a candidate, then that object cannot be a candidate for the remainder of the breach.{/n}",
+  "text_plain": "If a card enters the root of a server during a breach of that server, the Runner decides whether that card becomes a candidate during step 10.3.1j of the next checkpoint. If the Runner chooses for the card not to become a candidate, then that object cannot be a candidate for the remainder of the breach.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 134,
+      "end": 146,
+      "ids": [
+        "step_checkpoint_card_entering_root_during_breach"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "new",
+      "start": 171,
+      "end": 304
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_candidates_entering_root"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_before_turn_begins",
+  "kind": "rule",
+  "number": "5.1.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_begin_end_turn_step",
+  "child_ids": [],
+  "text_markup": "Some effects can occur before the \"turn begins\" step or after the \"turn ends\" step of a turn. The player whose turn timing structure is in progress is still the active player, and effects that apply during their turn are still applicable, even though their turn has not yet formally begun or has already formally ended.",
+  "text_plain": "Some effects can occur before the \"turn begins\" step or after the \"turn ends\" step of a turn. The player whose turn timing structure is in progress is still the active player, and effects that apply during their turn are still applicable, even though their turn has not yet formally begun or has already formally ended.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_before_turn_begins"
+}

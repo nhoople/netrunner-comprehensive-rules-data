@@ -1,0 +1,41 @@
+{
+  "id": "corp_basic_action_advance",
+  "kind": "rule",
+  "number": "5.2.6f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_corp_actions",
+  "child_ids": [],
+  "text_markup": "\"[click], 1[c]: Advance 1 installed card.\" See {ref:sec_advancing_cards}.",
+  "text_plain": "\"{click}, 1{c}: Advance 1 installed card.\" See section 1.18.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 1,
+      "end": 8,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 11,
+      "end": 14,
+      "target": "credit"
+    },
+    {
+      "type": "ref",
+      "start": 47,
+      "end": 59,
+      "ids": [
+        "sec_advancing_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=corp_basic_action_advance"
+}

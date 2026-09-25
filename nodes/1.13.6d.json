@@ -1,0 +1,29 @@
+{
+  "id": "rule_condition_counter",
+  "kind": "rule",
+  "number": "1.13.6d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_host_relationship",
+  "child_ids": [],
+  "text_markup": "Some operations and events convert themselves into condition counters and install themselves hosted onto other cards. An operation or event can never be installed through an install effect; it can only become an installed counter through its conversion ability. See {ref:rule_card_to_counter}.",
+  "text_plain": "Some operations and events convert themselves into condition counters and install themselves hosted onto other cards. An operation or event can never be installed through an install effect; it can only become an installed counter through its conversion ability. See rule 10.1.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 266,
+      "end": 277,
+      "ids": [
+        "rule_card_to_counter"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_condition_counter"
+}

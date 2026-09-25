@@ -1,0 +1,43 @@
+{
+  "id": "rule_expected_effects",
+  "kind": "subsection",
+  "number": "9.9.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interrupts_replacements",
+  "child_ids": [
+    "rule_expected_effects_resolve",
+    "rule_expected_effects__example_1",
+    "rule_expected_effects__example_2"
+  ],
+  "text_markup": "The {term:expected effects} of an imminent instruction are the effects described by the instruction's text, modified by any static abilities that affect it and any replacement effects or interrupt effects that have been applied. The expected effects of an instruction are continually updated throughout the interrupt window.",
+  "text_plain": "The expected effects of an imminent instruction are the effects described by the instruction's text, modified by any static abilities that affect it and any replacement effects or interrupt effects that have been applied. The expected effects of an instruction are continually updated throughout the interrupt window.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 20,
+      "target": "expected effects"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_expected_effects__example_1",
+      "text_markup": "The Runner plays {card:Process Automation} and the instruction \"Gain 2[c] and draw 1 card.\" becomes imminent. The expected effects of this instruction are that the Runner will gain 2[c] and draw 1 card.",
+      "text_plain": "The Runner plays Process Automation and the instruction \"Gain 2{c} and draw 1 card.\" becomes imminent. The expected effects of this instruction are that the Runner will gain 2{c} and draw 1 card.",
+      "is_new": false
+    },
+    {
+      "id": "rule_expected_effects__example_2",
+      "text_markup": "The Runner plays {card:Process Automation} after {card:Lockdown}'s subroutine resolves. The instruction \"Gain 2[c] and draw 1 card.\" becomes imminent, but the Runner cannot draw cards. The expected effect of this instruction is that the Runner will gain 2[c].",
+      "text_plain": "The Runner plays Process Automation after Lockdown's subroutine resolves. The instruction \"Gain 2{c} and draw 1 card.\" becomes imminent, but the Runner cannot draw cards. The expected effect of this instruction is that the Runner will gain 2{c}.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_expected_effects"
+}

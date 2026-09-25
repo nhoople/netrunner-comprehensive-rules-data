@@ -1,0 +1,19 @@
+{
+  "id": "rule_move_during_forced",
+  "kind": "rule",
+  "number": "6.5.9d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_forced_encounters",
+  "child_ids": [],
+  "text_markup": "During a forced encounter, if an ability moves the Runner or directs the Runner to approach a piece of ice, that movement resolves and changes the parameters of the underlying run normally, but does not end or interfere with the forced encounter.",
+  "text_plain": "During a forced encounter, if an ability moves the Runner or directs the Runner to approach a piece of ice, that movement resolves and changes the parameters of the underlying run normally, but does not end or interfere with the forced encounter.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_move_during_forced"
+}

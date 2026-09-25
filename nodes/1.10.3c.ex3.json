@@ -1,0 +1,40 @@
+{
+  "id": "rule_spend_credits__example_3",
+  "kind": "example",
+  "number": "1.10.3c.ex3",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_spend_credits",
+  "child_ids": [],
+  "text_markup": "The Runner must use credits from {card:Ghost Runner} if this is the only way for them to pay 3[c] when resolving the \"when encountered\" ability on {card:Tollbooth}.",
+  "text_plain": "The Runner must use credits from Ghost Runner if this is the only way for them to pay 3{c} when resolving the \"when encountered\" ability on Tollbooth.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 33,
+      "end": 45,
+      "target": "Ghost Runner",
+      "card_code": "06040"
+    },
+    {
+      "type": "symbol",
+      "start": 87,
+      "end": 90,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 140,
+      "end": 149,
+      "target": "Tollbooth",
+      "card_code": "31066"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

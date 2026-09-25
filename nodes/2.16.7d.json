@@ -1,0 +1,25 @@
+{
+  "id": "rule_ice_subtypes",
+  "kind": "rule",
+  "number": "2.16.7d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subtypes_list",
+  "child_ids": [],
+  "text_markup": "The ice subtypes are AP, Advertisement, Ambush, Barrier, Bioroid, Code Gate, Deep Net, Deflector, Destroyer, Expendable, Grail, Harmonic, {n}Liability{/n}, Morph, Mythic, NEXT, Observer, Psi, Sentry, Tracer, and Trap.",
+  "text_plain": "The ice subtypes are AP, Advertisement, Ambush, Barrier, Bioroid, Code Gate, Deep Net, Deflector, Destroyer, Expendable, Grail, Harmonic, Liability, Morph, Mythic, NEXT, Observer, Psi, Sentry, Tracer, and Trap.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 138,
+      "end": 147
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_subtypes"
+}

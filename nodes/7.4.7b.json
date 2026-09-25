@@ -1,0 +1,45 @@
+{
+  "id": "rule_rnd_access_from_bottom",
+  "kind": "rule",
+  "number": "7.4.7b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_rnd_candidates_1_at_a_time",
+  "child_ids": [],
+  "text_markup": "One card, {card:Showing Off}, allows the Runner to access cards from the bottom of R&D. While this effect applies, candidates in the Corp's deck are presented working up from the bottom: treat {ref:rule_candidates_in_rnd} as if it said \"bottom\" instead of \"top\" and {ref:rule_rnd_topmost_eligibile_candidate} as if it said \"bottommost\" instead of \"topmost\".",
+  "text_plain": "One card, Showing Off, allows the Runner to access cards from the bottom of R&D. While this effect applies, candidates in the Corp's deck are presented working up from the bottom: treat rule 7.4.1c as if it said \"bottom\" instead of \"top\" and rule 7.4.7a as if it said \"bottommost\" instead of \"topmost\".",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 21,
+      "target": "Showing Off",
+      "card_code": "07034"
+    },
+    {
+      "type": "ref",
+      "start": 186,
+      "end": 197,
+      "ids": [
+        "rule_candidates_in_rnd"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 242,
+      "end": 253,
+      "ids": [
+        "rule_rnd_topmost_eligibile_candidate"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rnd_access_from_bottom"
+}

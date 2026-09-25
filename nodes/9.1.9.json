@@ -1,0 +1,23 @@
+{
+  "id": "rule_gaining_losing_abilities",
+  "kind": "subsection",
+  "number": "9.1.9",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_abilities_general",
+  "child_ids": [
+    "rule_lose_ability",
+    "rule_determine_actual_abilities",
+    "rule_abilities_no_inherent_order"
+  ],
+  "text_markup": "Static abilities and lingering effects can make objects gain or lose abilities.",
+  "text_plain": "Static abilities and lingering effects can make objects gain or lose abilities.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_gaining_losing_abilities"
+}

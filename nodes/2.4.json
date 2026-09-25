@@ -1,0 +1,22 @@
+{
+  "id": "sec_adv_req",
+  "kind": "section",
+  "number": "2.4",
+  "ref_type": "section",
+  "title": "Advancement Requirement",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_adv_requirement_location",
+    "rule_adv_requirement_citation"
+  ],
+  "text_markup": "Advancement Requirement",
+  "text_plain": "Advancement Requirement",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_adv_req"
+}

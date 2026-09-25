@@ -1,0 +1,29 @@
+{
+  "id": "step_movement_complete",
+  "kind": "rule",
+  "number": "6.9.4h",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_movement_phase",
+  "child_ids": [],
+  "text_markup": "The Movement Phase is complete. Continue to {ref:rule_sec_run_success_phase}, Success Phase.",
+  "text_plain": "The Movement Phase is complete. Continue to step 6.9.5, Success Phase.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 44,
+      "end": 54,
+      "ids": [
+        "rule_sec_run_success_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_movement_complete"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_look_reveal_expose_access_distinct",
+  "kind": "rule",
+  "number": "1.21.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_visibility",
+  "child_ids": [],
+  "text_markup": "Effects that instruct a player to look at, reveal, expose, or access a card are not the same, even if they would be performed similarly at times. See {ref:chpt_access_breach} for more information on accessing.",
+  "text_plain": "Effects that instruct a player to look at, reveal, expose, or access a card are not the same, even if they would be performed similarly at times. See section 7 for more information on accessing.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 150,
+      "end": 159,
+      "ids": [
+        "chpt_access_breach"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_look_reveal_expose_access_distinct"
+}

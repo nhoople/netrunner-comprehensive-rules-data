@@ -1,0 +1,38 @@
+{
+  "id": "rule_delayed_conditional_ability_if_successful_duration",
+  "kind": "rule",
+  "number": "9.6.13a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_delayed_conditional_ability",
+  "child_ids": [],
+  "text_markup": "If an \"if successful\" ability contains a nested delayed conditional ability referring to breaching the attacked server, that ability applies to the breach at {ref:step_breach} of the run the \"if successful\" ability is associated with. Its duration expires at the end of the run. See {ref:rule_if_successful_lingering_effect}.",
+  "text_plain": "If an \"if successful\" ability contains a nested delayed conditional ability referring to breaching the attacked server, that ability applies to the breach at step 6.9.5b of the run the \"if successful\" ability is associated with. Its duration expires at the end of the run. See rule 6.7.4b.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 158,
+      "end": 169,
+      "ids": [
+        "step_breach"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 277,
+      "end": 288,
+      "ids": [
+        "rule_if_successful_lingering_effect"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_delayed_conditional_ability_if_successful_duration"
+}

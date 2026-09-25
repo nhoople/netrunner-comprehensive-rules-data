@@ -1,0 +1,38 @@
+{
+  "id": "rule_additional_cost_checkpoint",
+  "kind": "rule",
+  "number": "1.16.10c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_additional_cost",
+  "child_ids": [
+    "rule_additional_cost_checkpoint__example_1"
+  ],
+  "text_markup": "If an additional cost is required for an effect that does not normally require paying any cost, the additional cost is paid and a checkpoint is resolved before performing the usual procedure to carry out that effect. See also {ref:rule_checkpoint_after_paying_cost}.",
+  "text_plain": "If an additional cost is required for an effect that does not normally require paying any cost, the additional cost is paid and a checkpoint is resolved before performing the usual procedure to carry out that effect. See also rule 10.3.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 226,
+      "end": 237,
+      "ids": [
+        "rule_checkpoint_after_paying_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_additional_cost_checkpoint__example_1",
+      "text_markup": "The Corp is playing {card:Ob Superheavy Logistics} and initiates scoring {card:Azef Protocol}, which has an additional cost to score of \"trash one of your other installed cards.\" If the Corp trashes a rezzed card, meeting the trigger condition for {card:Ob Superheavy Logistics}'s ability, this ability will resolve following the checkpoint associated with paying the cost. This happens before {card:Azef Protocol} is added to the Corp's score area or any trigger conditions related to scoring an agenda are met.",
+      "text_plain": "The Corp is playing Ob Superheavy Logistics and initiates scoring Azef Protocol, which has an additional cost to score of \"trash one of your other installed cards.\" If the Corp trashes a rezzed card, meeting the trigger condition for Ob Superheavy Logistics's ability, this ability will resolve following the checkpoint associated with paying the cost. This happens before Azef Protocol is added to the Corp's score area or any trigger conditions related to scoring an agenda are met.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_additional_cost_checkpoint"
+}

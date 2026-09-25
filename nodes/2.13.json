@@ -1,0 +1,23 @@
+{
+  "id": "sec_faction",
+  "kind": "section",
+  "number": "2.13",
+  "ref_type": "section",
+  "title": "Faction Affiliation",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_faction_list",
+    "rule_faction_identification",
+    "rule_faction_citation"
+  ],
+  "text_markup": "Faction Affiliation",
+  "text_plain": "Faction Affiliation",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_faction"
+}

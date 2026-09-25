@@ -1,0 +1,35 @@
+{
+  "id": "rule_interrupt",
+  "kind": "rule",
+  "number": "9.5.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trigger_paid_abilities",
+  "child_ids": [],
+  "text_markup": "If the [interrupt] flag appears before a paid ability's trigger cost, that ability is an interrupt. A player can use interrupt paid abilities during appropriate interrupt windows. Each such ability can be used as many times as its effects could apply to the imminent instruction. See {ref:sec_interrupts_replacements}.",
+  "text_plain": "If the {interrupt} flag appears before a paid ability's trigger cost, that ability is an interrupt. A player can use interrupt paid abilities during appropriate interrupt windows. Each such ability can be used as many times as its effects could apply to the imminent instruction. See section 9.9.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 7,
+      "end": 18,
+      "target": "interrupt"
+    },
+    {
+      "type": "ref",
+      "start": 284,
+      "end": 295,
+      "ids": [
+        "sec_interrupts_replacements"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interrupt"
+}

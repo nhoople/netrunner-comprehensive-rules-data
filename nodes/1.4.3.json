@@ -1,0 +1,22 @@
+{
+  "id": "rule_minimum_deck_size",
+  "kind": "subsection",
+  "number": "1.4.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_deck_construction",
+  "child_ids": [
+    "rule_outside_the_deck",
+    "rule_maximum_deck_size"
+  ],
+  "text_markup": "The deck must contain at least as many cards as the minimum deck size indicated on the corresponding identity.",
+  "text_plain": "The deck must contain at least as many cards as the minimum deck size indicated on the corresponding identity.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_minimum_deck_size"
+}

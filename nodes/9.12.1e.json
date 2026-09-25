@@ -1,0 +1,51 @@
+{
+  "id": "rule_independent_effects",
+  "kind": "rule",
+  "number": "9.12.1e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_simultaneous_effects",
+  "child_ids": [
+    "rule_independent_effects__example_1",
+    "rule_independent_effects__example_2"
+  ],
+  "text_markup": "When applying effects as indicated by {ref:rule_dependent_effects}, an effect that is waiting to be applied is {term:independent} if it does not depend on any other effects waiting to be applied. Always choose an independent effect as the next effect to apply, if possible. If there are multiple independent effects at once, those effects can be applied in any order relative to each other. (The order chosen should have no impact on the ultimate result.) If there are no independent effects (because each remaining effect depends on another, forming a \"loop\"), check the source of each of those effects, and treat effects from hosted objects as if they did not depend on effects from the objects they are hosted on.",
+  "text_plain": "When applying effects as indicated by rule 9.12.1d, an effect that is waiting to be applied is independent if it does not depend on any other effects waiting to be applied. Always choose an independent effect as the next effect to apply, if possible. If there are multiple independent effects at once, those effects can be applied in any order relative to each other. (The order chosen should have no impact on the ultimate result.) If there are no independent effects (because each remaining effect depends on another, forming a \"loop\"), check the source of each of those effects, and treat effects from hosted objects as if they did not depend on effects from the objects they are hosted on.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 38,
+      "end": 50,
+      "ids": [
+        "rule_dependent_effects"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "term",
+      "start": 95,
+      "end": 106,
+      "target": "independent"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_independent_effects__example_1",
+      "text_markup": "{card:Mother Goddess}, {card:Ansel 1.0}, and {card:Warden Fatuma} are rezzed, and {card:Hush} is hosted on {card:Mother Goddess}. {card:Mother Goddess}, {card:Warden Fatuma}, and {card:Hush} all produce effects that could modify the characteristics of {card:Mother Goddess}, so in order to determine {card:Mother Goddess}'s true characteristics, we must examine how those effects depend on each other. {card:Mother Goddess}'s effect grants it the subtypes of {card:Ansel 1.0}, including the {subtype:bioroid} subtype, which affects whether {card:Warden Fatuma}'s ability applies to {card:Mother Goddess}, so {card:Warden Fatuma}'s effect depends on {card:Mother Goddess}'s effect. {card:Hush}'s effect removes {card:Mother Goddess}'s ability, so {card:Mother Goddess}'s effect depends on {card:Hush}'s effect. No other effects change how {card:Hush}'s effect behaves. Since {card:Hush}'s effect is independent, it must be applied first. When it is applied, {card:Mother Goddess}'s ability no longer exists, so {card:Warden Fatuma}'s effect is now independent. It is applied next and grants a subroutine to {card:Ansel 1.0}, but not to {card:Mother Goddess}, which does not have the {subtype:bioroid} subtype.",
+      "text_plain": "Mother Goddess, Ansel 1.0, and Warden Fatuma are rezzed, and Hush is hosted on Mother Goddess. Mother Goddess, Warden Fatuma, and Hush all produce effects that could modify the characteristics of Mother Goddess, so in order to determine Mother Goddess's true characteristics, we must examine how those effects depend on each other. Mother Goddess's effect grants it the subtypes of Ansel 1.0, including the bioroid subtype, which affects whether Warden Fatuma's ability applies to Mother Goddess, so Warden Fatuma's effect depends on Mother Goddess's effect. Hush's effect removes Mother Goddess's ability, so Mother Goddess's effect depends on Hush's effect. No other effects change how Hush's effect behaves. Since Hush's effect is independent, it must be applied first. When it is applied, Mother Goddess's ability no longer exists, so Warden Fatuma's effect is now independent. It is applied next and grants a subroutine to Ansel 1.0, but not to Mother Goddess, which does not have the bioroid subtype.",
+      "is_new": false
+    },
+    {
+      "id": "rule_independent_effects__example_2",
+      "text_markup": "{card:Hush} is hosted on {card:Magnet}. {card:Hush}'s ability creates an effect that removes abilities from {card:Magnet}, and {card:Magnet}'s ability creates an effect that removes an ability from {card:Hush}. The dependencies of these effects form a loop, so the hosting relationship of their source objects is considered, and the effect from {card:Hush}'s ability ignores its dependence on the effect from {card:Magnet}'s ability. {card:Hush}'s effect is therefore treated as independent and applied first. {card:Magnet}'s ability and the resulting effect no longer exist, so they are never applied.",
+      "text_plain": "Hush is hosted on Magnet. Hush's ability creates an effect that removes abilities from Magnet, and Magnet's ability creates an effect that removes an ability from Hush. The dependencies of these effects form a loop, so the hosting relationship of their source objects is considered, and the effect from Hush's ability ignores its dependence on the effect from Magnet's ability. Hush's effect is therefore treated as independent and applied first. Magnet's ability and the resulting effect no longer exist, so they are never applied.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_independent_effects"
+}

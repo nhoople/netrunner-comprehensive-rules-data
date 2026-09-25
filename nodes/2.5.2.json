@@ -1,0 +1,29 @@
+{
+  "id": "rule_agenda_points_citation",
+  "kind": "rule",
+  "number": "2.5.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_agenda_points",
+  "child_ids": [],
+  "text_markup": "The agenda points in a player's score area contribute toward that player winning the game. See {ref:sec_ending_the_game}.",
+  "text_plain": "The agenda points in a player's score area contribute toward that player winning the game. See section 1.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 95,
+      "end": 106,
+      "ids": [
+        "sec_ending_the_game"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_agenda_points_citation"
+}

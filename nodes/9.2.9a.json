@@ -1,0 +1,19 @@
+{
+  "id": "rule_interrupt_window_linked_to_imminent_instruction",
+  "kind": "rule",
+  "number": "9.2.9a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_interrupt_window",
+  "child_ids": [],
+  "text_markup": "Each interrupt window is associated with the single imminent instruction being modified by the abilities triggered during the window, and with a fixed set of conditional ability interrupts determined as the window opens.",
+  "text_plain": "Each interrupt window is associated with the single imminent instruction being modified by the abilities triggered during the window, and with a fixed set of conditional ability interrupts determined as the window opens.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interrupt_window_linked_to_imminent_instruction"
+}

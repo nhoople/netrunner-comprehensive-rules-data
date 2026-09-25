@@ -1,0 +1,19 @@
+{
+  "id": "rule_draw_deck",
+  "kind": "rule",
+  "number": "4.2.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_deck",
+  "child_ids": [],
+  "text_markup": "When the game begins, each player's deck presented during setup becomes their in-game draw deck.",
+  "text_plain": "When the game begins, each player's deck presented during setup becomes their in-game draw deck.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_draw_deck"
+}

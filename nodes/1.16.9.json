@@ -1,0 +1,35 @@
+{
+  "id": "rule_trigger_cost",
+  "kind": "rule",
+  "number": "1.16.9",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_costs",
+  "child_ids": [],
+  "text_markup": "The {term:trigger cost} of each paid ability is the first part of that ability's text. It is followed by a colon (:) and then the ability's effect. See {ref:sec_paid_abilities} for more details on paid abilities.",
+  "text_plain": "The trigger cost of each paid ability is the first part of that ability's text. It is followed by a colon (:) and then the ability's effect. See section 9.5 for more details on paid abilities.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 16,
+      "target": "trigger cost"
+    },
+    {
+      "type": "ref",
+      "start": 145,
+      "end": 156,
+      "ids": [
+        "sec_paid_abilities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trigger_cost"
+}

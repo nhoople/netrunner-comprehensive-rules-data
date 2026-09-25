@@ -1,0 +1,25 @@
+{
+  "id": "sec_lingering_effects",
+  "kind": "section",
+  "number": "9.10",
+  "ref_type": "section",
+  "title": "Lingering Effects",
+  "parent_id": "chpt_abilities",
+  "child_ids": [
+    "rule_lingering_effect",
+    "rule_lingering_effect_maintain_existence_ability",
+    "rule_lingering_effect_maintain_choice",
+    "rule_lingering_effect_inapplicable_timing_structure",
+    "rule_modify_duration_of_lingering_effect"
+  ],
+  "text_markup": "Lingering Effects",
+  "text_plain": "Lingering Effects",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_lingering_effects"
+}

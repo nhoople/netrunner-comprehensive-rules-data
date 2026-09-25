@@ -1,0 +1,19 @@
+{
+  "id": "rule_inf_cost_location",
+  "kind": "rule",
+  "number": "2.14.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_inf_cost",
+  "child_ids": [],
+  "text_markup": "A card's influence cost, or influence value, is represented in a bar with 5 circular slots near the bottom of most cards. The influence cost is the number of slots that are filled with a blue circle, and can range from 0 to 5.",
+  "text_plain": "A card's influence cost, or influence value, is represented in a bar with 5 circular slots near the bottom of most cards. The influence cost is the number of slots that are filled with a blue circle, and can range from 0 to 5.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_inf_cost_location"
+}

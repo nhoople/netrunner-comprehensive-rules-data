@@ -1,0 +1,21 @@
+{
+  "id": "sec_unique_symbol",
+  "kind": "section",
+  "number": "2.2",
+  "ref_type": "section",
+  "title": "Unique Symbol",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_unique_symbol"
+  ],
+  "text_markup": "Unique Symbol",
+  "text_plain": "Unique Symbol",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_unique_symbol"
+}

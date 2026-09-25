@@ -1,0 +1,26 @@
+{
+  "id": "rule_charge",
+  "kind": "rule",
+  "number": "10.10.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_charge",
+  "child_ids": [],
+  "text_markup": "To {term:charge} is to place 1 power counter on a card that already has at least 1 hosted power counter. Cards with no hosted power counters cannot be charged.",
+  "text_plain": "To charge is to place 1 power counter on a card that already has at least 1 hosted power counter. Cards with no hosted power counters cannot be charged.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 9,
+      "target": "charge"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_charge"
+}

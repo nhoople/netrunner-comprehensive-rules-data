@@ -1,0 +1,29 @@
+{
+  "id": "rule_action_conditional_ability_trigger",
+  "kind": "rule",
+  "number": "5.2.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_initiate_action",
+  "child_ids": [],
+  "text_markup": "A conditional ability that meets its trigger condition due to a player taking an action resolves after the action's trigger cost is paid, before the effects of the action itself. See {ref:rule_chain_reaction}.",
+  "text_plain": "A conditional ability that meets its trigger condition due to a player taking an action resolves after the action's trigger cost is paid, before the effects of the action itself. See rule 9.1.2a.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 183,
+      "end": 194,
+      "ids": [
+        "rule_chain_reaction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_action_conditional_ability_trigger"
+}

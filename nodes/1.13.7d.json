@@ -1,0 +1,19 @@
+{
+  "id": "rule_hosted_facedown_groups",
+  "kind": "rule",
+  "number": "1.13.7d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_host_faceup_facedown",
+  "child_ids": [],
+  "text_markup": "Cards hosted facedown without being installed must be kept in distinct groups according to their host. Cards within such a group are not ordered and can be freely arranged by their controller.",
+  "text_plain": "Cards hosted facedown without being installed must be kept in distinct groups according to their host. Cards within such a group are not ordered and can be freely arranged by their controller.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_facedown_groups"
+}

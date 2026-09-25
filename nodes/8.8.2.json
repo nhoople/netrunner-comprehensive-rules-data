@@ -1,0 +1,28 @@
+{
+  "id": "rule_swap_only_to_valid_location",
+  "kind": "rule",
+  "number": "8.8.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_swapping_cards",
+  "child_ids": [
+    "rule_swap_only_to_valid_location__example_1"
+  ],
+  "text_markup": "A card can only ever be swapped into a location it is normally allowed to occupy. When a player resolves a swap effect, they must observe any applicable game rules or card abilities that would affect that card in its final destination. If a swap effect would resolve while there are no legal exchanges possible, then that effect does nothing.",
+  "text_plain": "A card can only ever be swapped into a location it is normally allowed to occupy. When a player resolves a swap effect, they must observe any applicable game rules or card abilities that would affect that card in its final destination. If a swap effect would resolve while there are no legal exchanges possible, then that effect does nothing.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_swap_only_to_valid_location__example_1",
+      "text_markup": "When the subroutine on {card:Metamorph} resolves, the Corp cannot choose to swap an agenda and an upgrade such that the agenda would end up in the same remote server as an asset.",
+      "text_plain": "When the subroutine on Metamorph resolves, the Corp cannot choose to swap an agenda and an upgrade such that the agenda would end up in the same remote server as an asset.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_swap_only_to_valid_location"
+}

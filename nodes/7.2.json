@@ -1,0 +1,24 @@
+{
+  "id": "sec_steps_accessing_card",
+  "kind": "section",
+  "number": "7.2",
+  "ref_type": "section",
+  "title": "Steps of Accessing a Card",
+  "parent_id": "chpt_access_breach",
+  "child_ids": [
+    "step_card_accessed",
+    "step_mid_access_ability",
+    "step_access_agenda",
+    "step_access_complete"
+  ],
+  "text_markup": "Steps of Accessing a Card",
+  "text_plain": "Steps of Accessing a Card",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_steps_accessing_card"
+}

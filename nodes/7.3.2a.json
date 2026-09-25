@@ -1,0 +1,19 @@
+{
+  "id": "rule_archives_facedowns_after_breach",
+  "kind": "rule",
+  "number": "7.3.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_breaching_archives",
+  "child_ids": [],
+  "text_markup": "If a card is added to Archives facedown after this step, that card remains facedown for the remainder of the breach, even after it is accessed. The Runner can only look at a facedown card in Archives once they have accessed it.",
+  "text_plain": "If a card is added to Archives facedown after this step, that card remains facedown for the remainder of the breach, even after it is accessed. The Runner can only look at a facedown card in Archives once they have accessed it.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_archives_facedowns_after_breach"
+}

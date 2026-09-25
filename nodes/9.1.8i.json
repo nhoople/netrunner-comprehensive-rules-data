@@ -1,0 +1,29 @@
+{
+  "id": "rule_active_exception_persistent",
+  "kind": "rule",
+  "number": "9.1.8i",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_active_inactive_source_card",
+  "child_ids": [],
+  "text_markup": "Persistent abilities can sometimes remain active after their source card is trashed. See {ref:subsec_persistent}.",
+  "text_plain": "Persistent abilities can sometimes remain active after their source card is trashed. See section 9.12.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 89,
+      "end": 103,
+      "ids": [
+        "subsec_persistent"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_active_exception_persistent"
+}

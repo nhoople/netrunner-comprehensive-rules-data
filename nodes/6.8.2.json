@@ -1,0 +1,23 @@
+{
+  "id": "rule_run_ends_process_priority_windows",
+  "kind": "subsection",
+  "number": "6.8.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_run_ends_phase",
+  "child_ids": [
+    "rule_run_ends_close_paws",
+    "rule_run_ends_close_reaction_window",
+    "rule_run_ends_other_priority_windows"
+  ],
+  "text_markup": "At the beginning of the Run Ends Phase, the game processes each priority window that was open when the run was ended. This is done according to the following procedure:",
+  "text_plain": "At the beginning of the Run Ends Phase, the game processes each priority window that was open when the run was ended. This is done according to the following procedure:",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_run_ends_process_priority_windows"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_cost_calculation",
+  "kind": "rule",
+  "number": "1.16.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_modified_costs",
+  "child_ids": [],
+  "text_markup": "If a quantity in a cost is subject to effects modifying its value, determine the final value of that quantity by taking its default value, applying each effect that increases the cost, and then applying each effect that lowers the cost. Finally, if the value determined by this process is less than 0, set the value to 0.",
+  "text_plain": "If a quantity in a cost is subject to effects modifying its value, determine the final value of that quantity by taking its default value, applying each effect that increases the cost, and then applying each effect that lowers the cost. Finally, if the value determined by this process is less than 0, set the value to 0.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cost_calculation"
+}

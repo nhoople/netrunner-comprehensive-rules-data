@@ -1,0 +1,40 @@
+{
+  "id": "rule_target__example_4",
+  "kind": "example",
+  "number": "1.15.1.ex4",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_target",
+  "child_ids": [],
+  "text_markup": "The Runner is encountering a {subtype:barrier} and uses {card:Cleaver} to break subroutines. The targets of {card:Cleaver}'s' interface ability are the 1 or 2 subroutines that it will break.",
+  "text_plain": "The Runner is encountering a barrier and uses Cleaver to break subroutines. The targets of Cleaver's' interface ability are the 1 or 2 subroutines that it will break.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 29,
+      "end": 36,
+      "target": "barrier"
+    },
+    {
+      "type": "card",
+      "start": 46,
+      "end": 53,
+      "target": "Cleaver",
+      "card_code": "30006"
+    },
+    {
+      "type": "card",
+      "start": 91,
+      "end": 98,
+      "target": "Cleaver",
+      "card_code": "30006"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

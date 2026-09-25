@@ -1,0 +1,47 @@
+{
+  "id": "rule_region_install",
+  "kind": "rule",
+  "number": "3.6.5d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_regions",
+  "child_ids": [],
+  "text_markup": "When the Corp installs a card with the subtype {subtype:region} into the root of a server that already has a {subtype:region}, they must trash the already-installed {subtype:region}. See {ref:sec_install_uninstall}.",
+  "text_plain": "When the Corp installs a card with the subtype region into the root of a server that already has a region, they must trash the already-installed region. See section 8.5.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 47,
+      "end": 53,
+      "target": "region"
+    },
+    {
+      "type": "subtype",
+      "start": 99,
+      "end": 105,
+      "target": "region"
+    },
+    {
+      "type": "subtype",
+      "start": 145,
+      "end": 151,
+      "target": "region"
+    },
+    {
+      "type": "ref",
+      "start": 157,
+      "end": 168,
+      "ids": [
+        "sec_install_uninstall"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_region_install"
+}

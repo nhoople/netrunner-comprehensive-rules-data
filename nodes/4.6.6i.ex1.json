@@ -1,0 +1,55 @@
+{
+  "id": "rule_this_server__example_1",
+  "kind": "example",
+  "number": "4.6.6i.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_this_server",
+  "child_ids": [],
+  "text_markup": "The Runner trashes a rezzed {card:Warroid Tracker}. This meets the trigger condition of {card:Warroid Tracker}'s ability, but by the time a checkpoint is resolved and an instance of the ability would become pending, {card:Warroid Tracker} itself is no longer installed. The use of \"this server\" in the trigger condition still refers to the server from which {card:Warroid Tracker} was trashed, not to the server of {card:Warroid Tracker}'s new location in Archives.",
+  "text_plain": "The Runner trashes a rezzed Warroid Tracker. This meets the trigger condition of Warroid Tracker's ability, but by the time a checkpoint is resolved and an instance of the ability would become pending, Warroid Tracker itself is no longer installed. The use of \"this server\" in the trigger condition still refers to the server from which Warroid Tracker was trashed, not to the server of Warroid Tracker's new location in Archives.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 28,
+      "end": 43,
+      "target": "Warroid Tracker",
+      "card_code": "12068"
+    },
+    {
+      "type": "card",
+      "start": 81,
+      "end": 96,
+      "target": "Warroid Tracker",
+      "card_code": "12068"
+    },
+    {
+      "type": "card",
+      "start": 202,
+      "end": 217,
+      "target": "Warroid Tracker",
+      "card_code": "12068"
+    },
+    {
+      "type": "card",
+      "start": 337,
+      "end": 352,
+      "target": "Warroid Tracker",
+      "card_code": "12068"
+    },
+    {
+      "type": "card",
+      "start": 387,
+      "end": 402,
+      "target": "Warroid Tracker",
+      "card_code": "12068"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

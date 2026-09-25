@@ -1,0 +1,29 @@
+{
+  "id": "rule_conditional_ability_lose_pending_when_priority_window_closes",
+  "kind": "rule",
+  "number": "9.6.11",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [],
+  "text_markup": "If a priority window closes while any abilities still have pending instances associated with that window, the remaining instances lose their pending status and cannot be triggered or resolved. See {ref:rule_reaction_window_closing_timing_structure}.",
+  "text_plain": "If a priority window closes while any abilities still have pending instances associated with that window, the remaining instances lose their pending status and cannot be triggered or resolved. See rule 9.2.8f.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 197,
+      "end": 208,
+      "ids": [
+        "rule_reaction_window_closing_timing_structure"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_conditional_ability_lose_pending_when_priority_window_closes"
+}

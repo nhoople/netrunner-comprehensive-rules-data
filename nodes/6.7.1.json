@@ -1,0 +1,26 @@
+{
+  "id": "rule_success_phase",
+  "kind": "rule",
+  "number": "6.7.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_success_phase",
+  "child_ids": [],
+  "text_markup": "The {term:success phase} declares the run successful and allows the Runner to breach the attacked server.",
+  "text_plain": "The success phase declares the run successful and allows the Runner to breach the attacked server.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 17,
+      "target": "success phase"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_success_phase"
+}

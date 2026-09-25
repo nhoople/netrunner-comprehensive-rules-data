@@ -1,0 +1,26 @@
+{
+  "id": "sec_calculating_expected_effect_values",
+  "kind": "subsection",
+  "number": "9.9.7",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interrupts_replacements",
+  "child_ids": [
+    "rule_negative_values_imminent",
+    "rule_prevent_all",
+    "rule_prevent_all_but_one",
+    "rule_negative_values_resolution",
+    "rule_modified_values_retain_properties",
+    "rule_prevent_as_trigger_condition"
+  ],
+  "text_markup": "Values associated with an imminent instruction are calculated continuously as part of the instruction's expected effects.",
+  "text_plain": "Values associated with an imminent instruction are calculated continuously as part of the instruction's expected effects.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_calculating_expected_effect_values"
+}

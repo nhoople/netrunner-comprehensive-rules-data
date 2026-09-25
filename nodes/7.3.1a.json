@@ -1,0 +1,28 @@
+{
+  "id": "rule_visibility_after_access",
+  "kind": "rule",
+  "number": "7.3.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_breaching_servers",
+  "child_ids": [
+    "rule_visibility_after_access__example_1"
+  ],
+  "text_markup": "After the Runner accesses a card during a breach, that object remains visible to the Runner for the remainder of the breach.",
+  "text_plain": "After the Runner accesses a card during a breach, that object remains visible to the Runner for the remainder of the breach.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_visibility_after_access__example_1",
+      "text_markup": "The Runner breaches HQ and accesses {card:Scatter Field}, {card:Palisade}, and {card:Offworld Office}, in that order. When the Runner steals {card:Offworld Office}, the Corp uses {card:Poétrï Luxury Brands} to install a card from HQ. The Runner will know whether the Corp installs the {card:Scatter Field}, the {card:Palisade}, or an unknown card from the rest of HQ.",
+      "text_plain": "The Runner breaches HQ and accesses Scatter Field, Palisade, and Offworld Office, in that order. When the Runner steals Offworld Office, the Corp uses Poétrï Luxury Brands to install a card from HQ. The Runner will know whether the Corp installs the Scatter Field, the Palisade, or an unknown card from the rest of HQ.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_visibility_after_access"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sec_derez",
+  "kind": "subsection",
+  "number": "8.1.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_faceup_facedown_status",
+  "child_ids": [
+    "rule_derez_by_ability",
+    "rule_derez_cost",
+    "rule_derez_procedure"
+  ],
+  "text_markup": "To {term:derez} a rezzed card is to turn it facedown.",
+  "text_plain": "To derez a rezzed card is to turn it facedown.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 8,
+      "target": "derez"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_derez"
+}

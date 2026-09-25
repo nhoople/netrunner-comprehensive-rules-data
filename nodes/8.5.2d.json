@@ -1,0 +1,29 @@
+{
+  "id": "rule_ice_outermost_position",
+  "kind": "rule",
+  "number": "8.5.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_corp_cards_default_install",
+  "child_ids": [],
+  "text_markup": "Unless otherwise indicated, the Corp always installs ice to the outermost position protecting the destination server. See {ref:rule_create_position}.",
+  "text_plain": "Unless otherwise indicated, the Corp always installs ice to the outermost position protecting the destination server. See section 6.2.2.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 122,
+      "end": 135,
+      "ids": [
+        "rule_create_position"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_outermost_position"
+}

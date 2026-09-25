@@ -1,0 +1,106 @@
+{
+  "id": "rule_break_all_but_x_subroutines_targets__example_1",
+  "kind": "example",
+  "number": "9.8.6b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_break_all_but_x_subroutines_targets",
+  "child_ids": [],
+  "text_markup": "The Runner uses two copies of {card:Grappling Hook} to break all of the subroutines on {card:Heimdall 1.0}. For the first {card:Grappling Hook}, the Runner chooses the unbroken \"[sub] Do 1 core damage.\" subroutine as the target, and {card:Grappling Hook} breaks both \"[sub] End the run.\" subroutines. For the second {card:Grappling Hook}, the Runner chooses one of the already-broken \"[sub] End the run.\" subroutines as the target. They can choose the broken subroutine as {card:Grappling Hook}'s target because {card:Grappling Hook} will not attempt to break the chosen subroutine. When the ability resolves, {card:Grappling Hook} breaks the \"[sub] Do 1 core damage.\" subroutine, but does nothing to the other \"[sub] End the run.\" subroutine, because it is already broken.",
+  "text_plain": "The Runner uses two copies of Grappling Hook to break all of the subroutines on Heimdall 1.0. For the first Grappling Hook, the Runner chooses the unbroken \"{sub} Do 1 core damage.\" subroutine as the target, and Grappling Hook breaks both \"{sub} End the run.\" subroutines. For the second Grappling Hook, the Runner chooses one of the already-broken \"{sub} End the run.\" subroutines as the target. They can choose the broken subroutine as Grappling Hook's target because Grappling Hook will not attempt to break the chosen subroutine. When the ability resolves, Grappling Hook breaks the \"{sub} Do 1 core damage.\" subroutine, but does nothing to the other \"{sub} End the run.\" subroutine, because it is already broken.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 30,
+      "end": 44,
+      "target": "Grappling Hook",
+      "card_code": "05045"
+    },
+    {
+      "type": "card",
+      "start": 80,
+      "end": 92,
+      "target": "Heimdall 1.0",
+      "card_code": "20066"
+    },
+    {
+      "type": "card",
+      "start": 108,
+      "end": 122,
+      "target": "Grappling Hook",
+      "card_code": "05045"
+    },
+    {
+      "type": "symbol",
+      "start": 157,
+      "end": 162,
+      "target": "sub"
+    },
+    {
+      "type": "card",
+      "start": 212,
+      "end": 226,
+      "target": "Grappling Hook",
+      "card_code": "05045"
+    },
+    {
+      "type": "symbol",
+      "start": 240,
+      "end": 245,
+      "target": "sub"
+    },
+    {
+      "type": "card",
+      "start": 288,
+      "end": 302,
+      "target": "Grappling Hook",
+      "card_code": "05045"
+    },
+    {
+      "type": "symbol",
+      "start": 350,
+      "end": 355,
+      "target": "sub"
+    },
+    {
+      "type": "card",
+      "start": 438,
+      "end": 452,
+      "target": "Grappling Hook",
+      "card_code": "05045"
+    },
+    {
+      "type": "card",
+      "start": 470,
+      "end": 484,
+      "target": "Grappling Hook",
+      "card_code": "05045"
+    },
+    {
+      "type": "card",
+      "start": 561,
+      "end": 575,
+      "target": "Grappling Hook",
+      "card_code": "05045"
+    },
+    {
+      "type": "symbol",
+      "start": 588,
+      "end": 593,
+      "target": "sub"
+    },
+    {
+      "type": "symbol",
+      "start": 656,
+      "end": 661,
+      "target": "sub"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

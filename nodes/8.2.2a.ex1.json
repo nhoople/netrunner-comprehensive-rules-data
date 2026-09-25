@@ -1,0 +1,48 @@
+{
+  "id": "rule_cancelled_movement__example_1",
+  "kind": "example",
+  "number": "8.2.2a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_cancelled_movement",
+  "child_ids": [],
+  "text_markup": "The Corp is resolving the first subroutine on {card:Rototurret} to trash an installed program. The Runner uses {card:Sacrificial Construct} to prevent the program from being trashed. Since trashing did not occur, the Runner does not place a power counter on {card:District 99}, and {card:District 99} can still meet its trigger condition if a program or piece of hardware is successfully trashed later in the turn.",
+  "text_plain": "The Corp is resolving the first subroutine on Rototurret to trash an installed program. The Runner uses Sacrificial Construct to prevent the program from being trashed. Since trashing did not occur, the Runner does not place a power counter on District 99, and District 99 can still meet its trigger condition if a program or piece of hardware is successfully trashed later in the turn.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 46,
+      "end": 56,
+      "target": "Rototurret",
+      "card_code": "31046"
+    },
+    {
+      "type": "card",
+      "start": 104,
+      "end": 125,
+      "target": "Sacrificial Construct",
+      "card_code": "20054"
+    },
+    {
+      "type": "card",
+      "start": 244,
+      "end": 255,
+      "target": "District 99",
+      "card_code": "22007"
+    },
+    {
+      "type": "card",
+      "start": 261,
+      "end": 272,
+      "target": "District 99",
+      "card_code": "22007"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

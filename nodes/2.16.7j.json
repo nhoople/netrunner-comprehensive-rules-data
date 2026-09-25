@@ -1,0 +1,19 @@
+{
+  "id": "rule_resource_subtypes",
+  "kind": "rule",
+  "number": "2.16.7j",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subtypes_list",
+  "child_ids": [],
+  "text_markup": "The resource subtypes are Clan, Clone, Companion, Connection, Directive, Genetics, Government, Job, Link, Location, Remote, Ritzy, Sabotage, Seedy, Source, Stealth, and Virtual.",
+  "text_plain": "The resource subtypes are Clan, Clone, Companion, Connection, Directive, Genetics, Government, Job, Link, Location, Remote, Ritzy, Sabotage, Seedy, Source, Stealth, and Virtual.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_resource_subtypes"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_if_successful_tied_to_server",
+  "kind": "rule",
+  "number": "6.7.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_if_successful",
+  "child_ids": [
+    "rule_if_successful_tied_to_server__example_1"
+  ],
+  "text_markup": "If an effect that initiates a run specifies that that run must be made against a specific server or servers, any \"If successful\" abilities associated with that effect are tied to that server or servers. If the attacked server has changed since the run was initiated, and no longer is a server that could have been chosen for this run, the \"If successful\" abilities do not meet their trigger conditions.",
+  "text_plain": "If an effect that initiates a run specifies that that run must be made against a specific server or servers, any \"If successful\" abilities associated with that effect are tied to that server or servers. If the attacked server has changed since the run was initiated, and no longer is a server that could have been chosen for this run, the \"If successful\" abilities do not meet their trigger conditions.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_if_successful_tied_to_server__example_1",
+      "text_markup": "The Runner plays {card:Because I Can}, which directs them to make a run on a remote server. If an effect moves the run to a central server, the \"If successful\" effect on {card:Because I Can} will not apply. However, if the run is moved instead to another remote server, the \"If successful\" effect is still applied, since {card:Because I Can} would have allowed a run on the second remote server to begin with.",
+      "text_plain": "The Runner plays Because I Can, which directs them to make a run on a remote server. If an effect moves the run to a central server, the \"If successful\" effect on Because I Can will not apply. However, if the run is moved instead to another remote server, the \"If successful\" effect is still applied, since Because I Can would have allowed a run on the second remote server to begin with.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_if_successful_tied_to_server"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "rule_run_initiation_phase_next_phase",
+  "kind": "rule",
+  "number": "6.3.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_run_initiation",
+  "child_ids": [],
+  "text_markup": "When the Initiation Phase completes, the run moves either to the Approach Ice Phase ({ref:sec_approach_ice_phase}) or the Movement Phase ({ref:sec_movement_phase}). If there is ice protecting the attacked server, the Runner's position becomes the outermost piece of ice, and the run proceeds to the Approach Ice Phase. If there is no ice protecting the server, then the run moves directly to the Movement Phase.",
+  "text_plain": "When the Initiation Phase completes, the run moves either to the Approach Ice Phase (section 6.4) or the Movement Phase (section 6.6). If there is ice protecting the attacked server, the Runner's position becomes the outermost piece of ice, and the run proceeds to the Approach Ice Phase. If there is no ice protecting the server, then the run moves directly to the Movement Phase.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 85,
+      "end": 96,
+      "ids": [
+        "sec_approach_ice_phase"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 121,
+      "end": 132,
+      "ids": [
+        "sec_movement_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_run_initiation_phase_next_phase"
+}

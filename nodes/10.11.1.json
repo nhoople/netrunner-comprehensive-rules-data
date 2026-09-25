@@ -1,0 +1,28 @@
+{
+  "id": "rule_mark",
+  "kind": "subsection",
+  "number": "10.11.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_mark",
+  "child_ids": [
+    "rule_only_one_mark"
+  ],
+  "text_markup": "The {term:mark} is a designation that can be applied to a particular server. It has no inherent effect, but abilities can refer to it.",
+  "text_plain": "The mark is a designation that can be applied to a particular server. It has no inherent effect, but abilities can refer to it.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 8,
+      "target": "mark"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mark"
+}

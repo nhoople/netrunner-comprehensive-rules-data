@@ -1,0 +1,35 @@
+{
+  "id": "rule_interrupt_flag",
+  "kind": "rule",
+  "number": "9.3.6d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_flag",
+  "child_ids": [],
+  "text_markup": "The interrupt flag ([interrupt]) appears on paid and conditional abilities and affects the timing for triggering those abilities. Players can use abilities with this flag only during interrupt windows, and only if the ability is relevant to the imminent instruction. See {ref:sec_interrupts_replacements}.",
+  "text_plain": "The interrupt flag ({interrupt}) appears on paid and conditional abilities and affects the timing for triggering those abilities. Players can use abilities with this flag only during interrupt windows, and only if the ability is relevant to the imminent instruction. See section 9.9.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 20,
+      "end": 31,
+      "target": "interrupt"
+    },
+    {
+      "type": "ref",
+      "start": 271,
+      "end": 282,
+      "ids": [
+        "sec_interrupts_replacements"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interrupt_flag"
+}

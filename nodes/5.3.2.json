@@ -1,0 +1,32 @@
+{
+  "id": "rule_mandatory_draw",
+  "kind": "rule",
+  "number": "5.3.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_draw_phase",
+  "child_ids": [],
+  "text_markup": "The {term:mandatory draw} is a card draw performed by the Corp. It is not an action and does not cost [click].",
+  "text_plain": "The mandatory draw is a card draw performed by the Corp. It is not an action and does not cost {click}.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 18,
+      "target": "mandatory draw"
+    },
+    {
+      "type": "symbol",
+      "start": 95,
+      "end": 102,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mandatory_draw"
+}

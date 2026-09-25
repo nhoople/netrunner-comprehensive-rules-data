@@ -1,0 +1,38 @@
+{
+  "id": "rule_run_ends_close_reaction_window",
+  "kind": "rule",
+  "number": "6.8.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_run_ends_process_priority_windows",
+  "child_ids": [
+    "rule_run_ends_close_reaction_window__example_1"
+  ],
+  "text_markup": "If the run was ended during a reaction window opened due to a phase beginning, the reaction window closes, as per {ref:rule_reaction_window_closing_timing_structure}. No other pending abilities are resolved.",
+  "text_plain": "If the run was ended during a reaction window opened due to a phase beginning, the reaction window closes, as per rule 9.2.8f. No other pending abilities are resolved.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 114,
+      "end": 125,
+      "ids": [
+        "rule_reaction_window_closing_timing_structure"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_run_ends_close_reaction_window__example_1",
+      "text_markup": "The Runner uses the ability on {card:Security Nexus} during a reaction window at the beginning of the Encounter Ice Phase. The trace is successful, so the ability ends the run. If {card:Tollbooth}'s ability is also pending in this reaction window, it will not be resolved, since the encounter has ended.",
+      "text_plain": "The Runner uses the ability on Security Nexus during a reaction window at the beginning of the Encounter Ice Phase. The trace is successful, so the ability ends the run. If Tollbooth's ability is also pending in this reaction window, it will not be resolved, since the encounter has ended.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_run_ends_close_reaction_window"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chpt_turns",
+  "kind": "chapter",
+  "number": "5",
+  "ref_type": "section",
+  "title": "Turns",
+  "parent_id": null,
+  "child_ids": [
+    "sec_turn_general",
+    "sec_actions",
+    "sec_draw_phase",
+    "sec_action_phase",
+    "sec_discard_phase",
+    "sec_steps_corp_turn",
+    "sec_steps_runner_turn"
+  ],
+  "text_markup": "Turns",
+  "text_plain": "Turns",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=chpt_turns"
+}

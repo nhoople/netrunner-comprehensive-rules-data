@@ -1,0 +1,22 @@
+{
+  "id": "rule_unbroken_subroutines_target_for_break_abilities",
+  "kind": "subsection",
+  "number": "9.8.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_subroutines",
+  "child_ids": [
+    "rule_break_all_subroutines_no_targets",
+    "rule_break_all_but_x_subroutines_targets"
+  ],
+  "text_markup": "Only unbroken subroutines can be chosen as targets for abilities that would break them.",
+  "text_plain": "Only unbroken subroutines can be chosen as targets for abilities that would break them.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_unbroken_subroutines_target_for_break_abilities"
+}

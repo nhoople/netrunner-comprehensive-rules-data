@@ -1,0 +1,41 @@
+{
+  "id": "rule_this_server__example_3",
+  "kind": "example",
+  "number": "4.6.6i.ex3",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_this_server",
+  "child_ids": [],
+  "text_markup": "The Corp uses {card:Nanisivik Grid} to turn a facedown {card:Border Control} in Archives faceup and resolve its first subroutine. {card:Border Control} was not moved between servers, so \"this server\" in that subroutine refers to Archives.",
+  "text_plain": "The Corp uses Nanisivik Grid to turn a facedown Border Control in Archives faceup and resolve its first subroutine. Border Control was not moved between servers, so \"this server\" in that subroutine refers to Archives.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 14,
+      "end": 28,
+      "target": "Nanisivik Grid",
+      "card_code": "33111"
+    },
+    {
+      "type": "card",
+      "start": 48,
+      "end": 62,
+      "target": "Border Control",
+      "card_code": "28005"
+    },
+    {
+      "type": "card",
+      "start": 116,
+      "end": 130,
+      "target": "Border Control",
+      "card_code": "28005"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

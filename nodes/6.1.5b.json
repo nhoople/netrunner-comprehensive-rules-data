@@ -1,0 +1,19 @@
+{
+  "id": "rule_jack_out_before_approach",
+  "kind": "rule",
+  "number": "6.1.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_jacking_out",
+  "child_ids": [],
+  "text_markup": "If there is no ice protecting the server, the Runner has the opportunity to jack out before approaching the server.",
+  "text_plain": "If there is no ice protecting the server, the Runner has the opportunity to jack out before approaching the server.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_jack_out_before_approach"
+}

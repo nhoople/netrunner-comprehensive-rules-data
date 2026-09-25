@@ -1,0 +1,38 @@
+{
+  "id": "rule_once_per_turn_flag",
+  "kind": "rule",
+  "number": "9.3.6g",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_flag",
+  "child_ids": [
+    "rule_once_per_turn_flag__example_1"
+  ],
+  "text_markup": "The \"once per turn\" flag appears on paid and conditional abilities. An ability with this flag can only be used once per turn. {ref:rule_using} explains what it means to \"use\" an ability.",
+  "text_plain": "The \"once per turn\" flag appears on paid and conditional abilities. An ability with this flag can only be used once per turn. section 9.1.6 explains what it means to \"use\" an ability.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 126,
+      "end": 139,
+      "ids": [
+        "rule_using"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_once_per_turn_flag__example_1",
+      "text_markup": "The Runner is playing as {card:Zahya Sadeghi} and finishes a run on HQ, having accessed 1 card. They choose not to gain 1[c] with Zahya's ability. The ability was not \"used\", so its \"once per turn\" restriction has not been expended, even though the ability was able to resolve. The Runner can make another run later in the turn and gain credits with the ability.",
+      "text_plain": "The Runner is playing as Zahya Sadeghi and finishes a run on HQ, having accessed 1 card. They choose not to gain 1{c} with Zahya's ability. The ability was not \"used\", so its \"once per turn\" restriction has not been expended, even though the ability was able to resolve. The Runner can make another run later in the turn and gain credits with the ability.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_once_per_turn_flag"
+}

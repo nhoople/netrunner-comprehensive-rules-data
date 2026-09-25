@@ -1,0 +1,46 @@
+{
+  "id": "rule_expected_effects__example_2",
+  "kind": "example",
+  "number": "9.9.2.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_expected_effects",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:Process Automation} after {card:Lockdown}'s subroutine resolves. The instruction \"Gain 2[c] and draw 1 card.\" becomes imminent, but the Runner cannot draw cards. The expected effect of this instruction is that the Runner will gain 2[c].",
+  "text_plain": "The Runner plays Process Automation after Lockdown's subroutine resolves. The instruction \"Gain 2{c} and draw 1 card.\" becomes imminent, but the Runner cannot draw cards. The expected effect of this instruction is that the Runner will gain 2{c}.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 35,
+      "target": "Process Automation",
+      "card_code": "13023"
+    },
+    {
+      "type": "card",
+      "start": 42,
+      "end": 50,
+      "target": "Lockdown",
+      "card_code": "08056"
+    },
+    {
+      "type": "symbol",
+      "start": 97,
+      "end": 100,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 241,
+      "end": 244,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

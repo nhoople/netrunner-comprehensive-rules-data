@@ -1,0 +1,29 @@
+{
+  "id": "rule_hidden_secret_faceup_facedown",
+  "kind": "rule",
+  "number": "1.21.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_faceup_facedown",
+  "child_ids": [],
+  "text_markup": "Cards in hidden or secret zones (see {ref:sec_game_zones_general}) are neither faceup nor facedown.",
+  "text_plain": "Cards in hidden or secret zones (see section 4.1) are neither faceup nor facedown.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 37,
+      "end": 48,
+      "ids": [
+        "sec_game_zones_general"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hidden_secret_faceup_facedown"
+}

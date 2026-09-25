@@ -1,0 +1,41 @@
+{
+  "id": "rule_cost_interrupt_static_mandatory__example_1",
+  "kind": "example",
+  "number": "1.16.1b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_cost_interrupt_static_mandatory",
+  "child_ids": [],
+  "text_markup": "The Runner cannot pay the additional cost to steal {card:Obokata Protocol} while {card:Guru Davinder} is installed, because the Runner could not currently take 4 damage if instructed to: {card:Guru Davinder}'s first ability would prevent the damage.",
+  "text_plain": "The Runner cannot pay the additional cost to steal Obokata Protocol while Guru Davinder is installed, because the Runner could not currently take 4 damage if instructed to: Guru Davinder's first ability would prevent the damage.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 51,
+      "end": 67,
+      "target": "Obokata Protocol",
+      "card_code": "12070"
+    },
+    {
+      "type": "card",
+      "start": 74,
+      "end": 87,
+      "target": "Guru Davinder",
+      "card_code": "10084"
+    },
+    {
+      "type": "card",
+      "start": 173,
+      "end": 186,
+      "target": "Guru Davinder",
+      "card_code": "10084"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

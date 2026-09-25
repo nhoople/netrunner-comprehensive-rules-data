@@ -1,0 +1,19 @@
+{
+  "id": "rule_cards_in_root_vertical",
+  "kind": "rule",
+  "number": "8.5.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_cards_in_server_cannot_be_rearranged",
+  "child_ids": [],
+  "text_markup": "Agendas, assets, and upgrades are always installed in a vertical orientation. An upgrade in the root of a remote server is installed in the same position as an agenda or asset. The Runner should not be able to tell what type of card is installed in the root of a remote server by its position.",
+  "text_plain": "Agendas, assets, and upgrades are always installed in a vertical orientation. An upgrade in the root of a remote server is installed in the same position as an agenda or asset. The Runner should not be able to tell what type of card is installed in the root of a remote server by its position.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cards_in_root_vertical"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_upgrade_rez_cost",
+  "kind": "rule",
+  "number": "3.6.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_upgrades",
+  "child_ids": [],
+  "text_markup": "Upgrades are among the card types that have rez costs. They are installed unrezzed and remain inactive until the Corp rezzes them by paying their rez costs during a paid ability window. See {ref:sec_faceup_facedown_status}.",
+  "text_plain": "Upgrades are among the card types that have rez costs. They are installed unrezzed and remain inactive until the Corp rezzes them by paying their rez costs during a paid ability window. See section 8.1.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 190,
+      "end": 201,
+      "ids": [
+        "sec_faceup_facedown_status"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_upgrade_rez_cost"
+}

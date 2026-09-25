@@ -1,0 +1,24 @@
+{
+  "id": "sec_trashing",
+  "kind": "section",
+  "number": "1.19",
+  "ref_type": "section",
+  "title": "Trashing",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_trashing",
+    "rule_access_trash",
+    "rule_trashed_vs_discarded",
+    "rule_trash_symbol"
+  ],
+  "text_markup": "Trashing",
+  "text_plain": "Trashing",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_trashing"
+}

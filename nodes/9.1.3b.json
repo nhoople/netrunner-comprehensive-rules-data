@@ -1,0 +1,29 @@
+{
+  "id": "rule_source_granted_abilities",
+  "kind": "rule",
+  "number": "9.1.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_source",
+  "child_ids": [],
+  "text_markup": "If something grants an ability to an object (see {ref:rule_gaining_losing_abilities}), the source of the granted ability is that object, not whatever granted the ability.",
+  "text_plain": "If something grants an ability to an object (see section 9.1.9), the source of the granted ability is that object, not whatever granted the ability.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 49,
+      "end": 62,
+      "ids": [
+        "rule_gaining_losing_abilities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_source_granted_abilities"
+}

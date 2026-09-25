@@ -1,0 +1,19 @@
+{
+  "id": "rule_optional_conditional_ability_use",
+  "kind": "rule",
+  "number": "9.6.9d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_optional_conditional_ability",
+  "child_ids": [],
+  "text_markup": "A conditional ability and its source are considered used when any optional component of the ability's effects is carried out.",
+  "text_plain": "A conditional ability and its source are considered used when any optional component of the ability's effects is carried out.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_optional_conditional_ability_use"
+}

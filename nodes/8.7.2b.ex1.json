@@ -1,0 +1,27 @@
+{
+  "id": "rule_valid_search_target_install_play__example_1",
+  "kind": "example",
+  "number": "8.7.2b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_valid_search_target_install_play",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Artist Colony} to search for a card and install it. They cannot find an event with the search because events can never be installed. They also cannot find a program, hardware, or resource that they cannot afford to install.",
+  "text_plain": "The Runner uses Artist Colony to search for a card and install it. They cannot find an event with the search because events can never be installed. They also cannot find a program, hardware, or resource that they cannot afford to install.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 29,
+      "target": "Artist Colony",
+      "card_code": "10009"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

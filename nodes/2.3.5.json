@@ -1,0 +1,19 @@
+{
+  "id": "rule_card_types_with_rez_costs",
+  "kind": "rule",
+  "number": "2.3.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_printed_cost",
+  "child_ids": [],
+  "text_markup": "Assets, ice, and upgrades have a rez cost.",
+  "text_plain": "Assets, ice, and upgrades have a rez cost.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_card_types_with_rez_costs"
+}

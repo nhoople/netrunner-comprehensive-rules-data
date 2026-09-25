@@ -1,0 +1,29 @@
+{
+  "id": "rule_runner_discard_step",
+  "kind": "rule",
+  "number": "5.5.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_discard_step",
+  "child_ids": [],
+  "text_markup": "Before the Runner discards cards in their discard step, they must check for a flatline. See {ref:rule_flatline}.",
+  "text_plain": "Before the Runner discards cards in their discard step, they must check for a flatline. See rule 1.7.2b.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 92,
+      "end": 103,
+      "ids": [
+        "rule_flatline"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_runner_discard_step"
+}

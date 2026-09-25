@@ -1,0 +1,30 @@
+{
+  "id": "sec_replacement_effects",
+  "kind": "subsection",
+  "number": "9.9.8",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interrupts_replacements",
+  "child_ids": [
+    "rule_replacement_effect_from_interrupt",
+    "rule_replacement_effect_from_static_ability",
+    "rule_replacement_effect_from_lingering_effect"
+  ],
+  "text_markup": "A {term:replacement effect} modifies another effect by replacing some or all of the original effect's behavior with different behavior. Replacement effects are indicated by the word \"instead\" in their text. Once created, replacement effects apply automatically and do not require players to explicitly trigger them.",
+  "text_plain": "A replacement effect modifies another effect by replacing some or all of the original effect's behavior with different behavior. Replacement effects are indicated by the word \"instead\" in their text. Once created, replacement effects apply automatically and do not require players to explicitly trigger them.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 20,
+      "target": "replacement effect"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_replacement_effects"
+}

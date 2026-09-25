@@ -1,0 +1,19 @@
+{
+  "id": "rule_subroutine_origin_static_before",
+  "kind": "rule",
+  "number": "9.8.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subroutine_origins",
+  "child_ids": [],
+  "text_markup": "Subroutines gained from a static ability on the ice itself, where the ability states the subroutines are added before other subroutines. Subroutines in this category on a single piece of ice are always identical. If the number of such subroutines increases, the new copies are added after any previously-existing subroutines in this category. If the number of such subroutines decreases, subroutines are lost beginning with the last subroutine the ice previously had from the same ability and working backwards.",
+  "text_plain": "Subroutines gained from a static ability on the ice itself, where the ability states the subroutines are added before other subroutines. Subroutines in this category on a single piece of ice are always identical. If the number of such subroutines increases, the new copies are added after any previously-existing subroutines in this category. If the number of such subroutines decreases, subroutines are lost beginning with the last subroutine the ice previously had from the same ability and working backwards.",
+  "spans": [],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutine_origin_static_before"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rule_swap_installed_cards",
+  "kind": "subsection",
+  "number": "8.8.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_swapping_cards",
+  "child_ids": [
+    "rule_swap_installed_cards_preserves_hosting"
+  ],
+  "text_markup": "If two installed cards are swapped, each card moves to the other's location simultaneously. The two cards remain installed throughout the process of swapping, and do not otherwise affect any other part of the game state.",
+  "text_plain": "If two installed cards are swapped, each card moves to the other's location simultaneously. The two cards remain installed throughout the process of swapping, and do not otherwise affect any other part of the game state.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_swap_installed_cards"
+}

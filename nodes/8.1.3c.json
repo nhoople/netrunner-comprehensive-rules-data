@@ -1,0 +1,19 @@
+{
+  "id": "rule_derez_procedure",
+  "kind": "rule",
+  "number": "8.1.3c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_derez",
+  "child_ids": [],
+  "text_markup": "Derezzing a card is instantaneous and has no component steps.",
+  "text_plain": "Derezzing a card is instantaneous and has no component steps.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_derez_procedure"
+}

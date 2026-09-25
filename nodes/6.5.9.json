@@ -1,0 +1,24 @@
+{
+  "id": "subsec_forced_encounters",
+  "kind": "subsection",
+  "number": "6.5.9",
+  "ref_type": "section",
+  "title": "Forced Encounters",
+  "parent_id": "sec_encounter_ice_phase",
+  "child_ids": [
+    "rule_forced_encounter",
+    "rule_forced_encounter_during_run",
+    "rule_forced_encounter_end",
+    "rule_move_during_forced"
+  ],
+  "text_markup": "Forced Encounters",
+  "text_plain": "Forced Encounters",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_forced_encounters"
+}

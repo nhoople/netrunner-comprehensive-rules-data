@@ -1,0 +1,21 @@
+{
+  "id": "subsec_grip",
+  "kind": "subsection",
+  "number": "4.3.9",
+  "ref_type": "section",
+  "title": "Grip",
+  "parent_id": "sec_hand",
+  "child_ids": [
+    "rule_grip_name"
+  ],
+  "text_markup": "Grip",
+  "text_plain": "Grip",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "The grip represents the Runner's currently accessible thoughts, plans, knowledge, potential social connections, and other intangible information that can be leveraged.",
+  "snippet_plain": "The grip represents the Runner's currently accessible thoughts, plans, knowledge, potential social connections, and other intangible information that can be leveraged.",
+  "url": "https://rules.nullsignal.games/?r=subsec_grip"
+}

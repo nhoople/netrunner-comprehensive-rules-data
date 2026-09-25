@@ -1,0 +1,47 @@
+{
+  "id": "rule_symbol_link",
+  "kind": "rule",
+  "number": "1.3.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_symbols",
+  "child_ids": [],
+  "text_markup": "The symbol [link] (plaintext: {curly:link}) stands for \"link\". It is always used with a quantity, such as 1[link], which means \"1 link.\" See {ref:sec_link} for rules about link.",
+  "text_plain": "The symbol {link} (plaintext: {link}) stands for \"link\". It is always used with a quantity, such as 1{link}, which means \"1 link.\" See section 10.7 for rules about link.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 11,
+      "end": 17,
+      "target": "link"
+    },
+    {
+      "type": "symbol",
+      "start": 30,
+      "end": 36,
+      "target": "link"
+    },
+    {
+      "type": "symbol",
+      "start": 101,
+      "end": 107,
+      "target": "link"
+    },
+    {
+      "type": "ref",
+      "start": 135,
+      "end": 147,
+      "ids": [
+        "sec_link"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_symbol_link"
+}

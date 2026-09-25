@@ -1,0 +1,26 @@
+{
+  "id": "rule_adam_directives_deck",
+  "kind": "rule",
+  "number": "1.5.3c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_adam",
+  "child_ids": [],
+  "text_markup": "A player playing Adam can also include {subtype:directive} cards in their deck. The cards chosen to be installed at the beginning of the game do not impact the deck's influence requirements or the maximum allowed number of copies of those cards.",
+  "text_plain": "A player playing Adam can also include directive cards in their deck. The cards chosen to be installed at the beginning of the game do not impact the deck's influence requirements or the maximum allowed number of copies of those cards.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 39,
+      "end": 48,
+      "target": "directive"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_adam_directives_deck"
+}

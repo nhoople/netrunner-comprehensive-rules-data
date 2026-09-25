@@ -1,0 +1,19 @@
+{
+  "id": "rule_text_classification",
+  "kind": "rule",
+  "number": "9.3.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_interpreting_card_text",
+  "child_ids": [],
+  "text_markup": "Text is classified into conditions, restrictions, instructions, declarations, and ability flags. The rules text of an ability can contain text in any combination of these classes, except that no ability contains both instructions and declarations.",
+  "text_plain": "Text is classified into conditions, restrictions, instructions, declarations, and ability flags. The rules text of an ability can contain text in any combination of these classes, except that no ability contains both instructions and declarations.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_text_classification"
+}

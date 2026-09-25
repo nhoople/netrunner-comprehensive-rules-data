@@ -1,0 +1,19 @@
+{
+  "id": "step_subroutine_checkpoint",
+  "kind": "rule",
+  "number": "9.8.10f",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_resolving_a_subroutine",
+  "child_ids": [],
+  "text_markup": "A checkpoint occurs.",
+  "text_plain": "A checkpoint occurs.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_subroutine_checkpoint"
+}

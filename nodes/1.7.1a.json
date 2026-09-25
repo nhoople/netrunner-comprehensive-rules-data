@@ -1,0 +1,19 @@
+{
+  "id": "rule_simultaneous_win",
+  "kind": "rule",
+  "number": "1.7.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_game_end",
+  "child_ids": [],
+  "text_markup": "If both players would simultaneously satisfy their win conditions, the game ends in a draw.",
+  "text_plain": "If both players would simultaneously satisfy their win conditions, the game ends in a draw.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_simultaneous_win"
+}

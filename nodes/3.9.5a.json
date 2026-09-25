@@ -1,0 +1,32 @@
+{
+  "id": "rule_program_icebreaker",
+  "kind": "rule",
+  "number": "3.9.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_icebreakers",
+  "child_ids": [],
+  "text_markup": "Some programs have the subtype {subtype:icebreaker}. {subtype:Icebreaker} programs have strength and abilities that interface with ice.",
+  "text_plain": "Some programs have the subtype icebreaker. Icebreaker programs have strength and abilities that interface with ice.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 31,
+      "end": 41,
+      "target": "icebreaker"
+    },
+    {
+      "type": "subtype",
+      "start": 43,
+      "end": 53,
+      "target": "Icebreaker"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_program_icebreaker"
+}

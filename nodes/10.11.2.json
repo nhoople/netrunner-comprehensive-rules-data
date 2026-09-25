@@ -1,0 +1,21 @@
+{
+  "id": "rule_mark_identification",
+  "kind": "subsection",
+  "number": "10.11.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_mark",
+  "child_ids": [
+    "rule_mark_identification_method"
+  ],
+  "text_markup": "If a player is instructed to \"identify your mark\", determine if any server is currently designated as the mark. If there is no mark, a random central server becomes the mark for the remainder of the turn.",
+  "text_plain": "If a player is instructed to \"identify your mark\", determine if any server is currently designated as the mark. If there is no mark, a random central server becomes the mark for the remainder of the turn.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mark_identification"
+}

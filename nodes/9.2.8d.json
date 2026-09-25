@@ -1,0 +1,19 @@
+{
+  "id": "rule_reaction_window_pending_abilities_unordered",
+  "kind": "rule",
+  "number": "9.2.8d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_reaction_window",
+  "child_ids": [],
+  "text_markup": "The player with priority during a reaction window may trigger their pending abilities in any order until they decide to pass; they do not need to trigger mandatory abilities before optional ones. Each ability they trigger must be fully resolved before another is chosen.",
+  "text_plain": "The player with priority during a reaction window may trigger their pending abilities in any order until they decide to pass; they do not need to trigger mandatory abilities before optional ones. Each ability they trigger must be fully resolved before another is chosen.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_reaction_window_pending_abilities_unordered"
+}

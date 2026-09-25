@@ -1,0 +1,19 @@
+{
+  "id": "step_access_candidate",
+  "kind": "rule",
+  "number": "7.5.5",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_breaching_steps",
+  "child_ids": [],
+  "text_markup": "The Runner accesses the chosen card.",
+  "text_plain": "The Runner accesses the chosen card.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_access_candidate"
+}

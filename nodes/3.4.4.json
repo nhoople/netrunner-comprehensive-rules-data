@@ -1,0 +1,31 @@
+{
+  "id": "rule_ice_strength_value",
+  "kind": "subsection",
+  "number": "3.4.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_ice",
+  "child_ids": [
+    "rule_ice_strength_modification_duration"
+  ],
+  "text_markup": "Ice are among the card types that have strength. An ice's strength determines which icebreakers are allowed to interface with it. See {ref:subsec_icebreakers}.",
+  "text_plain": "Ice are among the card types that have strength. An ice's strength determines which icebreakers are allowed to interface with it. See section 3.9.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 134,
+      "end": 147,
+      "ids": [
+        "subsec_icebreakers"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_strength_value"
+}

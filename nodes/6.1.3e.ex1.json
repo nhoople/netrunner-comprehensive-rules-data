@@ -1,0 +1,97 @@
+{
+  "id": "rule_run_phase_after__example_1",
+  "kind": "example",
+  "number": "6.1.3e.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_run_phase_after",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Inversificator} to break the subroutine on a {card:Mirāju} that is protecting Archives. When the encounter ends, {card:Mirāju}'s ability creates a replacement effect so that the Runner moves to the outermost position of Archives instead of passing {card:Mirāju}. Because the ice is not passed, {card:Inversificator}'s ability does not meet its trigger condition. Later, the Runner encounters the same {card:Mirāju} again and does not break its subroutine. When this encounter ends, the Runner passes {card:Mirāju}. Even though the Runner has used {card:Inversificator} to fully break {card:Mirāju} during an encounter earlier in the run, {card:Inversificator}'s trigger condition is not met when the Runner passes {card:Mirāju} because the Runner is not passing it after the relevant encounter.",
+  "text_plain": "The Runner uses Inversificator to break the subroutine on a Mirāju that is protecting Archives. When the encounter ends, Mirāju's ability creates a replacement effect so that the Runner moves to the outermost position of Archives instead of passing Mirāju. Because the ice is not passed, Inversificator's ability does not meet its trigger condition. Later, the Runner encounters the same Mirāju again and does not break its subroutine. When this encounter ends, the Runner passes Mirāju. Even though the Runner has used Inversificator to fully break Mirāju during an encounter earlier in the run, Inversificator's trigger condition is not met when the Runner passes Mirāju because the Runner is not passing it after the relevant encounter.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 30,
+      "target": "Inversificator",
+      "card_code": "12048"
+    },
+    {
+      "type": "card",
+      "start": 60,
+      "end": 66,
+      "target": "Mirāju",
+      "card_code": "12071"
+    },
+    {
+      "type": "card",
+      "start": 121,
+      "end": 127,
+      "target": "Mirāju",
+      "card_code": "12071"
+    },
+    {
+      "type": "card",
+      "start": 249,
+      "end": 255,
+      "target": "Mirāju",
+      "card_code": "12071"
+    },
+    {
+      "type": "card",
+      "start": 288,
+      "end": 302,
+      "target": "Inversificator",
+      "card_code": "12048"
+    },
+    {
+      "type": "card",
+      "start": 388,
+      "end": 394,
+      "target": "Mirāju",
+      "card_code": "12071"
+    },
+    {
+      "type": "card",
+      "start": 480,
+      "end": 486,
+      "target": "Mirāju",
+      "card_code": "12071"
+    },
+    {
+      "type": "card",
+      "start": 520,
+      "end": 534,
+      "target": "Inversificator",
+      "card_code": "12048"
+    },
+    {
+      "type": "card",
+      "start": 550,
+      "end": 556,
+      "target": "Mirāju",
+      "card_code": "12071"
+    },
+    {
+      "type": "card",
+      "start": 597,
+      "end": 611,
+      "target": "Inversificator",
+      "card_code": "12048"
+    },
+    {
+      "type": "card",
+      "start": 666,
+      "end": 672,
+      "target": "Mirāju",
+      "card_code": "12071"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

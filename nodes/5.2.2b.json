@@ -1,0 +1,28 @@
+{
+  "id": "rule_action_timing_structure_completion",
+  "kind": "rule",
+  "number": "5.2.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_initiate_action",
+  "child_ids": [
+    "rule_action_timing_structure_completion__example_1"
+  ],
+  "text_markup": "If a timing structure is initiated during the resolution of an action, that action is not complete until the new timing structure is complete and any further effects of the initiated action following the completion of the new timing structure are resolved.",
+  "text_plain": "If a timing structure is initiated during the resolution of an action, that action is not complete until the new timing structure is complete and any further effects of the initiated action following the completion of the new timing structure are resolved.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_action_timing_structure_completion__example_1",
+      "text_markup": "The Runner takes the action \"play an event\", playing {card:Stimhack}. The action is not complete until the run initiated by {card:Stimhack} ends, the Runner suffers core damage, and {card:Stimhack} is trashed following its resolution.",
+      "text_plain": "The Runner takes the action \"play an event\", playing Stimhack. The action is not complete until the run initiated by Stimhack ends, the Runner suffers core damage, and Stimhack is trashed following its resolution.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_action_timing_structure_completion"
+}

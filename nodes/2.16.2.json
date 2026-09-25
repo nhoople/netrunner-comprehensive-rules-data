@@ -1,0 +1,19 @@
+{
+  "id": "rule_subtype_bold",
+  "kind": "rule",
+  "number": "2.16.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_subtypes",
+  "child_ids": [],
+  "text_markup": "In card text, subtypes are always referenced in bold text. If a word or phrase that is also a subtype appears in a card's text but is not in bold text, that word or phrase does not reference the subtype.",
+  "text_plain": "In card text, subtypes are always referenced in bold text. If a word or phrase that is also a subtype appears in a card's text but is not in bold text, that word or phrase does not reference the subtype.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subtype_bold"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_ice_subroutine",
+  "kind": "rule",
+  "number": "3.4.7",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_ice",
+  "child_ids": [],
+  "text_markup": "Ice are the only cards with subroutines. See {ref:sec_subroutines}.",
+  "text_plain": "Ice are the only cards with subroutines. See section 9.8.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 45,
+      "end": 56,
+      "ids": [
+        "sec_subroutines"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_subroutine"
+}

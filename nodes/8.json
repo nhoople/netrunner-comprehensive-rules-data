@@ -1,0 +1,28 @@
+{
+  "id": "chpt_card_manipulation",
+  "kind": "chapter",
+  "number": "8",
+  "ref_type": "section",
+  "title": "Card Manipulation",
+  "parent_id": null,
+  "child_ids": [
+    "sec_faceup_facedown_status",
+    "sec_card_movements",
+    "sec_arranging_rearranging",
+    "sec_drawing_cards",
+    "sec_install_uninstall",
+    "sec_playing_events_and_operations",
+    "sec_searching_cards",
+    "sec_swapping_cards"
+  ],
+  "text_markup": "Card Manipulation",
+  "text_plain": "Card Manipulation",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=chpt_card_manipulation"
+}

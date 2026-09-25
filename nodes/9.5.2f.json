@@ -1,0 +1,19 @@
+{
+  "id": "rule_other_paid_abilities",
+  "kind": "rule",
+  "number": "9.5.2f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trigger_paid_abilities",
+  "child_ids": [],
+  "text_markup": "A paid ability that is not an action, interrupt, or mid-access ability can be used during a paid ability window. Each such ability can be used an unlimited number of times as long as its cost is paid each time and any restrictions specified in its text or by other abilities are observed.",
+  "text_plain": "A paid ability that is not an action, interrupt, or mid-access ability can be used during a paid ability window. Each such ability can be used an unlimited number of times as long as its cost is paid each time and any restrictions specified in its text or by other abilities are observed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_other_paid_abilities"
+}

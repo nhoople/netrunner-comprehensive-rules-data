@@ -1,0 +1,40 @@
+{
+  "id": "rule_basic_actions",
+  "kind": "subsection",
+  "number": "5.2.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_actions",
+  "child_ids": [
+    "rule_with_the_basic_action"
+  ],
+  "text_markup": "Each player has several basic actions they can always perform. The Corp's basic actions are listed in {ref:rule_corp_actions}, and the Runner's basic actions are listed in {ref:rule_runner_actions}.",
+  "text_plain": "Each player has several basic actions they can always perform. The Corp's basic actions are listed in section 5.2.6, and the Runner's basic actions are listed in section 5.2.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 102,
+      "end": 115,
+      "ids": [
+        "rule_corp_actions"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 162,
+      "end": 175,
+      "ids": [
+        "rule_runner_actions"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_basic_actions"
+}

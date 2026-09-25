@@ -1,0 +1,27 @@
+{
+  "id": "rule_prohibiting_access__example_1",
+  "kind": "example",
+  "number": "7.4.2.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_prohibiting_access",
+  "child_ids": [],
+  "text_markup": "The Corp performs a successful trace with the ability on {card:Ash 2X3ZB9CY}, prohibiting the Runner from accessing any card other than Ash for the remainder of the current run. When the server is breached, Ash will be the only candidate for the Runner's first selection, and then there will be no candidates remaining, so the breach will end.",
+  "text_plain": "The Corp performs a successful trace with the ability on Ash 2X3ZB9CY, prohibiting the Runner from accessing any card other than Ash for the remainder of the current run. When the server is breached, Ash will be the only candidate for the Runner's first selection, and then there will be no candidates remaining, so the breach will end.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 57,
+      "end": 69,
+      "target": "Ash 2X3ZB9CY",
+      "card_code": "20075"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

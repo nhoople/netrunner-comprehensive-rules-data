@@ -1,0 +1,29 @@
+{
+  "id": "step_checkpoint_hosted_on_installed_cards",
+  "kind": "rule",
+  "number": "10.3.1g",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_checkpoints",
+  "child_ids": [],
+  "text_markup": "Any objects that were hosted on an installed card that was uninstalled are trashed, except for cards or counters that are temporarily in the set-aside zone because of {ref:rule_trash_ability_keeps_track_of_hosted_objects}. This step is repeated until no more cards or counters are trashed.",
+  "text_plain": "Any objects that were hosted on an installed card that was uninstalled are trashed, except for cards or counters that are temporarily in the set-aside zone because of rule 9.5.5. This step is repeated until no more cards or counters are trashed.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 167,
+      "end": 177,
+      "ids": [
+        "rule_trash_ability_keeps_track_of_hosted_objects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_checkpoint_hosted_on_installed_cards"
+}

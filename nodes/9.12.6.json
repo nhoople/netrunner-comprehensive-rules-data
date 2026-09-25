@@ -1,0 +1,24 @@
+{
+  "id": "subsec_modal_abilities",
+  "kind": "subsection",
+  "number": "9.12.6",
+  "ref_type": "section",
+  "title": "Modal Abilities",
+  "parent_id": "sec_other_rules_and_terminology",
+  "child_ids": [
+    "rule_mode_definition",
+    "rule_choose_next_mode",
+    "rule_after_resolving_mode",
+    "rule_cannot_repeat_modes"
+  ],
+  "text_markup": "Modal Abilities",
+  "text_plain": "Modal Abilities",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_modal_abilities"
+}

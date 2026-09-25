@@ -1,0 +1,30 @@
+{
+  "id": "rule_identity_subtypes",
+  "kind": "rule",
+  "number": "2.16.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subtypes_list",
+  "child_ids": [],
+  "text_markup": "The identity subtypes are Bioroid, Clone, Corp, Cyborg, {n}Department,{/n} Digital, Division, G-mod, {n}Liability,{/n} Megacorp, Natural, Police Department, Stealth, Subsidiary, and Unsubstantiated.",
+  "text_plain": "The identity subtypes are Bioroid, Clone, Corp, Cyborg, Department, Digital, Division, G-mod, Liability, Megacorp, Natural, Police Department, Stealth, Subsidiary, and Unsubstantiated.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 56,
+      "end": 67
+    },
+    {
+      "type": "new",
+      "start": 94,
+      "end": 104
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identity_subtypes"
+}

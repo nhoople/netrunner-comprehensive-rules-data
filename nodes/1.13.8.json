@@ -1,0 +1,19 @@
+{
+  "id": "rule_change_hosted",
+  "kind": "rule",
+  "number": "1.13.8",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [],
+  "text_markup": "Once a card is installed, hosted or not, a player cannot change that card's hosted status unless a card ability explicitly directs it to be hosted onto a new card.",
+  "text_plain": "Once a card is installed, hosted or not, a player cannot change that card's hosted status unless a card ability explicitly directs it to be hosted onto a new card.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_change_hosted"
+}

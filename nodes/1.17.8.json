@@ -1,0 +1,19 @@
+{
+  "id": "rule_advancement_counters_reference",
+  "kind": "rule",
+  "number": "1.17.8",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_score_scoring_steal",
+  "child_ids": [],
+  "text_markup": "If an ability meets its trigger condition from an agenda being scored or stolen, the agenda's last known number of advancement counters before being scored or stolen is used for any references to the number of advancement counters in the effects of that ability.",
+  "text_plain": "If an ability meets its trigger condition from an agenda being scored or stolen, the agenda's last known number of advancement counters before being scored or stolen is used for any references to the number of advancement counters in the effects of that ability.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_advancement_counters_reference"
+}

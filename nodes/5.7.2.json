@@ -1,0 +1,25 @@
+{
+  "id": "subsec_runner_discard_phase",
+  "kind": "subsection",
+  "number": "5.7.2",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_runner_turn",
+  "child_ids": [
+    "step_runner_turn_discard",
+    "step_runner_turn_discard_phase_paw",
+    "step_runner_turn_lose_unspent_clicks",
+    "step_runner_turn_formal_end",
+    "step_runner_turn_complete"
+  ],
+  "text_markup": "During the Runner's discard phase, the following steps occur in order:",
+  "text_plain": "During the Runner's discard phase, the following steps occur in order:",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_runner_discard_phase"
+}

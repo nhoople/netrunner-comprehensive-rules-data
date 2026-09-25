@@ -1,0 +1,41 @@
+{
+  "id": "step_checkpoint_card_entering_root_during_breach__example_1",
+  "kind": "example",
+  "number": "10.3.1j.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "step_checkpoint_card_entering_root_during_breach",
+  "child_ids": [],
+  "text_markup": "The Runner accesses {card:Ganked!} and encounters {card:Drafter} in the middle of breaching a server. The second subroutine on {card:Drafter} resolves, and the Corp uses its effect to install a card in the root of the server being breached. When the installation is completed, the Runner declares whether or not the installed card becomes a candidate. If it does become a candidate, the Runner will select it for access later in the breach.",
+  "text_plain": "The Runner accesses Ganked! and encounters Drafter in the middle of breaching a server. The second subroutine on Drafter resolves, and the Corp uses its effect to install a card in the root of the server being breached. When the installation is completed, the Runner declares whether or not the installed card becomes a candidate. If it does become a candidate, the Runner will select it for access later in the breach.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 27,
+      "target": "Ganked!",
+      "card_code": "26119"
+    },
+    {
+      "type": "card",
+      "start": 43,
+      "end": 50,
+      "target": "Drafter",
+      "card_code": "26101"
+    },
+    {
+      "type": "card",
+      "start": 113,
+      "end": 120,
+      "target": "Drafter",
+      "card_code": "26101"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

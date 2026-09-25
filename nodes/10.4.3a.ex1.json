@@ -1,0 +1,34 @@
+{
+  "id": "rule_multiple_damage_selected_sequentially__example_1",
+  "kind": "example",
+  "number": "10.4.3a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_multiple_damage_selected_sequentially",
+  "child_ids": [],
+  "text_markup": "The Corp is playing as {card:Chronos Protocol: Selective Mind-mapping} when the Runner accesses a {card:Snare!} before taking any other damage during this turn. The Corp looks at the grip and selects a card to be trashed as the first point of net damage for the turn, then two other cards are randomly selected. All 3 cards are trashed simultaneously.",
+  "text_plain": "The Corp is playing as Chronos Protocol: Selective Mind-mapping when the Runner accesses a Snare! before taking any other damage during this turn. The Corp looks at the grip and selects a card to be trashed as the first point of net damage for the turn, then two other cards are randomly selected. All 3 cards are trashed simultaneously.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 23,
+      "end": 63,
+      "target": "Chronos Protocol: Selective Mind-mapping",
+      "card_code": "08111"
+    },
+    {
+      "type": "card",
+      "start": 91,
+      "end": 97,
+      "target": "Snare!",
+      "card_code": "31054"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

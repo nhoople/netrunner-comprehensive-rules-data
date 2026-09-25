@@ -1,0 +1,29 @@
+{
+  "id": "rule_reaction_window_linked_to_pending_conditional_abilities",
+  "kind": "rule",
+  "number": "9.2.8a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_reaction_window",
+  "child_ids": [],
+  "text_markup": "Each reaction window is associated with the fixed set of conditional abilities that met their conditions just before the window opened. If other abilities become pending during a reaction window, a separate reaction window opens to handle the new abilities. See {ref:rule_chain_reaction}.",
+  "text_plain": "Each reaction window is associated with the fixed set of conditional abilities that met their conditions just before the window opened. If other abilities become pending during a reaction window, a separate reaction window opens to handle the new abilities. See rule 9.1.2a.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 262,
+      "end": 273,
+      "ids": [
+        "rule_chain_reaction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_reaction_window_linked_to_pending_conditional_abilities"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sec_deck",
+  "kind": "section",
+  "number": "4.2",
+  "ref_type": "section",
+  "title": "Deck",
+  "parent_id": "chpt_game_zones",
+  "child_ids": [
+    "rule_draw_deck",
+    "rule_deck_hidden",
+    "rule_deck_ordered",
+    "rule_deck_size_open_info",
+    "rule_deck_inactive",
+    "rule_deck_name",
+    "subsec_rnd",
+    "subsec_stack"
+  ],
+  "text_markup": "Deck",
+  "text_plain": "Deck",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_deck"
+}

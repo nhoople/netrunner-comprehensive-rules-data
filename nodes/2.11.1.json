@@ -1,0 +1,19 @@
+{
+  "id": "rule_min_deck_size_location",
+  "kind": "rule",
+  "number": "2.11.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_min_deck_size",
+  "child_ids": [],
+  "text_markup": "Minimum deck size is a number shown as the uppermost of two small boxes in the lower-left of Corp identities and the lower-right of Runner identities.",
+  "text_plain": "Minimum deck size is a number shown as the uppermost of two small boxes in the lower-left of Corp identities and the lower-right of Runner identities.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_min_deck_size_location"
+}

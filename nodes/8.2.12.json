@@ -1,0 +1,35 @@
+{
+  "id": "movement_trash",
+  "kind": "rule",
+  "number": "8.2.12",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_movements",
+  "child_ids": [],
+  "text_markup": "To {term:trash} a card is to move it from its current zone to its owner's discard pile. The full rules for trashing are detailed in {ref:sec_trashing}.",
+  "text_plain": "To trash a card is to move it from its current zone to its owner's discard pile. The full rules for trashing are detailed in section 1.19.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 8,
+      "target": "trash"
+    },
+    {
+      "type": "ref",
+      "start": 125,
+      "end": 137,
+      "ids": [
+        "sec_trashing"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=movement_trash"
+}

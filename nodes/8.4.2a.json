@@ -1,0 +1,29 @@
+{
+  "id": "rule_draw_relevant_abilities_see_set_aside",
+  "kind": "rule",
+  "number": "8.4.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_draw_procedure",
+  "child_ids": [],
+  "text_markup": "Abilities with a trigger condition that refers to cards being drawn can see the drawn cards in the set-aside zone. This is an exception to {ref:rule_set_aside_zone_passthrough}.",
+  "text_plain": "Abilities with a trigger condition that refers to cards being drawn can see the drawn cards in the set-aside zone. This is an exception to rule 4.8.3.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 139,
+      "end": 149,
+      "ids": [
+        "rule_set_aside_zone_passthrough"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_draw_relevant_abilities_see_set_aside"
+}

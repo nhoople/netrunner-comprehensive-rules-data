@@ -1,0 +1,27 @@
+{
+  "id": "sec_breaching_steps",
+  "kind": "section",
+  "number": "7.5",
+  "ref_type": "section",
+  "title": "Steps of Breaching a Server",
+  "parent_id": "chpt_access_breach",
+  "child_ids": [
+    "step_breaching_begins",
+    "step_flip_archives",
+    "step_determine_candidates_limit",
+    "step_choose_candidate",
+    "step_access_candidate",
+    "step_repeat_candidate_selection",
+    "step_breach_complete"
+  ],
+  "text_markup": "Steps of Breaching a Server",
+  "text_plain": "Steps of Breaching a Server",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_breaching_steps"
+}

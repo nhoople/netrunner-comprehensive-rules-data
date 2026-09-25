@@ -1,0 +1,55 @@
+{
+  "id": "rule_conditional_ability_static_condition_no_effect__example_1",
+  "kind": "example",
+  "number": "9.6.7d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_conditional_ability_static_condition_no_effect",
+  "child_ids": [],
+  "text_markup": "{card:Parasite} is hosted on a piece of ice with 0 strength. {card:Parasite}'s ability tries to trash that ice. If the effect of an interrupt ability prevents the ice from being trashed without increasing its strength, the condition is still true, so the ability will become pending again. But this does not occur while the previous instance of the ability is still pending or resolving. Conversely, if a static ability (such as the one on {card:Architect}) prohibits {card:Parasite} from trashing the ice, there are no effects {card:Parasite}'s ability can perform, and therefore the ability resolves only once per timing structure step.",
+  "text_plain": "Parasite is hosted on a piece of ice with 0 strength. Parasite's ability tries to trash that ice. If the effect of an interrupt ability prevents the ice from being trashed without increasing its strength, the condition is still true, so the ability will become pending again. But this does not occur while the previous instance of the ability is still pending or resolving. Conversely, if a static ability (such as the one on Architect) prohibits Parasite from trashing the ice, there are no effects Parasite's ability can perform, and therefore the ability resolves only once per timing structure step.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 8,
+      "target": "Parasite",
+      "card_code": "01012"
+    },
+    {
+      "type": "card",
+      "start": 54,
+      "end": 62,
+      "target": "Parasite",
+      "card_code": "01012"
+    },
+    {
+      "type": "card",
+      "start": 426,
+      "end": 435,
+      "target": "Architect",
+      "card_code": "06061"
+    },
+    {
+      "type": "card",
+      "start": 447,
+      "end": 455,
+      "target": "Parasite",
+      "card_code": "01012"
+    },
+    {
+      "type": "card",
+      "start": 500,
+      "end": 508,
+      "target": "Parasite",
+      "card_code": "01012"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

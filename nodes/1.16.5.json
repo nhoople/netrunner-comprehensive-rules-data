@@ -1,0 +1,23 @@
+{
+  "id": "rule_ignoring_costs",
+  "kind": "subsection",
+  "number": "1.16.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_costs",
+  "child_ids": [
+    "rule_ignore_general_cost",
+    "rule_ignore_credit_cost",
+    "rule_ignore_all_costs"
+  ],
+  "text_markup": "Some abilities direct a player to ignore certain costs when performing particular effects.",
+  "text_plain": "Some abilities direct a player to ignore certain costs when performing particular effects.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ignoring_costs"
+}

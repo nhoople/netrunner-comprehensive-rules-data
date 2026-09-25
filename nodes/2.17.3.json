@@ -1,0 +1,26 @@
+{
+  "id": "rule_reminder_text",
+  "kind": "rule",
+  "number": "2.17.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_text_box",
+  "child_ids": [],
+  "text_markup": "Some cards have italicised text in parentheses. This is {term:reminder text}, and has no effect on the game or the function of the card, nor can other abilities reference or interact with it directly. Reminder text simply summarizes a rule that may apply to that card text.",
+  "text_plain": "Some cards have italicised text in parentheses. This is reminder text, and has no effect on the game or the function of the card, nor can other abilities reference or interact with it directly. Reminder text simply summarizes a rule that may apply to that card text.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 56,
+      "end": 69,
+      "target": "reminder text"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_reminder_text"
+}

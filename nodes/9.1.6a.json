@@ -1,0 +1,29 @@
+{
+  "id": "rule_paid_ability_used_condition",
+  "kind": "rule",
+  "number": "9.1.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_using",
+  "child_ids": [],
+  "text_markup": "A paid ability is considered used once the trigger cost has been paid. See {ref:sec_steps_of_using_a_paid_ability} for the steps of using a paid ability.",
+  "text_plain": "A paid ability is considered used once the trigger cost has been paid. See step 9.5.7 for the steps of using a paid ability.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 75,
+      "end": 85,
+      "ids": [
+        "sec_steps_of_using_a_paid_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_paid_ability_used_condition"
+}

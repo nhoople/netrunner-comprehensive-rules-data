@@ -1,0 +1,29 @@
+{
+  "id": "rule_interface_ability",
+  "kind": "rule",
+  "number": "9.5.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trigger_paid_abilities",
+  "child_ids": [],
+  "text_markup": "If the \"interface\" flag appears before a paid ability's trigger cost, that ability is an Interface ability and is subject to the restrictions of icebreakers discussed in {ref:subsec_icebreakers}. Interface abilities do not have a special priority window type.",
+  "text_plain": "If the \"interface\" flag appears before a paid ability's trigger cost, that ability is an Interface ability and is subject to the restrictions of icebreakers discussed in section 3.9.5. Interface abilities do not have a special priority window type.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 170,
+      "end": 183,
+      "ids": [
+        "subsec_icebreakers"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interface_ability"
+}

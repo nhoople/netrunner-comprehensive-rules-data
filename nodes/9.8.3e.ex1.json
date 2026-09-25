@@ -1,0 +1,79 @@
+{
+  "id": "rule_subroutine_origin_external_after__example_1",
+  "kind": "example",
+  "number": "9.8.3e.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_subroutine_origin_external_after",
+  "child_ids": [],
+  "text_markup": "The Runner encounters {card:Marker}, and its subroutine resolves. The next ice the Runner encounters is {card:Brainstorm}. When the encounter begins, the lingering effect from {card:Marker} gives {card:Brainstorm} an \"[sub] End the run.\" subroutine. Then, {card:Brainstorm}'s conditional ability resolves, giving it the appropriate number of \"[sub] Do 1 core damage.\" subroutines. The \"[sub] Do 1 core damage.\" subroutines are all ordered after the \"[sub] End the run.\" subroutine.",
+  "text_plain": "The Runner encounters Marker, and its subroutine resolves. The next ice the Runner encounters is Brainstorm. When the encounter begins, the lingering effect from Marker gives Brainstorm an \"{sub} End the run.\" subroutine. Then, Brainstorm's conditional ability resolves, giving it the appropriate number of \"{sub} Do 1 core damage.\" subroutines. The \"{sub} Do 1 core damage.\" subroutines are all ordered after the \"{sub} End the run.\" subroutine.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 22,
+      "end": 28,
+      "target": "Marker",
+      "card_code": "04116"
+    },
+    {
+      "type": "card",
+      "start": 97,
+      "end": 107,
+      "target": "Brainstorm",
+      "card_code": "10086"
+    },
+    {
+      "type": "card",
+      "start": 162,
+      "end": 168,
+      "target": "Marker",
+      "card_code": "04116"
+    },
+    {
+      "type": "card",
+      "start": 175,
+      "end": 185,
+      "target": "Brainstorm",
+      "card_code": "10086"
+    },
+    {
+      "type": "symbol",
+      "start": 190,
+      "end": 195,
+      "target": "sub"
+    },
+    {
+      "type": "card",
+      "start": 228,
+      "end": 238,
+      "target": "Brainstorm",
+      "card_code": "10086"
+    },
+    {
+      "type": "symbol",
+      "start": 308,
+      "end": 313,
+      "target": "sub"
+    },
+    {
+      "type": "symbol",
+      "start": 351,
+      "end": 356,
+      "target": "sub"
+    },
+    {
+      "type": "symbol",
+      "start": 415,
+      "end": 420,
+      "target": "sub"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "rule_refill_recurring_credits",
+  "kind": "rule",
+  "number": "1.10.5c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_sec_recurring",
+  "child_ids": [],
+  "text_markup": "Recurring credits are refilled during {ref:step_corp_turn_recurring_credits_refill} of the Corp's turn and {ref:step_runner_turn_recurring_credits_refill} of the Runner's turn, before other abilities that apply at the start of the turn resolve.",
+  "text_plain": "Recurring credits are refilled during step 5.6.1c of the Corp's turn and step 5.7.1c of the Runner's turn, before other abilities that apply at the start of the turn resolve.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 38,
+      "end": 49,
+      "ids": [
+        "step_corp_turn_recurring_credits_refill"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 73,
+      "end": 84,
+      "ids": [
+        "step_runner_turn_recurring_credits_refill"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_refill_recurring_credits"
+}

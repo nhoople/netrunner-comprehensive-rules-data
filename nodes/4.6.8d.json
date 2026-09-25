@@ -1,0 +1,19 @@
+{
+  "id": "rule_remote_server_existence",
+  "kind": "rule",
+  "number": "4.6.8d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_remote_servers",
+  "child_ids": [],
+  "text_markup": "A remote server exists as long as there is at least one card in the root of or protecting it. A remote server can be made up of only ice protecting it, only cards installed in it, or a combination of both.",
+  "text_plain": "A remote server exists as long as there is at least one card in the root of or protecting it. A remote server can be made up of only ice protecting it, only cards installed in it, or a combination of both.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_remote_server_existence"
+}

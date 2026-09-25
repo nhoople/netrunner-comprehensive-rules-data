@@ -1,0 +1,29 @@
+{
+  "id": "rule_remote_server_cease_to_exist",
+  "kind": "rule",
+  "number": "4.6.8e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_remote_servers",
+  "child_ids": [],
+  "text_markup": "During checkpoints, a remote server ceases to exist if there are no cards installed in its root and no cards installed protecting it. If a server ceases to exist during a run against it, then the run ends after any currently open paid ability window closes. Unless the run has already been declared either successful or unsuccessful, it is neither. See {ref:rule_server_ceases_to_exist}.",
+  "text_plain": "During checkpoints, a remote server ceases to exist if there are no cards installed in its root and no cards installed protecting it. If a server ceases to exist during a run against it, then the run ends after any currently open paid ability window closes. Unless the run has already been declared either successful or unsuccessful, it is neither. See rule 8.5.8.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 353,
+      "end": 363,
+      "ids": [
+        "rule_server_ceases_to_exist"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_remote_server_cease_to_exist"
+}

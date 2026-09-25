@@ -1,0 +1,50 @@
+{
+  "id": "rule_action",
+  "kind": "rule",
+  "number": "9.5.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trigger_paid_abilities",
+  "child_ids": [],
+  "text_markup": "If the trigger cost of a paid ability begins with a [click] symbol, the ability is an {term:action}. A player can use one action paid ability during each action window on their turn. See {ref:rule_action_window} and {ref:sec_actions}.",
+  "text_plain": "If the trigger cost of a paid ability begins with a {click} symbol, the ability is an action. A player can use one action paid ability during each action window on their turn. See section 9.2.6 and section 5.2.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 52,
+      "end": 59,
+      "target": "click"
+    },
+    {
+      "type": "term",
+      "start": 86,
+      "end": 92,
+      "target": "action"
+    },
+    {
+      "type": "ref",
+      "start": 180,
+      "end": 193,
+      "ids": [
+        "rule_action_window"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 198,
+      "end": 209,
+      "ids": [
+        "sec_actions"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_action"
+}

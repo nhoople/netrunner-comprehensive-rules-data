@@ -1,0 +1,19 @@
+{
+  "id": "step_breach_complete",
+  "kind": "rule",
+  "number": "7.5.7",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_breaching_steps",
+  "child_ids": [],
+  "text_markup": "The breach is complete. Conditions related to the breach ending are met.",
+  "text_plain": "The breach is complete. Conditions related to the breach ending are met.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_breach_complete"
+}

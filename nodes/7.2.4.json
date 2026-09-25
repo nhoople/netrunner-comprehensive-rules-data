@@ -1,0 +1,19 @@
+{
+  "id": "step_access_complete",
+  "kind": "rule",
+  "number": "7.2.4",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_accessing_card",
+  "child_ids": [],
+  "text_markup": "The access is complete. Conditions related to an access ending are met.",
+  "text_plain": "The access is complete. Conditions related to an access ending are met.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_access_complete"
+}

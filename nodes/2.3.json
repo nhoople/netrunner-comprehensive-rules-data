@@ -1,0 +1,25 @@
+{
+  "id": "sec_printed_cost",
+  "kind": "section",
+  "number": "2.3",
+  "ref_type": "section",
+  "title": "Play Cost, Install Cost, or Rez Cost",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_printed_cost_definition",
+    "rule_paying_printed_costs",
+    "rule_card_types_with_play_costs",
+    "rule_card_types_with_install_costs",
+    "rule_card_types_with_rez_costs"
+  ],
+  "text_markup": "Play Cost, Install Cost, or Rez Cost",
+  "text_plain": "Play Cost, Install Cost, or Rez Cost",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_printed_cost"
+}

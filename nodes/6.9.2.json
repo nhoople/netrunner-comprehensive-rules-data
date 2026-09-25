@@ -1,0 +1,23 @@
+{
+  "id": "rule_sec_run_approach_ice_phase",
+  "kind": "subsection",
+  "number": "6.9.2",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_a_run",
+  "child_ids": [
+    "step_approach_begins",
+    "step_approach_paw",
+    "step_approach_complete"
+  ],
+  "text_markup": "Approach Ice Phase",
+  "text_plain": "Approach Ice Phase",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_sec_run_approach_ice_phase"
+}

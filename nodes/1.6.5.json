@@ -1,0 +1,19 @@
+{
+  "id": "rule_start_shuffle",
+  "kind": "rule",
+  "number": "1.6.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_starting_the_game",
+  "child_ids": [],
+  "text_markup": "Each player shuffles their deck.",
+  "text_plain": "Each player shuffles their deck.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_start_shuffle"
+}

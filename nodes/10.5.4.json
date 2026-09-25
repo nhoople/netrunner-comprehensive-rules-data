@@ -1,0 +1,32 @@
+{
+  "id": "rule_tagged_remove_tag",
+  "kind": "rule",
+  "number": "10.5.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_tags",
+  "child_ids": [],
+  "text_markup": "While the Runner is tagged, they can, as an action, spend [click] and 2[c] to remove one tag, returning it to the bank.",
+  "text_plain": "While the Runner is tagged, they can, as an action, spend {click} and 2{c} to remove one tag, returning it to the bank.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 58,
+      "end": 65,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 71,
+      "end": 74,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_tagged_remove_tag"
+}

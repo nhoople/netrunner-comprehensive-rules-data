@@ -1,0 +1,19 @@
+{
+  "id": "rule_moved_while_accessing",
+  "kind": "rule",
+  "number": "7.1.7",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_accessing_cards",
+  "child_ids": [],
+  "text_markup": "If a card moves to another location while it is being accessed, the access ends immediately.",
+  "text_plain": "If a card moves to another location while it is being accessed, the access ends immediately.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_moved_while_accessing"
+}

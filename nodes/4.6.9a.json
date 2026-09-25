@@ -1,0 +1,19 @@
+{
+  "id": "rule_ice_ordered",
+  "kind": "rule",
+  "number": "4.6.9a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_protecting_a_server",
+  "child_ids": [],
+  "text_markup": "An installed piece of ice is arranged in a horizontal position in front of the server it is protecting. Ice are ordered within the play area. The location of a piece of ice is defined by the server it is protecting and the number of other pieces of ice between it and the server.",
+  "text_plain": "An installed piece of ice is arranged in a horizontal position in front of the server it is protecting. Ice are ordered within the play area. The location of a piece of ice is defined by the server it is protecting and the number of other pieces of ice between it and the server.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_ordered"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_hand_size_open_info",
+  "kind": "rule",
+  "number": "4.3.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_hand",
+  "child_ids": [],
+  "text_markup": "The number of cards in a hand is open information to all players. Any player may count the number of cards in a hand at any time.",
+  "text_plain": "The number of cards in a hand is open information to all players. Any player may count the number of cards in a hand at any time.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hand_size_open_info"
+}

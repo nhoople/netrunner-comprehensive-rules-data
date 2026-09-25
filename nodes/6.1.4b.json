@@ -1,0 +1,38 @@
+{
+  "id": "rule_end_encounter_outside_run",
+  "kind": "rule",
+  "number": "6.1.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_end_the_run",
+  "child_ids": [
+    "rule_end_encounter_outside_run__example_1"
+  ],
+  "text_markup": "If an instruction to end the run resolves while there is no run in progress, but there is an encounter in progress, that encounter ends without resolving any more of its steps. Process any open priority windows in the same way as described in {ref:rule_run_ends_process_priority_windows}, but do not resolve any other steps of the Run Ends Phase. Any breach and/or access initiated during the encounter also ends, but a breach and/or access that was already in progress when the encounter began is not ended.",
+  "text_plain": "If an instruction to end the run resolves while there is no run in progress, but there is an encounter in progress, that encounter ends without resolving any more of its steps. Process any open priority windows in the same way as described in section 6.8.2, but do not resolve any other steps of the Run Ends Phase. Any breach and/or access initiated during the encounter also ends, but a breach and/or access that was already in progress when the encounter began is not ended.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 243,
+      "end": 256,
+      "ids": [
+        "rule_run_ends_process_priority_windows"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_end_encounter_outside_run__example_1",
+      "text_markup": "The Runner uses {card:Detente} to access a card in HQ while there is no run in progress. They access {card:Ganked!} and are forced to encounter {card:Loot Box}. The Runner chooses to neither break any subroutines nor spend credits for {card:Loot Box}'s first subroutine, so that subroutine tries to end the run. There is no run to end, but this effect still ends the encounter. The second subroutine on {card:Loot Box} will not resolve.",
+      "text_plain": "The Runner uses Detente to access a card in HQ while there is no run in progress. They access Ganked! and are forced to encounter Loot Box. The Runner chooses to neither break any subroutines nor spend credits for Loot Box's first subroutine, so that subroutine tries to end the run. There is no run to end, but this effect still ends the encounter. The second subroutine on Loot Box will not resolve.",
+      "is_new": true
+    }
+  ],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_end_encounter_outside_run"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "step_repeat_candidate_selection",
+  "kind": "rule",
+  "number": "7.5.6",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_breaching_steps",
+  "child_ids": [],
+  "text_markup": "Return to {ref:step_choose_candidate}.",
+  "text_plain": "Return to step 7.5.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 10,
+      "end": 20,
+      "ids": [
+        "step_choose_candidate"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_repeat_candidate_selection"
+}

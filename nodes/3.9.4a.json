@@ -1,0 +1,41 @@
+{
+  "id": "rule_icebreakers_strength_value",
+  "kind": "rule",
+  "number": "3.9.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_program_strength_value",
+  "child_ids": [],
+  "text_markup": "Programs with the subtype {subtype:icebreaker} have a printed numerical strength value. An {subtype:icebreaker}'s strength determines which ice it is allowed to interface with. See {ref:subsec_icebreakers}.",
+  "text_plain": "Programs with the subtype icebreaker have a printed numerical strength value. An icebreaker's strength determines which ice it is allowed to interface with. See section 3.9.5.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 26,
+      "end": 36,
+      "target": "icebreaker"
+    },
+    {
+      "type": "subtype",
+      "start": 81,
+      "end": 91,
+      "target": "icebreaker"
+    },
+    {
+      "type": "ref",
+      "start": 161,
+      "end": 174,
+      "ids": [
+        "subsec_icebreakers"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_icebreakers_strength_value"
+}

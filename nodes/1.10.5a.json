@@ -1,0 +1,38 @@
+{
+  "id": "rule_recurring_credits",
+  "kind": "rule",
+  "number": "1.10.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_sec_recurring",
+  "child_ids": [],
+  "text_markup": "{term:Recurring Credits} ([recurring]) place credits on a card repeatedly. The text \"N[recurring]\" means \"When this card becomes active, place N credits on it. Before abilities meet their trigger conditions for your turn beginning, if there are fewer than N credits on this card, place credits on it until there are N credits on it.\"",
+  "text_plain": "Recurring Credits ({recurring}) place credits on a card repeatedly. The text \"N{recurring}\" means \"When this card becomes active, place N credits on it. Before abilities meet their trigger conditions for your turn beginning, if there are fewer than N credits on this card, place credits on it until there are N credits on it.\"",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 17,
+      "target": "Recurring Credits"
+    },
+    {
+      "type": "symbol",
+      "start": 19,
+      "end": 30,
+      "target": "recurring"
+    },
+    {
+      "type": "symbol",
+      "start": 79,
+      "end": 90,
+      "target": "recurring"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_recurring_credits"
+}

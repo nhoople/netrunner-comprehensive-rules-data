@@ -1,0 +1,19 @@
+{
+  "id": "step_draw_add_to_hand",
+  "kind": "rule",
+  "number": "8.4.5c",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_drawing_n_cards",
+  "child_ids": [],
+  "text_markup": "Add the set-aside cards to the player's hand.",
+  "text_plain": "Add the set-aside cards to the player's hand.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_draw_add_to_hand"
+}

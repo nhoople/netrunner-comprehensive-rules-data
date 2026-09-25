@@ -1,0 +1,19 @@
+{
+  "id": "rule_card_precedence",
+  "kind": "rule",
+  "number": "1.2.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_golden_rules",
+  "child_ids": [],
+  "text_markup": "If the text of a card directly contradicts these rules, the text of the card takes precedence.",
+  "text_plain": "If the text of a card directly contradicts these rules, the text of the card takes precedence.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_card_precedence"
+}

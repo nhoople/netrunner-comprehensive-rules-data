@@ -1,0 +1,29 @@
+{
+  "id": "rule_replacement_effect_from_interrupt",
+  "kind": "rule",
+  "number": "9.9.8a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_replacement_effects",
+  "child_ids": [],
+  "text_markup": "Interrupts can introduce replacement effects that apply to the currently imminent instruction. See {ref:rule_replace_imminent_effects}.",
+  "text_plain": "Interrupts can introduce replacement effects that apply to the currently imminent instruction. See rule 9.9.10.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 99,
+      "end": 110,
+      "ids": [
+        "rule_replace_imminent_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_replacement_effect_from_interrupt"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_lingering_effects_link",
+  "kind": "rule",
+  "number": "9.1.1d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability",
+  "child_ids": [],
+  "text_markup": "An ability's text can include other abilities that it could grant to cards or counters or introduce directly to the game state. See also {ref:sec_lingering_effects}.",
+  "text_plain": "An ability's text can include other abilities that it could grant to cards or counters or introduce directly to the game state. See also section 9.10.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 137,
+      "end": 149,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_lingering_effects_link"
+}

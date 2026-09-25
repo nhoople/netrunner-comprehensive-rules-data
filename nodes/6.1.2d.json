@@ -1,0 +1,28 @@
+{
+  "id": "rule_change_attacked_server_directly",
+  "kind": "rule",
+  "number": "6.1.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_attacked_server",
+  "child_ids": [
+    "rule_change_attacked_server_directly__example_1"
+  ],
+  "text_markup": "A few abilities change the attacked server directly, without referring to the Runner's position. These abilities do not change the current timing step of the run.",
+  "text_plain": "A few abilities change the attacked server directly, without referring to the Runner's position. These abilities do not change the current timing step of the run.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_change_attacked_server_directly__example_1",
+      "text_markup": "{card:Sneakdoor Beta}'s ability changes the attacked server from Archives to HQ. The Runner does not need to encounter ice protecting HQ after resolving this ability.",
+      "text_plain": "Sneakdoor Beta's ability changes the attacked server from Archives to HQ. The Runner does not need to encounter ice protecting HQ after resolving this ability.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_change_attacked_server_directly"
+}

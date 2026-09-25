@@ -1,0 +1,19 @@
+{
+  "id": "rule_remove_spend_hosted_objects",
+  "kind": "rule",
+  "number": "1.13.11",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [],
+  "text_markup": "Hosted objects can be removed or spent from their host without affecting the host.",
+  "text_plain": "Hosted objects can be removed or spent from their host without affecting the host.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_remove_spend_hosted_objects"
+}

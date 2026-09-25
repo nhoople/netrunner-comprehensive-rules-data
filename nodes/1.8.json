@@ -1,0 +1,27 @@
+{
+  "id": "sec_cards",
+  "kind": "section",
+  "number": "1.8",
+  "ref_type": "section",
+  "title": "Cards",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_corp_card_types",
+    "rule_runner_card_types",
+    "rule_active_cards",
+    "rule_inactive_cards",
+    "rule_card_draw",
+    "rule_inactive_ability_exception_link",
+    "rule_card_conversion"
+  ],
+  "text_markup": "Cards",
+  "text_plain": "Cards",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_cards"
+}

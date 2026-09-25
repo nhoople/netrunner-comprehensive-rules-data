@@ -1,0 +1,28 @@
+{
+  "id": "rule_drawn_card_swapped",
+  "kind": "rule",
+  "number": "8.4.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_modify_drawn_cards",
+  "child_ids": [
+    "rule_drawn_card_swapped__example_1"
+  ],
+  "text_markup": "If a drawn card is swapped with another card, the card swapped into the set-aside zone is now considered \"drawn\", can be manipulated by other abilities, and will be added to the hand with the other drawn cards.",
+  "text_plain": "If a drawn card is swapped with another card, the card swapped into the set-aside zone is now considered \"drawn\", can be manipulated by other abilities, and will be added to the hand with the other drawn cards.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_drawn_card_swapped__example_1",
+      "text_markup": "The Corp takes their mandatory draw while they have {card:Daily Business Show} and {card:Raman Rai} rezzed. They set aside {card:Wraparound} and {card:Enigma} from the top of R&D. After looking at those cards and the cards in Archives, the Corp uses {card:Raman Rai} to reveal the {card:Enigma} and a {card:Tollbooth} from Archives and swap them. Then, the corp uses {card:Daily Business Show} to add {card:Tollbooth} to the bottom of the deck. Finally, the Corp adds {card:Wraparound} to HQ.",
+      "text_plain": "The Corp takes their mandatory draw while they have Daily Business Show and Raman Rai rezzed. They set aside Wraparound and Enigma from the top of R&D. After looking at those cards and the cards in Archives, the Corp uses Raman Rai to reveal the Enigma and a Tollbooth from Archives and swap them. Then, the corp uses Daily Business Show to add Tollbooth to the bottom of the deck. Finally, the Corp adds Wraparound to HQ.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_drawn_card_swapped"
+}

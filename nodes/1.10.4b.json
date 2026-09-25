@@ -1,0 +1,19 @@
+{
+  "id": "rule_spend_hosted_credits",
+  "kind": "rule",
+  "number": "1.10.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_hosted_credits",
+  "child_ids": [],
+  "text_markup": "If an ability specifies how a player is allowed to spend credits from a card, they can be spent from that card as if they were in the player's credit pool for the specified actions or abilities.",
+  "text_plain": "If an ability specifies how a player is allowed to spend credits from a card, they can be spent from that card as if they were in the player's credit pool for the specified actions or abilities.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_spend_hosted_credits"
+}

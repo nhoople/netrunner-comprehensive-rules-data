@@ -1,0 +1,19 @@
+{
+  "id": "rule_pending_status_for_interrupt_windows",
+  "kind": "rule",
+  "number": "9.9.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_interrupt_window_for_imminent_instruction",
+  "child_ids": [],
+  "text_markup": "After replacement effects have been applied, but before players receive priority, active conditional ability interrupts that are relevant to the imminent instruction are marked pending and are associated with the window. If a conditional ability interrupt becomes active after the interrupt window opens, it does not become pending.",
+  "text_plain": "After replacement effects have been applied, but before players receive priority, active conditional ability interrupts that are relevant to the imminent instruction are marked pending and are associated with the window. If a conditional ability interrupt becomes active after the interrupt window opens, it does not become pending.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_pending_status_for_interrupt_windows"
+}

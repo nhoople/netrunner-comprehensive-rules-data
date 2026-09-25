@@ -1,0 +1,54 @@
+{
+  "id": "rule_calculated_quantity__example_1",
+  "kind": "example",
+  "number": "9.12.2b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_calculated_quantity",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:Ritual} while they have 3 [click] remaining and an installed copy of {card:The Class Act}. {card:Ritual}'s instruction will have the Runner perform 1 instance of drawing 3 cards, so {card:The Class Act}'s interrupt ability will first have the Runner look at the top 4 cards of their stack and add 1 to the bottom.",
+  "text_plain": "The Runner plays Ritual while they have 3 {click} remaining and an installed copy of The Class Act. Ritual's instruction will have the Runner perform 1 instance of drawing 3 cards, so The Class Act's interrupt ability will first have the Runner look at the top 4 cards of their stack and add 1 to the bottom.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 23,
+      "target": "Ritual",
+      "card_code": "35026"
+    },
+    {
+      "type": "symbol",
+      "start": 42,
+      "end": 49,
+      "target": "click"
+    },
+    {
+      "type": "card",
+      "start": 85,
+      "end": 98,
+      "target": "The Class Act",
+      "card_code": "26018"
+    },
+    {
+      "type": "card",
+      "start": 100,
+      "end": 106,
+      "target": "Ritual",
+      "card_code": "35026"
+    },
+    {
+      "type": "card",
+      "start": 184,
+      "end": 197,
+      "target": "The Class Act",
+      "card_code": "26018"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

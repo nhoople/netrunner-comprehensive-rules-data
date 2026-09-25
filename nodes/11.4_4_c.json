@@ -1,0 +1,19 @@
+{
+  "id": "sec_appendix_timing_structure_of_a_run_4_c",
+  "kind": "timing_structure",
+  "number": "11.4_4_c",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_of_a_run_4",
+  "child_ids": [],
+  "text_markup": "The Runner may jack out.",
+  "text_plain": "The Runner may jack out.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_a_run_4_c"
+}

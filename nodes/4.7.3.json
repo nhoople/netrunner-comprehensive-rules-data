@@ -1,0 +1,19 @@
+{
+  "id": "rule_spent_counters_returned_to_bank",
+  "kind": "rule",
+  "number": "4.7.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_bank",
+  "child_ids": [],
+  "text_markup": "Credits and other counters that are spent to pay costs return to the bank.",
+  "text_plain": "Credits and other counters that are spent to pay costs return to the bank.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_spent_counters_returned_to_bank"
+}

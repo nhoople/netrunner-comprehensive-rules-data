@@ -1,0 +1,25 @@
+{
+  "id": "rule_corp_decides_unspecified_order",
+  "kind": "rule",
+  "number": "9.8.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subroutines_ordered",
+  "child_ids": [],
+  "text_markup": "If multiple subroutines are added to a piece of ice {n}by the same category of effect{/n} at the same time in an unspecified order, the Corp declares the relative order of those subroutines at the time the ice gains them.",
+  "text_plain": "If multiple subroutines are added to a piece of ice by the same category of effect at the same time in an unspecified order, the Corp declares the relative order of those subroutines at the time the ice gains them.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 52,
+      "end": 82
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_decides_unspecified_order"
+}

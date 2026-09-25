@@ -1,0 +1,26 @@
+{
+  "id": "rule_secret_zone",
+  "kind": "rule",
+  "number": "4.1.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_game_zones_general",
+  "child_ids": [],
+  "text_markup": "A {term:secret} zone is one where cards are visible only to their controller. Each player's hand is a secret zone.",
+  "text_plain": "A secret zone is one where cards are visible only to their controller. Each player's hand is a secret zone.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 8,
+      "target": "secret"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_secret_zone"
+}

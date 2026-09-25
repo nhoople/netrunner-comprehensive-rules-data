@@ -1,0 +1,22 @@
+{
+  "id": "sec_dividends",
+  "kind": "section",
+  "number": "10.13",
+  "ref_type": "section",
+  "title": "Dividends",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_dividends",
+    "rule_dividends_timing"
+  ],
+  "text_markup": "Dividends",
+  "text_plain": "Dividends",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Dividends are rewards the Corp receives for over-investing in their agendas. Dividends might represent a bumper harvest of construction biomaterials, investigative journalists uncovering (or fabricating) a particularly effective story, or simply reaping record-setting profits after an especially risky investment.",
+  "snippet_plain": "Dividends are rewards the Corp receives for over-investing in their agendas. Dividends might represent a bumper harvest of construction biomaterials, investigative journalists uncovering (or fabricating) a particularly effective story, or simply reaping record-setting profits after an especially risky investment.",
+  "url": "https://rules.nullsignal.games/?r=sec_dividends"
+}

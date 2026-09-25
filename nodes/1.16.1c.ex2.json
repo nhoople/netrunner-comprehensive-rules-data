@@ -1,0 +1,76 @@
+{
+  "id": "rule_cost_restrictions__example_2",
+  "kind": "example",
+  "number": "1.16.1c.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_cost_restrictions",
+  "child_ids": [],
+  "text_markup": "The Corp installs {card:Azef Protocol} in the root of a server with a rezzed {card:SanSan City Grid} and advances {card:Azef Protocol} twice. Since {card:SanSan City Grid} reduces {card:Azef Protocol}'s advancement requirement to 2, the Corp now meets the restriction necessary to score {card:Azef Protocol}, but must also pay its additional cost to score. The Corp cannot trash the {card:SanSan City Grid} to pay this cost, because paying the cost this way would return {card:Azef Protocol}'s advancement requirement to 3, and the restriction to score it would no longer be met.",
+  "text_plain": "The Corp installs Azef Protocol in the root of a server with a rezzed SanSan City Grid and advances Azef Protocol twice. Since SanSan City Grid reduces Azef Protocol's advancement requirement to 2, the Corp now meets the restriction necessary to score Azef Protocol, but must also pay its additional cost to score. The Corp cannot trash the SanSan City Grid to pay this cost, because paying the cost this way would return Azef Protocol's advancement requirement to 3, and the restriction to score it would no longer be met.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 18,
+      "end": 31,
+      "target": "Azef Protocol",
+      "card_code": "33058"
+    },
+    {
+      "type": "card",
+      "start": 70,
+      "end": 86,
+      "target": "SanSan City Grid",
+      "card_code": "31069"
+    },
+    {
+      "type": "card",
+      "start": 100,
+      "end": 113,
+      "target": "Azef Protocol",
+      "card_code": "33058"
+    },
+    {
+      "type": "card",
+      "start": 127,
+      "end": 143,
+      "target": "SanSan City Grid",
+      "card_code": "31069"
+    },
+    {
+      "type": "card",
+      "start": 152,
+      "end": 165,
+      "target": "Azef Protocol",
+      "card_code": "33058"
+    },
+    {
+      "type": "card",
+      "start": 252,
+      "end": 265,
+      "target": "Azef Protocol",
+      "card_code": "33058"
+    },
+    {
+      "type": "card",
+      "start": 341,
+      "end": 357,
+      "target": "SanSan City Grid",
+      "card_code": "31069"
+    },
+    {
+      "type": "card",
+      "start": 422,
+      "end": 435,
+      "target": "Azef Protocol",
+      "card_code": "33058"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

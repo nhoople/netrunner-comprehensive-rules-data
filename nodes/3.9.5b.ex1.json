@@ -1,0 +1,33 @@
+{
+  "id": "rule_icebreaker_strength_increase_implicit__example_1",
+  "kind": "example",
+  "number": "3.9.5b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_icebreaker_strength_increase_implicit",
+  "child_ids": [],
+  "text_markup": "{card:Corroder} has the ability \"1[c]: +1 strength.\"\" Since no duration is specified, this strength increase applies until the end of the current encounter.",
+  "text_plain": "Corroder has the ability \"1{c}: +1 strength.\"\" Since no duration is specified, this strength increase applies until the end of the current encounter.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 8,
+      "target": "Corroder",
+      "card_code": "31006"
+    },
+    {
+      "type": "symbol",
+      "start": 27,
+      "end": 30,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

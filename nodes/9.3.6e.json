@@ -1,0 +1,29 @@
+{
+  "id": "rule_persistent_flag",
+  "kind": "rule",
+  "number": "9.3.6e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_flag",
+  "child_ids": [],
+  "text_markup": "The \"persistent\" flag appears on Corp card abilities and changes the rules about when those abilities are active. An ability with this flag can persist until the end of the run after its source card is trashed. See {ref:subsec_persistent}.",
+  "text_plain": "The \"persistent\" flag appears on Corp card abilities and changes the rules about when those abilities are active. An ability with this flag can persist until the end of the run after its source card is trashed. See section 9.12.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 215,
+      "end": 229,
+      "ids": [
+        "subsec_persistent"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_persistent_flag"
+}

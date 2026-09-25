@@ -1,0 +1,29 @@
+{
+  "id": "rule_play_area_corp_identity",
+  "kind": "rule",
+  "number": "4.6.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_area_organization",
+  "child_ids": [],
+  "text_markup": "The Corp's identity is used to indicate where in the play area HQ exists for the purposes of installing upgrades in the root of HQ and ice protecting HQ. See {ref:subsec_central_servers}.",
+  "text_plain": "The Corp's identity is used to indicate where in the play area HQ exists for the purposes of installing upgrades in the root of HQ and ice protecting HQ. See section 4.6.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 158,
+      "end": 171,
+      "ids": [
+        "subsec_central_servers"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_corp_identity"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_ability_window_priority",
+  "kind": "rule",
+  "number": "9.2.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_paid_ability_window",
+  "child_ids": [],
+  "text_markup": "Paid ability windows give both players priority, starting with the active player. When a player passes, the other player receives priority. Players continue to exchange priority until a player who receives priority from their opponent passes without resolving any other option available to them. Once this happens, the paid ability window closes.",
+  "text_plain": "Paid ability windows give both players priority, starting with the active player. When a player passes, the other player receives priority. Players continue to exchange priority until a player who receives priority from their opponent passes without resolving any other option available to them. Once this happens, the paid ability window closes.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ability_window_priority"
+}

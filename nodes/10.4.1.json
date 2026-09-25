@@ -1,0 +1,41 @@
+{
+  "id": "rule_suffer_or_take_damage",
+  "kind": "rule",
+  "number": "10.4.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_damage",
+  "child_ids": [
+    "rule_suffer_or_take_damage__example_1"
+  ],
+  "text_markup": "Many cards and ice subroutines inflict damage on the Runner. The Runner {term:suffers} (sometimes referred to as \"{term:takes}\") damage according to the rules for the type of damage specified. If a Corp card \"does\" damage to the Runner, they suffer that much damage, with the additional provision that the Corp and the source card are responsible for that damage. If a card directs or allows the Runner to \"suffer\" damage, then the Runner and the source card are responsible for that damage.",
+  "text_plain": "Many cards and ice subroutines inflict damage on the Runner. The Runner suffers (sometimes referred to as \"takes\") damage according to the rules for the type of damage specified. If a Corp card \"does\" damage to the Runner, they suffer that much damage, with the additional provision that the Corp and the source card are responsible for that damage. If a card directs or allows the Runner to \"suffer\" damage, then the Runner and the source card are responsible for that damage.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 72,
+      "end": 79,
+      "target": "suffers"
+    },
+    {
+      "type": "term",
+      "start": 107,
+      "end": 112,
+      "target": "takes"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_suffer_or_take_damage__example_1",
+      "text_markup": "The Corp, playing as {card:Argus Security: Protection Guaranteed}, has scored {card:The Cleaners}. The Runner makes a run on R&D and steals {card:Hostile Takeover}. Argus Security's ability triggers and the Runner chooses to suffer 2 meat damage. As {card:The Cleaners} only adds additional damage to damage done by the Corp, its ability does not apply. When the Corp plays {card:Punitive Counterstrike} on their next turn, {card:The Cleaners} does increase the amount of damage done by {card:Punitive Counterstrike}.",
+      "text_plain": "The Corp, playing as Argus Security: Protection Guaranteed, has scored The Cleaners. The Runner makes a run on R&D and steals Hostile Takeover. Argus Security's ability triggers and the Runner chooses to suffer 2 meat damage. As The Cleaners only adds additional damage to damage done by the Corp, its ability does not apply. When the Corp plays Punitive Counterstrike on their next turn, The Cleaners does increase the amount of damage done by Punitive Counterstrike.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_suffer_or_take_damage"
+}

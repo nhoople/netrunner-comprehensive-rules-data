@@ -1,0 +1,48 @@
+{
+  "id": "rule_additional_cost_checkpoint__example_1",
+  "kind": "example",
+  "number": "1.16.10c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_additional_cost_checkpoint",
+  "child_ids": [],
+  "text_markup": "The Corp is playing {card:Ob Superheavy Logistics} and initiates scoring {card:Azef Protocol}, which has an additional cost to score of \"trash one of your other installed cards.\" If the Corp trashes a rezzed card, meeting the trigger condition for {card:Ob Superheavy Logistics}'s ability, this ability will resolve following the checkpoint associated with paying the cost. This happens before {card:Azef Protocol} is added to the Corp's score area or any trigger conditions related to scoring an agenda are met.",
+  "text_plain": "The Corp is playing Ob Superheavy Logistics and initiates scoring Azef Protocol, which has an additional cost to score of \"trash one of your other installed cards.\" If the Corp trashes a rezzed card, meeting the trigger condition for Ob Superheavy Logistics's ability, this ability will resolve following the checkpoint associated with paying the cost. This happens before Azef Protocol is added to the Corp's score area or any trigger conditions related to scoring an agenda are met.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 43,
+      "target": "Ob Superheavy Logistics",
+      "card_code": "33057"
+    },
+    {
+      "type": "card",
+      "start": 66,
+      "end": 79,
+      "target": "Azef Protocol",
+      "card_code": "33058"
+    },
+    {
+      "type": "card",
+      "start": 234,
+      "end": 257,
+      "target": "Ob Superheavy Logistics",
+      "card_code": "33057"
+    },
+    {
+      "type": "card",
+      "start": 373,
+      "end": 386,
+      "target": "Azef Protocol",
+      "card_code": "33058"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_cannot_hide_open_info",
+  "kind": "rule",
+  "number": "10.2.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_open_information",
+  "child_ids": [
+    "rule_cannot_hide_open_info__example_1"
+  ],
+  "text_markup": "Open information cannot be hidden from an opponent. A player must allow their opponent to discover the information themselves if they attempt to do so.",
+  "text_plain": "Open information cannot be hidden from an opponent. A player must allow their opponent to discover the information themselves if they attempt to do so.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_cannot_hide_open_info__example_1",
+      "text_markup": "The Runner installs {card:Femme Fatale}, choosing a piece of ice protecting HQ with Femme's ability. The Runner must explicitly state to the Corp which ice has been chosen and must continue to do so if the Corp asks for {card:Femme Fatale}'s target during a later turn.",
+      "text_plain": "The Runner installs Femme Fatale, choosing a piece of ice protecting HQ with Femme's ability. The Runner must explicitly state to the Corp which ice has been chosen and must continue to do so if the Corp asks for Femme Fatale's target during a later turn.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cannot_hide_open_info"
+}

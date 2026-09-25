@@ -1,0 +1,19 @@
+{
+  "id": "rule_do_as_much_as_you_can",
+  "kind": "rule",
+  "number": "1.2.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_golden_rules",
+  "child_ids": [],
+  "text_markup": "If an instruction does not include the words \"if able,\" as much of that instruction as possible is carried out. Any parts of the instruction that are not possible to carry out are ignored.",
+  "text_plain": "If an instruction does not include the words \"if able,\" as much of that instruction as possible is carried out. Any parts of the instruction that are not possible to carry out are ignored.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_do_as_much_as_you_can"
+}

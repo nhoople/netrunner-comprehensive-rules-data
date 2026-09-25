@@ -1,0 +1,19 @@
+{
+  "id": "rule_ignore_all_costs",
+  "kind": "rule",
+  "number": "1.16.5c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ignoring_costs",
+  "child_ids": [],
+  "text_markup": "If a player is directed to ignore \"all costs\", all elements of the relevant cost are removed, including additional costs, so that the total cost becomes 0.",
+  "text_plain": "If a player is directed to ignore \"all costs\", all elements of the relevant cost are removed, including additional costs, so that the total cost becomes 0.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ignore_all_costs"
+}

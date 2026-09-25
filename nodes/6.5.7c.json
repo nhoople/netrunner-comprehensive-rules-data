@@ -1,0 +1,29 @@
+{
+  "id": "rule_fully_break_no_subroutines",
+  "kind": "rule",
+  "number": "6.5.7c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_fully_break",
+  "child_ids": [],
+  "text_markup": "If an encountered piece of ice has no subroutines, the Runner fully breaks it when {ref:step_encounter_paw} of the encounter begins. No objects fully break the ice in this case.",
+  "text_plain": "If an encountered piece of ice has no subroutines, the Runner fully breaks it when step 6.9.3b of the encounter begins. No objects fully break the ice in this case.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 83,
+      "end": 94,
+      "ids": [
+        "step_encounter_paw"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_fully_break_no_subroutines"
+}

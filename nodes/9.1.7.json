@@ -1,0 +1,41 @@
+{
+  "id": "rule_ability_active",
+  "kind": "rule",
+  "number": "9.1.7",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_abilities_general",
+  "child_ids": [],
+  "text_markup": "Abilities are {term:active} if they are eligible to be resolved or apply to the current game state, and {term:inactive} otherwise. By default, a card's abilities are active if and only if that card is active (see {ref:rule_active_cards}). Abilities of counters are active for as long as the counter exists.",
+  "text_plain": "Abilities are active if they are eligible to be resolved or apply to the current game state, and inactive otherwise. By default, a card's abilities are active if and only if that card is active (see section 1.8.3). Abilities of counters are active for as long as the counter exists.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 14,
+      "end": 20,
+      "target": "active"
+    },
+    {
+      "type": "term",
+      "start": 97,
+      "end": 105,
+      "target": "inactive"
+    },
+    {
+      "type": "ref",
+      "start": 199,
+      "end": 212,
+      "ids": [
+        "rule_active_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ability_active"
+}

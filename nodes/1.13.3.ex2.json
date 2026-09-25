@@ -1,0 +1,36 @@
+{
+  "id": "rule_hosted_counters_not_on_player__example_2",
+  "kind": "example",
+  "number": "1.13.3.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_hosted_counters_not_on_player",
+  "child_ids": [],
+  "text_markup": "The Corp has a rezzed {card:Superdeep Borehole} with hosted bad publicity counters. When the Runner fills their bad publicity fund in {ref:step_initiation_bad_publicity}, they do not receive credits for the hosted bad publicity.",
+  "text_plain": "The Corp has a rezzed Superdeep Borehole with hosted bad publicity counters. When the Runner fills their bad publicity fund in step 6.9.1b, they do not receive credits for the hosted bad publicity.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 22,
+      "end": 40,
+      "target": "Superdeep Borehole",
+      "card_code": "33123"
+    },
+    {
+      "type": "ref",
+      "start": 127,
+      "end": 138,
+      "ids": [
+        "step_initiation_bad_publicity"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

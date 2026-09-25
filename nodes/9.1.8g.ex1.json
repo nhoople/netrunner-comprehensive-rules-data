@@ -1,0 +1,48 @@
+{
+  "id": "rule_active_exception_conditional_move_to_inactive_zone__example_1",
+  "kind": "example",
+  "number": "9.1.8g.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_active_exception_conditional_move_to_inactive_zone",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Singularity} to simultaneously trash a rezzed {card:Hostile Infrastructure} and 2 upgrades. Those cards are moved to Archives and become inactive, but {card:Hostile Infrastructure}'s ability remains active, and 3 instances will become pending, each doing 1 net damage when it resolves. Once all those instances are resolved, {card:Hostile Infrastructure}'s ability stops being active.",
+  "text_plain": "The Runner uses Singularity to simultaneously trash a rezzed Hostile Infrastructure and 2 upgrades. Those cards are moved to Archives and become inactive, but Hostile Infrastructure's ability remains active, and 3 instances will become pending, each doing 1 net damage when it resolves. Once all those instances are resolved, Hostile Infrastructure's ability stops being active.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 27,
+      "target": "Singularity",
+      "card_code": "20004"
+    },
+    {
+      "type": "card",
+      "start": 61,
+      "end": 83,
+      "target": "Hostile Infrastructure",
+      "card_code": "06083"
+    },
+    {
+      "type": "card",
+      "start": 159,
+      "end": 181,
+      "target": "Hostile Infrastructure",
+      "card_code": "06083"
+    },
+    {
+      "type": "card",
+      "start": 326,
+      "end": 348,
+      "target": "Hostile Infrastructure",
+      "card_code": "06083"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

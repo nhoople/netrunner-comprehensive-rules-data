@@ -1,0 +1,19 @@
+{
+  "id": "rule_replacement_effect_from_static_ability",
+  "kind": "rule",
+  "number": "9.9.8b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_replacement_effects",
+  "child_ids": [],
+  "text_markup": "Static abilities can stipulate replacement effects that apply whenever appropriate while the static ability is active.",
+  "text_plain": "Static abilities can stipulate replacement effects that apply whenever appropriate while the static ability is active.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_replacement_effect_from_static_ability"
+}

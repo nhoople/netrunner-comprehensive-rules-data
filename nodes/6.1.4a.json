@@ -1,0 +1,19 @@
+{
+  "id": "rule_end_run_access_or_breach_during_run",
+  "kind": "rule",
+  "number": "6.1.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_end_the_run",
+  "child_ids": [],
+  "text_markup": "If a run is in progress, an instruction to end the run also ends any breach and/or access taking place.",
+  "text_plain": "If a run is in progress, an instruction to end the run also ends any breach and/or access taking place.",
+  "spans": [],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_end_run_access_or_breach_during_run"
+}

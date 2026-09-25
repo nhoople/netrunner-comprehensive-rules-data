@@ -1,0 +1,57 @@
+{
+  "id": "rule_trigger_paid_ability_interrupt__example_1",
+  "kind": "example",
+  "number": "9.9.4d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_trigger_paid_ability_interrupt",
+  "child_ids": [],
+  "text_markup": "An instruction is imminent that would give the Runner 2 tags. The Runner trashes {card:Decoy} to use its ability to avoid 1 of the tags, which meets the trigger condition for {card:Thunder Art Gallery}'s ability. The latter resolves as a chain reaction (see {ref:rule_chain_reaction}) while the interrupt window is still open, allowing the Runner to install another copy of {card:Decoy}. The Runner receives priority again in the original interrupt window and uses the second {card:Decoy}'s ability to avoid the other imminent tag.",
+  "text_plain": "An instruction is imminent that would give the Runner 2 tags. The Runner trashes Decoy to use its ability to avoid 1 of the tags, which meets the trigger condition for Thunder Art Gallery's ability. The latter resolves as a chain reaction (see rule 9.1.2a) while the interrupt window is still open, allowing the Runner to install another copy of Decoy. The Runner receives priority again in the original interrupt window and uses the second Decoy's ability to avoid the other imminent tag.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 81,
+      "end": 86,
+      "target": "Decoy",
+      "card_code": "01032"
+    },
+    {
+      "type": "card",
+      "start": 168,
+      "end": 187,
+      "target": "Thunder Art Gallery",
+      "card_code": "22013"
+    },
+    {
+      "type": "ref",
+      "start": 244,
+      "end": 255,
+      "ids": [
+        "rule_chain_reaction"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "card",
+      "start": 346,
+      "end": 351,
+      "target": "Decoy",
+      "card_code": "01032"
+    },
+    {
+      "type": "card",
+      "start": 441,
+      "end": 446,
+      "target": "Decoy",
+      "card_code": "01032"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

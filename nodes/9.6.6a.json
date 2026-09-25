@@ -1,0 +1,38 @@
+{
+  "id": "rule_instruction_requirements_past_state",
+  "kind": "rule",
+  "number": "9.6.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trigger_condition_checked",
+  "child_ids": [
+    "rule_instruction_requirements_past_state__example_1"
+  ],
+  "text_markup": "Some conditional abilities refer to the game state before the trigger condition was met, using the word \"had\". The previous game state referred to is the game state at the time of {ref:step_checkpoint_conditional_abilities} of the checkpoint immediately preceding the checkpoint in which the ability became pending.",
+  "text_plain": "Some conditional abilities refer to the game state before the trigger condition was met, using the word \"had\". The previous game state referred to is the game state at the time of step 10.3.1a of the checkpoint immediately preceding the checkpoint in which the ability became pending.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 180,
+      "end": 192,
+      "ids": [
+        "step_checkpoint_conditional_abilities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_instruction_requirements_past_state__example_1",
+      "text_markup": "The ability of {card:Weyland Consortium: Built to Last} only causes the Corp to gain 2[c] when they advance a card that \"had no advancement counters\". This ability becomes pending immediately after an instruction resolves in which the Corp advances a card, and the requirement is checked against the state of the game at the previous checkpoint, before that advancement took place.",
+      "text_plain": "The ability of Weyland Consortium: Built to Last only causes the Corp to gain 2{c} when they advance a card that \"had no advancement counters\". This ability becomes pending immediately after an instruction resolves in which the Corp advances a card, and the requirement is checked against the state of the game at the previous checkpoint, before that advancement took place.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_instruction_requirements_past_state"
+}

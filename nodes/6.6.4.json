@@ -1,0 +1,19 @@
+{
+  "id": "rule_runner_continues",
+  "kind": "rule",
+  "number": "6.6.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_movement_phase",
+  "child_ids": [],
+  "text_markup": "If the Runner declines to jack out, their position moves to the next inward position if there is one.",
+  "text_plain": "If the Runner declines to jack out, their position moves to the next inward position if there is one.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_runner_continues"
+}

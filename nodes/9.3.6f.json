@@ -1,0 +1,38 @@
+{
+  "id": "rule_threat_flag",
+  "kind": "rule",
+  "number": "9.3.6f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_flag",
+  "child_ids": [],
+  "text_markup": "The \"threat N\" flag can appear on any type of ability. Abilities with this flag are only active if the threat level is greater than or equal to N, regardless of {ref:rule_ability_active_inactive_source_card}. See {ref:rule_threat_level}.",
+  "text_plain": "The \"threat N\" flag can appear on any type of ability. Abilities with this flag are only active if the threat level is greater than or equal to N, regardless of section 9.1.8. See rule 1.17.1a.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 161,
+      "end": 174,
+      "ids": [
+        "rule_ability_active_inactive_source_card"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 180,
+      "end": 192,
+      "ids": [
+        "rule_threat_level"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_threat_flag"
+}

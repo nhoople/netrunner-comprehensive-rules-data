@@ -1,0 +1,29 @@
+{
+  "id": "rule_memory_limit_citation",
+  "kind": "rule",
+  "number": "2.10.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_memory_limit",
+  "child_ids": [],
+  "text_markup": "The Runner's memory limit is checked against the total memory cost of programs they have installed. This value is calculated by applying any active modifiers to the Runner's starting memory limit. See {ref:sec_memory}.",
+  "text_plain": "The Runner's memory limit is checked against the total memory cost of programs they have installed. This value is calculated by applying any active modifiers to the Runner's starting memory limit. See section 1.20.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 201,
+      "end": 213,
+      "ids": [
+        "sec_memory"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_memory_limit_citation"
+}

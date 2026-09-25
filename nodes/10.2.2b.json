@@ -1,0 +1,28 @@
+{
+  "id": "rule_bluffing",
+  "kind": "rule",
+  "number": "10.2.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_hidden_information",
+  "child_ids": [
+    "rule_bluffing__example_1"
+  ],
+  "text_markup": "A player cannot learn hidden information without the aid of a game effect, rule, or another player verbally communicating the information. However, if a player that has access to information about the game or a card chooses to verbally share it with their opponent, that player is not required to tell the truth. Bluffing is allowed.",
+  "text_plain": "A player cannot learn hidden information without the aid of a game effect, rule, or another player verbally communicating the information. However, if a player that has access to information about the game or a card chooses to verbally share it with their opponent, that player is not required to tell the truth. Bluffing is allowed.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_bluffing__example_1",
+      "text_markup": "The Runner uses {card:Indexing}. While rearranging cards, the Runner places {card:Braintrust} on top of R&D, followed by {card:Snare!}. The Corp draws at the beginning of their next turn, then spends their first click to draw a card. For their second click, the Corp installs a card in an empty remote server, telling the Runner that they should run it because it is a {card:Braintrust}.",
+      "text_plain": "The Runner uses Indexing. While rearranging cards, the Runner places Braintrust on top of R&D, followed by Snare!. The Corp draws at the beginning of their next turn, then spends their first click to draw a card. For their second click, the Corp installs a card in an empty remote server, telling the Runner that they should run it because it is a Braintrust.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bluffing"
+}

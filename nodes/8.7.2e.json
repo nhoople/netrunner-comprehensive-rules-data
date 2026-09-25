@@ -1,0 +1,19 @@
+{
+  "id": "rule_fail_to_find",
+  "kind": "rule",
+  "number": "8.7.2e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_find",
+  "child_ids": [],
+  "text_markup": "If a player is searching a deck for one or more cards with specified criteria, they may choose to fail to find anything, even if one or more cards matching the criteria exist in that deck.",
+  "text_plain": "If a player is searching a deck for one or more cards with specified criteria, they may choose to fail to find anything, even if one or more cards matching the criteria exist in that deck.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_fail_to_find"
+}

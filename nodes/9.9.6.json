@@ -1,0 +1,24 @@
+{
+  "id": "sec_modifiable_values",
+  "kind": "subsection",
+  "number": "9.9.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interrupts_replacements",
+  "child_ids": [
+    "rule_modifiable_value_tags",
+    "rule_modifiable_value_damage",
+    "rule_modifiable_value_cost",
+    "rule_modifiable_value_base_trace_strength"
+  ],
+  "text_markup": "Some instructions make use of an associated value. These values can be changed by interrupts and replacement effects.",
+  "text_plain": "Some instructions make use of an associated value. These values can be changed by interrupts and replacement effects.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_modifiable_values"
+}

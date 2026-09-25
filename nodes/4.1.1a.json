@@ -1,0 +1,19 @@
+{
+  "id": "rule_zone_types",
+  "kind": "rule",
+  "number": "4.1.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_zone",
+  "child_ids": [],
+  "text_markup": "There are 8 zone types: deck, hand, discard pile, score area, play area, bank, set aside, and removed from the game.",
+  "text_plain": "There are 8 zone types: deck, hand, discard pile, score area, play area, bank, set aside, and removed from the game.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_zone_types"
+}

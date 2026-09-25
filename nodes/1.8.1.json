@@ -1,0 +1,19 @@
+{
+  "id": "rule_corp_card_types",
+  "kind": "rule",
+  "number": "1.8.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_cards",
+  "child_ids": [],
+  "text_markup": "There are six types of Corp cards: agendas, assets, ice, identities, operations, and upgrades. All cards except the identity card are shuffled into the Corp's deck at the beginning of the game.",
+  "text_plain": "There are six types of Corp cards: agendas, assets, ice, identities, operations, and upgrades. All cards except the identity card are shuffled into the Corp's deck at the beginning of the game.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_card_types"
+}

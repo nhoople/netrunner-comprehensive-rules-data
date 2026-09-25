@@ -1,0 +1,19 @@
+{
+  "id": "rule_legal_additional_identities",
+  "kind": "rule",
+  "number": "1.5.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_additional_identity",
+  "child_ids": [],
+  "text_markup": "In a tournament, all identities brought to the game this way must be legal for players to use as their actual identity in that tournament.",
+  "text_plain": "In a tournament, all identities brought to the game this way must be legal for players to use as their actual identity in that tournament.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_legal_additional_identities"
+}

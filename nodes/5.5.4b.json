@@ -1,0 +1,19 @@
+{
+  "id": "rule_discard_step_noop",
+  "kind": "rule",
+  "number": "5.5.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_discard_step",
+  "child_ids": [],
+  "text_markup": "If the number of cards in the active player's hand is less than or equal to their maximum hand size, nothing else happens in this step.",
+  "text_plain": "If the number of cards in the active player's hand is less than or equal to their maximum hand size, nothing else happens in this step.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_discard_step_noop"
+}

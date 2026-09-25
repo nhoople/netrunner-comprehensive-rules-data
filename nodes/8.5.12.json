@@ -1,0 +1,30 @@
+{
+  "id": "rule_x_server_only",
+  "kind": "rule",
+  "number": "8.5.12",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [],
+  "text_markup": "Some upgrades have an ability that specifies {n}\"central server\", \"remote server\", or 1 or more particular central servers{/n} followed by the word \"only\". This is a restriction on the locations an upgrade can occupy that applies at all times, even if the upgrade is inactive. The Corp cannot choose the root of a non-specified server as the installation destination for such an upgrade, and such an upgrade cannot be {n}moved or{/n} swapped into the root of a non-specified server.",
+  "text_plain": "Some upgrades have an ability that specifies \"central server\", \"remote server\", or 1 or more particular central servers followed by the word \"only\". This is a restriction on the locations an upgrade can occupy that applies at all times, even if the upgrade is inactive. The Corp cannot choose the root of a non-specified server as the installation destination for such an upgrade, and such an upgrade cannot be moved or swapped into the root of a non-specified server.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 45,
+      "end": 119
+    },
+    {
+      "type": "new",
+      "start": 411,
+      "end": 419
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_x_server_only"
+}

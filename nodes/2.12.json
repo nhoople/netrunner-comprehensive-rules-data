@@ -1,0 +1,22 @@
+{
+  "id": "sec_inf_limit",
+  "kind": "section",
+  "number": "2.12",
+  "ref_type": "section",
+  "title": "Influence Limit",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_inf_limit_location",
+    "rule_inf_limit_citation"
+  ],
+  "text_markup": "Influence Limit",
+  "text_plain": "Influence Limit",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_inf_limit"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_use_restrictions",
+  "kind": "rule",
+  "number": "9.11.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction_sentence_exceptions",
+  "child_ids": [
+    "rule_use_restrictions__example_1"
+  ],
+  "text_markup": "A sentence is not part of any instruction if it only provides clarification, restrictions or conditions on when or how the ability it appears in can be triggered, or otherwise does not give directions to the players or the game state that would be carried out as the ability resolves.",
+  "text_plain": "A sentence is not part of any instruction if it only provides clarification, restrictions or conditions on when or how the ability it appears in can be triggered, or otherwise does not give directions to the players or the game state that would be carried out as the ability resolves.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_use_restrictions__example_1",
+      "text_markup": "A sentence reading \"Use this ability only by spending credits from a {subtype:stealth} card.\" is not an instruction or part of any instruction. It is a restriction that applies to the entire ability.",
+      "text_plain": "A sentence reading \"Use this ability only by spending credits from a stealth card.\" is not an instruction or part of any instruction. It is a restriction that applies to the entire ability.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_use_restrictions"
+}

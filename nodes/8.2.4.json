@@ -1,0 +1,35 @@
+{
+  "id": "movement_draw",
+  "kind": "rule",
+  "number": "8.2.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_movements",
+  "child_ids": [],
+  "text_markup": "To {term:draw} a given number of cards is to move that many cards from the top of a player's deck to their hand. The full rules for drawing cards are detailed in {ref:sec_drawing_cards}.",
+  "text_plain": "To draw a given number of cards is to move that many cards from the top of a player's deck to their hand. The full rules for drawing cards are detailed in section 8.4.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 7,
+      "target": "draw"
+    },
+    {
+      "type": "ref",
+      "start": 155,
+      "end": 166,
+      "ids": [
+        "sec_drawing_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=movement_draw"
+}

@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nsg-cr.local/schemas/node.schema.json",
+  "title": "CR node",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "kind",
+    "number",
+    "ref_type",
+    "title",
+    "parent_id",
+    "child_ids",
+    "text_markup",
+    "text_plain",
+    "spans",
+    "examples",
+    "is_new",
+    "toc",
+    "steps",
+    "snippet_markup",
+    "snippet_plain",
+    "url"
+  ],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "kind": {
+      "type": "string",
+      "enum": [
+        "chapter",
+        "section",
+        "subsection",
+        "rule",
+        "example",
+        "timing_structure"
+      ]
+    },
+    "number": { "type": "string", "minLength": 1 },
+    "ref_type": { "type": "string" },
+    "title": { "type": ["string", "null"] },
+    "parent_id": { "type": ["string", "null"] },
+    "child_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "text_markup": { "type": "string" },
+    "text_plain": { "type": "string" },
+    "spans": {
+      "type": "array",
+      "items": { "$ref": "https://nsg-cr.local/schemas/span.schema.json" }
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "text_markup", "text_plain", "is_new"],
+        "properties": {
+          "id": { "type": "string" },
+          "text_markup": { "type": "string" },
+          "text_plain": { "type": "string" },
+          "is_new": { "type": "boolean" }
+        }
+      }
+    },
+    "is_new": { "type": "boolean" },
+    "toc": { "type": "boolean" },
+    "steps": { "type": "boolean" },
+    "snippet_markup": { "type": ["string", "null"] },
+    "snippet_plain": { "type": ["string", "null"] },
+    "url": { "type": ["string", "null"] },
+    "children": {
+      "type": "array",
+      "items": { "$ref": "#" }
+    }
+  }
+}

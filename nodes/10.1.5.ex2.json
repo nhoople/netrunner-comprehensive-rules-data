@@ -1,0 +1,34 @@
+{
+  "id": "sec_old_self_reference_rules__example_2",
+  "kind": "example",
+  "number": "10.1.5.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "sec_old_self_reference_rules",
+  "child_ids": [],
+  "text_markup": "{card:Boomerang}'s text refers to \"a copy of Boomerang\". This is not self-referential language and refers to any card named {card:Boomerang}.",
+  "text_plain": "Boomerang's text refers to \"a copy of Boomerang\". This is not self-referential language and refers to any card named Boomerang.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 9,
+      "target": "Boomerang",
+      "card_code": "26075"
+    },
+    {
+      "type": "card",
+      "start": 117,
+      "end": 126,
+      "target": "Boomerang",
+      "card_code": "26075"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

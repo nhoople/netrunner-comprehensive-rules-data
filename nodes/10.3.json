@@ -1,0 +1,26 @@
+{
+  "id": "sec_checkpoints",
+  "kind": "section",
+  "number": "10.3",
+  "ref_type": "section",
+  "title": "Checkpoints",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_checkpoints",
+    "rule_after_checkpoint_reaction_window",
+    "rule_checkpoint_before_priority",
+    "rule_checkpoint_after_paying_cost",
+    "rule_checkpoint_after_instruction_resolution",
+    "rule_checkpoint_after_timing_structure"
+  ],
+  "text_markup": "Checkpoints",
+  "text_plain": "Checkpoints",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_checkpoints"
+}

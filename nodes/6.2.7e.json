@@ -1,0 +1,35 @@
+{
+  "id": "rule_ice_change_during_movement",
+  "kind": "rule",
+  "number": "6.2.7e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ice_change_current_position",
+  "child_ids": [
+    "rule_ice_change_during_movement__example_1",
+    "rule_ice_change_during_movement__example_2"
+  ],
+  "text_markup": "If the piece of ice in the Runner's position is uninstalled, derezzed, moved, or swapped during the Initiation Phase or the Movement Phase, the Runner is not moved and the current timing step of the run does not change.",
+  "text_plain": "If the piece of ice in the Runner's position is uninstalled, derezzed, moved, or swapped during the Initiation Phase or the Movement Phase, the Runner is not moved and the current timing step of the run does not change.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_ice_change_during_movement__example_1",
+      "text_markup": "A run begins, and before the Runner approaches the outermost piece of ice protecting the attacked server, the Corp uses {card:Project Yagi-Uda} to swap that ice with another piece of ice. The Runner will approach the new ice.",
+      "text_plain": "A run begins, and before the Runner approaches the outermost piece of ice protecting the attacked server, the Corp uses Project Yagi-Uda to swap that ice with another piece of ice. The Runner will approach the new ice.",
+      "is_new": false
+    },
+    {
+      "id": "rule_ice_change_during_movement__example_2",
+      "text_markup": "The Runner passes a piece of ice, and in {ref:step_before_jack_out_paw}, the Corp uses {card:Project Yagi-Uda} to swap that ice with another piece of ice. The Runner has still passed their position (but has not passed the new ice occupying that position) and will proceed to the next position in {ref:step_move_position}. They will not approach or encounter the new ice.",
+      "text_plain": "The Runner passes a piece of ice, and in step 6.9.4b, the Corp uses Project Yagi-Uda to swap that ice with another piece of ice. The Runner has still passed their position (but has not passed the new ice occupying that position) and will proceed to the next position in step 6.9.4d. They will not approach or encounter the new ice.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_change_during_movement"
+}

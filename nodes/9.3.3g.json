@@ -1,0 +1,19 @@
+{
+  "id": "rule_cannot_be_prevented_restriction",
+  "kind": "rule",
+  "number": "9.3.3g",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_restriction",
+  "child_ids": [],
+  "text_markup": "Stipulations that an effect or part of an effect cannot be prevented are restrictions.",
+  "text_plain": "Stipulations that an effect or part of an effect cannot be prevented are restrictions.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cannot_be_prevented_restriction"
+}

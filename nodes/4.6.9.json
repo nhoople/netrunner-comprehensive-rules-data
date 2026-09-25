@@ -1,0 +1,25 @@
+{
+  "id": "subsec_protecting_a_server",
+  "kind": "subsection",
+  "number": "4.6.9",
+  "ref_type": "section",
+  "title": "Protecting a Server",
+  "parent_id": "sec_play_area",
+  "child_ids": [
+    "rule_ice_ordered",
+    "rule_innermost_ice",
+    "rule_ice_same_position",
+    "rule_ice_install_outermost",
+    "rule_ice_move"
+  ],
+  "text_markup": "Protecting a Server",
+  "text_plain": "Protecting a Server",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_protecting_a_server"
+}

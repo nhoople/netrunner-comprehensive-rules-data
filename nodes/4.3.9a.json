@@ -1,0 +1,26 @@
+{
+  "id": "rule_grip_name",
+  "kind": "rule",
+  "number": "4.3.9a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_grip",
+  "child_ids": [],
+  "text_markup": "The {term:grip} is the name for the Runner's hand.",
+  "text_plain": "The grip is the name for the Runner's hand.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 8,
+      "target": "grip"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_grip_name"
+}

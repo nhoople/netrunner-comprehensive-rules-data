@@ -1,0 +1,29 @@
+{
+  "id": "sec_encounter_ice_phase",
+  "kind": "section",
+  "number": "6.5",
+  "ref_type": "section",
+  "title": "Encounter Ice",
+  "parent_id": "chpt_runs",
+  "child_ids": [
+    "rule_encounter_ice_phase",
+    "rule_encounter_condition",
+    "rule_encounter_unbroken_sub_status",
+    "rule_encounter_break_paw",
+    "rule_encounter_sub_resolve",
+    "rule_encounter_ice_next_phase",
+    "subsec_fully_break",
+    "subsec_bypass",
+    "subsec_forced_encounters"
+  ],
+  "text_markup": "Encounter Ice",
+  "text_plain": "Encounter Ice",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_encounter_ice_phase"
+}

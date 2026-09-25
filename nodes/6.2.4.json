@@ -1,0 +1,29 @@
+{
+  "id": "rule_destroy_position",
+  "kind": "rule",
+  "number": "6.2.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_position",
+  "child_ids": [],
+  "text_markup": "If a piece of ice leaves its position, except by being swapped with another piece of ice, its former position ceases to exist. This happens during {ref:step_checkpoint_vacant_position} of the next checkpoint, unless the Runner is in that position, in which case the position continues to exist until the Runner moves to another position or ceases to have a position.",
+  "text_plain": "If a piece of ice leaves its position, except by being swapped with another piece of ice, its former position ceases to exist. This happens during step 10.3.1i of the next checkpoint, unless the Runner is in that position, in which case the position continues to exist until the Runner moves to another position or ceases to have a position.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 147,
+      "end": 159,
+      "ids": [
+        "step_checkpoint_vacant_position"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_destroy_position"
+}

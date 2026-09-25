@@ -1,0 +1,28 @@
+{
+  "id": "rule_run_phase_after",
+  "kind": "rule",
+  "number": "6.1.3e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_modify_run_steps",
+  "child_ids": [
+    "rule_run_phase_after__example_1"
+  ],
+  "text_markup": "If a condition refers to encountering a piece of ice \"after\" an approach or passing a piece of ice \"after\" an encounter, then that condition is only met by the indicated phases or steps occurring in direct sequence according to the standard progression of the run.",
+  "text_plain": "If a condition refers to encountering a piece of ice \"after\" an approach or passing a piece of ice \"after\" an encounter, then that condition is only met by the indicated phases or steps occurring in direct sequence according to the standard progression of the run.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_run_phase_after__example_1",
+      "text_markup": "The Runner uses {card:Inversificator} to break the subroutine on a {card:Mirāju} that is protecting Archives. When the encounter ends, {card:Mirāju}'s ability creates a replacement effect so that the Runner moves to the outermost position of Archives instead of passing {card:Mirāju}. Because the ice is not passed, {card:Inversificator}'s ability does not meet its trigger condition. Later, the Runner encounters the same {card:Mirāju} again and does not break its subroutine. When this encounter ends, the Runner passes {card:Mirāju}. Even though the Runner has used {card:Inversificator} to fully break {card:Mirāju} during an encounter earlier in the run, {card:Inversificator}'s trigger condition is not met when the Runner passes {card:Mirāju} because the Runner is not passing it after the relevant encounter.",
+      "text_plain": "The Runner uses Inversificator to break the subroutine on a Mirāju that is protecting Archives. When the encounter ends, Mirāju's ability creates a replacement effect so that the Runner moves to the outermost position of Archives instead of passing Mirāju. Because the ice is not passed, Inversificator's ability does not meet its trigger condition. Later, the Runner encounters the same Mirāju again and does not break its subroutine. When this encounter ends, the Runner passes Mirāju. Even though the Runner has used Inversificator to fully break Mirāju during an encounter earlier in the run, Inversificator's trigger condition is not met when the Runner passes Mirāju because the Runner is not passing it after the relevant encounter.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_run_phase_after"
+}

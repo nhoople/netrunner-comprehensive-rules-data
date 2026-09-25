@@ -1,0 +1,35 @@
+{
+  "id": "rule_icebreaker_strength_increase_outside_of_encounter",
+  "kind": "rule",
+  "number": "3.9.5d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_icebreakers",
+  "child_ids": [
+    "rule_icebreaker_strength_increase_outside_of_encounter__example_1"
+  ],
+  "text_markup": "If an {subtype:icebreaker}'s paid ability modifies its strength outside of an encounter and does not specify another applicable duration, the modification expires during the next checkpoint.",
+  "text_plain": "If an icebreaker's paid ability modifies its strength outside of an encounter and does not specify another applicable duration, the modification expires during the next checkpoint.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 6,
+      "end": 16,
+      "target": "icebreaker"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_icebreaker_strength_increase_outside_of_encounter__example_1",
+      "text_markup": "If the Runner uses {card:Corroder}'s ability to increase its strength outside of an encounter, it applies only until the next checkpoint.",
+      "text_plain": "If the Runner uses Corroder's ability to increase its strength outside of an encounter, it applies only until the next checkpoint.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_icebreaker_strength_increase_outside_of_encounter"
+}

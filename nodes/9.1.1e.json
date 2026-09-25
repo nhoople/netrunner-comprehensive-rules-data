@@ -1,0 +1,65 @@
+{
+  "id": "rule_ability_categories",
+  "kind": "rule",
+  "number": "9.1.1e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability",
+  "child_ids": [],
+  "text_markup": "Each ability is categorized as either a static ability ({ref:sec_static_abilities}), a paid ability ({ref:sec_paid_abilities}), a conditional ability ({ref:sec_conditional_abilities}), a play ability ({ref:sec_play_abilities}), or a subroutine ({ref:sec_subroutines}).",
+  "text_plain": "Each ability is categorized as either a static ability (section 9.4), a paid ability (section 9.5), a conditional ability (section 9.6), a play ability (section 9.7), or a subroutine (section 9.8).",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 56,
+      "end": 67,
+      "ids": [
+        "sec_static_abilities"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 86,
+      "end": 97,
+      "ids": [
+        "sec_paid_abilities"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 123,
+      "end": 134,
+      "ids": [
+        "sec_conditional_abilities"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 153,
+      "end": 164,
+      "ids": [
+        "sec_play_abilities"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 184,
+      "end": 195,
+      "ids": [
+        "sec_subroutines"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ability_categories"
+}

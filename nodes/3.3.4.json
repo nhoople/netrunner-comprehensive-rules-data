@@ -1,0 +1,54 @@
+{
+  "id": "rule_asset_lady_liberty",
+  "kind": "rule",
+  "number": "3.3.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_assets",
+  "child_ids": [],
+  "text_markup": "One asset, {card:Lady Liberty}, has the subtype {subtype:region} and the text \"Limit 1 {subtype:region} per server.\" See {ref:subsec_regions} for rules governing {subtype:region} cards.",
+  "text_plain": "One asset, Lady Liberty, has the subtype region and the text \"Limit 1 region per server.\" See section 3.6.5 for rules governing region cards.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 11,
+      "end": 23,
+      "target": "Lady Liberty",
+      "card_code": "22058"
+    },
+    {
+      "type": "subtype",
+      "start": 41,
+      "end": 47,
+      "target": "region"
+    },
+    {
+      "type": "subtype",
+      "start": 70,
+      "end": 76,
+      "target": "region"
+    },
+    {
+      "type": "ref",
+      "start": 94,
+      "end": 107,
+      "ids": [
+        "subsec_regions"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "subtype",
+      "start": 128,
+      "end": 134,
+      "target": "region"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_asset_lady_liberty"
+}

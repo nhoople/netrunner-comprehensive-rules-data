@@ -1,0 +1,19 @@
+{
+  "id": "rule_innermost_ice",
+  "kind": "rule",
+  "number": "4.6.9b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_protecting_a_server",
+  "child_ids": [],
+  "text_markup": "If there is no other ice between the server and a piece of ice, that ice is the innermost piece of ice. If there is no ice farther from the server than a piece of ice, that ice is the outermost piece of ice. If there is only one piece of ice protecting a server, that ice is both the innermost and the outermost piece of ice.",
+  "text_plain": "If there is no other ice between the server and a piece of ice, that ice is the innermost piece of ice. If there is no ice farther from the server than a piece of ice, that ice is the outermost piece of ice. If there is only one piece of ice protecting a server, that ice is both the innermost and the outermost piece of ice.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_innermost_ice"
+}

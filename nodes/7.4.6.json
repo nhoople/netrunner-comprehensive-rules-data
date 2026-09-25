@@ -1,0 +1,24 @@
+{
+  "id": "rule_candidates_entering_server",
+  "kind": "subsection",
+  "number": "7.4.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_determining_candidates",
+  "child_ids": [
+    "rule_candidates_entering_root",
+    "rule_candidates_entering_hq",
+    "rule_candidates_entering_rnd",
+    "rule_candidates_entering_archives"
+  ],
+  "text_markup": "Cards entering a server while a breach is in progress can become candidates.",
+  "text_plain": "Cards entering a server while a breach is in progress can become candidates.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_candidates_entering_server"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_trash_cost_citation",
+  "kind": "rule",
+  "number": "2.6.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_trash_cost",
+  "child_ids": [],
+  "text_markup": "{ref:Rule_basic_trash_ability} details how the Runner can trash a card they access by paying its trash cost.",
+  "text_plain": "Section 7.1.5 details how the Runner can trash a card they access by paying its trash cost.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 0,
+      "end": 13,
+      "ids": [
+        "rule_basic_trash_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trash_cost_citation"
+}

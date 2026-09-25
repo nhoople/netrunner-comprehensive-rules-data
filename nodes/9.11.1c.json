@@ -1,0 +1,29 @@
+{
+  "id": "rule_draw_checkpoint",
+  "kind": "rule",
+  "number": "9.11.1c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction_pause",
+  "child_ids": [],
+  "text_markup": "When a player draws cards, a checkpoint occurs at {ref:step_draw_checkpoint} of that procedure.",
+  "text_plain": "When a player draws cards, a checkpoint occurs at step 8.4.5b of that procedure.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 50,
+      "end": 61,
+      "ids": [
+        "step_draw_checkpoint"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_draw_checkpoint"
+}

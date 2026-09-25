@@ -1,0 +1,25 @@
+{
+  "id": "rule_ice_change_current_position",
+  "kind": "subsection",
+  "number": "6.2.7",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_position",
+  "child_ids": [
+    "rule_ice_change_approach_uninstall_move",
+    "rule_ice_change_approach_swap",
+    "rule_ice_change_encounter_uninstall_derez",
+    "rule_ice_change_encounter_move_swap",
+    "rule_ice_change_during_movement"
+  ],
+  "text_markup": "Changes to the piece of ice in the Runner's current position can affect the progression of the run, but they do so differently during an encounter than outside of an encounter.",
+  "text_plain": "Changes to the piece of ice in the Runner's current position can affect the progression of the run, but they do so differently during an encounter than outside of an encounter.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_change_current_position"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "rule_instructed_to_resolve_conditional_ability__example_1",
+  "kind": "example",
+  "number": "9.6.14d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_instructed_to_resolve_conditional_ability",
+  "child_ids": [],
+  "text_markup": "The Corp has scored {card:AstroScript Pilot Program} and {card:Market Research}. They forfeit one of those agendas to play {card:24/7 News Cycle} and resolve the \"when scored\" ability of the other agenda, even though neither agenda was actually scored at this time. The Corp can forfeit {card:Market Research} to resolve {card:AstroScript Pilot Program}'s ability and put an agenda counter on it, with no other stipulations. If the Runner is tagged, the Corp could instead forfeit {card:AstroScript Pilot Program} to put an agenda counter on {card:Market Research}. However, if the Runner is not tagged, the additional requirement of {card:Market Research}'s trigger condition will not be met, so its \"when scored\" ability cannot become pending or resolve.",
+  "text_plain": "The Corp has scored AstroScript Pilot Program and Market Research. They forfeit one of those agendas to play 24/7 News Cycle and resolve the \"when scored\" ability of the other agenda, even though neither agenda was actually scored at this time. The Corp can forfeit Market Research to resolve AstroScript Pilot Program's ability and put an agenda counter on it, with no other stipulations. If the Runner is tagged, the Corp could instead forfeit AstroScript Pilot Program to put an agenda counter on Market Research. However, if the Runner is not tagged, the additional requirement of Market Research's trigger condition will not be met, so its \"when scored\" ability cannot become pending or resolve.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 45,
+      "target": "AstroScript Pilot Program",
+      "card_code": "01081"
+    },
+    {
+      "type": "card",
+      "start": 50,
+      "end": 65,
+      "target": "Market Research",
+      "card_code": "04095"
+    },
+    {
+      "type": "card",
+      "start": 109,
+      "end": 124,
+      "target": "24/7 News Cycle",
+      "card_code": "09019"
+    },
+    {
+      "type": "card",
+      "start": 266,
+      "end": 281,
+      "target": "Market Research",
+      "card_code": "04095"
+    },
+    {
+      "type": "card",
+      "start": 293,
+      "end": 318,
+      "target": "AstroScript Pilot Program",
+      "card_code": "01081"
+    },
+    {
+      "type": "card",
+      "start": 446,
+      "end": 471,
+      "target": "AstroScript Pilot Program",
+      "card_code": "01081"
+    },
+    {
+      "type": "card",
+      "start": 500,
+      "end": 515,
+      "target": "Market Research",
+      "card_code": "04095"
+    },
+    {
+      "type": "card",
+      "start": 585,
+      "end": 600,
+      "target": "Market Research",
+      "card_code": "04095"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

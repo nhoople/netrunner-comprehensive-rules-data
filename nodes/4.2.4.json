@@ -1,0 +1,19 @@
+{
+  "id": "rule_deck_size_open_info",
+  "kind": "rule",
+  "number": "4.2.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_deck",
+  "child_ids": [],
+  "text_markup": "The number of cards in a deck is open information. Any player may count the number of cards in a deck at any time.",
+  "text_plain": "The number of cards in a deck is open information. Any player may count the number of cards in a deck at any time.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_deck_size_open_info"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "rule_pass_after_breaking",
+  "kind": "rule",
+  "number": "6.1.3f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_modify_run_steps",
+  "child_ids": [],
+  "text_markup": "If a condition refers to passing a piece of ice \"after\" fully breaking it, then that condition is only met when the Runner passes that piece of ice after an encounter (as defined by {ref:rule_run_phase_after}), and only if the Runner fully broke that ice during that encounter. See {ref:subsec_fully_break}.",
+  "text_plain": "If a condition refers to passing a piece of ice \"after\" fully breaking it, then that condition is only met when the Runner passes that piece of ice after an encounter (as defined by rule 6.1.3e), and only if the Runner fully broke that ice during that encounter. See section 6.5.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 182,
+      "end": 193,
+      "ids": [
+        "rule_run_phase_after"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 267,
+      "end": 280,
+      "ids": [
+        "subsec_fully_break"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_pass_after_breaking"
+}

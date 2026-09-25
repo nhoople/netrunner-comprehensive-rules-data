@@ -1,0 +1,29 @@
+{
+  "id": "rule_rez_ice_restriction",
+  "kind": "rule",
+  "number": "6.4.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_approach_ice_phase",
+  "child_ids": [],
+  "text_markup": "The paid ability window in {ref:step_approach_paw} of the Approach Ice Phase is the only time the Corp can normally rez ice. In this window, the Corp only gains the ability to rez the piece of ice being approached, not any other ice.",
+  "text_plain": "The paid ability window in step 6.9.2b of the Approach Ice Phase is the only time the Corp can normally rez ice. In this window, the Corp only gains the ability to rez the piece of ice being approached, not any other ice.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 27,
+      "end": 38,
+      "ids": [
+        "step_approach_paw"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rez_ice_restriction"
+}

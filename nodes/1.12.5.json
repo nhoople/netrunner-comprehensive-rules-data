@@ -1,0 +1,28 @@
+{
+  "id": "rule_object_turn_faceup_facedown",
+  "kind": "rule",
+  "number": "1.12.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_objects",
+  "child_ids": [
+    "rule_object_turn_faceup_facedown__example_1"
+  ],
+  "text_markup": "A card that is turned faceup or facedown is still the same object.",
+  "text_plain": "A card that is turned faceup or facedown is still the same object.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_object_turn_faceup_facedown__example_1",
+      "text_markup": "The Corp uses {card:Vaporframe Fabricator}, installing a piece of ice at no cost, and then plays Divert Power to derez {card:Vaporframe Fabricator} and rez their newly-installed ice at a discount. The Corp can rez {card:Vaporframe Fabricator} again, but since it is still the same object, its \"once per turn\" ability cannot be used again this turn.",
+      "text_plain": "The Corp uses Vaporframe Fabricator, installing a piece of ice at no cost, and then plays Divert Power to derez Vaporframe Fabricator and rez their newly-installed ice at a discount. The Corp can rez Vaporframe Fabricator again, but since it is still the same object, its \"once per turn\" ability cannot be used again this turn.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_object_turn_faceup_facedown"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "subsec_corp_discard_phase",
+  "kind": "subsection",
+  "number": "5.6.3",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_corp_turn",
+  "child_ids": [
+    "step_corp_turn_discard",
+    "step_corp_turn_discard_phase_paw",
+    "step_corp_turn_lose_unspent_clicks",
+    "step_corp_turn_formal_end",
+    "step_corp_turn_complete"
+  ],
+  "text_markup": "During the Corp's discard phase, the following steps occur in order:",
+  "text_plain": "During the Corp's discard phase, the following steps occur in order:",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_corp_discard_phase"
+}

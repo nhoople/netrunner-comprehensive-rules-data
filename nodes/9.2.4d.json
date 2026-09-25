@@ -1,0 +1,29 @@
+{
+  "id": "rule_nested_priority_window",
+  "kind": "rule",
+  "number": "9.2.4d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_priority_window",
+  "child_ids": [],
+  "text_markup": "While a priority window is open, another nested priority window can open as well. This nesting allows the game to resolve \"chain reactions,\" as discussed in {ref:rule_chain_reaction}. The most recently opened priority window is always resolved before returning to an earlier priority window.",
+  "text_plain": "While a priority window is open, another nested priority window can open as well. This nesting allows the game to resolve \"chain reactions,\" as discussed in rule 9.1.2a. The most recently opened priority window is always resolved before returning to an earlier priority window.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 157,
+      "end": 168,
+      "ids": [
+        "rule_chain_reaction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_nested_priority_window"
+}

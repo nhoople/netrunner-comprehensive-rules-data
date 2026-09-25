@@ -1,0 +1,27 @@
+{
+  "id": "rule_forced_encounter_during_run__example_1",
+  "kind": "example",
+  "number": "6.5.9b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_forced_encounter_during_run",
+  "child_ids": [],
+  "text_markup": "The Corp uses {card:The Twins} to force the Runner to encounter a piece of ice again when they pass it. If a subroutine directs the Corp to end the run during the extra encounter, both that encounter and the original Movement Phase are aborted, and the game proceeds to the Run Ends phase.",
+  "text_plain": "The Corp uses The Twins to force the Runner to encounter a piece of ice again when they pass it. If a subroutine directs the Corp to end the run during the extra encounter, both that encounter and the original Movement Phase are aborted, and the game proceeds to the Run Ends phase.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 14,
+      "end": 23,
+      "target": "The Twins",
+      "card_code": "07024"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

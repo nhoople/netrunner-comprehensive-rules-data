@@ -1,0 +1,22 @@
+{
+  "id": "sec_min_deck_size",
+  "kind": "section",
+  "number": "2.11",
+  "ref_type": "section",
+  "title": "Minimum Deck Size",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_min_deck_size_location",
+    "rule_min_deck_size_citation"
+  ],
+  "text_markup": "Minimum Deck Size",
+  "text_plain": "Minimum Deck Size",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_min_deck_size"
+}

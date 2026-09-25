@@ -1,0 +1,19 @@
+{
+  "id": "rule_only_one_mark",
+  "kind": "rule",
+  "number": "10.11.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_mark",
+  "child_ids": [],
+  "text_markup": "There is only ever a single server designated as the mark, and all cards that refer to a player's mark share the same designated server.",
+  "text_plain": "There is only ever a single server designated as the mark, and all cards that refer to a player's mark share the same designated server.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_only_one_mark"
+}

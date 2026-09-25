@@ -1,0 +1,29 @@
+{
+  "id": "rule_interface_flag",
+  "kind": "rule",
+  "number": "9.3.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_flag",
+  "child_ids": [],
+  "text_markup": "The \"interface\" flag appears on icebreaker paid abilities and affects the timing for triggering those abilities. The Runner can use abilities with this flag only during an encounter, and only if the ability's source is an icebreaker with strength that equals or exceeds the strength of the encountered ice. See {ref:subsec_icebreakers}.",
+  "text_plain": "The \"interface\" flag appears on icebreaker paid abilities and affects the timing for triggering those abilities. The Runner can use abilities with this flag only during an encounter, and only if the ability's source is an icebreaker with strength that equals or exceeds the strength of the encountered ice. See section 3.9.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 311,
+      "end": 324,
+      "ids": [
+        "subsec_icebreakers"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interface_flag"
+}

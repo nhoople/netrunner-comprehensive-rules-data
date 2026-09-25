@@ -1,0 +1,29 @@
+{
+  "id": "rule_paid_ability_timing_restriction_reference",
+  "kind": "rule",
+  "number": "9.5.2e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trigger_paid_abilities",
+  "child_ids": [],
+  "text_markup": "Certain paid abilities can only be used at times appropriate to their effects, as detailed in {ref:rule_paid_ability_effect_based_timing_restrictions}.",
+  "text_plain": "Certain paid abilities can only be used at times appropriate to their effects, as detailed in section 9.5.6.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 94,
+      "end": 107,
+      "ids": [
+        "rule_paid_ability_effect_based_timing_restrictions"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_paid_ability_timing_restriction_reference"
+}

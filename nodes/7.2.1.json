@@ -1,0 +1,19 @@
+{
+  "id": "step_card_accessed",
+  "kind": "rule",
+  "number": "7.2.1",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_accessing_card",
+  "child_ids": [],
+  "text_markup": "The card is accessed. Conditions related to accessing this card are met.",
+  "text_plain": "The card is accessed. Conditions related to accessing this card are met.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_card_accessed"
+}

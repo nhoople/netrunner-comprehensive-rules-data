@@ -1,0 +1,19 @@
+{
+  "id": "rule_score_area_active_inactive",
+  "kind": "rule",
+  "number": "4.5.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_score_area",
+  "child_ids": [],
+  "text_markup": "Agendas in the Corp's score area are active. Agendas in the Runner's score area are inactive unless stated otherwise.",
+  "text_plain": "Agendas in the Corp's score area are active. Agendas in the Runner's score area are inactive unless stated otherwise.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_score_area_active_inactive"
+}

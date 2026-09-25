@@ -1,0 +1,29 @@
+{
+  "id": "sec_hand",
+  "kind": "section",
+  "number": "4.3",
+  "ref_type": "section",
+  "title": "Hand",
+  "parent_id": "chpt_game_zones",
+  "child_ids": [
+    "rule_hand",
+    "rule_hand_secret",
+    "rule_hand_unordered",
+    "rule_hand_size_open_info",
+    "rule_hand_inactive",
+    "rule_maximum_hand_size",
+    "rule_hand_name",
+    "subsec_hq",
+    "subsec_grip"
+  ],
+  "text_markup": "Hand",
+  "text_plain": "Hand",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_hand"
+}

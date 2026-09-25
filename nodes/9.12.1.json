@@ -1,0 +1,25 @@
+{
+  "id": "subsec_simultaneous_effects",
+  "kind": "subsection",
+  "number": "9.12.1",
+  "ref_type": "section",
+  "title": "Simultaneous Effects",
+  "parent_id": "sec_other_rules_and_terminology",
+  "child_ids": [
+    "rule_modify_value",
+    "rule_modify_subtypes",
+    "rule_modify_ability_with_choice",
+    "rule_dependent_effects",
+    "rule_independent_effects"
+  ],
+  "text_markup": "Simultaneous Effects",
+  "text_plain": "Simultaneous Effects",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_simultaneous_effects"
+}

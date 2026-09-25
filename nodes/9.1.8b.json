@@ -1,0 +1,28 @@
+{
+  "id": "rule_active_exception_catchall",
+  "kind": "rule",
+  "number": "9.1.8b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_active_inactive_source_card",
+  "child_ids": [
+    "rule_active_exception_catchall__example_1"
+  ],
+  "text_markup": "Abilities stating that they are active in a particular zone are active in that zone. Abilities that can only ever meet their conditions in a particular zone are active in that zone. Abilities that can only affect the game state from a particular zone are active in that zone. When determining whether these stipulations apply, refer only to the game rules, not to any other effects that may be changing how cards move between zones.",
+  "text_plain": "Abilities stating that they are active in a particular zone are active in that zone. Abilities that can only ever meet their conditions in a particular zone are active in that zone. Abilities that can only affect the game state from a particular zone are active in that zone. When determining whether these stipulations apply, refer only to the game rules, not to any other effects that may be changing how cards move between zones.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_active_exception_catchall__example_1",
+      "text_markup": "{card:I've Had Worse} has an ability that meets its trigger condition when it is trashed due to damage. Normally, this can only occur by moving {card:I've Had Worse} from the grip to the heap. Therefore, this ability is active in the heap. However, if {card:I've Had Worse} is trashed, but the Corp uses {card:Skorpios Defense Systems} to remove it from the game instead of adding it to the heap, the ability is not active.",
+      "text_plain": "I've Had Worse has an ability that meets its trigger condition when it is trashed due to damage. Normally, this can only occur by moving I've Had Worse from the grip to the heap. Therefore, this ability is active in the heap. However, if I've Had Worse is trashed, but the Corp uses Skorpios Defense Systems to remove it from the game instead of adding it to the heap, the ability is not active.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_active_exception_catchall"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "rule_run_ends_condition__example_1",
+  "kind": "example",
+  "number": "6.8.5.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_run_ends_condition",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:The Noble Path} to make a run in which they prevent all damage. During the run, the subroutine on Chum resolves, and then the Runner encounters {card:Wall of Static} and does not break its subroutine. When the \"end the run\" ability resolves, the encounter also ends, so the trigger condition on {card:Chum}'s delayed conditional ability is met. The ability will resolve and fail to damage the Runner during the Run Ends Phase, because {card:The Noble Path}'s effect still applies. Similarly, {card:Georgia Emelyov}'s first ability meets its trigger condition at {ref:step_run_declared_unsuccessful}, which is still before the run is over, so the damage will be prevented.",
+  "text_plain": "The Runner plays The Noble Path to make a run in which they prevent all damage. During the run, the subroutine on Chum resolves, and then the Runner encounters Wall of Static and does not break its subroutine. When the \"end the run\" ability resolves, the encounter also ends, so the trigger condition on Chum's delayed conditional ability is met. The ability will resolve and fail to damage the Runner during the Run Ends Phase, because The Noble Path's effect still applies. Similarly, Georgia Emelyov's first ability meets its trigger condition at step 6.9.6c, which is still before the run is over, so the damage will be prevented.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 31,
+      "target": "The Noble Path",
+      "card_code": "10077"
+    },
+    {
+      "type": "card",
+      "start": 160,
+      "end": 174,
+      "target": "Wall of Static",
+      "card_code": "20131"
+    },
+    {
+      "type": "card",
+      "start": 304,
+      "end": 308,
+      "target": "Chum",
+      "card_code": "01075"
+    },
+    {
+      "type": "card",
+      "start": 437,
+      "end": 451,
+      "target": "The Noble Path",
+      "card_code": "10077"
+    },
+    {
+      "type": "card",
+      "start": 487,
+      "end": 502,
+      "target": "Georgia Emelyov",
+      "card_code": "11014"
+    },
+    {
+      "type": "ref",
+      "start": 550,
+      "end": 561,
+      "ids": [
+        "step_run_declared_unsuccessful"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

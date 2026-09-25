@@ -1,0 +1,62 @@
+{
+  "id": "rule_rnd_topmost_eligibile_candidate__example_1",
+  "kind": "example",
+  "number": "7.4.7a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_rnd_topmost_eligibile_candidate",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:The Maker's Eye} and breaches R&D, accessing 2 additional cards. They access {card:Celebrity Gift} and then access and steal {card:Bacterial Programming}. The Corp uses {card:Bacterial Programming}'s ability to rearrange cards in R&D, but they leave {card:Celebrity Gift} as the top card of R&D. The cards returned to the top of R&D are new objects, so the Runner must continue the breach from the top of R&D and will access {card:Celebrity Gift} again.",
+  "text_plain": "The Runner plays The Maker's Eye and breaches R&D, accessing 2 additional cards. They access Celebrity Gift and then access and steal Bacterial Programming. The Corp uses Bacterial Programming's ability to rearrange cards in R&D, but they leave Celebrity Gift as the top card of R&D. The cards returned to the top of R&D are new objects, so the Runner must continue the breach from the top of R&D and will access Celebrity Gift again.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 32,
+      "target": "The Maker's Eye",
+      "card_code": "31029"
+    },
+    {
+      "type": "card",
+      "start": 93,
+      "end": 107,
+      "target": "Celebrity Gift",
+      "card_code": "31057"
+    },
+    {
+      "type": "card",
+      "start": 134,
+      "end": 155,
+      "target": "Bacterial Programming",
+      "card_code": "21033"
+    },
+    {
+      "type": "card",
+      "start": 171,
+      "end": 192,
+      "target": "Bacterial Programming",
+      "card_code": "21033"
+    },
+    {
+      "type": "card",
+      "start": 245,
+      "end": 259,
+      "target": "Celebrity Gift",
+      "card_code": "31057"
+    },
+    {
+      "type": "card",
+      "start": 413,
+      "end": 427,
+      "target": "Celebrity Gift",
+      "card_code": "31057"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

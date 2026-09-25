@@ -1,0 +1,19 @@
+{
+  "id": "rule_linked_abilities_during_timing_structure",
+  "kind": "rule",
+  "number": "9.11.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_identifying_instructions",
+  "child_ids": [],
+  "text_markup": "If an ability initiates a timing structure, its source may have linked abilities that apply during that timing structure. These are frequently written directly after the instruction that creates the timing structure, but they are not instructions in the same ability.",
+  "text_plain": "If an ability initiates a timing structure, its source may have linked abilities that apply during that timing structure. These are frequently written directly after the instruction that creates the timing structure, but they are not instructions in the same ability.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_linked_abilities_during_timing_structure"
+}

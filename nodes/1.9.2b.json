@@ -1,0 +1,19 @@
+{
+  "id": "rule_counters_placed_condition",
+  "kind": "rule",
+  "number": "1.9.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_bank",
+  "child_ids": [],
+  "text_markup": "A condition or restriction that looks for counters being placed on a card can be met by either counters from the bank or counters moved from another location.",
+  "text_plain": "A condition or restriction that looks for counters being placed on a card can be met by either counters from the bank or counters moved from another location.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_counters_placed_condition"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rule_install_one_at_a_time",
+  "kind": "rule",
+  "number": "8.5.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [
+    "rule_install_one_at_a_time__example_1"
+  ],
+  "text_markup": "Installing cards is an exception to {ref:rule_act_on_multiple_cards}. If an effect would install more than one card, then those cards are chosen and installed one at a time, following all of the steps of the installation process ({ref:sec_steps_installing}) for each card before choosing and installing the next. Each such installation is performed as a separate instruction. See {ref:rule_split_up_instruction}.",
+  "text_plain": "Installing cards is an exception to rule 9.12.2a. If an effect would install more than one card, then those cards are chosen and installed one at a time, following all of the steps of the installation process (step 8.5.16) for each card before choosing and installing the next. Each such installation is performed as a separate instruction. See rule 9.11.4b.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 36,
+      "end": 48,
+      "ids": [
+        "rule_act_on_multiple_cards"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 210,
+      "end": 221,
+      "ids": [
+        "sec_steps_installing"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 345,
+      "end": 357,
+      "ids": [
+        "rule_split_up_instruction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_install_one_at_a_time__example_1",
+      "text_markup": "The Runner uses {card:Mass Install} to install three programs. The Runner can install {card:Dhegdheer} first, and then host one of the other two programs on {card:Dhegdheer} in order to reduce the install cost.",
+      "text_plain": "The Runner uses Mass Install to install three programs. The Runner can install Dhegdheer first, and then host one of the other two programs on Dhegdheer in order to reduce the install cost.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_one_at_a_time"
+}

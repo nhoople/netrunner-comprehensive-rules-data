@@ -1,0 +1,19 @@
+{
+  "id": "rule_mulligan",
+  "kind": "rule",
+  "number": "1.6.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_start_hand",
+  "child_ids": [],
+  "text_markup": "After drawing starting hands, the Corp may choose to take a mulligan; then, the Runner may choose to take a mulligan. To take a mulligan, the player shuffles their starting hand back into their deck, then draws a new starting hand. They must keep the second hand as their starting hand.",
+  "text_plain": "After drawing starting hands, the Corp may choose to take a mulligan; then, the Runner may choose to take a mulligan. To take a mulligan, the player shuffles their starting hand back into their deck, then draws a new starting hand. They must keep the second hand as their starting hand.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mulligan"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rule_count_positions__example_1",
+  "kind": "example",
+  "number": "6.2.3.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_count_positions",
+  "child_ids": [],
+  "text_markup": "A server has 2 pieces of ice protecting it, and a copy of {card:Rook} is hosted on the outermost of those 2 pieces of ice. {card:Rook}'s ability can move it to the 2nd piece of ice protecting any server, counted starting from the innermost piece of ice and moving outward. The {card:Rook} cannot be moved to a server protected by only 1 piece of ice.",
+  "text_plain": "A server has 2 pieces of ice protecting it, and a copy of Rook is hosted on the outermost of those 2 pieces of ice. Rook's ability can move it to the 2nd piece of ice protecting any server, counted starting from the innermost piece of ice and moving outward. The Rook cannot be moved to a server protected by only 1 piece of ice.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 58,
+      "end": 62,
+      "target": "Rook",
+      "card_code": "04003"
+    },
+    {
+      "type": "card",
+      "start": 116,
+      "end": 120,
+      "target": "Rook",
+      "card_code": "04003"
+    },
+    {
+      "type": "card",
+      "start": 263,
+      "end": 267,
+      "target": "Rook",
+      "card_code": "04003"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

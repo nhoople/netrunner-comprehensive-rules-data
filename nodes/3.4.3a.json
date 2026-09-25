@@ -1,0 +1,29 @@
+{
+  "id": "rule_ice_rez_window",
+  "kind": "rule",
+  "number": "3.4.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ice_rez_cost",
+  "child_ids": [],
+  "text_markup": "Unlike assets and upgrades, ice can normally only be rezzed while being approached during a run. See {ref:sec_approach_ice_phase}.",
+  "text_plain": "Unlike assets and upgrades, ice can normally only be rezzed while being approached during a run. See section 6.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 101,
+      "end": 112,
+      "ids": [
+        "sec_approach_ice_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_rez_window"
+}

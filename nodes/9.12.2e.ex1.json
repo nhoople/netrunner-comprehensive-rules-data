@@ -1,0 +1,41 @@
+{
+  "id": "rule_values_defined_by_x__example_1",
+  "kind": "example",
+  "number": "9.12.2e.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_values_defined_by_x",
+  "child_ids": [],
+  "text_markup": "The Corp uses the ability granted by {card:ZATO City Grid} to trash {card:Surveyor} and resolve one of its subroutines. Since {card:Surveyor} is in Archives when the trace on the subroutine initiates, the ability defining X is inactive, so the base trace strength is 0.",
+  "text_plain": "The Corp uses the ability granted by ZATO City Grid to trash Surveyor and resolve one of its subroutines. Since Surveyor is in Archives when the trace on the subroutine initiates, the ability defining X is inactive, so the base trace strength is 0.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 37,
+      "end": 51,
+      "target": "ZATO City Grid",
+      "card_code": "33127"
+    },
+    {
+      "type": "card",
+      "start": 61,
+      "end": 69,
+      "target": "Surveyor",
+      "card_code": "21118"
+    },
+    {
+      "type": "card",
+      "start": 112,
+      "end": 120,
+      "target": "Surveyor",
+      "card_code": "21118"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

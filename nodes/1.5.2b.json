@@ -1,0 +1,48 @@
+{
+  "id": "rule_melies_u_detail",
+  "kind": "rule",
+  "number": "1.5.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_identity_copy",
+  "child_ids": [],
+  "text_markup": "A player playing {card:Méliès U} as their identity may bring any number of copies of that identity along with their deck. At the start of the game, 1 copy will be their active identity, and all other copies are placed outside the game. Whenever the first ability on {card:Méliès U: Only the Brightest} resolves, that player is instructed to \"secretly set\" their identity. To complete this instruction, the player secretly chooses either their current identity card or 1 of the {card:Méliès U} identity cards outside the game, and the chosen copy becomes their active identity. The player can shuffle their current identity card into the set of copies outside the game in order to obscure whether they choose to keep the same copy or switch to another copy. The chosen identity card always enters the play area with its {card:Méliès U: Only the Brightest} side faceup. All other copies are placed outside the game until the ability resolves again.",
+  "text_plain": "A player playing Méliès U as their identity may bring any number of copies of that identity along with their deck. At the start of the game, 1 copy will be their active identity, and all other copies are placed outside the game. Whenever the first ability on Méliès U: Only the Brightest resolves, that player is instructed to \"secretly set\" their identity. To complete this instruction, the player secretly chooses either their current identity card or 1 of the Méliès U identity cards outside the game, and the chosen copy becomes their active identity. The player can shuffle their current identity card into the set of copies outside the game in order to obscure whether they choose to keep the same copy or switch to another copy. The chosen identity card always enters the play area with its Méliès U: Only the Brightest side faceup. All other copies are placed outside the game until the ability resolves again.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 25,
+      "target": "Méliès U",
+      "card_code": "36036"
+    },
+    {
+      "type": "card",
+      "start": 259,
+      "end": 287,
+      "target": "Méliès U: Only the Brightest",
+      "card_code": "36036"
+    },
+    {
+      "type": "card",
+      "start": 463,
+      "end": 471,
+      "target": "Méliès U",
+      "card_code": "36036"
+    },
+    {
+      "type": "card",
+      "start": 798,
+      "end": 826,
+      "target": "Méliès U: Only the Brightest",
+      "card_code": "36036"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_melies_u_detail"
+}

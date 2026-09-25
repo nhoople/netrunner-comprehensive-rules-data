@@ -1,0 +1,48 @@
+{
+  "id": "rule_reveal_from_hidden__example_1",
+  "kind": "example",
+  "number": "4.1.2a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_reveal_from_hidden",
+  "child_ids": [],
+  "text_markup": "When resolving {card:Clone Suffrage Movement}, the Corp chooses a facedown {card:Fast Break} in Archives. The Corp must reveal the {card:Fast Break} before adding it to HQ, to demonstrate that it is indeed an operation, meeting {card:Clone Suffrage Movement}'s requirement.",
+  "text_plain": "When resolving Clone Suffrage Movement, the Corp chooses a facedown Fast Break in Archives. The Corp must reveal the Fast Break before adding it to HQ, to demonstrate that it is indeed an operation, meeting Clone Suffrage Movement's requirement.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 38,
+      "target": "Clone Suffrage Movement",
+      "card_code": "10049"
+    },
+    {
+      "type": "card",
+      "start": 68,
+      "end": 78,
+      "target": "Fast Break",
+      "card_code": "22031"
+    },
+    {
+      "type": "card",
+      "start": 117,
+      "end": 127,
+      "target": "Fast Break",
+      "card_code": "22031"
+    },
+    {
+      "type": "card",
+      "start": 207,
+      "end": 230,
+      "target": "Clone Suffrage Movement",
+      "card_code": "10049"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

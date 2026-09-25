@@ -1,0 +1,35 @@
+{
+  "id": "movement_score",
+  "kind": "rule",
+  "number": "8.2.9",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_movements",
+  "child_ids": [],
+  "text_markup": "To {term:score} an agenda is to move it from its current zone to the Corp's score area. The full rules for scoring are detailed in {ref:sec_score_scoring_steal}.",
+  "text_plain": "To score an agenda is to move it from its current zone to the Corp's score area. The full rules for scoring are detailed in section 1.17.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 8,
+      "target": "score"
+    },
+    {
+      "type": "ref",
+      "start": 124,
+      "end": 136,
+      "ids": [
+        "sec_score_scoring_steal"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=movement_score"
+}

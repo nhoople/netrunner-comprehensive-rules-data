@@ -1,0 +1,31 @@
+{
+  "id": "rule_active_cards",
+  "kind": "subsection",
+  "number": "1.8.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_cards",
+  "child_ids": [
+    "rule_default_active_card_locations",
+    "rule_runner_become_active",
+    "rule_corp_become_active",
+    "rule_identity_become_active"
+  ],
+  "text_markup": "Cards that are {term:active} are able to affect the game through their abilities.",
+  "text_plain": "Cards that are active are able to affect the game through their abilities.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 15,
+      "end": 21,
+      "target": "active"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_active_cards"
+}

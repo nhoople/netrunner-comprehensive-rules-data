@@ -1,0 +1,47 @@
+{
+  "id": "rule_instruction_link",
+  "kind": "rule",
+  "number": "9.1.1g",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability",
+  "child_ids": [],
+  "text_markup": "Each non-static ability contains one or more {term:instructions} that make up the ability's component steps. {ref:Rule_instruction} describes the nature and function of instructions in an ability's text. An instruction that the game is presently concerned with can be either {term:imminent} or {term:resolving}.",
+  "text_plain": "Each non-static ability contains one or more instructions that make up the ability's component steps. Section 9.3.4 describes the nature and function of instructions in an ability's text. An instruction that the game is presently concerned with can be either imminent or resolving.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 45,
+      "end": 57,
+      "target": "instructions"
+    },
+    {
+      "type": "ref",
+      "start": 102,
+      "end": 115,
+      "ids": [
+        "rule_instruction"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "term",
+      "start": 259,
+      "end": 267,
+      "target": "imminent"
+    },
+    {
+      "type": "term",
+      "start": 271,
+      "end": 280,
+      "target": "resolving"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_instruction_link"
+}

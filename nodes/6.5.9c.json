@@ -1,0 +1,19 @@
+{
+  "id": "rule_forced_encounter_end",
+  "kind": "rule",
+  "number": "6.5.9c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_forced_encounters",
+  "child_ids": [],
+  "text_markup": "An instruction that creates a forced encounter is not finished resolving until the encounter is complete.",
+  "text_plain": "An instruction that creates a forced encounter is not finished resolving until the encounter is complete.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_forced_encounter_end"
+}

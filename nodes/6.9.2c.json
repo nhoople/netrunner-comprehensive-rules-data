@@ -1,0 +1,38 @@
+{
+  "id": "step_approach_complete",
+  "kind": "rule",
+  "number": "6.9.2c",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_approach_ice_phase",
+  "child_ids": [],
+  "text_markup": "The Approach Ice Phase is complete. If the approached piece of ice is rezzed, continue to {ref:rule_sec_run_encounter_ice_phase}, Encounter Ice Phase. Otherwise, proceed to {ref:rule_sec_run_movement_phase}, Movement Phase.",
+  "text_plain": "The Approach Ice Phase is complete. If the approached piece of ice is rezzed, continue to step 6.9.3, Encounter Ice Phase. Otherwise, proceed to step 6.9.4, Movement Phase.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 90,
+      "end": 100,
+      "ids": [
+        "rule_sec_run_encounter_ice_phase"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 145,
+      "end": 155,
+      "ids": [
+        "rule_sec_run_movement_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_approach_complete"
+}

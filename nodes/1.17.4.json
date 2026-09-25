@@ -1,0 +1,19 @@
+{
+  "id": "rule_score_area_faceup",
+  "kind": "rule",
+  "number": "1.17.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_score_scoring_steal",
+  "child_ids": [],
+  "text_markup": "Agendas are always added to the score area faceup, regardless of their previous faceup/facedown status.",
+  "text_plain": "Agendas are always added to the score area faceup, regardless of their previous faceup/facedown status.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_score_area_faceup"
+}

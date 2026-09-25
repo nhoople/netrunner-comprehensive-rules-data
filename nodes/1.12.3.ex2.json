@@ -1,0 +1,27 @@
+{
+  "id": "rule_object_move_location__example_2",
+  "kind": "example",
+  "number": "1.12.3.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_object_move_location",
+  "child_ids": [],
+  "text_markup": "The top card of R&D in the current game state is an object. So is the 2nd card from the top of R&D, the 3rd card, and so on. If the Corp plays {card:Precognition} and rearranges the top 5 cards of R&D, the Runner will not know which cards correspond to which objects in the previous order, so the cards become new objects under their new order.",
+  "text_plain": "The top card of R&D in the current game state is an object. So is the 2nd card from the top of R&D, the 3rd card, and so on. If the Corp plays Precognition and rearranges the top 5 cards of R&D, the Runner will not know which cards correspond to which objects in the previous order, so the cards become new objects under their new order.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 143,
+      "end": 155,
+      "target": "Precognition",
+      "card_code": "01073"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

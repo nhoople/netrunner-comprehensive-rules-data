@@ -1,0 +1,28 @@
+{
+  "id": "rule_ice_change_outward",
+  "kind": "rule",
+  "number": "6.2.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ice_change_can_affect_position",
+  "child_ids": [
+    "rule_ice_change_outward__example_1"
+  ],
+  "text_markup": "If a position outward from the Runner's current position is added to the attacked server, the Runner will normally not need to approach or encounter the new piece of ice to reach the server.",
+  "text_plain": "If a position outward from the Runner's current position is added to the attacked server, the Runner will normally not need to approach or encounter the new piece of ice to reach the server.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_ice_change_outward__example_1",
+      "text_markup": "The Runner runs a server protected by 2 pieces of ice. The Runner approaches the outermost ice, and the Corp rezzes {card:Drafter}. During the subsequent encounter, the Corp resolves {card:Drafter}'s second subroutine, installing a new piece of ice protecting the attacked server and trashing both of the other pieces of ice in the process. The new ice is installed to the outermost position protecting the server, which is outward from the Runner's current position, so the Runner will not approach the new piece of ice. This is true even though the number of positions between the new ice and the server is less than the number of positions that were previously between the Runner and the server.",
+      "text_plain": "The Runner runs a server protected by 2 pieces of ice. The Runner approaches the outermost ice, and the Corp rezzes Drafter. During the subsequent encounter, the Corp resolves Drafter's second subroutine, installing a new piece of ice protecting the attacked server and trashing both of the other pieces of ice in the process. The new ice is installed to the outermost position protecting the server, which is outward from the Runner's current position, so the Runner will not approach the new piece of ice. This is true even though the number of positions between the new ice and the server is less than the number of positions that were previously between the Runner and the server.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_change_outward"
+}

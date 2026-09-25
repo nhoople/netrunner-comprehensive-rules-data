@@ -1,0 +1,48 @@
+{
+  "id": "rule_abilities_during_a_run__example_1",
+  "kind": "example",
+  "number": "6.3.4.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_abilities_during_a_run",
+  "child_ids": [],
+  "text_markup": "The Runner initiates a run against a server with a rezzed {card:Heinlein Grid} while the Corp has {card:Enhanced Login Protocol} in play. They do not lose any credits to {card:Heinlein Grid}'s ability, as the additional click {card:Enhanced Login Protocol} requires them to spend is spent to initiate the run, and is not spent during the run.",
+  "text_plain": "The Runner initiates a run against a server with a rezzed Heinlein Grid while the Corp has Enhanced Login Protocol in play. They do not lose any credits to Heinlein Grid's ability, as the additional click Enhanced Login Protocol requires them to spend is spent to initiate the run, and is not spent during the run.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 58,
+      "end": 71,
+      "target": "Heinlein Grid",
+      "card_code": "06023"
+    },
+    {
+      "type": "card",
+      "start": 91,
+      "end": 114,
+      "target": "Enhanced Login Protocol",
+      "card_code": "06022"
+    },
+    {
+      "type": "card",
+      "start": 156,
+      "end": 169,
+      "target": "Heinlein Grid",
+      "card_code": "06023"
+    },
+    {
+      "type": "card",
+      "start": 205,
+      "end": 228,
+      "target": "Enhanced Login Protocol",
+      "card_code": "06022"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

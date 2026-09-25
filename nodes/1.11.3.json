@@ -1,0 +1,23 @@
+{
+  "id": "rule_gain_spend_lose_clicks",
+  "kind": "subsection",
+  "number": "1.11.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_clicks",
+  "child_ids": [
+    "rule_gain_clicks",
+    "rule_lose_spend_clicks",
+    "rule_click_actions"
+  ],
+  "text_markup": "Players can gain, lose, or spend clicks.",
+  "text_plain": "Players can gain, lose, or spend clicks.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_gain_spend_lose_clicks"
+}

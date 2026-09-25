@@ -1,0 +1,22 @@
+{
+  "id": "rule_candidates_presented",
+  "kind": "subsection",
+  "number": "7.3.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_breaching_servers",
+  "child_ids": [
+    "rule_candidates_breaching_hq",
+    "rule_corp_choosing_candidates_breaching_hq"
+  ],
+  "text_markup": "During a breach, the Runner is presented with the current candidates. They choose 1 of those cards and access it. This process repeats until there are no longer any candidates.",
+  "text_plain": "During a breach, the Runner is presented with the current candidates. They choose 1 of those cards and access it. This process repeats until there are no longer any candidates.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_candidates_presented"
+}

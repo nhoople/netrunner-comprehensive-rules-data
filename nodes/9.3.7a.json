@@ -1,0 +1,29 @@
+{
+  "id": "rule_static_abilities_link",
+  "kind": "rule",
+  "number": "9.3.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_classification",
+  "child_ids": [],
+  "text_markup": "Static abilities ({ref:sec_static_abilities}) can contain declarations, restrictions, and conditions, but never instructions. Static abilities are the only ability type that can contain declarations.",
+  "text_plain": "Static abilities (section 9.4) can contain declarations, restrictions, and conditions, but never instructions. Static abilities are the only ability type that can contain declarations.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 18,
+      "end": 29,
+      "ids": [
+        "sec_static_abilities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_static_abilities_link"
+}

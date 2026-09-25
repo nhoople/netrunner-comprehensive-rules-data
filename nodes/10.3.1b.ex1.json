@@ -1,0 +1,32 @@
+{
+  "id": "step_checkpoint_duration_abilities__example_1",
+  "kind": "example",
+  "number": "10.3.1b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "step_checkpoint_duration_abilities",
+  "child_ids": [],
+  "text_markup": "During the checkpoint that follows the end of an encounter, abilities that increased the strength of an {subtype:icebreaker} during that encounter expire and the {subtype:icebreaker}'s strength is correspondingly lowered.",
+  "text_plain": "During the checkpoint that follows the end of an encounter, abilities that increased the strength of an icebreaker during that encounter expire and the icebreaker's strength is correspondingly lowered.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 104,
+      "end": 114,
+      "target": "icebreaker"
+    },
+    {
+      "type": "subtype",
+      "start": 152,
+      "end": 162,
+      "target": "icebreaker"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

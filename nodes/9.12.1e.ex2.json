@@ -1,0 +1,90 @@
+{
+  "id": "rule_independent_effects__example_2",
+  "kind": "example",
+  "number": "9.12.1e.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_independent_effects",
+  "child_ids": [],
+  "text_markup": "{card:Hush} is hosted on {card:Magnet}. {card:Hush}'s ability creates an effect that removes abilities from {card:Magnet}, and {card:Magnet}'s ability creates an effect that removes an ability from {card:Hush}. The dependencies of these effects form a loop, so the hosting relationship of their source objects is considered, and the effect from {card:Hush}'s ability ignores its dependence on the effect from {card:Magnet}'s ability. {card:Hush}'s effect is therefore treated as independent and applied first. {card:Magnet}'s ability and the resulting effect no longer exist, so they are never applied.",
+  "text_plain": "Hush is hosted on Magnet. Hush's ability creates an effect that removes abilities from Magnet, and Magnet's ability creates an effect that removes an ability from Hush. The dependencies of these effects form a loop, so the hosting relationship of their source objects is considered, and the effect from Hush's ability ignores its dependence on the effect from Magnet's ability. Hush's effect is therefore treated as independent and applied first. Magnet's ability and the resulting effect no longer exist, so they are never applied.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 4,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 18,
+      "end": 24,
+      "target": "Magnet",
+      "card_code": "31044"
+    },
+    {
+      "type": "card",
+      "start": 26,
+      "end": 30,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 87,
+      "end": 93,
+      "target": "Magnet",
+      "card_code": "31044"
+    },
+    {
+      "type": "card",
+      "start": 99,
+      "end": 105,
+      "target": "Magnet",
+      "card_code": "31044"
+    },
+    {
+      "type": "card",
+      "start": 163,
+      "end": 167,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 303,
+      "end": 307,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 360,
+      "end": 366,
+      "target": "Magnet",
+      "card_code": "31044"
+    },
+    {
+      "type": "card",
+      "start": 378,
+      "end": 382,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 447,
+      "end": 453,
+      "target": "Magnet",
+      "card_code": "31044"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

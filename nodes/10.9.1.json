@@ -1,0 +1,32 @@
+{
+  "id": "rule_load_and_empty",
+  "kind": "rule",
+  "number": "10.9.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_load_and_empty",
+  "child_ids": [],
+  "text_markup": "To {term:load} a card with counters is to place those counters on that card. A card is {term:empty} when it is no longer hosting any counters of a type that were previously loaded onto it.",
+  "text_plain": "To load a card with counters is to place those counters on that card. A card is empty when it is no longer hosting any counters of a type that were previously loaded onto it.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 7,
+      "target": "load"
+    },
+    {
+      "type": "term",
+      "start": 80,
+      "end": 85,
+      "target": "empty"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_load_and_empty"
+}

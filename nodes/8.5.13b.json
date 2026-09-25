@@ -1,0 +1,28 @@
+{
+  "id": "rule_no_reveal_for_server_limitation",
+  "kind": "rule",
+  "number": "8.5.13b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_install_from_hidden_or_secret_zone",
+  "child_ids": [
+    "rule_no_reveal_for_server_limitation__example_1"
+  ],
+  "text_markup": "Players are not required to and should not reveal an installed card to verify that it meets server limitations.",
+  "text_plain": "Players are not required to and should not reveal an installed card to verify that it meets server limitations.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_no_reveal_for_server_limitation__example_1",
+      "text_markup": "The Corp installs a card in the root of a server with a rezzed {subtype:region} upgrade. The new card cannot also be a {subtype:region} upgrade (unless the old one is trashed as part of the installation), as per {ref:subsec_regions}. They do not reveal the installed card to verify this.",
+      "text_plain": "The Corp installs a card in the root of a server with a rezzed region upgrade. The new card cannot also be a region upgrade (unless the old one is trashed as part of the installation), as per section 3.6.5. They do not reveal the installed card to verify this.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_no_reveal_for_server_limitation"
+}

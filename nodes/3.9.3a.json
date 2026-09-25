@@ -1,0 +1,19 @@
+{
+  "id": "rule_program_memory",
+  "kind": "rule",
+  "number": "3.9.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_program_memory_cost",
+  "child_ids": [],
+  "text_markup": "Installing a program does not permanently consume memory. The program claims its designated quantity of memory units until it becomes uninstalled, at which point those memory units become available for use by other programs.",
+  "text_plain": "Installing a program does not permanently consume memory. The program claims its designated quantity of memory units until it becomes uninstalled, at which point those memory units become available for use by other programs.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_program_memory"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_swap_installed_cards_preserves_hosting",
+  "kind": "rule",
+  "number": "8.8.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_swap_installed_cards",
+  "child_ids": [
+    "rule_swap_installed_cards_preserves_hosting__example_1"
+  ],
+  "text_markup": "When swapping installed cards, any cards or counters hosted on either of the swapped cards maintain their hosting relationships.",
+  "text_plain": "When swapping installed cards, any cards or counters hosted on either of the swapped cards maintain their hosting relationships.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_swap_installed_cards_preserves_hosting__example_1",
+      "text_markup": "The Corp uses {card:Thimblerig}'s ability to swap it with a {card:Palisade} hosting {card:Botulus}. The {card:Botulus} remains hosted on the {card:Palisade} throughout this process.",
+      "text_plain": "The Corp uses Thimblerig's ability to swap it with a Palisade hosting Botulus. The Botulus remains hosted on the Palisade throughout this process.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_swap_installed_cards_preserves_hosting"
+}

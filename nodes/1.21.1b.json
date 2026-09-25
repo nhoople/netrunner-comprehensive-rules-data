@@ -1,0 +1,38 @@
+{
+  "id": "rule_hosted_cards_treated_as_group",
+  "kind": "rule",
+  "number": "1.21.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_faceup_facedown",
+  "child_ids": [],
+  "text_markup": "Some effects host multiple cards on an object at the same time or set aside multiple cards at the same time. Facedown cards that enter a zone at the same time by the same effect are treated as a group. See {ref:rule_host_faceup_facedown} and {ref:rule_facedown_set_aside_distinct_groups}, respectively.",
+  "text_plain": "Some effects host multiple cards on an object at the same time or set aside multiple cards at the same time. Facedown cards that enter a zone at the same time by the same effect are treated as a group. See section 1.13.7 and rule 4.8.7, respectively.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 206,
+      "end": 220,
+      "ids": [
+        "rule_host_faceup_facedown"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 225,
+      "end": 235,
+      "ids": [
+        "rule_facedown_set_aside_distinct_groups"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_cards_treated_as_group"
+}

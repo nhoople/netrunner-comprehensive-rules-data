@@ -1,0 +1,19 @@
+{
+  "id": "rule_optional_infinite_loop",
+  "kind": "rule",
+  "number": "10.1.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_infinite_loops",
+  "child_ids": [],
+  "text_markup": "If an optional infinite loop is created (a player can choose to stop resolving the loop) during a run, then the Runner must jack out unless another card ability prevents them from doing so. If the Runner cannot jack out, then it is the Corp's responsibility to end the loop by letting the Runner continue the run.",
+  "text_plain": "If an optional infinite loop is created (a player can choose to stop resolving the loop) during a run, then the Runner must jack out unless another card ability prevents them from doing so. If the Runner cannot jack out, then it is the Corp's responsibility to end the loop by letting the Runner continue the run.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_optional_infinite_loop"
+}

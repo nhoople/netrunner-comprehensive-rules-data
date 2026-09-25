@@ -1,0 +1,29 @@
+{
+  "id": "rule_ice_have_install_costs_too",
+  "kind": "rule",
+  "number": "2.3.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_card_types_with_install_costs",
+  "child_ids": [],
+  "text_markup": "Ice also has an install cost, but it does not appear on the card. The install cost of ice is determined by the configuration of other installed ice rather than being intrinsic to the card. See {ref:rule_install_cost}.",
+  "text_plain": "Ice also has an install cost, but it does not appear on the card. The install cost of ice is determined by the configuration of other installed ice rather than being intrinsic to the card. See section 1.16.6.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 193,
+      "end": 207,
+      "ids": [
+        "rule_install_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_have_install_costs_too"
+}

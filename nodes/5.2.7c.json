@@ -1,0 +1,26 @@
+{
+  "id": "runner_basic_action_card",
+  "kind": "rule",
+  "number": "5.2.7c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_runner_actions",
+  "child_ids": [],
+  "text_markup": "\"[click]: Draw 1 card.\"",
+  "text_plain": "\"{click}: Draw 1 card.\"",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 1,
+      "end": 8,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=runner_basic_action_card"
+}

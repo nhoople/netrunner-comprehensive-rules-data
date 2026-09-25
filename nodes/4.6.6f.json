@@ -1,0 +1,19 @@
+{
+  "id": "rule_server_root_order",
+  "kind": "rule",
+  "number": "4.6.6f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_servers",
+  "child_ids": [],
+  "text_markup": "All cards installed in the root of a server are kept in the same orientation and location together. The order in which the cards are installed is open information, but the type of cards installed in the root of a remote server should not be derivable from their orientation or location.",
+  "text_plain": "All cards installed in the root of a server are kept in the same orientation and location together. The order in which the cards are installed is open information, but the type of cards installed in the root of a remote server should not be derivable from their orientation or location.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_server_root_order"
+}

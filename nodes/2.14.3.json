@@ -1,0 +1,32 @@
+{
+  "id": "rule_alliance",
+  "kind": "rule",
+  "number": "2.14.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_inf_cost",
+  "child_ids": [],
+  "text_markup": "Some Corp cards have the subtype {subtype:alliance} and text defining adjustments to their influence costs. The ability adjusting the influence cost of an {subtype:alliance} card applies only when determining the legality of an already constructed deck and does not have any effect during gameplay. The ability references other cards included in the deck to determine whether the card should apply its printed influence cost or 0 against the deck's influence limit.",
+  "text_plain": "Some Corp cards have the subtype alliance and text defining adjustments to their influence costs. The ability adjusting the influence cost of an alliance card applies only when determining the legality of an already constructed deck and does not have any effect during gameplay. The ability references other cards included in the deck to determine whether the card should apply its printed influence cost or 0 against the deck's influence limit.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 33,
+      "end": 41,
+      "target": "alliance"
+    },
+    {
+      "type": "subtype",
+      "start": 145,
+      "end": 153,
+      "target": "alliance"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_alliance"
+}

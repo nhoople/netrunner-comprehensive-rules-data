@@ -1,0 +1,71 @@
+{
+  "id": "rule_memory_check_mu_restrictions",
+  "kind": "rule",
+  "number": "1.20.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_memory_restricted_mu",
+  "child_ids": [],
+  "text_markup": "To determine if the Runner's installed programs satisfy the restrictions on their [MU], create a mapping that assigns each 1[MU] in the memory cost of each installed program to a specific source (either the Runner's starting memory limit or an ability providing additional [MU]). The total [MU] assigned to each source must not exceed the amount of [MU] it provides, and all programs with [MU] assigned to a given source must meet all restrictions imposed on that [MU]. If it is not possible to create such a mapping, the Runner is considered to have exceeded their memory limit, and they must trash installed programs as described in {ref:rule_program_memory_cost}.",
+  "text_plain": "To determine if the Runner's installed programs satisfy the restrictions on their {MU}, create a mapping that assigns each 1{MU} in the memory cost of each installed program to a specific source (either the Runner's starting memory limit or an ability providing additional {MU}). The total {MU} assigned to each source must not exceed the amount of {MU} it provides, and all programs with {MU} assigned to a given source must meet all restrictions imposed on that {MU}. If it is not possible to create such a mapping, the Runner is considered to have exceeded their memory limit, and they must trash installed programs as described in section 3.9.3.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 82,
+      "end": 86,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 124,
+      "end": 128,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 273,
+      "end": 277,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 290,
+      "end": 294,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 349,
+      "end": 353,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 389,
+      "end": 393,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 464,
+      "end": 468,
+      "target": "mu"
+    },
+    {
+      "type": "ref",
+      "start": 635,
+      "end": 648,
+      "ids": [
+        "rule_program_memory_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_memory_check_mu_restrictions"
+}

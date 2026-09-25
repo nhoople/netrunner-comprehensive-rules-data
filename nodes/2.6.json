@@ -1,0 +1,22 @@
+{
+  "id": "sec_trash_cost",
+  "kind": "section",
+  "number": "2.6",
+  "ref_type": "section",
+  "title": "Trash Cost",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_trash_cost_location",
+    "rule_trash_cost_citation"
+  ],
+  "text_markup": "Trash Cost",
+  "text_plain": "Trash Cost",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_trash_cost"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_play_area_not_installed_hosted",
+  "kind": "rule",
+  "number": "4.6.5h",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_area_organization",
+  "child_ids": [],
+  "text_markup": "Some cards can host other cards without installing them. In this type of host relationship, both the host card and the hosted card are in the play area, but the hosted card is not installed and thus not active. See {ref:sec_host}.",
+  "text_plain": "Some cards can host other cards without installing them. In this type of host relationship, both the host card and the hosted card are in the play area, but the hosted card is not installed and thus not active. See section 1.13.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 215,
+      "end": 227,
+      "ids": [
+        "sec_host"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_not_installed_hosted"
+}

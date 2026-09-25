@@ -1,0 +1,19 @@
+{
+  "id": "rule_paid_ability_window_multiple_options",
+  "kind": "rule",
+  "number": "9.2.7f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_paid_ability_window",
+  "child_ids": [],
+  "text_markup": "The player with priority during a paid ability window may use any of the options available to them any number of times in any combination and order until they decide to pass, so long as they are allowed and the player pays any and all costs to use each option. Each option must be fully resolved before another is chosen. A player is not obligated to resolve any of the options available to them, except they must pass.",
+  "text_plain": "The player with priority during a paid ability window may use any of the options available to them any number of times in any combination and order until they decide to pass, so long as they are allowed and the player pays any and all costs to use each option. Each option must be fully resolved before another is chosen. A player is not obligated to resolve any of the options available to them, except they must pass.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_paid_ability_window_multiple_options"
+}

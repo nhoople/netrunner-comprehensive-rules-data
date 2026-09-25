@@ -1,0 +1,19 @@
+{
+  "id": "rule_terminal_checkpoint",
+  "kind": "rule",
+  "number": "5.4.3d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_forced_action_phase_end",
+  "child_ids": [],
+  "text_markup": "Conditions related to the action phase ending are met, and a checkpoint occurs. A reaction window created by this checkpoint is still considered to be taking place in the action phase, but players cannot take actions during this window.",
+  "text_plain": "Conditions related to the action phase ending are met, and a checkpoint occurs. A reaction window created by this checkpoint is still considered to be taking place in the action phase, but players cannot take actions during this window.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_terminal_checkpoint"
+}

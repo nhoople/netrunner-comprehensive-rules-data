@@ -1,0 +1,41 @@
+{
+  "id": "step_checkpoint_duration_abilities__example_2",
+  "kind": "example",
+  "number": "10.3.1b.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "step_checkpoint_duration_abilities",
+  "child_ids": [],
+  "text_markup": "The Corp has {card:Targeted Marketing} in the play area when the Runner steals an agenda. In the next checkpoint, the game recognizes that the ability on {card:Targeted Marketing} that was preventing the operation from being trashed no longer applies, and so the Corp trashes {card:Targeted Marketing} as if it were completing its resolution.",
+  "text_plain": "The Corp has Targeted Marketing in the play area when the Runner steals an agenda. In the next checkpoint, the game recognizes that the ability on Targeted Marketing that was preventing the operation from being trashed no longer applies, and so the Corp trashes Targeted Marketing as if it were completing its resolution.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 13,
+      "end": 31,
+      "target": "Targeted Marketing",
+      "card_code": "06026"
+    },
+    {
+      "type": "card",
+      "start": 147,
+      "end": 165,
+      "target": "Targeted Marketing",
+      "card_code": "06026"
+    },
+    {
+      "type": "card",
+      "start": 262,
+      "end": 280,
+      "target": "Targeted Marketing",
+      "card_code": "06026"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

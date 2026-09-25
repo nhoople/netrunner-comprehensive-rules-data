@@ -1,0 +1,26 @@
+{
+  "id": "step_runner_turn_action",
+  "kind": "rule",
+  "number": "5.7.1f",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "subsec_runner_action_phase",
+  "child_ids": [],
+  "text_markup": "If the Runner has any unspent [click], the Runner takes an action. Otherwise, skip to (h).",
+  "text_plain": "If the Runner has any unspent {click}, the Runner takes an action. Otherwise, skip to (h).",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 30,
+      "end": 37,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_runner_turn_action"
+}

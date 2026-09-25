@@ -1,0 +1,29 @@
+{
+  "id": "rule_after_reaching_random_access_limit",
+  "kind": "rule",
+  "number": "7.4.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_determining_candidates",
+  "child_ids": [],
+  "text_markup": "When the random access limit is reached during a breach of HQ or R&D, all candidates in the zone corresponding to the breached server cease to be candidates, and no cards in that zone can become candidates for the remainder of that breach. See {ref:rule_random_access_limit}.",
+  "text_plain": "When the random access limit is reached during a breach of HQ or R&D, all candidates in the zone corresponding to the breached server cease to be candidates, and no cards in that zone can become candidates for the remainder of that breach. See section 7.3.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 244,
+      "end": 257,
+      "ids": [
+        "rule_random_access_limit"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_after_reaching_random_access_limit"
+}

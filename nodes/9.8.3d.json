@@ -1,0 +1,35 @@
+{
+  "id": "rule_subroutine_origin_static_after",
+  "kind": "rule",
+  "number": "9.8.3d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subroutine_origins",
+  "child_ids": [
+    "rule_subroutine_origin_static_after__example_1",
+    "rule_subroutine_origin_static_after__example_2"
+  ],
+  "text_markup": "Subroutines gained from a static ability on the ice itself, where the ability either states the subroutines are added after other subroutines or does not specify an order. Subroutines in this category on a single piece of ice are always identical. If the number of such subroutines increases, the new copies are added after any previously-existing subroutines in this category. If the number of such subroutines decreases, subroutines are lost beginning with the last subroutine the ice previously had from the same ability and working backwards.",
+  "text_plain": "Subroutines gained from a static ability on the ice itself, where the ability either states the subroutines are added after other subroutines or does not specify an order. Subroutines in this category on a single piece of ice are always identical. If the number of such subroutines increases, the new copies are added after any previously-existing subroutines in this category. If the number of such subroutines decreases, subroutines are lost beginning with the last subroutine the ice previously had from the same ability and working backwards.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_subroutine_origin_static_after__example_1",
+      "text_markup": "The Corp has 3 cards in HQ while the Runner is encountering {card:Ashigaru}. After the Runner breaks {card:Ashigaru}'s 3 subroutines, the Corp uses {card:Panic Button} to draw another card. The new subroutine is added after the previous 3, so the Runner can use {card:Gbahali} to break it.",
+      "text_plain": "The Corp has 3 cards in HQ while the Runner is encountering Ashigaru. After the Runner breaks Ashigaru's 3 subroutines, the Corp uses Panic Button to draw another card. The new subroutine is added after the previous 3, so the Runner can use Gbahali to break it.",
+      "is_new": false
+    },
+    {
+      "id": "rule_subroutine_origin_static_after__example_2",
+      "text_markup": "The Corp has 3 cards in HQ while the Runner is encountering {card:Ashigaru}. The Runner breaks the first subroutine, then uses {card:Utopia Shard} to force the Corp to discard 2 cards. {card:Ashigaru} correspondingly loses its last 2 subroutines, leaving behind the subroutine that was already broken.",
+      "text_plain": "The Corp has 3 cards in HQ while the Runner is encountering Ashigaru. The Runner breaks the first subroutine, then uses Utopia Shard to force the Corp to discard 2 cards. Ashigaru correspondingly loses its last 2 subroutines, leaving behind the subroutine that was already broken.",
+      "is_new": false
+    }
+  ],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutine_origin_static_after"
+}

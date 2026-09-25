@@ -1,0 +1,19 @@
+{
+  "id": "rule_counter_token",
+  "kind": "rule",
+  "number": "1.9.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_counters_cards",
+  "child_ids": [],
+  "text_markup": "The terms \"counter\" and \"token\" are interchangeable.",
+  "text_plain": "The terms \"counter\" and \"token\" are interchangeable.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_counter_token"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sec_bank",
+  "kind": "section",
+  "number": "4.7",
+  "ref_type": "section",
+  "title": "Bank",
+  "parent_id": "chpt_game_zones",
+  "child_ids": [
+    "rule_bank_counter_supply",
+    "rule_counters_default_from_bank",
+    "rule_spent_counters_returned_to_bank",
+    "rule_illegal_location_counters_returned_to_bank",
+    "rule_cards_never_in_bank"
+  ],
+  "text_markup": "Bank",
+  "text_plain": "Bank",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_bank"
+}

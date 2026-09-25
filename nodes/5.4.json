@@ -1,0 +1,24 @@
+{
+  "id": "sec_action_phase",
+  "kind": "section",
+  "number": "5.4",
+  "ref_type": "section",
+  "title": "Action Phase",
+  "parent_id": "chpt_turns",
+  "child_ids": [
+    "rule_action_phase_definition",
+    "rule_action_phase_duration",
+    "rule_forced_action_phase_end",
+    "rule_end_action_phase_outside_action_phase"
+  ],
+  "text_markup": "Action Phase",
+  "text_plain": "Action Phase",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_action_phase"
+}

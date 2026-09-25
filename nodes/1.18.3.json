@@ -1,0 +1,19 @@
+{
+  "id": "rule_you_can_advance",
+  "kind": "rule",
+  "number": "1.18.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_advancing_cards",
+  "child_ids": [],
+  "text_markup": "The Corp can only advance certain installed cards. Agendas can always be advanced. If a card other than an agenda says that it \"can be advanced\" or that \"you can advance\" that card, the card can be advanced even while it is unrezzed. There is no limit to the number of times a card can be advanced.",
+  "text_plain": "The Corp can only advance certain installed cards. Agendas can always be advanced. If a card other than an agenda says that it \"can be advanced\" or that \"you can advance\" that card, the card can be advanced even while it is unrezzed. There is no limit to the number of times a card can be advanced.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_you_can_advance"
+}

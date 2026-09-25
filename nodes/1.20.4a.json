@@ -1,0 +1,32 @@
+{
+  "id": "rule_memory_counting_mu_ignores_restrictions",
+  "kind": "rule",
+  "number": "1.20.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_memory_restricted_mu",
+  "child_ids": [],
+  "text_markup": "If a calculated value refers directly to the Runner's memory limit or to their unused [MU], that calculation ignores requirements about how that [MU] can be filled.",
+  "text_plain": "If a calculated value refers directly to the Runner's memory limit or to their unused {MU}, that calculation ignores requirements about how that {MU} can be filled.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 86,
+      "end": 90,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 145,
+      "end": 149,
+      "target": "mu"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_memory_counting_mu_ignores_restrictions"
+}

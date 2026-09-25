@@ -1,0 +1,29 @@
+{
+  "id": "rule_turn_timing_structure",
+  "kind": "rule",
+  "number": "9.2.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_timing_structure",
+  "child_ids": [],
+  "text_markup": "The Corp's turn and the Runner's turn are timing structures, as are each of the 3 phases of the turns. See {ref:chpt_turns}.",
+  "text_plain": "The Corp's turn and the Runner's turn are timing structures, as are each of the 3 phases of the turns. See section 5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 107,
+      "end": 116,
+      "ids": [
+        "chpt_turns"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_turn_timing_structure"
+}

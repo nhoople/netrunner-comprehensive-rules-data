@@ -1,0 +1,57 @@
+{
+  "id": "rule_trigger_conditional_ability_interrupt__example_2",
+  "kind": "example",
+  "number": "9.9.4c.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_trigger_conditional_ability_interrupt",
+  "child_ids": [],
+  "text_markup": "An instruction is imminent that would give the Runner 2 tags. The Runner trashes {card:Decoy} to use its ability to avoid 1 of the tags, which meets the trigger condition for {card:Thunder Art Gallery}'s ability. The latter resolves as a chain reaction (see {ref:rule_chain_reaction}) while the interrupt window is still open, allowing the Runner to install {card:No One Home}, which has a conditional ability interrupt that is relevant since the instruction is still expected to give the Runner 1 tag. However, {card:No One Home} was not active when the interrupt window opened, so its ability is not pending and cannot be triggered.",
+  "text_plain": "An instruction is imminent that would give the Runner 2 tags. The Runner trashes Decoy to use its ability to avoid 1 of the tags, which meets the trigger condition for Thunder Art Gallery's ability. The latter resolves as a chain reaction (see rule 9.1.2a) while the interrupt window is still open, allowing the Runner to install No One Home, which has a conditional ability interrupt that is relevant since the instruction is still expected to give the Runner 1 tag. However, No One Home was not active when the interrupt window opened, so its ability is not pending and cannot be triggered.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 81,
+      "end": 86,
+      "target": "Decoy",
+      "card_code": "01032"
+    },
+    {
+      "type": "card",
+      "start": 168,
+      "end": 187,
+      "target": "Thunder Art Gallery",
+      "card_code": "22013"
+    },
+    {
+      "type": "ref",
+      "start": 244,
+      "end": 255,
+      "ids": [
+        "rule_chain_reaction"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "card",
+      "start": 330,
+      "end": 341,
+      "target": "No One Home",
+      "card_code": "21045"
+    },
+    {
+      "type": "card",
+      "start": 477,
+      "end": 488,
+      "target": "No One Home",
+      "card_code": "21045"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

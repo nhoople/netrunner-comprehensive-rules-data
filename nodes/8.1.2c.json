@@ -1,0 +1,19 @@
+{
+  "id": "rule_cannot_rez_agendas",
+  "kind": "rule",
+  "number": "8.1.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_rez",
+  "child_ids": [],
+  "text_markup": "Agendas cannot be rezzed.",
+  "text_plain": "Agendas cannot be rezzed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cannot_rez_agendas"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rule_memory_limit_location",
+  "kind": "rule",
+  "number": "2.10.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_memory_limit",
+  "child_ids": [],
+  "text_markup": "Starting memory limit is a number appearing near the top-left of Runner identity cards, within the [MU] symbol.",
+  "text_plain": "Starting memory limit is a number appearing near the top-left of Runner identity cards, within the {MU} symbol.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 99,
+      "end": 103,
+      "target": "mu"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_memory_limit_location"
+}

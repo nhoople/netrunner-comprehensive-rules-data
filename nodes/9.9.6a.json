@@ -1,0 +1,19 @@
+{
+  "id": "rule_modifiable_value_tags",
+  "kind": "rule",
+  "number": "9.9.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_modifiable_values",
+  "child_ids": [],
+  "text_markup": "A number of tags the Runner would take from an effect is a value. Avoiding a number of those tags decreases that value. The value for a number of tags the Runner takes must be greater than 0 for the effect giving tags to occur.",
+  "text_plain": "A number of tags the Runner would take from an effect is a value. Avoiding a number of those tags decreases that value. The value for a number of tags the Runner takes must be greater than 0 for the effect giving tags to occur.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modifiable_value_tags"
+}

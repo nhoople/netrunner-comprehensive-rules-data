@@ -1,0 +1,19 @@
+{
+  "id": "rule_rfg_no_interaction",
+  "kind": "rule",
+  "number": "4.9.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_removed_from_game",
+  "child_ids": [],
+  "text_markup": "A card that has been removed from the game cannot move out of the removed-from-game zone or otherwise be interacted with.",
+  "text_plain": "A card that has been removed from the game cannot move out of the removed-from-game zone or otherwise be interacted with.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rfg_no_interaction"
+}

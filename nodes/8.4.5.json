@@ -1,0 +1,23 @@
+{
+  "id": "sec_steps_of_drawing_n_cards",
+  "kind": "subsection",
+  "number": "8.4.5",
+  "ref_type": "step",
+  "title": "Steps of Drawing N Cards",
+  "parent_id": "sec_drawing_cards",
+  "child_ids": [
+    "step_draw_set_aside",
+    "step_draw_checkpoint",
+    "step_draw_add_to_hand"
+  ],
+  "text_markup": "Steps of Drawing N Cards",
+  "text_plain": "Steps of Drawing N Cards",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_steps_of_drawing_n_cards"
+}

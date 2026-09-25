@@ -1,0 +1,26 @@
+{
+  "id": "rule_static_ability",
+  "kind": "rule",
+  "number": "9.4.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_static_abilities",
+  "child_ids": [],
+  "text_markup": "A {term:static ability} is an ability that continuously affects the game as long as it is active. Static abilities are the only type of ability that can contain declarations, and they do not resolve or have associated priority windows.",
+  "text_plain": "A static ability is an ability that continuously affects the game as long as it is active. Static abilities are the only type of ability that can contain declarations, and they do not resolve or have associated priority windows.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 16,
+      "target": "static ability"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_static_ability"
+}

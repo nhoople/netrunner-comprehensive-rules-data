@@ -1,0 +1,19 @@
+{
+  "id": "rule_targets_must_be_valid",
+  "kind": "rule",
+  "number": "1.15.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_announce_targets",
+  "child_ids": [],
+  "text_markup": "The player resolving the instruction can only choose targets that are valid for that instruction. A target is valid for an instruction if it meets any specified requirements of that instruction or can otherwise be acted upon by that instruction.",
+  "text_plain": "The player resolving the instruction can only choose targets that are valid for that instruction. A target is valid for an instruction if it meets any specified requirements of that instruction or can otherwise be acted upon by that instruction.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_targets_must_be_valid"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_upgrade_install",
+  "kind": "rule",
+  "number": "3.6.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_upgrades",
+  "child_ids": [],
+  "text_markup": "The Corp may install upgrades in the root of any server. Upgrades are the only card type that can be installed in the root of a central server.",
+  "text_plain": "The Corp may install upgrades in the root of any server. Upgrades are the only card type that can be installed in the root of a central server.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_upgrade_install"
+}

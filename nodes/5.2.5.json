@@ -1,0 +1,22 @@
+{
+  "id": "rule_same_different_actions",
+  "kind": "subsection",
+  "number": "5.2.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_actions",
+  "child_ids": [
+    "rule_same_actions",
+    "rule_defferent_actions"
+  ],
+  "text_markup": "Some cards refer to players taking \"the same action\" or \"different actions\".",
+  "text_plain": "Some cards refer to players taking \"the same action\" or \"different actions\".",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_same_different_actions"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_default_random_access_limit",
+  "kind": "rule",
+  "number": "7.3.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_random_access_limit",
+  "child_ids": [],
+  "text_markup": "By default, the random access limit is 1.",
+  "text_plain": "By default, the random access limit is 1.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_default_random_access_limit"
+}

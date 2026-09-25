@@ -1,0 +1,24 @@
+{
+  "id": "sec_psi_games",
+  "kind": "subsection",
+  "number": "10.14.6",
+  "ref_type": "section",
+  "title": "Psi Games",
+  "parent_id": "sec_bidding",
+  "child_ids": [
+    "rule_psi_game",
+    "rule_psi_bid_options",
+    "rule_psi_bid_reveal",
+    "rule_psi_outcome"
+  ],
+  "text_markup": "Psi Games",
+  "text_plain": "Psi Games",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_psi_games"
+}

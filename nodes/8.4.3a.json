@@ -1,0 +1,19 @@
+{
+  "id": "rule_card_leaves_drawn_set",
+  "kind": "rule",
+  "number": "8.4.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_modify_drawn_cards",
+  "child_ids": [],
+  "text_markup": "If a drawn card leaves the set-aside zone, it is no longer considered \"drawn\" and remains in its new location when the drawn cards are added to the hand.",
+  "text_plain": "If a drawn card leaves the set-aside zone, it is no longer considered \"drawn\" and remains in its new location when the drawn cards are added to the hand.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_card_leaves_drawn_set"
+}

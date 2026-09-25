@@ -1,0 +1,45 @@
+{
+  "id": "rule_create_position",
+  "kind": "subsection",
+  "number": "6.2.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_position",
+  "child_ids": [
+    "rule_create_position_outermost",
+    "rule_create_position_innermost",
+    "rule_create_position_directly_inward",
+    "rule_create_position_any_position",
+    "rule_create_position_mutate",
+    "rule_create_position_swap"
+  ],
+  "text_markup": "When a piece of ice is installed protecting a server or an installed piece of ice is moved, a new position is created for that ice. For ice being installed, the position is created when the Corp declares an install destination for the ice ({ref:rule_steps_installing_destination}), and the ice occupies that position once the ice becomes installed ({ref:rule_steps_installing_become_installed}). For installed ice being moved, the position is created when the movement happens, and the ice occupies that position immediately.",
+  "text_plain": "When a piece of ice is installed protecting a server or an installed piece of ice is moved, a new position is created for that ice. For ice being installed, the position is created when the Corp declares an install destination for the ice (step 8.5.16b), and the ice occupies that position once the ice becomes installed (step 8.5.16e). For installed ice being moved, the position is created when the movement happens, and the ice occupies that position immediately.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 240,
+      "end": 252,
+      "ids": [
+        "rule_steps_installing_destination"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 322,
+      "end": 334,
+      "ids": [
+        "rule_steps_installing_become_installed"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_create_position"
+}

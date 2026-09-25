@@ -1,0 +1,40 @@
+{
+  "id": "rule_gateway_identities",
+  "kind": "rule",
+  "number": "1.4.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_identity",
+  "child_ids": [],
+  "text_markup": "The identities {card:The Catalyst} and {card:The Syndicate} from the {product:System Gateway Starter Pack} are intended for use only with the decks included in that pack. They are not legal for play under the full deck construction rules.",
+  "text_plain": "The identities The Catalyst and The Syndicate from the System Gateway Starter Pack are intended for use only with the decks included in that pack. They are not legal for play under the full deck construction rules.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 27,
+      "target": "The Catalyst",
+      "card_code": "30076"
+    },
+    {
+      "type": "card",
+      "start": 32,
+      "end": 45,
+      "target": "The Syndicate",
+      "card_code": "30077"
+    },
+    {
+      "type": "product",
+      "start": 55,
+      "end": 82,
+      "target": "System Gateway Starter Pack"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_gateway_identities"
+}

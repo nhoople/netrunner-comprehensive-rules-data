@@ -1,0 +1,26 @@
+{
+  "id": "rule_bidding",
+  "kind": "rule",
+  "number": "10.14.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_bidding",
+  "child_ids": [],
+  "text_markup": "A {term:bid} is a number of credits that a player secretly chooses to spend as part of resolving an ability. Some effects instruct only a single player to bid, while other effects require both players to bid simultaneously.",
+  "text_plain": "A bid is a number of credits that a player secretly chooses to spend as part of resolving an ability. Some effects instruct only a single player to bid, while other effects require both players to bid simultaneously.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 5,
+      "target": "bid"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bidding"
+}

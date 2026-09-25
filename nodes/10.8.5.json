@@ -1,0 +1,28 @@
+{
+  "id": "rule_trace_conditional_abilities",
+  "kind": "rule",
+  "number": "10.8.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_traces",
+  "child_ids": [
+    "rule_trace_conditional_abilities__example_1"
+  ],
+  "text_markup": "\"If successful\" and \"if unsuccessful\" effects following the \"Trace [N]\" indicator are conditional abilities tied to the results of the trace. Any instructions in the body of the trace without an \"if successful\" or \"if unsuccessful\" are conditional abilities with the implicit trigger condition, \"when the trace is determined to be successful or unsuccessful.\"",
+  "text_plain": "\"If successful\" and \"if unsuccessful\" effects following the \"Trace [N]\" indicator are conditional abilities tied to the results of the trace. Any instructions in the body of the trace without an \"if successful\" or \"if unsuccessful\" are conditional abilities with the implicit trigger condition, \"when the trace is determined to be successful or unsuccessful.\"",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_trace_conditional_abilities__example_1",
+      "text_markup": "{card:Gemini}'s subroutine initiates a trace attempt with two associated conditional abilities. The first is \"If successful, do 1 net damage.\" and the second is \"When the trace is determined to be successful or unsuccessful, if your trace strength is 5 or greater, do 1 net damage.\" Both of these will become pending (if appropriate) after {ref:step_trace_determine_success} below.",
+      "text_plain": "Gemini's subroutine initiates a trace attempt with two associated conditional abilities. The first is \"If successful, do 1 net damage.\" and the second is \"When the trace is determined to be successful or unsuccessful, if your trace strength is 5 or greater, do 1 net damage.\" Both of these will become pending (if appropriate) after step 10.8.6e below.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trace_conditional_abilities"
+}

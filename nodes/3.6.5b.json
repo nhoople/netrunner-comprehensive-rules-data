@@ -1,0 +1,32 @@
+{
+  "id": "rule_region_one_root",
+  "kind": "rule",
+  "number": "3.6.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_regions",
+  "child_ids": [],
+  "text_markup": "The {subtype:region} limitation applies only to cards with the subtype {subtype:region} that are installed or in the process of being installed in the root of a server. It does not apply to cards in central servers, and it does not apply to ice.",
+  "text_plain": "The region limitation applies only to cards with the subtype region that are installed or in the process of being installed in the root of a server. It does not apply to cards in central servers, and it does not apply to ice.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 4,
+      "end": 10,
+      "target": "region"
+    },
+    {
+      "type": "subtype",
+      "start": 61,
+      "end": 67,
+      "target": "region"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_region_one_root"
+}

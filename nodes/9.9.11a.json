@@ -1,0 +1,35 @@
+{
+  "id": "rule_replacement_effect_must_have_something_to_replace",
+  "kind": "rule",
+  "number": "9.9.11a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_order_of_replacement_effects",
+  "child_ids": [
+    "rule_replacement_effect_must_have_something_to_replace__example_1",
+    "rule_replacement_effect_must_have_something_to_replace__example_2"
+  ],
+  "text_markup": "After applying one replacement effect, a subsequent replacement effect can only be applied if the effect it was to replace is still expected. A replacement effect cannot apply without something to replace.",
+  "text_plain": "After applying one replacement effect, a subsequent replacement effect can only be applied if the effect it was to replace is still expected. A replacement effect cannot apply without something to replace.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_replacement_effect_must_have_something_to_replace__example_1",
+      "text_markup": "The Runner chooses HQ with {card:Security Testing} when their turn begins, then plays {card:Account Siphon}. When the run becomes successful, both {card:Security Testing} and {card:Account Siphon} create replacement effects. When {ref:step_breach} of the run becomes imminent, the Runner must choose to apply either the replacement effect from {card:Security Testing} or the one from {card:Account Siphon}. Since neither effect creates a new instance of breaching the server, the effect not chosen to apply first has nothing to replace and does not apply.",
+      "text_plain": "The Runner chooses HQ with Security Testing when their turn begins, then plays Account Siphon. When the run becomes successful, both Security Testing and Account Siphon create replacement effects. When step 6.9.5b of the run becomes imminent, the Runner must choose to apply either the replacement effect from Security Testing or the one from Account Siphon. Since neither effect creates a new instance of breaching the server, the effect not chosen to apply first has nothing to replace and does not apply.",
+      "is_new": false
+    },
+    {
+      "id": "rule_replacement_effect_must_have_something_to_replace__example_2",
+      "text_markup": "The Runner chooses R&D with {card:Security Testing} when their turn begins, then plays {card:Showing Off}. When a run on R&D becomes successful, both {card:Security Testing} and {card:Showing Off} create replacement effects. When {ref:step_breach} of the run becomes imminent, the Runner must choose to apply either the replacement effect from {card:Security Testing} or the one from {card:Showing Off}. If they choose to apply {card:Security Testing} first, {card:Showing Off}'s effect has nothing to replace and does not apply. If they choose to apply {card:Showing Off} first, the expected effects still include breaching R&D, albeit not in the usual way. {card:Security Testing} can still replace this breach, so it applies next. Either way, the Runner will gain 2[c] and will not breach the server.",
+      "text_plain": "The Runner chooses R&D with Security Testing when their turn begins, then plays Showing Off. When a run on R&D becomes successful, both Security Testing and Showing Off create replacement effects. When step 6.9.5b of the run becomes imminent, the Runner must choose to apply either the replacement effect from Security Testing or the one from Showing Off. If they choose to apply Security Testing first, Showing Off's effect has nothing to replace and does not apply. If they choose to apply Showing Off first, the expected effects still include breaching R&D, albeit not in the usual way. Security Testing can still replace this breach, so it applies next. Either way, the Runner will gain 2{c} and will not breach the server.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_replacement_effect_must_have_something_to_replace"
+}

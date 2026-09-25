@@ -1,0 +1,38 @@
+{
+  "id": "rule_upgrade_region",
+  "kind": "rule",
+  "number": "3.6.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_regions",
+  "child_ids": [],
+  "text_markup": "Some upgrades have the subtype {subtype:region}. All {subtype:regions} have the text \"Limit 1 {subtype:region} per server.\"",
+  "text_plain": "Some upgrades have the subtype region. All regions have the text \"Limit 1 region per server.\"",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 31,
+      "end": 37,
+      "target": "region"
+    },
+    {
+      "type": "subtype",
+      "start": 43,
+      "end": 50,
+      "target": "regions"
+    },
+    {
+      "type": "subtype",
+      "start": 74,
+      "end": 80,
+      "target": "region"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_upgrade_region"
+}

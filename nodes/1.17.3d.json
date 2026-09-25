@@ -1,0 +1,38 @@
+{
+  "id": "rule_decline_to_steal",
+  "kind": "rule",
+  "number": "1.17.3d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_score_steal",
+  "child_ids": [],
+  "text_markup": "The Runner cannot decline to steal an agenda they access, unless there is an additional cost to steal that agenda and the Runner cannot or does not wish to pay it. {ref:Chpt_access_breach} details accessing, and {ref:rule_additional_cost} details additional costs.",
+  "text_plain": "The Runner cannot decline to steal an agenda they access, unless there is an additional cost to steal that agenda and the Runner cannot or does not wish to pay it. Section 7 details accessing, and section 1.16.10 details additional costs.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 164,
+      "end": 173,
+      "ids": [
+        "chpt_access_breach"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 197,
+      "end": 212,
+      "ids": [
+        "rule_additional_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_decline_to_steal"
+}

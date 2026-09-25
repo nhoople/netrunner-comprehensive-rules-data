@@ -1,0 +1,34 @@
+{
+  "id": "sec_interrupt_window_for_imminent_instruction",
+  "kind": "subsection",
+  "number": "9.9.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interrupts_replacements",
+  "child_ids": [
+    "rule_apply_replacement_effects_on_opening_interrupt_window",
+    "rule_pending_status_for_interrupt_windows",
+    "rule_trigger_conditional_ability_interrupt",
+    "rule_trigger_paid_ability_interrupt"
+  ],
+  "text_markup": "Whenever an instruction becomes imminent, an interrupt window opens to allow players to modify the effects of that instruction. {ref:Rule_interrupt_window} contains the rules for handling priority during interrupt windows.",
+  "text_plain": "Whenever an instruction becomes imminent, an interrupt window opens to allow players to modify the effects of that instruction. Section 9.2.9 contains the rules for handling priority during interrupt windows.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 128,
+      "end": 141,
+      "ids": [
+        "rule_interrupt_window"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_interrupt_window_for_imminent_instruction"
+}

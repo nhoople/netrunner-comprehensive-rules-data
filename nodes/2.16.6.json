@@ -1,0 +1,19 @@
+{
+  "id": "rule_choose_valid_subtype",
+  "kind": "rule",
+  "number": "2.16.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_subtypes",
+  "child_ids": [],
+  "text_markup": "If an effect requires a player to choose a subtype, that player must choose a single subtype that has been printed on at least one card. If a player is required to choose a subtype belonging to a specific card type, they must choose a subtype that has been printed on at least one card with that type.",
+  "text_plain": "If an effect requires a player to choose a subtype, that player must choose a single subtype that has been printed on at least one card. If a player is required to choose a subtype belonging to a specific card type, they must choose a subtype that has been printed on at least one card with that type.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_choose_valid_subtype"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rule_once_per_turn_flag__example_1",
+  "kind": "example",
+  "number": "9.3.6g.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_once_per_turn_flag",
+  "child_ids": [],
+  "text_markup": "The Runner is playing as {card:Zahya Sadeghi} and finishes a run on HQ, having accessed 1 card. They choose not to gain 1[c] with Zahya's ability. The ability was not \"used\", so its \"once per turn\" restriction has not been expended, even though the ability was able to resolve. The Runner can make another run later in the turn and gain credits with the ability.",
+  "text_plain": "The Runner is playing as Zahya Sadeghi and finishes a run on HQ, having accessed 1 card. They choose not to gain 1{c} with Zahya's ability. The ability was not \"used\", so its \"once per turn\" restriction has not been expended, even though the ability was able to resolve. The Runner can make another run later in the turn and gain credits with the ability.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 25,
+      "end": 38,
+      "target": "Zahya Sadeghi",
+      "card_code": "30010"
+    },
+    {
+      "type": "symbol",
+      "start": 114,
+      "end": 117,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

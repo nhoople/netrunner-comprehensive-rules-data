@@ -1,0 +1,19 @@
+{
+  "id": "rule_create_position_any_position",
+  "kind": "rule",
+  "number": "6.2.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_create_position",
+  "child_ids": [],
+  "text_markup": "If a piece of ice is being installed \"in any position\", the new position can be created outward from all existing positions, inward from all existing positions, or between any two existing consecutive positions, as the Corp chooses.",
+  "text_plain": "If a piece of ice is being installed \"in any position\", the new position can be created outward from all existing positions, inward from all existing positions, or between any two existing consecutive positions, as the Corp chooses.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_create_position_any_position"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rule_ice_change_encounter_move_swap__example_1",
+  "kind": "example",
+  "number": "6.2.7d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_ice_change_encounter_move_swap",
+  "child_ids": [],
+  "text_markup": "The Runner encounters {card:Bullfrog} as the innermost piece of ice protecting a remote server. {card:Bullfrog}'s subroutine resolves and it is moved to be the outermost piece of ice protecting Archives. The Runner is now running on Archives and continues the run from {card:Bullfrog}'s new position.",
+  "text_plain": "The Runner encounters Bullfrog as the innermost piece of ice protecting a remote server. Bullfrog's subroutine resolves and it is moved to be the outermost piece of ice protecting Archives. The Runner is now running on Archives and continues the run from Bullfrog's new position.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 22,
+      "end": 30,
+      "target": "Bullfrog",
+      "card_code": "02073"
+    },
+    {
+      "type": "card",
+      "start": 89,
+      "end": 97,
+      "target": "Bullfrog",
+      "card_code": "02073"
+    },
+    {
+      "type": "card",
+      "start": 255,
+      "end": 263,
+      "target": "Bullfrog",
+      "card_code": "02073"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

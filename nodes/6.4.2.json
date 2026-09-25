@@ -1,0 +1,29 @@
+{
+  "id": "rule_approach_condition",
+  "kind": "rule",
+  "number": "6.4.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_approach_ice_phase",
+  "child_ids": [],
+  "text_markup": "For purposes of meeting trigger conditions, the Runner approaching a piece of ice is equivalent to the Approach Ice Phase beginning at that ice's position. Abilities with this trigger condition are subject to {ref:rule_reaction_window_closing_timing_structure}.",
+  "text_plain": "For purposes of meeting trigger conditions, the Runner approaching a piece of ice is equivalent to the Approach Ice Phase beginning at that ice's position. Abilities with this trigger condition are subject to rule 9.2.8f.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 209,
+      "end": 220,
+      "ids": [
+        "rule_reaction_window_closing_timing_structure"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_approach_condition"
+}

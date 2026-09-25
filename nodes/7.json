@@ -1,0 +1,25 @@
+{
+  "id": "chpt_access_breach",
+  "kind": "chapter",
+  "number": "7",
+  "ref_type": "section",
+  "title": "Accessing Cards and Breaching Servers",
+  "parent_id": null,
+  "child_ids": [
+    "sec_accessing_cards",
+    "sec_steps_accessing_card",
+    "sec_breaching_servers",
+    "sec_determining_candidates",
+    "sec_breaching_steps"
+  ],
+  "text_markup": "Accessing Cards and Breaching Servers",
+  "text_plain": "Accessing Cards and Breaching Servers",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=chpt_access_breach"
+}

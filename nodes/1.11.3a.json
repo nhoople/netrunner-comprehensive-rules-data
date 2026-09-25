@@ -1,0 +1,26 @@
+{
+  "id": "rule_gain_clicks",
+  "kind": "rule",
+  "number": "1.11.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_gain_spend_lose_clicks",
+  "child_ids": [],
+  "text_markup": "A player {term:gains} clicks whenever the number of clicks they have is increased.",
+  "text_plain": "A player gains clicks whenever the number of clicks they have is increased.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 9,
+      "end": 14,
+      "target": "gains"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_gain_clicks"
+}

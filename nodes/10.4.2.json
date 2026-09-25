@@ -1,0 +1,23 @@
+{
+  "id": "rule_damage_types",
+  "kind": "subsection",
+  "number": "10.4.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_damage",
+  "child_ids": [
+    "rule_meat_net_damage",
+    "rule_core_damage",
+    "rule_brain_damage"
+  ],
+  "text_markup": "The three types of damage the Runner can suffer are meat, net, and core damage",
+  "text_plain": "The three types of damage the Runner can suffer are meat, net, and core damage",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_damage_types"
+}

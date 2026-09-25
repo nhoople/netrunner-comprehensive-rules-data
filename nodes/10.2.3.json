@@ -1,0 +1,22 @@
+{
+  "id": "subsec_open_information",
+  "kind": "subsection",
+  "number": "10.2.3",
+  "ref_type": "section",
+  "title": "Open Information",
+  "parent_id": "sec_information",
+  "child_ids": [
+    "rule_open_information",
+    "rule_cannot_hide_open_info"
+  ],
+  "text_markup": "Open Information",
+  "text_plain": "Open Information",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_open_information"
+}

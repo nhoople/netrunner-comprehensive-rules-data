@@ -1,0 +1,29 @@
+{
+  "id": "rule_jack_out_movement_phase",
+  "kind": "rule",
+  "number": "6.6.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_movement_phase",
+  "child_ids": [],
+  "text_markup": "During each Movement Phase, the Runner has the opportunity to jack out. See {ref:rule_jacking_out}.",
+  "text_plain": "During each Movement Phase, the Runner has the opportunity to jack out. See section 6.1.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 76,
+      "end": 89,
+      "ids": [
+        "rule_jacking_out"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_jack_out_movement_phase"
+}

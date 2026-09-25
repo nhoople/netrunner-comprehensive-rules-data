@@ -1,0 +1,29 @@
+{
+  "id": "rule_score_area_uninstalled",
+  "kind": "rule",
+  "number": "1.17.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_score_scoring_steal",
+  "child_ids": [],
+  "text_markup": "If an installed agenda is scored or stolen, it becomes uninstalled. Any advancement counters on the scored or stolen agenda are returned to the bank. See {ref:rule_trash_hosted_objects_when_host_trashed}.",
+  "text_plain": "If an installed agenda is scored or stolen, it becomes uninstalled. Any advancement counters on the scored or stolen agenda are returned to the bank. See rule 1.13.13.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 154,
+      "end": 166,
+      "ids": [
+        "rule_trash_hosted_objects_when_host_trashed"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_score_area_uninstalled"
+}

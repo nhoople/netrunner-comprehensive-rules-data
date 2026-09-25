@@ -1,0 +1,28 @@
+{
+  "id": "rule_trigger_paid_ability_interrupt",
+  "kind": "rule",
+  "number": "9.9.4d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_interrupt_window_for_imminent_instruction",
+  "child_ids": [
+    "rule_trigger_paid_ability_interrupt__example_1"
+  ],
+  "text_markup": "While a player has priority in an interrupt window, they can use a paid ability interrupt that is relevant to the imminent instruction. The ability does not have to have been active when the interrupt window opened, nor does a paid ability window need to be open at this time.",
+  "text_plain": "While a player has priority in an interrupt window, they can use a paid ability interrupt that is relevant to the imminent instruction. The ability does not have to have been active when the interrupt window opened, nor does a paid ability window need to be open at this time.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_trigger_paid_ability_interrupt__example_1",
+      "text_markup": "An instruction is imminent that would give the Runner 2 tags. The Runner trashes {card:Decoy} to use its ability to avoid 1 of the tags, which meets the trigger condition for {card:Thunder Art Gallery}'s ability. The latter resolves as a chain reaction (see {ref:rule_chain_reaction}) while the interrupt window is still open, allowing the Runner to install another copy of {card:Decoy}. The Runner receives priority again in the original interrupt window and uses the second {card:Decoy}'s ability to avoid the other imminent tag.",
+      "text_plain": "An instruction is imminent that would give the Runner 2 tags. The Runner trashes Decoy to use its ability to avoid 1 of the tags, which meets the trigger condition for Thunder Art Gallery's ability. The latter resolves as a chain reaction (see rule 9.1.2a) while the interrupt window is still open, allowing the Runner to install another copy of Decoy. The Runner receives priority again in the original interrupt window and uses the second Decoy's ability to avoid the other imminent tag.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trigger_paid_ability_interrupt"
+}

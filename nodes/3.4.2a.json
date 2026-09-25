@@ -1,0 +1,19 @@
+{
+  "id": "rule_ice_layout",
+  "kind": "rule",
+  "number": "3.4.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ice_install",
+  "child_ids": [],
+  "text_markup": "Ice protecting a server are laid out horizontally in front of that server, with the outermost piece of ice furthest from the server.",
+  "text_plain": "Ice protecting a server are laid out horizontally in front of that server, with the outermost piece of ice furthest from the server.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_layout"
+}

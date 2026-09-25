@@ -1,0 +1,19 @@
+{
+  "id": "rule_identity_represents_hq",
+  "kind": "rule",
+  "number": "4.3.8b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_hq",
+  "child_ids": [],
+  "text_markup": "The Corp's identity card represents their HQ server for the purposes of gameplay. Ice protecting HQ is installed in front of the Corp's identity card and upgrades installed in the root of HQ are installed behind the Corp's identity card.",
+  "text_plain": "The Corp's identity card represents their HQ server for the purposes of gameplay. Ice protecting HQ is installed in front of the Corp's identity card and upgrades installed in the root of HQ are installed behind the Corp's identity card.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identity_represents_hq"
+}

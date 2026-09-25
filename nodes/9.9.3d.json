@@ -1,0 +1,28 @@
+{
+  "id": "rule_would_relevant",
+  "kind": "rule",
+  "number": "9.9.3d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_relevant_interrupts",
+  "child_ids": [
+    "rule_would_relevant__example_1"
+  ],
+  "text_markup": "It has a trigger condition using the word \"would\" that is met by the imminent instruction's expected effects.",
+  "text_plain": "It has a trigger condition using the word \"would\" that is met by the imminent instruction's expected effects.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_would_relevant__example_1",
+      "text_markup": "The trigger condition on {card:The Class Act}'s second ability is \"The first time each turn you would draw any number of cards\". Even though this ability's effects do not directly modify the imminent instruction's effects, the ability is relevant to an instruction that is expected to draw cards.",
+      "text_plain": "The trigger condition on The Class Act's second ability is \"The first time each turn you would draw any number of cards\". Even though this ability's effects do not directly modify the imminent instruction's effects, the ability is relevant to an instruction that is expected to draw cards.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_would_relevant"
+}

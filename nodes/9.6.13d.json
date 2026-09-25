@@ -1,0 +1,28 @@
+{
+  "id": "rule_delayed_run_ends_condition_outside_run",
+  "kind": "rule",
+  "number": "9.6.13d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_delayed_conditional_ability",
+  "child_ids": [
+    "rule_delayed_run_ends_condition_outside_run__example_1"
+  ],
+  "text_markup": "If an effect tries to create a delayed conditional ability with the trigger condition \"When this run ends\", but there is no run in progress, then the lingering effect is not created.",
+  "text_plain": "If an effect tries to create a delayed conditional ability with the trigger condition \"When this run ends\", but there is no run in progress, then the lingering effect is not created.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_delayed_run_ends_condition_outside_run__example_1",
+      "text_markup": "The Runner encounters a piece of ice outside of a run, and uses {card:Mayfly} to break its subroutines. Since there is no run in progress, the delayed conditional ability inside {card:Mayfly}'s interface ability cannot be created, and {card:Mayfly} will not be trashed.",
+      "text_plain": "The Runner encounters a piece of ice outside of a run, and uses Mayfly to break its subroutines. Since there is no run in progress, the delayed conditional ability inside Mayfly's interface ability cannot be created, and Mayfly will not be trashed.",
+      "is_new": true
+    }
+  ],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_delayed_run_ends_condition_outside_run"
+}

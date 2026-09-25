@@ -1,0 +1,26 @@
+{
+  "id": "rule_purge",
+  "kind": "rule",
+  "number": "10.1.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_additional_general",
+  "child_ids": [],
+  "text_markup": "To {term:purge virus counters} is to remove all virus counters hosted on cards and return them to the bank. The Corp can purge virus counters as a basic action or with a card ability.",
+  "text_plain": "To purge virus counters is to remove all virus counters hosted on cards and return them to the bank. The Corp can purge virus counters as a basic action or with a card ability.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 23,
+      "target": "purge virus counters"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_purge"
+}

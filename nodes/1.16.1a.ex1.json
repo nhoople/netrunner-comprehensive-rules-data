@@ -1,0 +1,41 @@
+{
+  "id": "rule_cost_no_interrupt__example_1",
+  "kind": "example",
+  "number": "1.16.1a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_cost_no_interrupt",
+  "child_ids": [],
+  "text_markup": "The Runner can trash {card:Clone Chip} to trigger its paid ability, but cannot use {card:LLDS Energy Regulator} to prevent {card:Clone Chip} from being trashed this way.",
+  "text_plain": "The Runner can trash Clone Chip to trigger its paid ability, but cannot use LLDS Energy Regulator to prevent Clone Chip from being trashed this way.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 21,
+      "end": 31,
+      "target": "Clone Chip",
+      "card_code": "03038"
+    },
+    {
+      "type": "card",
+      "start": 76,
+      "end": 97,
+      "target": "LLDS Energy Regulator",
+      "card_code": "06039"
+    },
+    {
+      "type": "card",
+      "start": 109,
+      "end": 119,
+      "target": "Clone Chip",
+      "card_code": "03038"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

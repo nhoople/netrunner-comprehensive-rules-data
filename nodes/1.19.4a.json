@@ -1,0 +1,32 @@
+{
+  "id": "rule_trash_ability",
+  "kind": "rule",
+  "number": "1.19.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trash_symbol",
+  "child_ids": [],
+  "text_markup": "\"A [trash] ability\" refers to a paid ability that includes [trash] in its trigger cost.",
+  "text_plain": "\"A {trash} ability\" refers to a paid ability that includes {trash} in its trigger cost.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 3,
+      "end": 10,
+      "target": "trash"
+    },
+    {
+      "type": "symbol",
+      "start": 59,
+      "end": 66,
+      "target": "trash"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trash_ability"
+}

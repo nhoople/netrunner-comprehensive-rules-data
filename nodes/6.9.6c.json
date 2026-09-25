@@ -1,0 +1,19 @@
+{
+  "id": "step_run_declared_unsuccessful",
+  "kind": "rule",
+  "number": "6.9.6c",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_run_ends_phase",
+  "child_ids": [],
+  "text_markup": "If the Success Phase was not reached during this run and the attacked server still exists, the run becomes unsuccessful.",
+  "text_plain": "If the Success Phase was not reached during this run and the attacked server still exists, the run becomes unsuccessful.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_run_declared_unsuccessful"
+}

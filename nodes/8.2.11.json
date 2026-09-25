@@ -1,0 +1,35 @@
+{
+  "id": "movement_swap",
+  "kind": "rule",
+  "number": "8.2.11",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_movements",
+  "child_ids": [],
+  "text_markup": "To {term:swap} a pair of cards is to move each card to the other's location simultaneously. The full rules for swapping are detailed in {ref:sec_swapping_cards}.",
+  "text_plain": "To swap a pair of cards is to move each card to the other's location simultaneously. The full rules for swapping are detailed in section 8.8.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 7,
+      "target": "swap"
+    },
+    {
+      "type": "ref",
+      "start": 129,
+      "end": 140,
+      "ids": [
+        "sec_swapping_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=movement_swap"
+}

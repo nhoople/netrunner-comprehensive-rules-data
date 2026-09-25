@@ -1,0 +1,59 @@
+{
+  "id": "rule_symbol_clicks",
+  "kind": "rule",
+  "number": "1.3.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_symbols",
+  "child_ids": [],
+  "text_markup": "The symbol [click] (plaintext: {curly:click}) stands for \"click\". Multiple clicks can be represented either by multiple symbols, such as [click][click], or by a numeral and symbol, such as 2[click], both meaning \"two clicks.\" See {ref:sec_clicks} for rules about clicks.",
+  "text_plain": "The symbol {click} (plaintext: {click}) stands for \"click\". Multiple clicks can be represented either by multiple symbols, such as {click}{click}, or by a numeral and symbol, such as 2{click}, both meaning \"two clicks.\" See section 1.11 for rules about clicks.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 11,
+      "end": 18,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 31,
+      "end": 38,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 131,
+      "end": 138,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 138,
+      "end": 145,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 184,
+      "end": 191,
+      "target": "click"
+    },
+    {
+      "type": "ref",
+      "start": 224,
+      "end": 236,
+      "ids": [
+        "sec_clicks"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_symbol_clicks"
+}

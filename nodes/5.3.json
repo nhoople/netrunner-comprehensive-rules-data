@@ -1,0 +1,23 @@
+{
+  "id": "sec_draw_phase",
+  "kind": "section",
+  "number": "5.3",
+  "ref_type": "section",
+  "title": "Draw Phase",
+  "parent_id": "chpt_turns",
+  "child_ids": [
+    "rule_draw_phase_definition",
+    "rule_mandatory_draw",
+    "rule_no_runner_draw_phase"
+  ],
+  "text_markup": "Draw Phase",
+  "text_plain": "Draw Phase",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_draw_phase"
+}

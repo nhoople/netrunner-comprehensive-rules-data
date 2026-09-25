@@ -1,0 +1,41 @@
+{
+  "id": "rule_previous_object__example_1",
+  "kind": "example",
+  "number": "1.12.6.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_previous_object",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:Bravado}. During the run, a piece of ice that the Runner has already passed is trashed. When the run ends, {card:Bravado}'s ability must determine how many pieces of ice the Runner passed during that run. It does this by reviewing the game history and counting each distinct ice object that the Runner passed. Even though the object corresponding to the trashed ice no longer exists in the present game state, {card:Bravado} can still count it.",
+  "text_plain": "The Runner plays Bravado. During the run, a piece of ice that the Runner has already passed is trashed. When the run ends, Bravado's ability must determine how many pieces of ice the Runner passed during that run. It does this by reviewing the game history and counting each distinct ice object that the Runner passed. Even though the object corresponding to the trashed ice no longer exists in the present game state, Bravado can still count it.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 24,
+      "target": "Bravado",
+      "card_code": "26074"
+    },
+    {
+      "type": "card",
+      "start": 123,
+      "end": 130,
+      "target": "Bravado",
+      "card_code": "26074"
+    },
+    {
+      "type": "card",
+      "start": 419,
+      "end": 426,
+      "target": "Bravado",
+      "card_code": "26074"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_variable_restriction",
+  "kind": "rule",
+  "number": "9.3.3f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_restriction",
+  "child_ids": [
+    "rule_variable_restriction__example_1"
+  ],
+  "text_markup": "Definitions for or constraints on a variable are restrictions.",
+  "text_plain": "Definitions for or constraints on a variable are restrictions.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_variable_restriction__example_1",
+      "text_markup": "Some abilities dictate a value for X, such as \"X is the number of rezzed NEXT ice.\" Some abilities with X in their cost constrain the value that can be chosen for X, such as \"X must be equal to or less than the number of tags the Runner has.\" These statements are restrictions.",
+      "text_plain": "Some abilities dictate a value for X, such as \"X is the number of rezzed NEXT ice.\" Some abilities with X in their cost constrain the value that can be chosen for X, such as \"X must be equal to or less than the number of tags the Runner has.\" These statements are restrictions.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_variable_restriction"
+}

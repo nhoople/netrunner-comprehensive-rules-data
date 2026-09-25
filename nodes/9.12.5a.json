@@ -1,0 +1,41 @@
+{
+  "id": "rule_persistent",
+  "kind": "rule",
+  "number": "9.12.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_persistent",
+  "child_ids": [],
+  "text_markup": "A {term:persistent} ability is an ability on a Corp card marked with the \"persistent\" ability flag before its other text. When the Runner trashes a rezzed card they are accessing, its persistent abilities {term:persist} through a lingering effect that is created as the source card is trashed. See also {ref:sec_lingering_effects}.",
+  "text_plain": "A persistent ability is an ability on a Corp card marked with the \"persistent\" ability flag before its other text. When the Runner trashes a rezzed card they are accessing, its persistent abilities persist through a lingering effect that is created as the source card is trashed. See also section 9.10.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 12,
+      "target": "persistent"
+    },
+    {
+      "type": "term",
+      "start": 198,
+      "end": 205,
+      "target": "persist"
+    },
+    {
+      "type": "ref",
+      "start": 289,
+      "end": 301,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_persistent"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rule_playing",
+  "kind": "rule",
+  "number": "8.6.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_playing_events_and_operations",
+  "child_ids": [],
+  "text_markup": "{term:Playing} an event or operation is a process in which that card is placed into the play area, its play abilities are resolved, and then the card is trashed. Agendas, assets, ice, upgrades, hardware, programs, resources, and identities are never played.",
+  "text_plain": "Playing an event or operation is a process in which that card is placed into the play area, its play abilities are resolved, and then the card is trashed. Agendas, assets, ice, upgrades, hardware, programs, resources, and identities are never played.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 7,
+      "target": "Playing"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_playing"
+}

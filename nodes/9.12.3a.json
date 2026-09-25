@@ -1,0 +1,28 @@
+{
+  "id": "rule_must_with_choice",
+  "kind": "rule",
+  "number": "9.12.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_must",
+  "child_ids": [
+    "rule_must_with_choice__example_1"
+  ],
+  "text_markup": "If a card ability states that a player \"must\" do something without stipulating how that player must do so, then that player is forced to make any decisions necessary to satisfy the requirement, even if it requires the use of other card abilities.",
+  "text_plain": "If a card ability states that a player \"must\" do something without stipulating how that player must do so, then that player is forced to make any decisions necessary to satisfy the requirement, even if it requires the use of other card abilities.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_must_with_choice__example_1",
+      "text_markup": "The Runner has an {card:Imp} and a {card:Scrubber} installed and accesses {card:Mumbad Virtual Tour}. If the Runner only has 4[c], they must still choose to either spend a counter from {card:Imp} to trash {card:Mumbad Virtual Tour} if they are able to do so or spend recurring credits on {card:Scrubber} to help pay the trash cost of the {card:Mumbad Virtual Tour}.",
+      "text_plain": "The Runner has an Imp and a Scrubber installed and accesses Mumbad Virtual Tour. If the Runner only has 4{c}, they must still choose to either spend a counter from Imp to trash Mumbad Virtual Tour if they are able to do so or spend recurring credits on Scrubber to help pay the trash cost of the Mumbad Virtual Tour.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_must_with_choice"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_forfeit_rfg",
+  "kind": "rule",
+  "number": "4.9.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_removed_from_game",
+  "child_ids": [],
+  "text_markup": "Forfeiting an agenda removes it from the game. See {ref:movement_forfeit}.",
+  "text_plain": "Forfeiting an agenda removes it from the game. See rule 8.2.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 51,
+      "end": 61,
+      "ids": [
+        "movement_forfeit"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_forfeit_rfg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rule_operation_subtypes",
+  "kind": "rule",
+  "number": "2.16.7e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subtypes_list",
+  "child_ids": [],
+  "text_markup": "The operation subtypes are Alliance, Black Ops, Condition, Current, Double, Gray Ops, {n}Liability{/n}, Lockdown, Mandate, Psi, Reprisal, Terminal, Transaction, and Triple.",
+  "text_plain": "The operation subtypes are Alliance, Black Ops, Condition, Current, Double, Gray Ops, Liability, Lockdown, Mandate, Psi, Reprisal, Terminal, Transaction, and Triple.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 86,
+      "end": 95
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_operation_subtypes"
+}

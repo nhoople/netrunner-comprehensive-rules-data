@@ -1,0 +1,28 @@
+{
+  "id": "rule_abilities_during_a_run",
+  "kind": "rule",
+  "number": "6.3.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_run_initiation",
+  "child_ids": [
+    "rule_abilities_during_a_run__example_1"
+  ],
+  "text_markup": "Some abilities look for particular conditions occurring \"during a run\" or are restricted to being used \"during a run.\" For purposes of abilities, the run formally begins only after the attacked server is announced and any costs are paid.",
+  "text_plain": "Some abilities look for particular conditions occurring \"during a run\" or are restricted to being used \"during a run.\" For purposes of abilities, the run formally begins only after the attacked server is announced and any costs are paid.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_abilities_during_a_run__example_1",
+      "text_markup": "The Runner initiates a run against a server with a rezzed {card:Heinlein Grid} while the Corp has {card:Enhanced Login Protocol} in play. They do not lose any credits to {card:Heinlein Grid}'s ability, as the additional click {card:Enhanced Login Protocol} requires them to spend is spent to initiate the run, and is not spent during the run.",
+      "text_plain": "The Runner initiates a run against a server with a rezzed Heinlein Grid while the Corp has Enhanced Login Protocol in play. They do not lose any credits to Heinlein Grid's ability, as the additional click Enhanced Login Protocol requires them to spend is spent to initiate the run, and is not spent during the run.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_abilities_during_a_run"
+}

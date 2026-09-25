@@ -1,0 +1,19 @@
+{
+  "id": "rule_hardware_subtypes",
+  "kind": "rule",
+  "number": "2.16.7h",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subtypes_list",
+  "child_ids": [],
+  "text_markup": "The hardware subtypes are Chip, Companion, Console, Consumer-grade, Cybernetic, Gear, Link, Mod, Stealth, Vehicle, and Weapon.",
+  "text_plain": "The hardware subtypes are Chip, Companion, Console, Consumer-grade, Cybernetic, Gear, Link, Mod, Stealth, Vehicle, and Weapon.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hardware_subtypes"
+}

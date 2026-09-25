@@ -1,0 +1,23 @@
+{
+  "id": "sec_sabotage",
+  "kind": "section",
+  "number": "10.12",
+  "ref_type": "section",
+  "title": "Sabotage",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_sabotage",
+    "rule_sabotage_resolution",
+    "rule_sabotage_with_not_enough_cards"
+  ],
+  "text_markup": "Sabotage",
+  "text_plain": "Sabotage",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Sabotage can be quietly working to undermine a Corp from the inside, organizing protest action, sinking a transport ship, or simply inspiring others to spread the actions further. An act of sabotage at just the right moment can severely limit the Corp's options and force them into making difficult decisions.",
+  "snippet_plain": "Sabotage can be quietly working to undermine a Corp from the inside, organizing protest action, sinking a transport ship, or simply inspiring others to spread the actions further. An act of sabotage at just the right moment can severely limit the Corp's options and force them into making difficult decisions.",
+  "url": "https://rules.nullsignal.games/?r=sec_sabotage"
+}

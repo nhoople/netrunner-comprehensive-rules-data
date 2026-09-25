@@ -1,0 +1,19 @@
+{
+  "id": "rule_trash_in_archives",
+  "kind": "rule",
+  "number": "7.1.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_basic_trash_ability",
+  "child_ids": [],
+  "text_markup": "The Runner cannot trash or pay the trash cost of a card in the Corp's discard pile, either with the basic trash ability or with other mid-access abilities.",
+  "text_plain": "The Runner cannot trash or pay the trash cost of a card in the Corp's discard pile, either with the basic trash ability or with other mid-access abilities.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trash_in_archives"
+}

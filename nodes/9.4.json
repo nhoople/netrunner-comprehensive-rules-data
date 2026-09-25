@@ -1,0 +1,25 @@
+{
+  "id": "sec_static_abilities",
+  "kind": "section",
+  "number": "9.4",
+  "ref_type": "section",
+  "title": "Static Abilities",
+  "parent_id": "chpt_abilities",
+  "child_ids": [
+    "rule_static_ability",
+    "rule_static_ability_with_condition",
+    "rule_static_ability_with_restriction",
+    "rule_static_no_lingering_effects",
+    "rule_static_modification_keep_restrictions"
+  ],
+  "text_markup": "Static Abilities",
+  "text_plain": "Static Abilities",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_static_abilities"
+}

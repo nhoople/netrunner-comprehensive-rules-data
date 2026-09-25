@@ -1,0 +1,23 @@
+{
+  "id": "sec_server_indicator",
+  "kind": "section",
+  "number": "2.18",
+  "ref_type": "section",
+  "title": "Server Indicator",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_server_back",
+    "rule_server_icon",
+    "sec_server_indicator_no_gameplay"
+  ],
+  "text_markup": "Server Indicator",
+  "text_plain": "Server Indicator",
+  "spans": [],
+  "examples": [],
+  "is_new": true,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_server_indicator"
+}

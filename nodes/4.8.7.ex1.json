@@ -1,0 +1,27 @@
+{
+  "id": "rule_facedown_set_aside_distinct_groups__example_1",
+  "kind": "example",
+  "number": "4.8.7.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_facedown_set_aside_distinct_groups",
+  "child_ids": [],
+  "text_markup": "The Runner accesses the top card of R&D and does not steal or trash it. On the next turn, the Corp uses {card:Daily Business Show} to draw that card and 1 other card simultaneously, but must put 1 of the drawn cards on the bottom of R&D. While resolving the draw, the cards are set aside facedown, so the Corp can shuffle them. They do not have to tell the Runner whether the previously-accessed card ends up in HQ or on the bottom of R&D.",
+  "text_plain": "The Runner accesses the top card of R&D and does not steal or trash it. On the next turn, the Corp uses Daily Business Show to draw that card and 1 other card simultaneously, but must put 1 of the drawn cards on the bottom of R&D. While resolving the draw, the cards are set aside facedown, so the Corp can shuffle them. They do not have to tell the Runner whether the previously-accessed card ends up in HQ or on the bottom of R&D.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 104,
+      "end": 123,
+      "target": "Daily Business Show",
+      "card_code": "31063"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

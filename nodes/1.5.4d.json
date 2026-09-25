@@ -1,0 +1,19 @@
+{
+  "id": "rule_additional_identity_double_sided",
+  "kind": "rule",
+  "number": "1.5.4d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_additional_identity",
+  "child_ids": [],
+  "text_markup": "If the Runner switches their identity with a double-sided identity, it enters play with the front side faceup. If the Runner switches a double-sided identity with another identity, the new identity enters play faceup regardless of the previous identity's current status.",
+  "text_plain": "If the Runner switches their identity with a double-sided identity, it enters play with the front side faceup. If the Runner switches a double-sided identity with another identity, the new identity enters play faceup regardless of the previous identity's current status.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_additional_identity_double_sided"
+}

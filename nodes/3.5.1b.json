@@ -1,0 +1,53 @@
+{
+  "id": "rule_operation_current",
+  "kind": "rule",
+  "number": "3.5.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_operation_play",
+  "child_ids": [],
+  "text_markup": "Some operations have the subtype {subtype:current}. As part of their abilities, {subtype:current} operations prevent themselves from being trashed until another {subtype:current} operation or event is played or the Runner steals an agenda. When one of these occurs, the active {subtype:current} is trashed during the next checkpoint. See {ref:rule_play_not_trashed_until}.",
+  "text_plain": "Some operations have the subtype current. As part of their abilities, current operations prevent themselves from being trashed until another current operation or event is played or the Runner steals an agenda. When one of these occurs, the active current is trashed during the next checkpoint. See rule 8.6.6c.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 33,
+      "end": 40,
+      "target": "current"
+    },
+    {
+      "type": "subtype",
+      "start": 70,
+      "end": 77,
+      "target": "current"
+    },
+    {
+      "type": "subtype",
+      "start": 141,
+      "end": 148,
+      "target": "current"
+    },
+    {
+      "type": "subtype",
+      "start": 247,
+      "end": 254,
+      "target": "current"
+    },
+    {
+      "type": "ref",
+      "start": 298,
+      "end": 309,
+      "ids": [
+        "rule_play_not_trashed_until"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_operation_current"
+}

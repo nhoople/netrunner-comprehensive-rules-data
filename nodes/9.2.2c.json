@@ -1,0 +1,30 @@
+{
+  "id": "rule_breaching_timing_structure",
+  "kind": "rule",
+  "number": "9.2.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_timing_structure",
+  "child_ids": [],
+  "text_markup": "Breaching a server is a timing structure. See {ref:sec_breaching_servers,sec_breaching_steps}.",
+  "text_plain": "Breaching a server is a timing structure. See sections 7.3 and 7.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 46,
+      "end": 66,
+      "ids": [
+        "sec_breaching_servers",
+        "sec_breaching_steps"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_breaching_timing_structure"
+}

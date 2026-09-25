@@ -1,0 +1,25 @@
+{
+  "id": "rule_agenda_subtypes",
+  "kind": "rule",
+  "number": "2.16.7b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subtypes_list",
+  "child_ids": [],
+  "text_markup": "The agenda subtypes are Ambush, Assassination, Expansion, Expendable, Initiative, {n}Liability,{/n} NEXT, Psi, Public, Research, Security, Sensie, and Source.",
+  "text_plain": "The agenda subtypes are Ambush, Assassination, Expansion, Expendable, Initiative, Liability, NEXT, Psi, Public, Research, Security, Sensie, and Source.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 82,
+      "end": 92
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_agenda_subtypes"
+}

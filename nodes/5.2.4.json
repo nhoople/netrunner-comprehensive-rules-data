@@ -1,0 +1,19 @@
+{
+  "id": "rule_actions_outside_action_phase",
+  "kind": "rule",
+  "number": "5.2.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_actions",
+  "child_ids": [],
+  "text_markup": "A player can only take actions during the action phase of their turn. If an effect directs a player to take an action outside of that player's action phase, instead that player does nothing.",
+  "text_plain": "A player can only take actions during the action phase of their turn. If an effect directs a player to take an action outside of that player's action phase, instead that player does nothing.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_actions_outside_action_phase"
+}

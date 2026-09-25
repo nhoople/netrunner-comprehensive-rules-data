@@ -1,0 +1,32 @@
+{
+  "id": "rule_agenda_advancement_requirement_agenda_points",
+  "kind": "subsection",
+  "number": "3.2.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_agendas",
+  "child_ids": [
+    "rule_agenda_advancement_requirement",
+    "rule_score_from_score_area"
+  ],
+  "text_markup": "Only agendas have advancement requirements and agenda points. See {ref:sec_score_scoring_steal}.",
+  "text_plain": "Only agendas have advancement requirements and agenda points. See section 1.17.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 66,
+      "end": 78,
+      "ids": [
+        "sec_score_scoring_steal"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_agenda_advancement_requirement_agenda_points"
+}

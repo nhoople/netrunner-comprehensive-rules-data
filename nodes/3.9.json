@@ -1,0 +1,25 @@
+{
+  "id": "sec_programs",
+  "kind": "section",
+  "number": "3.9",
+  "ref_type": "section",
+  "title": "Programs",
+  "parent_id": "chpt_card_types",
+  "child_ids": [
+    "rule_program_install",
+    "rule_program_install_cost",
+    "rule_program_memory_cost",
+    "rule_program_strength_value",
+    "subsec_icebreakers"
+  ],
+  "text_markup": "Programs",
+  "text_plain": "Programs",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Programs are digital tools at the Runner's disposal, primarily used as a means of intrusion.",
+  "snippet_plain": "Programs are digital tools at the Runner's disposal, primarily used as a means of intrusion.",
+  "url": "https://rules.nullsignal.games/?r=sec_programs"
+}

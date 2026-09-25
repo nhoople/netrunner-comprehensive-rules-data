@@ -1,0 +1,26 @@
+{
+  "id": "rule_movement_phase",
+  "kind": "rule",
+  "number": "6.6.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_movement_phase",
+  "child_ids": [],
+  "text_markup": "The {term:movement phase} handles the progression of the run between pieces of ice and after the innermost piece of ice, up to the point when the Runner approaches the attacked server.",
+  "text_plain": "The movement phase handles the progression of the run between pieces of ice and after the innermost piece of ice, up to the point when the Runner approaches the attacked server.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 18,
+      "target": "movement phase"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_movement_phase"
+}

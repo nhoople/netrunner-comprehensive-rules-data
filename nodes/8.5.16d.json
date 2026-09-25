@@ -1,0 +1,19 @@
+{
+  "id": "rule_steps_installing_pay_install_cost",
+  "kind": "rule",
+  "number": "8.5.16d",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_installing",
+  "child_ids": [],
+  "text_markup": "Pay the appropriate install cost. (The cost-paid checkpoint then occurs.)",
+  "text_plain": "Pay the appropriate install cost. (The cost-paid checkpoint then occurs.)",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_steps_installing_pay_install_cost"
+}

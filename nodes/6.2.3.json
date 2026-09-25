@@ -1,0 +1,35 @@
+{
+  "id": "rule_count_positions",
+  "kind": "rule",
+  "number": "6.2.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_position",
+  "child_ids": [
+    "rule_count_positions__example_1",
+    "rule_count_positions__example_2"
+  ],
+  "text_markup": "Some abilities refer to ice in the \"same position\" protecting different servers. Two pieces of ice occupy the \"same position\" if their respective servers have the same number of positions inward from their respective positions.",
+  "text_plain": "Some abilities refer to ice in the \"same position\" protecting different servers. Two pieces of ice occupy the \"same position\" if their respective servers have the same number of positions inward from their respective positions.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_count_positions__example_1",
+      "text_markup": "A server has 2 pieces of ice protecting it, and a copy of {card:Rook} is hosted on the outermost of those 2 pieces of ice. {card:Rook}'s ability can move it to the 2nd piece of ice protecting any server, counted starting from the innermost piece of ice and moving outward. The {card:Rook} cannot be moved to a server protected by only 1 piece of ice.",
+      "text_plain": "A server has 2 pieces of ice protecting it, and a copy of Rook is hosted on the outermost of those 2 pieces of ice. Rook's ability can move it to the 2nd piece of ice protecting any server, counted starting from the innermost piece of ice and moving outward. The Rook cannot be moved to a server protected by only 1 piece of ice.",
+      "is_new": false
+    },
+    {
+      "id": "rule_count_positions__example_2",
+      "text_markup": "The Runner passes a piece of ice in the innermost position protecting a server, and uses {card:Slipstream} to move to another server. Since positions are compared working from the innermost position, the Runner will be able to approach the innermost ice protecting any server, regardless of how many other pieces of ice are outward from that ice.",
+      "text_plain": "The Runner passes a piece of ice in the innermost position protecting a server, and uses Slipstream to move to another server. Since positions are compared working from the innermost position, the Runner will be able to approach the innermost ice protecting any server, regardless of how many other pieces of ice are outward from that ice.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_count_positions"
+}

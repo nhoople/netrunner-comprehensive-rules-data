@@ -1,0 +1,41 @@
+{
+  "id": "rule_modified_values_retain_properties__example_1",
+  "kind": "example",
+  "number": "9.9.7e.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_modified_values_retain_properties",
+  "child_ids": [],
+  "text_markup": "While the result of a successful trace from {card:Flare} is imminent, the Corp triggers {card:The Cleaners} to increase the imminent meat damage by 1. Even though the damage from {card:Flare} has been increased from 2 to 3, none of that meat damage can be prevented.",
+  "text_plain": "While the result of a successful trace from Flare is imminent, the Corp triggers The Cleaners to increase the imminent meat damage by 1. Even though the damage from Flare has been increased from 2 to 3, none of that meat damage can be prevented.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 44,
+      "end": 49,
+      "target": "Flare",
+      "card_code": "20114"
+    },
+    {
+      "type": "card",
+      "start": 81,
+      "end": 93,
+      "target": "The Cleaners",
+      "card_code": "20080"
+    },
+    {
+      "type": "card",
+      "start": 165,
+      "end": 170,
+      "target": "Flare",
+      "card_code": "20114"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

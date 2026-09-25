@@ -1,0 +1,19 @@
+{
+  "id": "rule_default_inactive_card_locations",
+  "kind": "rule",
+  "number": "1.8.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_inactive_cards",
+  "child_ids": [],
+  "text_markup": "Cards are inactive in R&D, HQ, Archives, the heap, the grip, the stack, the Runner's score area, while set aside, and while removed from the game. Facedown cards in the play area are also inactive.",
+  "text_plain": "Cards are inactive in R&D, HQ, Archives, the heap, the grip, the stack, the Runner's score area, while set aside, and while removed from the game. Facedown cards in the play area are also inactive.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_default_inactive_card_locations"
+}

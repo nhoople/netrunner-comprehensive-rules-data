@@ -1,0 +1,30 @@
+{
+  "id": "rule_using",
+  "kind": "subsection",
+  "number": "9.1.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_abilities_general",
+  "child_ids": [
+    "rule_paid_ability_used_condition",
+    "rule_conditional_ability_used_condition",
+    "rule_hosted_counter_used_condition"
+  ],
+  "text_markup": "Any time a player chooses to resolve an optional ability or an optional part of an ability, the player is considered to be {term:using} that ability and the source card of that ability. Players do not \"use\" abilities that are entirely mandatory.",
+  "text_plain": "Any time a player chooses to resolve an optional ability or an optional part of an ability, the player is considered to be using that ability and the source card of that ability. Players do not \"use\" abilities that are entirely mandatory.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 123,
+      "end": 128,
+      "target": "using"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_using"
+}

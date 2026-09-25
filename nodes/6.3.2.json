@@ -1,0 +1,22 @@
+{
+  "id": "rule_start_initiation_phase",
+  "kind": "subsection",
+  "number": "6.3.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_run_initiation",
+  "child_ids": [
+    "rule_cannot_run_abilities",
+    "rule_additional_cost_to_run"
+  ],
+  "text_markup": "At the start of the Initiation Phase, the Runner announces a server to be the attacked server.",
+  "text_plain": "At the start of the Initiation Phase, the Runner announces a server to be the attacked server.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_start_initiation_phase"
+}

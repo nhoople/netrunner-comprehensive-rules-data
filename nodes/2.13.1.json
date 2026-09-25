@@ -1,0 +1,23 @@
+{
+  "id": "rule_faction_list",
+  "kind": "subsection",
+  "number": "2.13.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_faction",
+  "child_ids": [
+    "rule_corp_faction_list",
+    "rule_runner_major_faction_list",
+    "rule_runner_minifaction_list"
+  ],
+  "text_markup": "Cards are divided into ten factions: four Corp factions, three Runner factions, and three Runner mini-factions. Factions and influence restrict deckbuilding options, allowing each faction to have distinct play differences from one another.",
+  "text_plain": "Cards are divided into ten factions: four Corp factions, three Runner factions, and three Runner mini-factions. Factions and influence restrict deckbuilding options, allowing each faction to have distinct play differences from one another.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_faction_list"
+}

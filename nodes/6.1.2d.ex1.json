@@ -1,0 +1,27 @@
+{
+  "id": "rule_change_attacked_server_directly__example_1",
+  "kind": "example",
+  "number": "6.1.2d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_change_attacked_server_directly",
+  "child_ids": [],
+  "text_markup": "{card:Sneakdoor Beta}'s ability changes the attacked server from Archives to HQ. The Runner does not need to encounter ice protecting HQ after resolving this ability.",
+  "text_plain": "Sneakdoor Beta's ability changes the attacked server from Archives to HQ. The Runner does not need to encounter ice protecting HQ after resolving this ability.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 14,
+      "target": "Sneakdoor Beta",
+      "card_code": "31023"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

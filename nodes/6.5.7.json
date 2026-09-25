@@ -1,0 +1,24 @@
+{
+  "id": "subsec_fully_break",
+  "kind": "subsection",
+  "number": "6.5.7",
+  "ref_type": "section",
+  "title": "Fully Break",
+  "parent_id": "sec_encounter_ice_phase",
+  "child_ids": [
+    "rule_fully_break",
+    "rule_object_fully_break",
+    "rule_fully_break_no_subroutines",
+    "rule_fully_broken_not_retracted"
+  ],
+  "text_markup": "Fully Break",
+  "text_plain": "Fully Break",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_fully_break"
+}

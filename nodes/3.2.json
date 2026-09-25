@@ -1,0 +1,24 @@
+{
+  "id": "sec_agendas",
+  "kind": "section",
+  "number": "3.2",
+  "ref_type": "section",
+  "title": "Agendas",
+  "parent_id": "chpt_card_types",
+  "child_ids": [
+    "rule_agendas_in_roots",
+    "rule_agenda_advancement_requirement_agenda_points",
+    "rule_agendas_not_rezzed",
+    "rule_agendas_advanced"
+  ],
+  "text_markup": "Agendas",
+  "text_plain": "Agendas",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Agendas represent valuable pieces of Corporate data. When the Corp advances and scores agendas, it represents completion of critical Corporate projects. When the Runner steals agendas, it represents their acquisition of secret Corporate data.",
+  "snippet_plain": "Agendas represent valuable pieces of Corporate data. When the Corp advances and scores agendas, it represents completion of critical Corporate projects. When the Runner steals agendas, it represents their acquisition of secret Corporate data.",
+  "url": "https://rules.nullsignal.games/?r=sec_agendas"
+}

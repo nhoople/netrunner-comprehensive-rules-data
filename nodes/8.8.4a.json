@@ -1,0 +1,19 @@
+{
+  "id": "rule_state_of_swap_into_zone",
+  "kind": "rule",
+  "number": "8.8.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_swap_simultaneous",
+  "child_ids": [],
+  "text_markup": "Each of the swapped cards enters its destination zone in the same state that a card would normally enter that zone. A card swapped into Archives enters Archives facedown unless it was visible to the Runner at the time of the swap, a Corp card swapped into the play area enters unrezzed, etc.",
+  "text_plain": "Each of the swapped cards enters its destination zone in the same state that a card would normally enter that zone. A card swapped into Archives enters Archives facedown unless it was visible to the Runner at the time of the swap, a Corp card swapped into the play area enters unrezzed, etc.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_state_of_swap_into_zone"
+}

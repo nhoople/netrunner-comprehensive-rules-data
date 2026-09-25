@@ -1,0 +1,32 @@
+{
+  "id": "rule_nested_cost_unless__example_1",
+  "kind": "example",
+  "number": "1.16.11b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_nested_cost_unless",
+  "child_ids": [],
+  "text_markup": "A subroutine reading \"End the run unless the Runner pays 1[c].\" contains a nested cost. If the Runner chooses to pay 1[c], the subroutine will not end the run.",
+  "text_plain": "A subroutine reading \"End the run unless the Runner pays 1{c}.\" contains a nested cost. If the Runner chooses to pay 1{c}, the subroutine will not end the run.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 58,
+      "end": 61,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 118,
+      "end": 121,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

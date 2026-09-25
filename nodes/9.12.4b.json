@@ -1,0 +1,19 @@
+{
+  "id": "rule_repeat_this_process_x_times",
+  "kind": "rule",
+  "number": "9.12.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_repeat_this_process",
+  "child_ids": [],
+  "text_markup": "If an ability instructs a player to \"repeat this process\" a specified number of times, then that player resolves the entire ability, except for the repetition instruction, that many times in a row. The number of repetitions is determined after the first full resolution but before the first repetition, and once the number of repetitions is determined it cannot be changed.",
+  "text_plain": "If an ability instructs a player to \"repeat this process\" a specified number of times, then that player resolves the entire ability, except for the repetition instruction, that many times in a row. The number of repetitions is determined after the first full resolution but before the first repetition, and once the number of repetitions is determined it cannot be changed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_repeat_this_process_x_times"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_if_able",
+  "kind": "rule",
+  "number": "1.2.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_golden_rules",
+  "child_ids": [],
+  "text_markup": "If an instruction includes the words \"if able,\" it can only be carried out fully or not at all. If any part of the instruction is not possible to carry out, the entire instruction is ignored.",
+  "text_plain": "If an instruction includes the words \"if able,\" it can only be carried out fully or not at all. If any part of the instruction is not possible to carry out, the entire instruction is ignored.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_if_able"
+}

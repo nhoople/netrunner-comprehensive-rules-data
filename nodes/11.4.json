@@ -1,0 +1,36 @@
+{
+  "id": "sec_appendix_timing_structure_of_a_run",
+  "kind": "section",
+  "number": "11.4",
+  "ref_type": "section",
+  "title": "Timing Structure of a Run",
+  "parent_id": "chpt_appendix_timing_structures",
+  "child_ids": [
+    "sec_appendix_timing_structure_of_a_run_1",
+    "sec_appendix_timing_structure_of_a_run_2",
+    "sec_appendix_timing_structure_of_a_run_3",
+    "sec_appendix_timing_structure_of_a_run_4",
+    "sec_appendix_timing_structure_of_a_run_5",
+    "sec_appendix_timing_structure_of_a_run_6"
+  ],
+  "text_markup": "Timing Structure of a Run ({ref:Sec_steps_of_a_run})",
+  "text_plain": "Timing Structure of a Run (Section 6.9)",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 27,
+      "end": 38,
+      "ids": [
+        "sec_steps_of_a_run"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_a_run"
+}

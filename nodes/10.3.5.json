@@ -1,0 +1,29 @@
+{
+  "id": "rule_checkpoint_after_instruction_resolution",
+  "kind": "rule",
+  "number": "10.3.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_checkpoints",
+  "child_ids": [],
+  "text_markup": "Whenever an instruction finishes resolving, a checkpoint occurs immediately afterward, before the next instruction becomes imminent. See also {ref:sec_identifying_instructions}.",
+  "text_plain": "Whenever an instruction finishes resolving, a checkpoint occurs immediately afterward, before the next instruction becomes imminent. See also section 9.11.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 142,
+      "end": 154,
+      "ids": [
+        "sec_identifying_instructions"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_checkpoint_after_instruction_resolution"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_lingering_effect_maintaining_choice_duration_other_cases",
+  "kind": "rule",
+  "number": "9.10.3c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_lingering_effect_maintain_choice",
+  "child_ids": [
+    "rule_lingering_effect_maintaining_choice_duration_other_cases__example_1"
+  ],
+  "text_markup": "If the previous cases do not apply, the duration of the lingering effect expires only when the source object becomes inactive.",
+  "text_plain": "If the previous cases do not apply, the duration of the lingering effect expires only when the source object becomes inactive.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_lingering_effect_maintaining_choice_duration_other_cases__example_1",
+      "text_markup": "{card:Femme Fatale}'s first conditional ability directs the Runner to choose an installed piece of ice. Which ice was chosen is maintained as a lingering effect for as long as {card:Femme Fatale} remains active, and its last ability refers to the object that is being remembered by that lingering effect.",
+      "text_plain": "Femme Fatale's first conditional ability directs the Runner to choose an installed piece of ice. Which ice was chosen is maintained as a lingering effect for as long as Femme Fatale remains active, and its last ability refers to the object that is being remembered by that lingering effect.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_lingering_effect_maintaining_choice_duration_other_cases"
+}

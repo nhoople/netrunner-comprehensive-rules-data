@@ -1,0 +1,26 @@
+{
+  "id": "rule_stack_name",
+  "kind": "rule",
+  "number": "4.2.8a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_stack",
+  "child_ids": [],
+  "text_markup": "The {term:stack} is the name for the Runner's deck.",
+  "text_plain": "The stack is the name for the Runner's deck.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 9,
+      "target": "stack"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_stack_name"
+}

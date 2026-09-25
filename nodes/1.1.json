@@ -1,0 +1,23 @@
+{
+  "id": "sec_concepts_general",
+  "kind": "section",
+  "number": "1.1",
+  "ref_type": "section",
+  "title": "General",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_player_definitions",
+    "rule_requirements",
+    "rule_game_numbers"
+  ],
+  "text_markup": "General",
+  "text_plain": "General",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "These rules are compatible with cards from the game {term:android: netrunner} by Fantasy Flight Games. {term:android: netrunner} is a game about the cyber-struggle between massive Corporations and subversive hackers known as Runners.",
+  "snippet_plain": "These rules are compatible with cards from the game android: netrunner by Fantasy Flight Games. android: netrunner is a game about the cyber-struggle between massive Corporations and subversive hackers known as Runners.",
+  "url": "https://rules.nullsignal.games/?r=sec_concepts_general"
+}

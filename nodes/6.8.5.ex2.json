@@ -1,0 +1,41 @@
+{
+  "id": "rule_run_ends_condition__example_2",
+  "kind": "example",
+  "number": "6.8.5.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_run_ends_condition",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:The Noble Path} to make a run in which they prevent all damage. The run is successful but the Runner takes a tag during the run. When the run ends, {card:Dedicated Response Team}'s ability meets its trigger condition at the same time that {card:The Noble Path}'s effect expires, so the Runner will suffer 2 meat damage.",
+  "text_plain": "The Runner plays The Noble Path to make a run in which they prevent all damage. The run is successful but the Runner takes a tag during the run. When the run ends, Dedicated Response Team's ability meets its trigger condition at the same time that The Noble Path's effect expires, so the Runner will suffer 2 meat damage.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 31,
+      "target": "The Noble Path",
+      "card_code": "10077"
+    },
+    {
+      "type": "card",
+      "start": 164,
+      "end": 187,
+      "target": "Dedicated Response Team",
+      "card_code": "20081"
+    },
+    {
+      "type": "card",
+      "start": 248,
+      "end": 262,
+      "target": "The Noble Path",
+      "card_code": "10077"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

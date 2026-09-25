@@ -1,0 +1,27 @@
+{
+  "id": "rule_subroutines_duplicated",
+  "kind": "rule",
+  "number": "9.8.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subroutines_ordered",
+  "child_ids": [],
+  "text_markup": "One card, {card:TL;DR}, has an ability which can grant a second copy of each subroutine on a piece of ice. Each subroutine created this way is ordered immediately after the subroutine it copied, regardless of categories. If any subroutines are removed while the copies are still active, the copies remain in their relative order as if the removed subroutines were still present.",
+  "text_plain": "One card, TL;DR, has an ability which can grant a second copy of each subroutine on a piece of ice. Each subroutine created this way is ordered immediately after the subroutine it copied, regardless of categories. If any subroutines are removed while the copies are still active, the copies remain in their relative order as if the removed subroutines were still present.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 15,
+      "target": "TL;DR",
+      "card_code": "09017"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutines_duplicated"
+}

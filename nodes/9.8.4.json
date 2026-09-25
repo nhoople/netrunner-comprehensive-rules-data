@@ -1,0 +1,36 @@
+{
+  "id": "rule_subroutines_status",
+  "kind": "subsection",
+  "number": "9.8.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_subroutines",
+  "child_ids": [
+    "rule_subroutines_initial_status_in_encounter",
+    "rule_new_subroutines_during_encounter",
+    "rule_subroutine_status_lifetime"
+  ],
+  "text_markup": "For each encounter, the subroutines on the encountered ice have a status of {term:broken} or {term:unbroken} with respect to that encounter.",
+  "text_plain": "For each encounter, the subroutines on the encountered ice have a status of broken or unbroken with respect to that encounter.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 76,
+      "end": 82,
+      "target": "broken"
+    },
+    {
+      "type": "term",
+      "start": 86,
+      "end": 94,
+      "target": "unbroken"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutines_status"
+}

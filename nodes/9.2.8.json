@@ -1,0 +1,42 @@
+{
+  "id": "rule_reaction_window",
+  "kind": "subsection",
+  "number": "9.2.8",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_timing_and_priority",
+  "child_ids": [
+    "rule_reaction_window_linked_to_pending_conditional_abilities",
+    "rule_reaction_window_priority",
+    "rule_reaction_window_options",
+    "rule_reaction_window_pending_abilities_unordered",
+    "rule_reaction_window_must_resolve_mandatory_abilities",
+    "rule_reaction_window_closing_timing_structure"
+  ],
+  "text_markup": "A {term:reaction window} is a priority window that opens whenever one or more active conditional abilities become pending by meeting their conditions. {ref:Sec_conditional_abilities} discusses conditional abilities.",
+  "text_plain": "A reaction window is a priority window that opens whenever one or more active conditional abilities become pending by meeting their conditions. Section 9.6 discusses conditional abilities.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 17,
+      "target": "reaction window"
+    },
+    {
+      "type": "ref",
+      "start": 144,
+      "end": 155,
+      "ids": [
+        "sec_conditional_abilities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_reaction_window"
+}

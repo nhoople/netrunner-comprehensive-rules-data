@@ -1,0 +1,41 @@
+{
+  "id": "rule_values_defined_by_x__example_2",
+  "kind": "example",
+  "number": "9.12.2e.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_values_defined_by_x",
+  "child_ids": [],
+  "text_markup": "{card:Hush} is hosted on {card:Surveyor}. The ability defining X is lost, so {card:Surveyor}'s strength is 0.",
+  "text_plain": "Hush is hosted on Surveyor. The ability defining X is lost, so Surveyor's strength is 0.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 4,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 18,
+      "end": 26,
+      "target": "Surveyor",
+      "card_code": "21118"
+    },
+    {
+      "type": "card",
+      "start": 63,
+      "end": 71,
+      "target": "Surveyor",
+      "card_code": "21118"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

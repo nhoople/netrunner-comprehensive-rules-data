@@ -1,0 +1,38 @@
+{
+  "id": "step_corp_turn_allotted_clicks",
+  "kind": "rule",
+  "number": "5.6.1a",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "subsec_corp_draw_phase",
+  "child_ids": [],
+  "text_markup": "The Corp gains their allotted clicks (default [click][click][click]).",
+  "text_plain": "The Corp gains their allotted clicks (default {click}{click}{click}).",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 46,
+      "end": 53,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 53,
+      "end": 60,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 60,
+      "end": 67,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_corp_turn_allotted_clicks"
+}

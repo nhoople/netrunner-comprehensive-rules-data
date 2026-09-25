@@ -1,0 +1,28 @@
+{
+  "id": "rule_subroutine_origin_external_after",
+  "kind": "rule",
+  "number": "9.8.3e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subroutine_origins",
+  "child_ids": [
+    "rule_subroutine_origin_external_after__example_1"
+  ],
+  "text_markup": "Subroutines gained from an ability, except a static ability on the ice itself, where the ability either states the subroutines are added after other subroutines or does not specify an order. Subroutines within this category are ordered based on when the effect granting them began to apply, with the oldest subroutines first.",
+  "text_plain": "Subroutines gained from an ability, except a static ability on the ice itself, where the ability either states the subroutines are added after other subroutines or does not specify an order. Subroutines within this category are ordered based on when the effect granting them began to apply, with the oldest subroutines first.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_subroutine_origin_external_after__example_1",
+      "text_markup": "The Runner encounters {card:Marker}, and its subroutine resolves. The next ice the Runner encounters is {card:Brainstorm}. When the encounter begins, the lingering effect from {card:Marker} gives {card:Brainstorm} an \"[sub] End the run.\" subroutine. Then, {card:Brainstorm}'s conditional ability resolves, giving it the appropriate number of \"[sub] Do 1 core damage.\" subroutines. The \"[sub] Do 1 core damage.\" subroutines are all ordered after the \"[sub] End the run.\" subroutine.",
+      "text_plain": "The Runner encounters Marker, and its subroutine resolves. The next ice the Runner encounters is Brainstorm. When the encounter begins, the lingering effect from Marker gives Brainstorm an \"{sub} End the run.\" subroutine. Then, Brainstorm's conditional ability resolves, giving it the appropriate number of \"{sub} Do 1 core damage.\" subroutines. The \"{sub} Do 1 core damage.\" subroutines are all ordered after the \"{sub} End the run.\" subroutine.",
+      "is_new": false
+    }
+  ],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutine_origin_external_after"
+}

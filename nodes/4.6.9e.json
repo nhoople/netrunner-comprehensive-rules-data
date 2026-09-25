@@ -1,0 +1,19 @@
+{
+  "id": "rule_ice_move",
+  "kind": "rule",
+  "number": "4.6.9e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_protecting_a_server",
+  "child_ids": [],
+  "text_markup": "If the number of other ice between a piece of ice and the server changes, its position will change accordingly, moving either closer or farther from the server. If this occurs while that ice is being approached, encountered, or passed during a run, the Runner's position attacking the server changes in the same way.",
+  "text_plain": "If the number of other ice between a piece of ice and the server changes, its position will change accordingly, moving either closer or farther from the server. If this occurs while that ice is being approached, encountered, or passed during a run, the Runner's position attacking the server changes in the same way.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_move"
+}

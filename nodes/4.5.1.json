@@ -1,0 +1,35 @@
+{
+  "id": "rule_score_area",
+  "kind": "rule",
+  "number": "4.5.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_score_area",
+  "child_ids": [],
+  "text_markup": "A player's {term:score area} is the zone in which they place agendas they have scored or stolen. {ref:Sec_score_scoring_steal} details scoring and stealing agendas. Score areas start the game empty.",
+  "text_plain": "A player's score area is the zone in which they place agendas they have scored or stolen. Section 1.17 details scoring and stealing agendas. Score areas start the game empty.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 11,
+      "end": 21,
+      "target": "score area"
+    },
+    {
+      "type": "ref",
+      "start": 90,
+      "end": 102,
+      "ids": [
+        "sec_score_scoring_steal"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_score_area"
+}

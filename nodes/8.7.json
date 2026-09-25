@@ -1,0 +1,25 @@
+{
+  "id": "sec_searching_cards",
+  "kind": "section",
+  "number": "8.7",
+  "ref_type": "section",
+  "title": "Searching for Cards",
+  "parent_id": "chpt_card_manipulation",
+  "child_ids": [
+    "rule_search",
+    "rule_find",
+    "rule_shuffle_deck_after_search",
+    "rule_continue_after_search",
+    "rule_search_condition"
+  ],
+  "text_markup": "Searching for Cards",
+  "text_plain": "Searching for Cards",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_searching_cards"
+}

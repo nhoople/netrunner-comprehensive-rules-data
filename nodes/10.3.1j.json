@@ -1,0 +1,38 @@
+{
+  "id": "step_checkpoint_card_entering_root_during_breach",
+  "kind": "rule",
+  "number": "10.3.1j",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_checkpoints",
+  "child_ids": [
+    "step_checkpoint_card_entering_root_during_breach__example_1"
+  ],
+  "text_markup": "If a server is being breached and 1 or more cards entered the root of that server since the previous checkpoint, for each such card, the Runner declares whether or not it becomes a candidate for access in this breach. See also {ref:sec_determining_candidates}.",
+  "text_plain": "If a server is being breached and 1 or more cards entered the root of that server since the previous checkpoint, for each such card, the Runner declares whether or not it becomes a candidate for access in this breach. See also section 7.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 227,
+      "end": 238,
+      "ids": [
+        "sec_determining_candidates"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "step_checkpoint_card_entering_root_during_breach__example_1",
+      "text_markup": "The Runner accesses {card:Ganked!} and encounters {card:Drafter} in the middle of breaching a server. The second subroutine on {card:Drafter} resolves, and the Corp uses its effect to install a card in the root of the server being breached. When the installation is completed, the Runner declares whether or not the installed card becomes a candidate. If it does become a candidate, the Runner will select it for access later in the breach.",
+      "text_plain": "The Runner accesses Ganked! and encounters Drafter in the middle of breaching a server. The second subroutine on Drafter resolves, and the Corp uses its effect to install a card in the root of the server being breached. When the installation is completed, the Runner declares whether or not the installed card becomes a candidate. If it does become a candidate, the Runner will select it for access later in the breach.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_checkpoint_card_entering_root_during_breach"
+}

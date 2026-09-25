@@ -1,0 +1,19 @@
+{
+  "id": "rule_psi_bid_reveal",
+  "kind": "rule",
+  "number": "10.14.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_psi_games",
+  "child_ids": [],
+  "text_markup": "Playing a Psi Game is handled as a single instruction. After both players have selected a bid for a Psi Game, they immediately proceed to reveal and spend their bids. There are no checkpoints during this process until after both players have paid for their bids.",
+  "text_plain": "Playing a Psi Game is handled as a single instruction. After both players have selected a bid for a Psi Game, they immediately proceed to reveal and spend their bids. There are no checkpoints during this process until after both players have paid for their bids.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_psi_bid_reveal"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "step_checkpoint_hosted_on_agenda",
+  "kind": "rule",
+  "number": "10.3.1f",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_checkpoints",
+  "child_ids": [],
+  "text_markup": "Any objects that were hosted on an agenda that moved from a score area to any zone other than a score area are trashed.",
+  "text_plain": "Any objects that were hosted on an agenda that moved from a score area to any zone other than a score area are trashed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_checkpoint_hosted_on_agenda"
+}

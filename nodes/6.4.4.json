@@ -1,0 +1,38 @@
+{
+  "id": "rule_approach_ice_next_phase",
+  "kind": "rule",
+  "number": "6.4.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_approach_ice_phase",
+  "child_ids": [],
+  "text_markup": "When the Approach Ice Phase completes, the run moves either to the Encounter Ice Phase ({ref:sec_encounter_ice_phase}) or the Movement Phase ({ref:sec_movement_phase}). If the approached piece of ice is rezzed, the Runner encounters it next. If the approached piece of ice is unrezzed or if there is no longer ice installed in that position, then the run moves directly to the Movement Phase.",
+  "text_plain": "When the Approach Ice Phase completes, the run moves either to the Encounter Ice Phase (section 6.5) or the Movement Phase (section 6.6). If the approached piece of ice is rezzed, the Runner encounters it next. If the approached piece of ice is unrezzed or if there is no longer ice installed in that position, then the run moves directly to the Movement Phase.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 88,
+      "end": 99,
+      "ids": [
+        "sec_encounter_ice_phase"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 124,
+      "end": 135,
+      "ids": [
+        "sec_movement_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_approach_ice_next_phase"
+}

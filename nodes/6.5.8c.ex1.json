@@ -1,0 +1,75 @@
+{
+  "id": "rule_bypass_during_encounter__example_1",
+  "kind": "example",
+  "number": "6.5.8c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_bypass_during_encounter",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:Forked} and encounters a {card:Troll} that they can bypass with {card:Femme Fatale}. The Runner pays 0[c] to bypass the {card:Troll} with {card:Femme Fatale}. {card:Forked} does not meet its trigger condition, and {card:Troll} is not trashed, because the opportunity to break subroutines was never reached.",
+  "text_plain": "The Runner plays Forked and encounters a Troll that they can bypass with Femme Fatale. The Runner pays 0{c} to bypass the Troll with Femme Fatale. Forked does not meet its trigger condition, and Troll is not trashed, because the opportunity to break subroutines was never reached.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 23,
+      "target": "Forked",
+      "card_code": "07037"
+    },
+    {
+      "type": "card",
+      "start": 41,
+      "end": 46,
+      "target": "Troll",
+      "card_code": "06108"
+    },
+    {
+      "type": "card",
+      "start": 73,
+      "end": 85,
+      "target": "Femme Fatale",
+      "card_code": "31022"
+    },
+    {
+      "type": "symbol",
+      "start": 104,
+      "end": 107,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 122,
+      "end": 127,
+      "target": "Troll",
+      "card_code": "06108"
+    },
+    {
+      "type": "card",
+      "start": 133,
+      "end": 145,
+      "target": "Femme Fatale",
+      "card_code": "31022"
+    },
+    {
+      "type": "card",
+      "start": 147,
+      "end": 153,
+      "target": "Forked",
+      "card_code": "07037"
+    },
+    {
+      "type": "card",
+      "start": 195,
+      "end": 200,
+      "target": "Troll",
+      "card_code": "06108"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

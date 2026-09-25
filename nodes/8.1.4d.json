@@ -1,0 +1,19 @@
+{
+  "id": "rule_flip_is_not_uninstall",
+  "kind": "rule",
+  "number": "8.1.4d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_facedown_runner_cards",
+  "child_ids": [],
+  "text_markup": "A Runner card turned facedown is not considered to be uninstalled and simply remains in the play area.",
+  "text_plain": "A Runner card turned facedown is not considered to be uninstalled and simply remains in the play area.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_flip_is_not_uninstall"
+}

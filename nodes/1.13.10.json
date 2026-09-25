@@ -1,0 +1,19 @@
+{
+  "id": "rule_hosted_word_meaning",
+  "kind": "rule",
+  "number": "1.13.10",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [],
+  "text_markup": "If an ability on a card refers to a \"hosted\" card or counter, that ability only references objects hosted on that card.",
+  "text_plain": "If an ability on a card refers to a \"hosted\" card or counter, that ability only references objects hosted on that card.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_word_meaning"
+}

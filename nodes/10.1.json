@@ -1,0 +1,26 @@
+{
+  "id": "sec_additional_general",
+  "kind": "section",
+  "number": "10.1",
+  "ref_type": "section",
+  "title": "General",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_uniqueness",
+    "rule_purge",
+    "rule_add_card_to_score_area",
+    "rule_card_to_counter",
+    "sec_old_self_reference_rules",
+    "sec_infinite_loops"
+  ],
+  "text_markup": "General",
+  "text_plain": "General",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_additional_general"
+}

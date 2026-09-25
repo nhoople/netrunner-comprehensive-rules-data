@@ -1,0 +1,24 @@
+{
+  "id": "sec_resources",
+  "kind": "section",
+  "number": "3.10",
+  "ref_type": "section",
+  "title": "Resources",
+  "parent_id": "chpt_card_types",
+  "child_ids": [
+    "rule_resource_install",
+    "rule_resource_install_cost",
+    "rule_resource_no_limit",
+    "rule_resource_trash_action"
+  ],
+  "text_markup": "Resources",
+  "text_plain": "Resources",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Resources are a wide variety of connections and skills that aid the Runner.",
+  "snippet_plain": "Resources are a wide variety of connections and skills that aid the Runner.",
+  "url": "https://rules.nullsignal.games/?r=sec_resources"
+}

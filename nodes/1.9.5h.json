@@ -1,0 +1,26 @@
+{
+  "id": "rule_type_power_counter",
+  "kind": "rule",
+  "number": "1.9.5h",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_counter_types",
+  "child_ids": [],
+  "text_markup": "{term:Power counters} are a generic counter used by a variety of cards. They have no special rules.",
+  "text_plain": "Power counters are a generic counter used by a variety of cards. They have no special rules.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 14,
+      "target": "Power counters"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_type_power_counter"
+}

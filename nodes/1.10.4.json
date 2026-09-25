@@ -1,0 +1,34 @@
+{
+  "id": "rule_hosted_credits",
+  "kind": "subsection",
+  "number": "1.10.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_credits",
+  "child_ids": [
+    "rule_take_credits",
+    "rule_spend_hosted_credits",
+    "rule_spend_hosted_credits_during",
+    "rule_hosted_credits_use"
+  ],
+  "text_markup": "Abilities can place credits on cards, as discussed in {ref:sec_host}. Credits on a player's card are not in that player's credit pool; the player can only interact with those credits as instructed by card abilities.",
+  "text_plain": "Abilities can place credits on cards, as discussed in section 1.13. Credits on a player's card are not in that player's credit pool; the player can only interact with those credits as instructed by card abilities.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 54,
+      "end": 66,
+      "ids": [
+        "sec_host"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_credits"
+}

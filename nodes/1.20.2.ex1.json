@@ -1,0 +1,45 @@
+{
+  "id": "rule_memory_limit__example_1",
+  "kind": "example",
+  "number": "1.20.2.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_memory_limit",
+  "child_ids": [],
+  "text_markup": "The Runner is playing an identity with a starting memory limit of 4[MU]. They have an installed copy of {card:T400 Memory Diamond}, which has the ability \"+1[MU]\". The Runner can therefore have up to 5[MU] worth of programs installed.",
+  "text_plain": "The Runner is playing an identity with a starting memory limit of 4{MU}. They have an installed copy of T400 Memory Diamond, which has the ability \"+1{MU}\". The Runner can therefore have up to 5{MU} worth of programs installed.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 67,
+      "end": 71,
+      "target": "mu"
+    },
+    {
+      "type": "card",
+      "start": 104,
+      "end": 123,
+      "target": "T400 Memory Diamond",
+      "card_code": "30031"
+    },
+    {
+      "type": "symbol",
+      "start": 150,
+      "end": 154,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 194,
+      "end": 198,
+      "target": "mu"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

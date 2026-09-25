@@ -1,0 +1,26 @@
+{
+  "id": "rule_tagged",
+  "kind": "rule",
+  "number": "10.5.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_tags",
+  "child_ids": [],
+  "text_markup": "The Runner is {term:tagged} if there are one or more tags on them.",
+  "text_plain": "The Runner is tagged if there are one or more tags on them.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 14,
+      "end": 20,
+      "target": "tagged"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_tagged"
+}

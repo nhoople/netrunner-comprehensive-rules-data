@@ -1,0 +1,38 @@
+{
+  "id": "rule_controller_ability",
+  "kind": "subsection",
+  "number": "1.14.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_ownership",
+  "child_ids": [
+    "rule_controller_agenda_abilities",
+    "rule_ability_controller_specified"
+  ],
+  "text_markup": "The {term:controller of an ability} is the player responsible for that ability. By default, this is the player who controls the ability's source. See also {ref:rule_source}. A player can only use abilities they control.",
+  "text_plain": "The controller of an ability is the player responsible for that ability. By default, this is the player who controls the ability's source. See also section 9.1.3. A player can only use abilities they control.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 28,
+      "target": "controller of an ability"
+    },
+    {
+      "type": "ref",
+      "start": 148,
+      "end": 161,
+      "ids": [
+        "rule_source"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_controller_ability"
+}

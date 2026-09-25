@@ -1,0 +1,27 @@
+{
+  "id": "rule_access_cards_without_breach",
+  "kind": "rule",
+  "number": "7.1.10",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_accessing_cards",
+  "child_ids": [],
+  "text_markup": "One card, {card:Counter Surveillance}, instructs the Runner to access a certain number of cards from a server without mentioning a breach. The procedure for these accesses follows the normal rules for breaching that server except: there is no random access limit if the server is HQ or R&D; and the procedure ends once the designated number of cards have been chosen for access.",
+  "text_plain": "One card, Counter Surveillance, instructs the Runner to access a certain number of cards from a server without mentioning a breach. The procedure for these accesses follows the normal rules for breaching that server except: there is no random access limit if the server is HQ or R&D; and the procedure ends once the designated number of cards have been chosen for access.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 30,
+      "target": "Counter Surveillance",
+      "card_code": "12023"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_access_cards_without_breach"
+}

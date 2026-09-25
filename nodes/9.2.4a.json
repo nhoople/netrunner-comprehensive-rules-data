@@ -1,0 +1,26 @@
+{
+  "id": "rule_triggering",
+  "kind": "rule",
+  "number": "9.2.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_priority_window",
+  "child_ids": [],
+  "text_markup": "All priority windows give the player with priority the option to choose a relevant ability they control (if there are any) as the next ability for the game to resolve. This is often referred to as {term:triggering} the chosen ability. Some priority windows also give players other options.",
+  "text_plain": "All priority windows give the player with priority the option to choose a relevant ability they control (if there are any) as the next ability for the game to resolve. This is often referred to as triggering the chosen ability. Some priority windows also give players other options.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 197,
+      "end": 207,
+      "target": "triggering"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_triggering"
+}

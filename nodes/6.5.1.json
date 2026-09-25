@@ -1,0 +1,26 @@
+{
+  "id": "rule_encounter_ice_phase",
+  "kind": "rule",
+  "number": "6.5.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_encounter_ice_phase",
+  "child_ids": [],
+  "text_markup": "The {term:encounter ice phase} gives the Runner the opportunity to interact with the ice in their current position, then requires the Corp to resolve unbroken subroutines on that ice.",
+  "text_plain": "The encounter ice phase gives the Runner the opportunity to interact with the ice in their current position, then requires the Corp to resolve unbroken subroutines on that ice.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 23,
+      "target": "encounter ice phase"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_encounter_ice_phase"
+}

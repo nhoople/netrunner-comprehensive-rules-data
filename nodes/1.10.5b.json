@@ -1,0 +1,38 @@
+{
+  "id": "rule_placing_recurring_credits",
+  "kind": "rule",
+  "number": "1.10.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_sec_recurring",
+  "child_ids": [],
+  "text_markup": "Recurring credits are first placed on a card as soon as it becomes active. This occurs at {ref:rule_steps_installing_become_installed} of installing the card if it is installed active, {ref:rule_steps_playing_active} of playing an event or operation, or as soon as the card is turned faceup or scored, as applicable.",
+  "text_plain": "Recurring credits are first placed on a card as soon as it becomes active. This occurs at step 8.5.16e of installing the card if it is installed active, step 8.6.7c of playing an event or operation, or as soon as the card is turned faceup or scored, as applicable.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 90,
+      "end": 102,
+      "ids": [
+        "rule_steps_installing_become_installed"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 153,
+      "end": 164,
+      "ids": [
+        "rule_steps_playing_active"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_placing_recurring_credits"
+}

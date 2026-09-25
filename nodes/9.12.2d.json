@@ -1,0 +1,28 @@
+{
+  "id": "rule_vacuous_truth",
+  "kind": "rule",
+  "number": "9.12.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_quantities_and_sets",
+  "child_ids": [
+    "rule_vacuous_truth__example_1"
+  ],
+  "text_markup": "If a condition refers to \"all\" items in a set and that set contains zero items, the condition is automatically satisfied as soon as it could be satisfied for 1 or more of that item.",
+  "text_plain": "If a condition refers to \"all\" items in a set and that set contains zero items, the condition is automatically satisfied as soon as it could be satisfied for 1 or more of that item.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_vacuous_truth__example_1",
+      "text_markup": "The Runner plays {card:Forked}, initiating a run on a server. The first piece of ice that the Runner encounters is {card:Troll}. If {card:Troll}'s \"when encountered\" ability does not end the run, the Runner is automatically considered to have broken all of the zero subroutines on {card:Troll} as soon as {ref:step_encounter_paw} of the encounter begins, and {card:Troll} is trashed by Forked.",
+      "text_plain": "The Runner plays Forked, initiating a run on a server. The first piece of ice that the Runner encounters is Troll. If Troll's \"when encountered\" ability does not end the run, the Runner is automatically considered to have broken all of the zero subroutines on Troll as soon as step 6.9.3b of the encounter begins, and Troll is trashed by Forked.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_vacuous_truth"
+}

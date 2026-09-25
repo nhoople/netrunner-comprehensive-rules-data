@@ -1,0 +1,29 @@
+{
+  "id": "rule_inactive_ability_exception_link",
+  "kind": "rule",
+  "number": "1.8.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_cards",
+  "child_ids": [],
+  "text_markup": "Most abilities are active if and only if the card they appear on is active. {ref:Rule_ability_active_inactive_source_card} details the cases where abilities on inactive cards are still active.",
+  "text_plain": "Most abilities are active if and only if the card they appear on is active. Section 9.1.8 details the cases where abilities on inactive cards are still active.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 76,
+      "end": 89,
+      "ids": [
+        "rule_ability_active_inactive_source_card"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_inactive_ability_exception_link"
+}

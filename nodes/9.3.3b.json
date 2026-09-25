@@ -1,0 +1,19 @@
+{
+  "id": "rule_act_restriction",
+  "kind": "rule",
+  "number": "9.3.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_restriction",
+  "child_ids": [],
+  "text_markup": "Constraints on when or where a card can be installed, rezzed, played, or scored are restrictions.",
+  "text_plain": "Constraints on when or where a card can be installed, rezzed, played, or scored are restrictions.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_act_restriction"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sec_determining_candidates",
+  "kind": "section",
+  "number": "7.4",
+  "ref_type": "section",
+  "title": "Determining Candidates",
+  "parent_id": "chpt_access_breach",
+  "child_ids": [
+    "rule_candidates_beginning_breach",
+    "rule_prohibiting_access",
+    "rule_candidates_already_accessed",
+    "rule_after_reaching_random_access_limit",
+    "rule_candidates_leaving_server",
+    "rule_candidates_entering_server",
+    "rule_rnd_candidates_1_at_a_time"
+  ],
+  "text_markup": "Determining Candidates",
+  "text_plain": "Determining Candidates",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_determining_candidates"
+}

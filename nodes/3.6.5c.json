@@ -1,0 +1,35 @@
+{
+  "id": "rule_region_active_inactive",
+  "kind": "rule",
+  "number": "3.6.5c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_regions",
+  "child_ids": [],
+  "text_markup": "The {subtype:region} limitation applies to all cards as specified in {ref:rule_region_one_root}, regardless of the active or inactive state of those cards.",
+  "text_plain": "The region limitation applies to all cards as specified in rule 3.6.5b, regardless of the active or inactive state of those cards.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 4,
+      "end": 10,
+      "target": "region"
+    },
+    {
+      "type": "ref",
+      "start": 59,
+      "end": 70,
+      "ids": [
+        "rule_region_one_root"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_region_active_inactive"
+}

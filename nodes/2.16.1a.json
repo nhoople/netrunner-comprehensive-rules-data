@@ -1,0 +1,49 @@
+{
+  "id": "rule_subtype_special_rules",
+  "kind": "rule",
+  "number": "2.16.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subtypes",
+  "child_ids": [],
+  "text_markup": "The subtypes {subtype:region}, {subtype:console}, and {subtype:icebreaker} have special rules, discussed in {ref:subsec_regions,subsec_consoles,subsec_icebreakers} respectively. Other subtypes have no intrinsic rules meaning.",
+  "text_plain": "The subtypes region, console, and icebreaker have special rules, discussed in sections 3.6.5, 3.8.5 and 3.9.5 respectively. Other subtypes have no intrinsic rules meaning.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 13,
+      "end": 19,
+      "target": "region"
+    },
+    {
+      "type": "subtype",
+      "start": 21,
+      "end": 28,
+      "target": "console"
+    },
+    {
+      "type": "subtype",
+      "start": 34,
+      "end": 44,
+      "target": "icebreaker"
+    },
+    {
+      "type": "ref",
+      "start": 78,
+      "end": 109,
+      "ids": [
+        "subsec_regions",
+        "subsec_consoles",
+        "subsec_icebreakers"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subtype_special_rules"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sec_text_box",
+  "kind": "section",
+  "number": "2.17",
+  "ref_type": "section",
+  "title": "Text Box",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_text_box_definition",
+    "rule_flavor_text",
+    "rule_reminder_text"
+  ],
+  "text_markup": "Text Box",
+  "text_plain": "Text Box",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_text_box"
+}

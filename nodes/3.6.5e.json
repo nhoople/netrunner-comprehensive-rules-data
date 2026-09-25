@@ -1,0 +1,31 @@
+{
+  "id": "rule_region_swap",
+  "kind": "rule",
+  "number": "3.6.5e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_regions",
+  "child_ids": [],
+  "text_markup": "{n}The Corp cannot use an effect that swaps cards or moves an installed card between servers to put more than 1 {subtype:region} into the root of a server.{/n}",
+  "text_plain": "The Corp cannot use an effect that swaps cards or moves an installed card between servers to put more than 1 region into the root of a server.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 109,
+      "end": 115,
+      "target": "region"
+    },
+    {
+      "type": "new",
+      "start": 0,
+      "end": 142
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_region_swap"
+}

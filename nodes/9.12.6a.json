@@ -1,0 +1,32 @@
+{
+  "id": "rule_mode_definition",
+  "kind": "rule",
+  "number": "9.12.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_modal_abilities",
+  "child_ids": [],
+  "text_markup": "Some abilities contain text organized into bulleted lists. These are called {term:modal abilities}, and each list item is called a {term:mode}.",
+  "text_plain": "Some abilities contain text organized into bulleted lists. These are called modal abilities, and each list item is called a mode.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 76,
+      "end": 91,
+      "target": "modal abilities"
+    },
+    {
+      "type": "term",
+      "start": 124,
+      "end": 128,
+      "target": "mode"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mode_definition"
+}

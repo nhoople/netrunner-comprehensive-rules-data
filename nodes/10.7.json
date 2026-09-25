@@ -1,0 +1,22 @@
+{
+  "id": "sec_link",
+  "kind": "section",
+  "number": "10.7",
+  "ref_type": "section",
+  "title": "Link",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_link_value",
+    "rule_link_contests_traces"
+  ],
+  "text_markup": "Link",
+  "text_plain": "Link",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "The Runner's link is the number of points their path through the Net traverses between their rig and the Corp's server. The more proxies, redirects, and other intermediary connecting points between the Corp and the Runner, the harder it is for sysops to track down the Runner's virtual location.",
+  "snippet_plain": "The Runner's link is the number of points their path through the Net traverses between their rig and the Corp's server. The more proxies, redirects, and other intermediary connecting points between the Corp and the Runner, the harder it is for sysops to track down the Runner's virtual location.",
+  "url": "https://rules.nullsignal.games/?r=sec_link"
+}

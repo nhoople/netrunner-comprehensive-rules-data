@@ -1,0 +1,44 @@
+{
+  "id": "rule_break_subroutine",
+  "kind": "rule",
+  "number": "9.8.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_subroutines",
+  "child_ids": [],
+  "text_markup": "To {term:break} a subroutine is to change its status with respect to the active encounter from unbroken to broken. Many cards that can allow a player to break subroutines are icebreakers (see {ref:subsec_icebreakers}). If the Runner breaks all the subroutines on the encountered ice, they fully break that ice (see {ref:subsec_fully_break}).",
+  "text_plain": "To break a subroutine is to change its status with respect to the active encounter from unbroken to broken. Many cards that can allow a player to break subroutines are icebreakers (see section 3.9.5). If the Runner breaks all the subroutines on the encountered ice, they fully break that ice (see section 6.5.7).",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 8,
+      "target": "break"
+    },
+    {
+      "type": "ref",
+      "start": 185,
+      "end": 198,
+      "ids": [
+        "subsec_icebreakers"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 297,
+      "end": 310,
+      "ids": [
+        "subsec_fully_break"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_break_subroutine"
+}

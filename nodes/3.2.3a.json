@@ -1,0 +1,19 @@
+{
+  "id": "rule_agendas_faceup",
+  "kind": "rule",
+  "number": "3.2.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_agendas_not_rezzed",
+  "child_ids": [],
+  "text_markup": "Some agendas may be installed faceup or turned faceup through card abilities. Faceup agendas are neither rezzed nor unrezzed. If an agenda's printed text directs the Corp to install it faceup, that agenda's abilities are active while it is installed.",
+  "text_plain": "Some agendas may be installed faceup or turned faceup through card abilities. Faceup agendas are neither rezzed nor unrezzed. If an agenda's printed text directs the Corp to install it faceup, that agenda's abilities are active while it is installed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_agendas_faceup"
+}

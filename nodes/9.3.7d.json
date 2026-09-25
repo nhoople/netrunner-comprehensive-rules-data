@@ -1,0 +1,29 @@
+{
+  "id": "rule_play_abilities_link",
+  "kind": "rule",
+  "number": "9.3.7d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_classification",
+  "child_ids": [],
+  "text_markup": "Play abilities ({ref:sec_play_abilities}) are the abilities on events and operations that are not paid, conditional, or static abilities. They can contain conditions, restrictions, and/or instructions.",
+  "text_plain": "Play abilities (section 9.7) are the abilities on events and operations that are not paid, conditional, or static abilities. They can contain conditions, restrictions, and/or instructions.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 16,
+      "end": 27,
+      "ids": [
+        "sec_play_abilities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_abilities_link"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sec_appendix_timing_structure_of_breaching_a_server_4",
+  "kind": "timing_structure",
+  "number": "11.5_4",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_of_breaching_a_server",
+  "child_ids": [
+    "sec_appendix_timing_structure_of_breaching_a_server_4_a",
+    "sec_appendix_timing_structure_of_breaching_a_server_4_b"
+  ],
+  "text_markup": "Are there candidate cards remaining to access?",
+  "text_plain": "Are there candidate cards remaining to access?",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_breaching_a_server_4"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "rule_valid_search_target_install_play__example_2",
+  "kind": "example",
+  "number": "8.7.2b.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_valid_search_target_install_play",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Self-modifying Code} to search for a program and install it. They have no more credits after using the ability of {card:Self-modifying Code}, but they have an installed copy of {card:Patchwork}. They can search for {card:Imp} and install it, but they must use {card:Patchwork} by trashing a card from their grip to install {card:Imp}. If the Runner does not have a card in their grip, they cannot find and install {card:Imp}.",
+  "text_plain": "The Runner uses Self-modifying Code to search for a program and install it. They have no more credits after using the ability of Self-modifying Code, but they have an installed copy of Patchwork. They can search for Imp and install it, but they must use Patchwork by trashing a card from their grip to install Imp. If the Runner does not have a card in their grip, they cannot find and install Imp.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 35,
+      "target": "Self-modifying Code",
+      "card_code": "26090"
+    },
+    {
+      "type": "card",
+      "start": 129,
+      "end": 148,
+      "target": "Self-modifying Code",
+      "card_code": "26090"
+    },
+    {
+      "type": "card",
+      "start": 185,
+      "end": 194,
+      "target": "Patchwork",
+      "card_code": "22004"
+    },
+    {
+      "type": "card",
+      "start": 216,
+      "end": 219,
+      "target": "Imp",
+      "card_code": "31007"
+    },
+    {
+      "type": "card",
+      "start": 254,
+      "end": 263,
+      "target": "Patchwork",
+      "card_code": "22004"
+    },
+    {
+      "type": "card",
+      "start": 310,
+      "end": 313,
+      "target": "Imp",
+      "card_code": "31007"
+    },
+    {
+      "type": "card",
+      "start": 394,
+      "end": 397,
+      "target": "Imp",
+      "card_code": "31007"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

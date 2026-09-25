@@ -1,0 +1,25 @@
+{
+  "id": "rule_run_ends_lose_bad_pub_credits",
+  "kind": "rule",
+  "number": "6.8.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_run_ends_phase",
+  "child_ids": [],
+  "text_markup": "During the Run Ends Phase, if {n}there are any credits remaining in the Runner's bad publicity fund, those credits are returned to the bank.{/n}",
+  "text_plain": "During the Run Ends Phase, if there are any credits remaining in the Runner's bad publicity fund, those credits are returned to the bank.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 30,
+      "end": 137
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_run_ends_lose_bad_pub_credits"
+}

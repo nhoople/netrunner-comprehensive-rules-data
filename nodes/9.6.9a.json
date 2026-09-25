@@ -1,0 +1,19 @@
+{
+  "id": "rule_pass_with_optional_conditional_abilities_pending",
+  "kind": "rule",
+  "number": "9.6.9a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_optional_conditional_ability",
+  "child_ids": [],
+  "text_markup": "Instances of optional conditional abilities can still be pending when their controller passes in the corresponding priority window. Players are not required to trigger optional conditional abilities.",
+  "text_plain": "Instances of optional conditional abilities can still be pending when their controller passes in the corresponding priority window. Players are not required to trigger optional conditional abilities.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_pass_with_optional_conditional_abilities_pending"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_ice_strength_modification_duration",
+  "kind": "rule",
+  "number": "3.4.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ice_strength_value",
+  "child_ids": [
+    "rule_ice_strength_modification_duration__example_1"
+  ],
+  "text_markup": "If an ability modifies the strength of a piece of ice for the remainder of a run, and that ability resolves during an encounter outside of a run, the modification instead lasts for the remainder of that encounter.",
+  "text_plain": "If an ability modifies the strength of a piece of ice for the remainder of a run, and that ability resolves during an encounter outside of a run, the modification instead lasts for the remainder of that encounter.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_ice_strength_modification_duration__example_1",
+      "text_markup": "The Runner accesses and encounters an {card:Archangel} in HQ with {card:Gang Sign}. The Runner uses {card:Devil Charm} to lower the strength of {card:Archangel}. That strength reduction would normally last for the remainder of the current run, but since no run is in progress, it instead lasts for the remainder of the encounter.",
+      "text_plain": "The Runner accesses and encounters an Archangel in HQ with Gang Sign. The Runner uses Devil Charm to lower the strength of Archangel. That strength reduction would normally last for the remainder of the current run, but since no run is in progress, it instead lasts for the remainder of the encounter.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_strength_modification_duration"
+}

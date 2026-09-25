@@ -1,0 +1,41 @@
+{
+  "id": "rule_if_successful_tied_to_server__example_1",
+  "kind": "example",
+  "number": "6.7.4a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_if_successful_tied_to_server",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:Because I Can}, which directs them to make a run on a remote server. If an effect moves the run to a central server, the \"If successful\" effect on {card:Because I Can} will not apply. However, if the run is moved instead to another remote server, the \"If successful\" effect is still applied, since {card:Because I Can} would have allowed a run on the second remote server to begin with.",
+  "text_plain": "The Runner plays Because I Can, which directs them to make a run on a remote server. If an effect moves the run to a central server, the \"If successful\" effect on Because I Can will not apply. However, if the run is moved instead to another remote server, the \"If successful\" effect is still applied, since Because I Can would have allowed a run on the second remote server to begin with.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 30,
+      "target": "Because I Can",
+      "card_code": "21066"
+    },
+    {
+      "type": "card",
+      "start": 163,
+      "end": 176,
+      "target": "Because I Can",
+      "card_code": "21066"
+    },
+    {
+      "type": "card",
+      "start": 307,
+      "end": 320,
+      "target": "Because I Can",
+      "card_code": "21066"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

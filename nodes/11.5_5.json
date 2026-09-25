@@ -1,0 +1,19 @@
+{
+  "id": "sec_appendix_timing_structure_of_breaching_a_server_5",
+  "kind": "timing_structure",
+  "number": "11.5_5",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_of_breaching_a_server",
+  "child_ids": [],
+  "text_markup": "The Runner accesses the chosen card.",
+  "text_plain": "The Runner accesses the chosen card.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_breaching_a_server_5"
+}

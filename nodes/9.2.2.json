@@ -1,0 +1,32 @@
+{
+  "id": "rule_timing_structure",
+  "kind": "subsection",
+  "number": "9.2.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_timing_and_priority",
+  "child_ids": [
+    "rule_turn_timing_structure",
+    "rule_run_timing_structure",
+    "rule_breaching_timing_structure",
+    "rule_accessing_timing_structure",
+    "rule_not_timing_structures"
+  ],
+  "text_markup": "A {term:timing structure} is a unit of the game in which a prescribed sequence of steps progress the game forward.",
+  "text_plain": "A timing structure is a unit of the game in which a prescribed sequence of steps progress the game forward.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 18,
+      "target": "timing structure"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_timing_structure"
+}

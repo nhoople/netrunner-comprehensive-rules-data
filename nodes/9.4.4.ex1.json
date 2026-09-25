@@ -1,0 +1,75 @@
+{
+  "id": "rule_static_no_lingering_effects__example_1",
+  "kind": "example",
+  "number": "9.4.4.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_static_no_lingering_effects",
+  "child_ids": [],
+  "text_markup": "The runner controls {card:Puffer} with a hosted {card:Gebrselassie}. {card:Gebrselassie} changes the durations of abilities affecting its host's strength, so if the Runner uses {card:Puffer}'s paid ability to give it +1 strength, that increase will last for the remainder of the turn. {card:Gebrselassie} does not affect {card:Puffer}'s static ability that increases its strength for each hosted power counter, so if the Runner spends [click] to remove a power counter, then the increase in strength from {card:Puffer}'s static ability will immediately be lost.",
+  "text_plain": "The runner controls Puffer with a hosted Gebrselassie. Gebrselassie changes the durations of abilities affecting its host's strength, so if the Runner uses Puffer's paid ability to give it +1 strength, that increase will last for the remainder of the turn. Gebrselassie does not affect Puffer's static ability that increases its strength for each hosted power counter, so if the Runner spends {click} to remove a power counter, then the increase in strength from Puffer's static ability will immediately be lost.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 26,
+      "target": "Puffer",
+      "card_code": "21004"
+    },
+    {
+      "type": "card",
+      "start": 41,
+      "end": 53,
+      "target": "Gebrselassie",
+      "card_code": "21087"
+    },
+    {
+      "type": "card",
+      "start": 55,
+      "end": 67,
+      "target": "Gebrselassie",
+      "card_code": "21087"
+    },
+    {
+      "type": "card",
+      "start": 156,
+      "end": 162,
+      "target": "Puffer",
+      "card_code": "21004"
+    },
+    {
+      "type": "card",
+      "start": 257,
+      "end": 269,
+      "target": "Gebrselassie",
+      "card_code": "21087"
+    },
+    {
+      "type": "card",
+      "start": 286,
+      "end": 292,
+      "target": "Puffer",
+      "card_code": "21004"
+    },
+    {
+      "type": "symbol",
+      "start": 393,
+      "end": 400,
+      "target": "click"
+    },
+    {
+      "type": "card",
+      "start": 463,
+      "end": 469,
+      "target": "Puffer",
+      "card_code": "21004"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

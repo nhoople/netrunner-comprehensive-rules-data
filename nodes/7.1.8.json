@@ -1,0 +1,34 @@
+{
+  "id": "rule_end_run_ends_access",
+  "kind": "rule",
+  "number": "7.1.8",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_accessing_cards",
+  "child_ids": [],
+  "text_markup": "{n}An \"end the run\" effect that resolves while a card is being accessed can sometimes end that access. See {ref:rule_end_the_run}.{/n}",
+  "text_plain": "An \"end the run\" effect that resolves while a card is being accessed can sometimes end that access. See section 6.1.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 104,
+      "end": 117,
+      "ids": [
+        "rule_end_the_run"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "new",
+      "start": 0,
+      "end": 118
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_end_run_ends_access"
+}

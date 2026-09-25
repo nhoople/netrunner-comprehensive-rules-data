@@ -1,0 +1,19 @@
+{
+  "id": "rule_active_exception_access",
+  "kind": "rule",
+  "number": "9.1.8a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_active_inactive_source_card",
+  "child_ids": [],
+  "text_markup": "Conditional abilities that meet their conditions when their source card is accessed are active even while that card is inactive.",
+  "text_plain": "Conditional abilities that meet their conditions when their source card is accessed are active even while that card is inactive.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_active_exception_access"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_bid_spent_immediately",
+  "kind": "rule",
+  "number": "10.14.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_bid_reveal_spend",
+  "child_ids": [],
+  "text_markup": "Spending credits for a revealed bid is not a conditional ability and does not wait for a checkpoint or priority window after revealing the number of credits bid.",
+  "text_plain": "Spending credits for a revealed bid is not a conditional ability and does not wait for a checkpoint or priority window after revealing the number of credits bid.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bid_spent_immediately"
+}

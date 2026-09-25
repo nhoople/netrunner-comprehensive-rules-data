@@ -1,0 +1,29 @@
+{
+  "id": "rule_unsuccessful_run",
+  "kind": "subsection",
+  "number": "6.8.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_run_ends_phase",
+  "child_ids": [
+    "rule_not_unsuccessful_when_reached_success_phase",
+    "rule_server_cease_to_exist_unsuccesful_exception"
+  ],
+  "text_markup": "As part of the Run Ends Phase, the game determines whether the run should be declared an {term:unsuccessful run}. This is a label applied to runs in which the Runner failed to reach the server they attacked, and is referred to by card abilities. The run is declared unsuccessful if neither of the following conditions have been met:",
+  "text_plain": "As part of the Run Ends Phase, the game determines whether the run should be declared an unsuccessful run. This is a label applied to runs in which the Runner failed to reach the server they attacked, and is referred to by card abilities. The run is declared unsuccessful if neither of the following conditions have been met:",
+  "spans": [
+    {
+      "type": "term",
+      "start": 89,
+      "end": 105,
+      "target": "unsuccessful run"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_unsuccessful_run"
+}

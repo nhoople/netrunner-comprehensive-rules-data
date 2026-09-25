@@ -1,0 +1,19 @@
+{
+  "id": "rule_ice_same_position",
+  "kind": "rule",
+  "number": "4.6.9c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_protecting_a_server",
+  "child_ids": [],
+  "text_markup": "If two pieces of ice protecting two different servers share the same number of ice between them and their respective servers, those pieces of ice are considered to be in the same position.",
+  "text_plain": "If two pieces of ice protecting two different servers share the same number of ice between them and their respective servers, those pieces of ice are considered to be in the same position.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_same_position"
+}

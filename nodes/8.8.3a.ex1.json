@@ -1,0 +1,55 @@
+{
+  "id": "rule_swap_installed_cards_preserves_hosting__example_1",
+  "kind": "example",
+  "number": "8.8.3a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_swap_installed_cards_preserves_hosting",
+  "child_ids": [],
+  "text_markup": "The Corp uses {card:Thimblerig}'s ability to swap it with a {card:Palisade} hosting {card:Botulus}. The {card:Botulus} remains hosted on the {card:Palisade} throughout this process.",
+  "text_plain": "The Corp uses Thimblerig's ability to swap it with a Palisade hosting Botulus. The Botulus remains hosted on the Palisade throughout this process.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 14,
+      "end": 24,
+      "target": "Thimblerig",
+      "card_code": "22039"
+    },
+    {
+      "type": "card",
+      "start": 53,
+      "end": 61,
+      "target": "Palisade",
+      "card_code": "30072"
+    },
+    {
+      "type": "card",
+      "start": 70,
+      "end": 77,
+      "target": "Botulus",
+      "card_code": "30004"
+    },
+    {
+      "type": "card",
+      "start": 83,
+      "end": 90,
+      "target": "Botulus",
+      "card_code": "30004"
+    },
+    {
+      "type": "card",
+      "start": 113,
+      "end": 121,
+      "target": "Palisade",
+      "card_code": "30072"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_checkpoint_timing_structure",
+  "kind": "rule",
+  "number": "9.11.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction_pause",
+  "child_ids": [],
+  "text_markup": "When a timing structure is opened, the checkpoints in that timing structure are carried out. See {ref:rule_timing_structure} for a list of timing structures.",
+  "text_plain": "When a timing structure is opened, the checkpoints in that timing structure are carried out. See section 9.2.2 for a list of timing structures.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 97,
+      "end": 110,
+      "ids": [
+        "rule_timing_structure"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_checkpoint_timing_structure"
+}

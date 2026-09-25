@@ -1,0 +1,42 @@
+{
+  "id": "rule_bid_possible",
+  "kind": "rule",
+  "number": "10.14.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_bidding",
+  "child_ids": [
+    "rule_bid_possible__example_1",
+    "rule_bid_possible__example_2"
+  ],
+  "text_markup": "A player cannot bid a number of credits they are unable to spend. Players can always bid 0[c].",
+  "text_plain": "A player cannot bid a number of credits they are unable to spend. Players can always bid 0{c}.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 90,
+      "end": 93,
+      "target": "credit"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_bid_possible__example_1",
+      "text_markup": "The Runner has no credits in their credit pool and 1 credit hosted on {card:Fencer Fueno} when they make a successful run on a server with {card:Adrian Seis} rezzed in its root. When the ability on {card:Adrian Seis} resolves, the players play a Psi Game, which requires them both to bid 0, 1, or 2[c]. In this case, the Runner cannot bid 2[c], as they are not able to spend that number of credits. They can, however, bid 1[c], as they will be able to spend the credit from {card:Fencer Fueno} to pay for that bid.",
+      "text_plain": "The Runner has no credits in their credit pool and 1 credit hosted on Fencer Fueno when they make a successful run on a server with Adrian Seis rezzed in its root. When the ability on Adrian Seis resolves, the players play a Psi Game, which requires them both to bid 0, 1, or 2{c}. In this case, the Runner cannot bid 2{c}, as they are not able to spend that number of credits. They can, however, bid 1{c}, as they will be able to spend the credit from Fencer Fueno to pay for that bid.",
+      "is_new": false
+    },
+    {
+      "id": "rule_bid_possible__example_2",
+      "text_markup": "The Runner encounters {card:RSVP} and its subroutine resolves. Later in that run, they are required to bid credits by another ability. Since the effect of {card:RSVP}'s subroutine prohibits the Runner from spending credits, they must bid 0[c].",
+      "text_plain": "The Runner encounters RSVP and its subroutine resolves. Later in that run, they are required to bid credits by another ability. Since the effect of RSVP's subroutine prohibits the Runner from spending credits, they must bid 0{c}.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bid_possible"
+}

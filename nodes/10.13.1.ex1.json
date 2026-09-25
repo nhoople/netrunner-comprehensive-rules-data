@@ -1,0 +1,27 @@
+{
+  "id": "rule_dividends__example_1",
+  "kind": "example",
+  "number": "10.13.1.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_dividends",
+  "child_ids": [],
+  "text_markup": "The Corp scores {card:Embedded Reporting} with 5 advancement counters on it. The Corp will put 4 agenda counters on the agenda in their score area, 2 agenda counters for each of the 2 excess advancement counters.",
+  "text_plain": "The Corp scores Embedded Reporting with 5 advancement counters on it. The Corp will put 4 agenda counters on the agenda in their score area, 2 agenda counters for each of the 2 excess advancement counters.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 34,
+      "target": "Embedded Reporting",
+      "card_code": "35059"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

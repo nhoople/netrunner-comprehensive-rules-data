@@ -1,0 +1,38 @@
+{
+  "id": "rule_runner_turn_phases",
+  "kind": "rule",
+  "number": "5.1.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_turn_general",
+  "child_ids": [],
+  "text_markup": "The Runner's turn consists of two phases. During the {term: action phase}, the Runner spends [click]s to perform actions; during the {term: discard phase}, the Runner discards until the number of cards in their grip does not exceed their maximum hand size. Once the Runner's turn ends, the Corp's turn begins.",
+  "text_plain": "The Runner's turn consists of two phases. During the  action phase, the Runner spends {click}s to perform actions; during the  discard phase, the Runner discards until the number of cards in their grip does not exceed their maximum hand size. Once the Runner's turn ends, the Corp's turn begins.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 53,
+      "end": 66,
+      "target": " action phase"
+    },
+    {
+      "type": "symbol",
+      "start": 86,
+      "end": 93,
+      "target": "click"
+    },
+    {
+      "type": "term",
+      "start": 126,
+      "end": 140,
+      "target": " discard phase"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_runner_turn_phases"
+}

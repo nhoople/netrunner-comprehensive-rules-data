@@ -1,0 +1,55 @@
+{
+  "id": "rule_end_encounter_outside_run__example_1",
+  "kind": "example",
+  "number": "6.1.4b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_end_encounter_outside_run",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Detente} to access a card in HQ while there is no run in progress. They access {card:Ganked!} and are forced to encounter {card:Loot Box}. The Runner chooses to neither break any subroutines nor spend credits for {card:Loot Box}'s first subroutine, so that subroutine tries to end the run. There is no run to end, but this effect still ends the encounter. The second subroutine on {card:Loot Box} will not resolve.",
+  "text_plain": "The Runner uses Detente to access a card in HQ while there is no run in progress. They access Ganked! and are forced to encounter Loot Box. The Runner chooses to neither break any subroutines nor spend credits for Loot Box's first subroutine, so that subroutine tries to end the run. There is no run to end, but this effect still ends the encounter. The second subroutine on Loot Box will not resolve.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 23,
+      "target": "Detente",
+      "card_code": "35018"
+    },
+    {
+      "type": "card",
+      "start": 94,
+      "end": 101,
+      "target": "Ganked!",
+      "card_code": "26119"
+    },
+    {
+      "type": "card",
+      "start": 130,
+      "end": 138,
+      "target": "Loot Box",
+      "card_code": "26051"
+    },
+    {
+      "type": "card",
+      "start": 214,
+      "end": 222,
+      "target": "Loot Box",
+      "card_code": "26051"
+    },
+    {
+      "type": "card",
+      "start": 375,
+      "end": 383,
+      "target": "Loot Box",
+      "card_code": "26051"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

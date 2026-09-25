@@ -1,0 +1,32 @@
+{
+  "id": "rule_use_trash_ability",
+  "kind": "rule",
+  "number": "1.19.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trash_symbol",
+  "child_ids": [],
+  "text_markup": "Some paid abilities have multiple options for their trigger cost, separated by \"or\". A player triggering such an ability only \"used a [trash] ability\" if the actual cost that was paid includes [trash].",
+  "text_plain": "Some paid abilities have multiple options for their trigger cost, separated by \"or\". A player triggering such an ability only \"used a {trash} ability\" if the actual cost that was paid includes {trash}.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 134,
+      "end": 141,
+      "target": "trash"
+    },
+    {
+      "type": "symbol",
+      "start": 193,
+      "end": 200,
+      "target": "trash"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_use_trash_ability"
+}

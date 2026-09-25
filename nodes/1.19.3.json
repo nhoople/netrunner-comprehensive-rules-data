@@ -1,0 +1,19 @@
+{
+  "id": "rule_trashed_vs_discarded",
+  "kind": "rule",
+  "number": "1.19.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_trashing",
+  "child_ids": [],
+  "text_markup": "A trashed card is not considered to have been discarded, and vice versa. Cards that prevent a card from being trashed cannot prevent a card from being discarded.",
+  "text_plain": "A trashed card is not considered to have been discarded, and vice versa. Cards that prevent a card from being trashed cannot prevent a card from being discarded.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trashed_vs_discarded"
+}

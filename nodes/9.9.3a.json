@@ -1,0 +1,29 @@
+{
+  "id": "rule_prevent_relevant",
+  "kind": "rule",
+  "number": "9.9.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_relevant_interrupts",
+  "child_ids": [],
+  "text_markup": "Its effects could prevent or avoid part or all of the imminent instruction's expected effects. See {ref:sec_prevent_avoid}.",
+  "text_plain": "Its effects could prevent or avoid part or all of the imminent instruction's expected effects. See section 9.9.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 99,
+      "end": 112,
+      "ids": [
+        "sec_prevent_avoid"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_prevent_relevant"
+}

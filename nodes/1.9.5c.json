@@ -1,0 +1,35 @@
+{
+  "id": "rule_type_tag_counter",
+  "kind": "rule",
+  "number": "1.9.5c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_counter_types",
+  "child_ids": [],
+  "text_markup": "{term:Tag counters} are used to represent tags on the Runner. Rules for tags are given in {ref:sec_tags}.",
+  "text_plain": "Tag counters are used to represent tags on the Runner. Rules for tags are given in section 10.5.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 12,
+      "target": "Tag counters"
+    },
+    {
+      "type": "ref",
+      "start": 83,
+      "end": 95,
+      "ids": [
+        "sec_tags"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_type_tag_counter"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rule_trash_ability_keeps_track_of_hosted_objects__example_2",
+  "kind": "example",
+  "number": "9.5.5.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_trash_ability_keeps_track_of_hosted_objects",
+  "child_ids": [],
+  "text_markup": "The Runner uses the [trash] ability on {card:Street Peddler}. They pay the trigger cost and set the 3 hosted cards aside. When the ability resolves, the Runner installs one of the set-aside cards. Since the other two cards are still set aside, the next checkpoint trashes them just as in any other case of cards that were hosted on a card that is no longer installed. No other abilities are able to tell that the cards were set aside: they are treated as having been installed or trashed from their previous location in the play area.",
+  "text_plain": "The Runner uses the {trash} ability on Street Peddler. They pay the trigger cost and set the 3 hosted cards aside. When the ability resolves, the Runner installs one of the set-aside cards. Since the other two cards are still set aside, the next checkpoint trashes them just as in any other case of cards that were hosted on a card that is no longer installed. No other abilities are able to tell that the cards were set aside: they are treated as having been installed or trashed from their previous location in the play area.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 20,
+      "end": 27,
+      "target": "trash"
+    },
+    {
+      "type": "card",
+      "start": 39,
+      "end": 53,
+      "target": "Street Peddler",
+      "card_code": "08062"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

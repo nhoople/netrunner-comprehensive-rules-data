@@ -1,0 +1,41 @@
+{
+  "id": "rule_controller_choices__example_1",
+  "kind": "example",
+  "number": "1.14.5.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_controller_choices",
+  "child_ids": [],
+  "text_markup": "{card:Rototurret}'s first subroutine reads, \"Trash 1 installed program.\" Since {card:Rototurret} is a Corp card, the Corp chooses which installed program to trash. Conversely, {card:Bulwark}'s first subroutine reads, \"The Runner trashes 1 installed program.\" Since the Runner is specified to be carrying out this effect, they choose which of their installed programs to trash.",
+  "text_plain": "Rototurret's first subroutine reads, \"Trash 1 installed program.\" Since Rototurret is a Corp card, the Corp chooses which installed program to trash. Conversely, Bulwark's first subroutine reads, \"The Runner trashes 1 installed program.\" Since the Runner is specified to be carrying out this effect, they choose which of their installed programs to trash.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 10,
+      "target": "Rototurret",
+      "card_code": "31046"
+    },
+    {
+      "type": "card",
+      "start": 72,
+      "end": 82,
+      "target": "Rototurret",
+      "card_code": "31046"
+    },
+    {
+      "type": "card",
+      "start": 162,
+      "end": 169,
+      "target": "Bulwark",
+      "card_code": "11078"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_steps_installing_installed_condition",
+  "kind": "rule",
+  "number": "8.5.16f",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_installing",
+  "child_ids": [],
+  "text_markup": "Any \"When installed...\" abilities that apply to the installation meet their trigger conditions, including those on the installed card, and the install effect is complete.",
+  "text_plain": "Any \"When installed...\" abilities that apply to the installation meet their trigger conditions, including those on the installed card, and the install effect is complete.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_steps_installing_installed_condition"
+}

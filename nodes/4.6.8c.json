@@ -1,0 +1,19 @@
+{
+  "id": "rule_separate_remote_servers",
+  "kind": "rule",
+  "number": "4.6.8c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_remote_servers",
+  "child_ids": [],
+  "text_markup": "Cards installed in the roots of separate remote servers are placed in a vertical orientation in a row extending away from the central servers to indicate the locations of the remote servers relative to other servers. The ice installed protecting each remote server are placed in a horizontal orientation in front of any cards in the root of that server, outwards towards the Runner.",
+  "text_plain": "Cards installed in the roots of separate remote servers are placed in a vertical orientation in a row extending away from the central servers to indicate the locations of the remote servers relative to other servers. The ice installed protecting each remote server are placed in a horizontal orientation in front of any cards in the root of that server, outwards towards the Runner.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_separate_remote_servers"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_server_icon",
+  "kind": "rule",
+  "number": "2.18.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_server_indicator",
+  "child_ids": [],
+  "text_markup": "The 3 server indicator icons are: an office building (representing HQ), a laboratory flask (representing R&D), and a computer server (representing Archives).",
+  "text_plain": "The 3 server indicator icons are: an office building (representing HQ), a laboratory flask (representing R&D), and a computer server (representing Archives).",
+  "spans": [],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_server_icon"
+}

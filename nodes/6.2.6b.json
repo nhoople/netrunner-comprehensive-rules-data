@@ -1,0 +1,28 @@
+{
+  "id": "rule_ice_change_inward",
+  "kind": "rule",
+  "number": "6.2.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ice_change_can_affect_position",
+  "child_ids": [
+    "rule_ice_change_inward__example_1"
+  ],
+  "text_markup": "If a position inward from the Runner's current position is added to or removed from the attacked server, the ice the Runner will need to approach and/or encounter changes accordingly.",
+  "text_plain": "If a position inward from the Runner's current position is added to or removed from the attacked server, the ice the Runner will need to approach and/or encounter changes accordingly.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_ice_change_inward__example_1",
+      "text_markup": "The Runner encounters {card:Brân 1.0} and breaks its last two subroutines. {card:Brân 1.0}'s first subroutine resolves and the Corp installs a new piece of ice in the next inward position protecting the server. The Runner will have to approach that new piece of ice later in this run because its position is inward from their current position.",
+      "text_plain": "The Runner encounters Brân 1.0 and breaks its last two subroutines. Brân 1.0's first subroutine resolves and the Corp installs a new piece of ice in the next inward position protecting the server. The Runner will have to approach that new piece of ice later in this run because its position is inward from their current position.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_change_inward"
+}

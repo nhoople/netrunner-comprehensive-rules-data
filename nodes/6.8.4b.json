@@ -1,0 +1,29 @@
+{
+  "id": "rule_server_cease_to_exist_unsuccesful_exception",
+  "kind": "rule",
+  "number": "6.8.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_unsuccessful_run",
+  "child_ids": [],
+  "text_markup": "If the attacked server has ceased to exist, the run is not declared unsuccessful. See {ref:rule_server_ceases_to_exist}.",
+  "text_plain": "If the attacked server has ceased to exist, the run is not declared unsuccessful. See rule 8.5.8.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 86,
+      "end": 96,
+      "ids": [
+        "rule_server_ceases_to_exist"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_server_cease_to_exist_unsuccesful_exception"
+}

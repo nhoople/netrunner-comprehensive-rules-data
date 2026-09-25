@@ -1,0 +1,27 @@
+{
+  "id": "sec_discard_pile",
+  "kind": "section",
+  "number": "4.4",
+  "ref_type": "section",
+  "title": "Discard Pile",
+  "parent_id": "chpt_game_zones",
+  "child_ids": [
+    "rule_discard_pile",
+    "rule_discard_pile_unordered",
+    "rule_discard_pile_open_info",
+    "rule_discard_pile_inactive",
+    "rule_discard_pile_inactive_name",
+    "subsec_archives",
+    "subsec_heap"
+  ],
+  "text_markup": "Discard Pile",
+  "text_plain": "Discard Pile",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_discard_pile"
+}

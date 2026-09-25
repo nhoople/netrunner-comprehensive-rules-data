@@ -1,0 +1,48 @@
+{
+  "id": "rule_negative_values_resolution",
+  "kind": "rule",
+  "number": "9.9.7d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_calculating_expected_effect_values",
+  "child_ids": [
+    "rule_negative_values_resolution__example_1"
+  ],
+  "text_markup": "Some types of values must be greater than 0 for the associated effect to occur. See {ref:sec_modifiable_values}. At the time an instruction resolves, if any value of one of those types is 0 or less, as much of that ability resolves as possible without applying the part of the effect making use of that value, following {ref:rule_if_able,rule_do_as_much_as_you_can} of the Golden Rules.",
+  "text_plain": "Some types of values must be greater than 0 for the associated effect to occur. See section 9.9.6. At the time an instruction resolves, if any value of one of those types is 0 or less, as much of that ability resolves as possible without applying the part of the effect making use of that value, following rules 1.2.3 and 1.2.4 of the Golden Rules.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 84,
+      "end": 97,
+      "ids": [
+        "sec_modifiable_values"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 306,
+      "end": 327,
+      "ids": [
+        "rule_if_able",
+        "rule_do_as_much_as_you_can"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_negative_values_resolution__example_1",
+      "text_markup": "The Runner accesses {card:Breached Dome}. While the instruction from its \"when accessed\" ability is imminent, the Runner uses {card:Biometric Spoofing} to prevent 2 damage. When the ability resolves, the value for the amount of damage is -1, which is less than or equal to 0, so the damage effect cannot occur and the Corp only trashes the top card of the stack.",
+      "text_plain": "The Runner accesses Breached Dome. While the instruction from its \"when accessed\" ability is imminent, the Runner uses Biometric Spoofing to prevent 2 damage. When the ability resolves, the value for the amount of damage is -1, which is less than or equal to 0, so the damage effect cannot occur and the Corp only trashes the top card of the stack.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_negative_values_resolution"
+}

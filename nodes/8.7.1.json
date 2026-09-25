@@ -1,0 +1,28 @@
+{
+  "id": "rule_search",
+  "kind": "subsection",
+  "number": "8.7.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_searching_cards",
+  "child_ids": [
+    "rule_search_hidden_secret_zone"
+  ],
+  "text_markup": "If a player is instructed to {term:search} a zone for one or more cards, they look at all the cards in that zone for cards matching the criteria of the search.",
+  "text_plain": "If a player is instructed to search a zone for one or more cards, they look at all the cards in that zone for cards matching the criteria of the search.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 29,
+      "end": 35,
+      "target": "search"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_search"
+}

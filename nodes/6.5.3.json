@@ -1,0 +1,29 @@
+{
+  "id": "rule_encounter_unbroken_sub_status",
+  "kind": "rule",
+  "number": "6.5.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_encounter_ice_phase",
+  "child_ids": [],
+  "text_markup": "As each encounter begins, each subroutine on the encountered ice gains an \"unbroken\" status associated with that encounter. See {ref:sec_subroutines} for details.",
+  "text_plain": "As each encounter begins, each subroutine on the encountered ice gains an \"unbroken\" status associated with that encounter. See section 9.8 for details.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 128,
+      "end": 139,
+      "ids": [
+        "sec_subroutines"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_encounter_unbroken_sub_status"
+}

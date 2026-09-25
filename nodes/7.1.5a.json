@@ -1,0 +1,19 @@
+{
+  "id": "rule_paying_trash_costs",
+  "kind": "rule",
+  "number": "7.1.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_basic_trash_ability",
+  "child_ids": [],
+  "text_markup": "All assets and upgrades have trash costs, as do some ice and operations. If a card does not have a trash cost, the Runner cannot pay its trash cost, and therefore the Runner cannot use the basic trash ability during that access.",
+  "text_plain": "All assets and upgrades have trash costs, as do some ice and operations. If a card does not have a trash cost, the Runner cannot pay its trash cost, and therefore the Runner cannot use the basic trash ability during that access.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_paying_trash_costs"
+}

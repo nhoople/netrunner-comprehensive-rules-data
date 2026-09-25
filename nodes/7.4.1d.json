@@ -1,0 +1,19 @@
+{
+  "id": "rule_candidates_in_archives",
+  "kind": "rule",
+  "number": "7.4.1d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_candidates_beginning_breach",
+  "child_ids": [],
+  "text_markup": "If the breached server is Archives, each card in the Corp's discard pile is a candidate.",
+  "text_plain": "If the breached server is Archives, each card in the Corp's discard pile is a candidate.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_candidates_in_archives"
+}

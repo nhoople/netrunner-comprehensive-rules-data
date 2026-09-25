@@ -1,0 +1,28 @@
+{
+  "id": "rule_candidates_leaving_server",
+  "kind": "rule",
+  "number": "7.4.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_determining_candidates",
+  "child_ids": [
+    "rule_candidates_leaving_server__example_1"
+  ],
+  "text_markup": "If a candidate leaves the breached server, it ceases to be a candidate. Note that the moved card could be a new object, which could be eligible to become a new candidate if appropriate.",
+  "text_plain": "If a candidate leaves the breached server, it ceases to be a candidate. Note that the moved card could be a new object, which could be eligible to become a new candidate if appropriate.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_candidates_leaving_server__example_1",
+      "text_markup": "The Runner trashes an installed upgrade during a breach of Archives. That card moves to the Corp's discard pile. The new object for the upgrade's existence in the Corp's discard pile becomes a candidate, so the Runner will access the same physical card twice during this breach.",
+      "text_plain": "The Runner trashes an installed upgrade during a breach of Archives. That card moves to the Corp's discard pile. The new object for the upgrade's existence in the Corp's discard pile becomes a candidate, so the Runner will access the same physical card twice during this breach.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_candidates_leaving_server"
+}

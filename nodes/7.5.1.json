@@ -1,0 +1,19 @@
+{
+  "id": "step_breaching_begins",
+  "kind": "rule",
+  "number": "7.5.1",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_breaching_steps",
+  "child_ids": [],
+  "text_markup": "Breaching the server formally begins. Conditions related to breaching this server are met.",
+  "text_plain": "Breaching the server formally begins. Conditions related to breaching this server are met.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_breaching_begins"
+}

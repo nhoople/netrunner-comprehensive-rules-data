@@ -1,0 +1,27 @@
+{
+  "id": "rule_prevent_all_but_one",
+  "kind": "rule",
+  "number": "9.9.7c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_calculating_expected_effect_values",
+  "child_ids": [],
+  "text_markup": "One card, {card:Bio-Modeled Network}, has an instruction that prevents \"all but 1 net damage.\" This ability is relevant when the imminent instruction's expected effects include doing net damage and the amount of the damage is 2 or more. The effect of this ability is to set the value for the amount of damage to 1. Previously-applied modifiers to the value are ignored. The value can still be modified by other interrupts after being set to 1 this way.",
+  "text_plain": "One card, Bio-Modeled Network, has an instruction that prevents \"all but 1 net damage.\" This ability is relevant when the imminent instruction's expected effects include doing net damage and the amount of the damage is 2 or more. The effect of this ability is to set the value for the amount of damage to 1. Previously-applied modifiers to the value are ignored. The value can still be modified by other interrupts after being set to 1 this way.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 29,
+      "target": "Bio-Modeled Network",
+      "card_code": "12006"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_prevent_all_but_one"
+}

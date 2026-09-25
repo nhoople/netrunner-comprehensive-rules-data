@@ -1,0 +1,24 @@
+{
+  "id": "sec_discard_phase",
+  "kind": "section",
+  "number": "5.5",
+  "ref_type": "section",
+  "title": "Discard Phase",
+  "parent_id": "chpt_turns",
+  "child_ids": [
+    "rule_discard_phase_definition",
+    "rule_discard_phase_discarding",
+    "rule_max_hand_size",
+    "rule_discard_step"
+  ],
+  "text_markup": "Discard Phase",
+  "text_plain": "Discard Phase",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_discard_phase"
+}

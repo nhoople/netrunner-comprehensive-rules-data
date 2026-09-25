@@ -1,0 +1,38 @@
+{
+  "id": "rule_reveal_from_hidden",
+  "kind": "rule",
+  "number": "4.1.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_move_between_zones",
+  "child_ids": [
+    "rule_reveal_from_hidden__example_1"
+  ],
+  "text_markup": "If a facedown card or a card in a hidden zone would ever move to another zone as part of an effect that requires that card to have a specific attribute, that card must be revealed before being moved to the new zone. If the card is being installed, this rule only applies as indicated by {ref:rule_install_from_hidden_or_secret_zone}.",
+  "text_plain": "If a facedown card or a card in a hidden zone would ever move to another zone as part of an effect that requires that card to have a specific attribute, that card must be revealed before being moved to the new zone. If the card is being installed, this rule only applies as indicated by section 8.5.13.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 287,
+      "end": 301,
+      "ids": [
+        "rule_install_from_hidden_or_secret_zone"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_reveal_from_hidden__example_1",
+      "text_markup": "When resolving {card:Clone Suffrage Movement}, the Corp chooses a facedown {card:Fast Break} in Archives. The Corp must reveal the {card:Fast Break} before adding it to HQ, to demonstrate that it is indeed an operation, meeting {card:Clone Suffrage Movement}'s requirement.",
+      "text_plain": "When resolving Clone Suffrage Movement, the Corp chooses a facedown Fast Break in Archives. The Corp must reveal the Fast Break before adding it to HQ, to demonstrate that it is indeed an operation, meeting Clone Suffrage Movement's requirement.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_reveal_from_hidden"
+}

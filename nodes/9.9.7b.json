@@ -1,0 +1,28 @@
+{
+  "id": "rule_prevent_all",
+  "kind": "rule",
+  "number": "9.9.7b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_calculating_expected_effect_values",
+  "child_ids": [
+    "rule_prevent_all__example_1"
+  ],
+  "text_markup": "If an effect prevents \"all damage\" or \"any amount of damage\" while an instruction is imminent, the damage is removed from the expected effects entirely, and there is no longer a value to be modified. If an effect avoids \"all tags\" or \"any number of tags\" while an instruction is imminent, taking tags is removed from the expected effects entirely, and there is no longer a value to be modified.",
+  "text_plain": "If an effect prevents \"all damage\" or \"any amount of damage\" while an instruction is imminent, the damage is removed from the expected effects entirely, and there is no longer a value to be modified. If an effect avoids \"all tags\" or \"any number of tags\" while an instruction is imminent, taking tags is removed from the expected effects entirely, and there is no longer a value to be modified.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_prevent_all__example_1",
+      "text_markup": "The Runner installs {card:Net-Ready Eyes} and uses {card:Chrome Parlor} to prevent all of the damage from its first ability. There is no longer an imminent damage effect, so the Corp cannot use {card:The Cleaners}.",
+      "text_plain": "The Runner installs Net-Ready Eyes and uses Chrome Parlor to prevent all of the damage from its first ability. There is no longer an imminent damage effect, so the Corp cannot use The Cleaners.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_prevent_all"
+}

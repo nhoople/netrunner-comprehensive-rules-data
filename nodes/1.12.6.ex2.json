@@ -1,0 +1,19 @@
+{
+  "id": "rule_previous_object__example_2",
+  "kind": "example",
+  "number": "1.12.6.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_previous_object",
+  "child_ids": [],
+  "text_markup": "The Runner trashes the top card of R&D while accessing it. The object corresponding to that card in its location on top of R&D ceases to exist, but still counts against the number of cards the Runner can access from R&D during this breach.",
+  "text_plain": "The Runner trashes the top card of R&D while accessing it. The object corresponding to that card in its location on top of R&D ceases to exist, but still counts against the number of cards the Runner can access from R&D during this breach.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

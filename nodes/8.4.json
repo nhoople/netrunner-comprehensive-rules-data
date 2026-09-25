@@ -1,0 +1,25 @@
+{
+  "id": "sec_drawing_cards",
+  "kind": "section",
+  "number": "8.4",
+  "ref_type": "section",
+  "title": "Drawing Cards",
+  "parent_id": "chpt_card_manipulation",
+  "child_ids": [
+    "rule_drawing",
+    "rule_draw_procedure",
+    "rule_modify_drawn_cards",
+    "rule_drawing_simultaneously",
+    "sec_steps_of_drawing_n_cards"
+  ],
+  "text_markup": "Drawing Cards",
+  "text_plain": "Drawing Cards",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_drawing_cards"
+}

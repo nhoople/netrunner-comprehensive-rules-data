@@ -1,0 +1,19 @@
+{
+  "id": "rule_rez_by_ability",
+  "kind": "rule",
+  "number": "8.1.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_rez",
+  "child_ids": [],
+  "text_markup": "Card abilities can direct or allow the Corp to rez cards at other times.",
+  "text_plain": "Card abilities can direct or allow the Corp to rez cards at other times.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rez_by_ability"
+}

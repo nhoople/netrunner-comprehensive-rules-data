@@ -1,0 +1,29 @@
+{
+  "id": "rule_ice_install_cost",
+  "kind": "rule",
+  "number": "3.4.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_ice",
+  "child_ids": [],
+  "text_markup": "Ice are the only Corp cards with install costs. The install cost of a piece of ice is not a printed value but instead a calculated value based on the number of other ice already protecting the relevant server. See {ref:rule_install_cost}.",
+  "text_plain": "Ice are the only Corp cards with install costs. The install cost of a piece of ice is not a printed value but instead a calculated value based on the number of other ice already protecting the relevant server. See section 1.16.6.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 214,
+      "end": 228,
+      "ids": [
+        "rule_install_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_install_cost"
+}

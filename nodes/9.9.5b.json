@@ -1,0 +1,19 @@
+{
+  "id": "rule_ordinal_prevented",
+  "kind": "rule",
+  "number": "9.9.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_prevent_avoid",
+  "child_ids": [],
+  "text_markup": "Abilities that do not use \"would\" do not see effects that are prevented, as those effects did not occur.",
+  "text_plain": "Abilities that do not use \"would\" do not see effects that are prevented, as those effects did not occur.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ordinal_prevented"
+}

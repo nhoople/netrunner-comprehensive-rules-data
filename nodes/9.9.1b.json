@@ -1,0 +1,19 @@
+{
+  "id": "rule_interrupt_keywords",
+  "kind": "rule",
+  "number": "9.9.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_interrupt_definition",
+  "child_ids": [],
+  "text_markup": "Any paid or conditional ability that uses the word \"prevent\", \"avoid\", or \"would\" is an interrupt ability.",
+  "text_plain": "Any paid or conditional ability that uses the word \"prevent\", \"avoid\", or \"would\" is an interrupt ability.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interrupt_keywords"
+}

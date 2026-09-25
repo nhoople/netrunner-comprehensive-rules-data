@@ -1,0 +1,22 @@
+{
+  "id": "sec_base_link",
+  "kind": "section",
+  "number": "2.9",
+  "ref_type": "section",
+  "title": "Base Link",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_base_link_location",
+    "rule_base_link_citation"
+  ],
+  "text_markup": "Base Link",
+  "text_plain": "Base Link",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_base_link"
+}

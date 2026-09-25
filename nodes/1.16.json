@@ -1,0 +1,31 @@
+{
+  "id": "sec_costs",
+  "kind": "section",
+  "number": "1.16",
+  "ref_type": "section",
+  "title": "Costs",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_cost",
+    "rule_modified_costs",
+    "rule_cost_checkpoint",
+    "rule_types_of_costs",
+    "rule_ignoring_costs",
+    "rule_install_cost",
+    "rule_play_cost",
+    "rule_rez_cost",
+    "rule_trigger_cost",
+    "rule_additional_cost",
+    "rule_nested_cost"
+  ],
+  "text_markup": "Costs",
+  "text_plain": "Costs",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_costs"
+}

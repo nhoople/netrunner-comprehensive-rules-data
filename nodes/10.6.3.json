@@ -1,0 +1,23 @@
+{
+  "id": "rule_bad_publicity_added_and_removed",
+  "kind": "subsection",
+  "number": "10.6.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_bad_publicity",
+  "child_ids": [
+    "rule_bad_publicity_beginning_run",
+    "rule_bad_publicity_gone_in_run_ends_phase",
+    "rule_bad_publicity_during_run"
+  ],
+  "text_markup": "Credits are added to and removed from the bad publicity fund during each run.",
+  "text_plain": "Credits are added to and removed from the bad publicity fund during each run.",
+  "spans": [],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bad_publicity_added_and_removed"
+}

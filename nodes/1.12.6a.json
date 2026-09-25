@@ -1,0 +1,38 @@
+{
+  "id": "rule_previous_object_source",
+  "kind": "rule",
+  "number": "1.12.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_previous_object",
+  "child_ids": [
+    "rule_previous_object_source__example_1"
+  ],
+  "text_markup": "An object that has ceased to exist still counts as the source for any active lingering effects created by that object. See {ref:sec_lingering_effects} for information about lingering effects.",
+  "text_plain": "An object that has ceased to exist still counts as the source for any active lingering effects created by that object. See section 9.10 for information about lingering effects.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 123,
+      "end": 135,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_previous_object_source__example_1",
+      "text_markup": "The Runner runs a server, steals an agenda, and accesses a rezzed copy of {card:AMAZE Amusements}. The Runner trashes {card:AMAZE Amusements}, and the object they had accessed ceases to exist, while the trashed card becomes a new object in Archives. The source of the persistent ability created by the trashing is the original object in the root of the server, so the reference to \"this server\" in the persistent ability still refers to the attacked server, and the Runner will take 2 tags when the run ends.",
+      "text_plain": "The Runner runs a server, steals an agenda, and accesses a rezzed copy of AMAZE Amusements. The Runner trashes AMAZE Amusements, and the object they had accessed ceases to exist, while the trashed card becomes a new object in Archives. The source of the persistent ability created by the trashing is the original object in the root of the server, so the reference to \"this server\" in the persistent ability still refers to the attacked server, and the Runner will take 2 tags when the run ends.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_previous_object_source"
+}

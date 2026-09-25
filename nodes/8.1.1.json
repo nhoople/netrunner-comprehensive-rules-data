@@ -1,0 +1,32 @@
+{
+  "id": "rule_rezzed_unrezzed",
+  "kind": "rule",
+  "number": "8.1.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_faceup_facedown_status",
+  "child_ids": [],
+  "text_markup": "An agenda, asset, upgrade, or piece of ice is {term:unrezzed} if it is installed and facedown. An asset, upgrade, or piece of ice is {term:rezzed} if it is installed and faceup. Runner cards, faceup agendas, operations, events, and counters are neither rezzed nor unrezzed.",
+  "text_plain": "An agenda, asset, upgrade, or piece of ice is unrezzed if it is installed and facedown. An asset, upgrade, or piece of ice is rezzed if it is installed and faceup. Runner cards, faceup agendas, operations, events, and counters are neither rezzed nor unrezzed.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 46,
+      "end": 54,
+      "target": "unrezzed"
+    },
+    {
+      "type": "term",
+      "start": 126,
+      "end": 132,
+      "target": "rezzed"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rezzed_unrezzed"
+}

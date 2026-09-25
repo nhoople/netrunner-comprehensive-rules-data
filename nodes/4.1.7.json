@@ -1,0 +1,37 @@
+{
+  "id": "rule_location",
+  "kind": "subsection",
+  "number": "4.1.7",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_game_zones_general",
+  "child_ids": [
+    "rule_deck_location",
+    "rule_play_area_location",
+    "rule_hosted_object_location",
+    "rule_default_location"
+  ],
+  "text_markup": "A {term:location} is a specific position within a zone that an object can occupy. A {term:destination} is a location to which an object is to be moved.",
+  "text_plain": "A location is a specific position within a zone that an object can occupy. A destination is a location to which an object is to be moved.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 10,
+      "target": "location"
+    },
+    {
+      "type": "term",
+      "start": 77,
+      "end": 88,
+      "target": "destination"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_location"
+}

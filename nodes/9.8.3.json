@@ -1,0 +1,35 @@
+{
+  "id": "rule_subroutine_origins",
+  "kind": "subsection",
+  "number": "9.8.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_subroutines",
+  "child_ids": [
+    "rule_subroutine_origin_external_before",
+    "rule_subroutine_origin_static_before",
+    "rule_subroutine_origin_printed",
+    "rule_subroutine_origin_static_after",
+    "rule_subroutine_origin_external_after"
+  ],
+  "text_markup": "The categories of subroutines used to determine their order, as described in {ref:rule_subroutines_ordered}, are as follows:",
+  "text_plain": "The categories of subroutines used to determine their order, as described in section 9.8.2, are as follows:",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 77,
+      "end": 90,
+      "ids": [
+        "rule_subroutines_ordered"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutine_origins"
+}

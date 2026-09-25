@@ -1,0 +1,19 @@
+{
+  "id": "rule_hosted_facedown_distinct",
+  "kind": "rule",
+  "number": "1.13.7c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_host_faceup_facedown",
+  "child_ids": [],
+  "text_markup": "Like other facedown installed cards, installed cards hosted facedown are distinct. The order in which they were installed (or turned facedown) is open information.",
+  "text_plain": "Like other facedown installed cards, installed cards hosted facedown are distinct. The order in which they were installed (or turned facedown) is open information.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_facedown_distinct"
+}

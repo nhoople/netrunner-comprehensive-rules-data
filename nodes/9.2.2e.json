@@ -1,0 +1,19 @@
+{
+  "id": "rule_not_timing_structures",
+  "kind": "rule",
+  "number": "9.2.2e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_timing_structure",
+  "child_ids": [],
+  "text_markup": "Other procedures with prescribed steps, such as installing a card or resolving a trace attempt, are not timing structures.",
+  "text_plain": "Other procedures with prescribed steps, such as installing a card or resolving a trace attempt, are not timing structures.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_not_timing_structures"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_corp_cards_cannot_be_moved",
+  "kind": "rule",
+  "number": "4.6.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_servers",
+  "child_ids": [],
+  "text_markup": "Once a Corp card is installed, it cannot be moved from its server without explicit direction from a game rule or card effect.",
+  "text_plain": "Once a Corp card is installed, it cannot be moved from its server without explicit direction from a game rule or card effect.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_cards_cannot_be_moved"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sec_appendix_timing_structure_of_a_run_4_a",
+  "kind": "timing_structure",
+  "number": "11.4_4_a",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_of_a_run_4",
+  "child_ids": [],
+  "text_markup": "If the run got here from (2) or (3), the Runner passes ice.",
+  "text_plain": "If the run got here from (2) or (3), the Runner passes ice.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_a_run_4_a"
+}

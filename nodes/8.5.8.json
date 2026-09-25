@@ -1,0 +1,29 @@
+{
+  "id": "rule_server_ceases_to_exist",
+  "kind": "rule",
+  "number": "8.5.8",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [],
+  "text_markup": "If the last card protecting a remote server or in the root of that server is uninstalled outside of the process of installing another card, then the server ceases to exist during the next checkpoint. See {ref:sec_checkpoints}.",
+  "text_plain": "If the last card protecting a remote server or in the root of that server is uninstalled outside of the process of installing another card, then the server ceases to exist during the next checkpoint. See section 10.3.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 204,
+      "end": 216,
+      "ids": [
+        "sec_checkpoints"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_server_ceases_to_exist"
+}

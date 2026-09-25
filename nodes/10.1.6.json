@@ -1,0 +1,22 @@
+{
+  "id": "sec_infinite_loops",
+  "kind": "subsection",
+  "number": "10.1.6",
+  "ref_type": "section",
+  "title": "Infinite Loops",
+  "parent_id": "sec_additional_general",
+  "child_ids": [
+    "rule_mandatory_infinite_loop",
+    "rule_optional_infinite_loop"
+  ],
+  "text_markup": "Infinite Loops",
+  "text_plain": "Infinite Loops",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_infinite_loops"
+}

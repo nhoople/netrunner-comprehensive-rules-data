@@ -1,0 +1,19 @@
+{
+  "id": "rule_advanced_card",
+  "kind": "rule",
+  "number": "1.18.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_advancing_cards",
+  "child_ids": [],
+  "text_markup": "An \"advanced card\" is a card with 1 or more advancement counters hosted on it.",
+  "text_plain": "An \"advanced card\" is a card with 1 or more advancement counters hosted on it.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_advanced_card"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rule_cost_restrictions",
+  "kind": "rule",
+  "number": "1.16.1c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_cost",
+  "child_ids": [
+    "rule_cost_restrictions__example_1",
+    "rule_cost_restrictions__example_2"
+  ],
+  "text_markup": "If triggering an ability or resolving an effect is subject to both costs and other restrictions, the cost cannot be paid unless all such restrictions are met, and cannot be paid in a way that would result in any restriction no longer being met.",
+  "text_plain": "If triggering an ability or resolving an effect is subject to both costs and other restrictions, the cost cannot be paid unless all such restrictions are met, and cannot be paid in a way that would result in any restriction no longer being met.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_cost_restrictions__example_1",
+      "text_markup": "The Runner controls {card:Zer0} and {card:Clan Vengeance}, and wants to accumulate more power counters on {card:Clan Vengeance}. {card:Zer0}'s ability has the restriction \"Use this ability only once per turn.\" If the Runner has already used the ability this turn, they cannot suffer additional net damage by attempting (even unsuccessfully) to use the ability again.",
+      "text_plain": "The Runner controls Zer0 and Clan Vengeance, and wants to accumulate more power counters on Clan Vengeance. Zer0's ability has the restriction \"Use this ability only once per turn.\" If the Runner has already used the ability this turn, they cannot suffer additional net damage by attempting (even unsuccessfully) to use the ability again.",
+      "is_new": false
+    },
+    {
+      "id": "rule_cost_restrictions__example_2",
+      "text_markup": "The Corp installs {card:Azef Protocol} in the root of a server with a rezzed {card:SanSan City Grid} and advances {card:Azef Protocol} twice. Since {card:SanSan City Grid} reduces {card:Azef Protocol}'s advancement requirement to 2, the Corp now meets the restriction necessary to score {card:Azef Protocol}, but must also pay its additional cost to score. The Corp cannot trash the {card:SanSan City Grid} to pay this cost, because paying the cost this way would return {card:Azef Protocol}'s advancement requirement to 3, and the restriction to score it would no longer be met.",
+      "text_plain": "The Corp installs Azef Protocol in the root of a server with a rezzed SanSan City Grid and advances Azef Protocol twice. Since SanSan City Grid reduces Azef Protocol's advancement requirement to 2, the Corp now meets the restriction necessary to score Azef Protocol, but must also pay its additional cost to score. The Corp cannot trash the SanSan City Grid to pay this cost, because paying the cost this way would return Azef Protocol's advancement requirement to 3, and the restriction to score it would no longer be met.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cost_restrictions"
+}

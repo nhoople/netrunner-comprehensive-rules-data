@@ -1,0 +1,19 @@
+{
+  "id": "rule_bid_secretly_spend",
+  "kind": "rule",
+  "number": "10.14.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_bidding",
+  "child_ids": [],
+  "text_markup": "Some older cards direct players to \"secretly spend credits\" without reference to bidding. These abilities still follow the rules for bidding. Trigger conditions based on players \"secretly spending credits\" or \"revealing secretly spent credits\" are met at the next checkpoint after bids are revealed and paid for.",
+  "text_plain": "Some older cards direct players to \"secretly spend credits\" without reference to bidding. These abilities still follow the rules for bidding. Trigger conditions based on players \"secretly spending credits\" or \"revealing secretly spent credits\" are met at the next checkpoint after bids are revealed and paid for.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bid_secretly_spend"
+}

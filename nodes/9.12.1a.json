@@ -1,0 +1,19 @@
+{
+  "id": "rule_modify_value",
+  "kind": "rule",
+  "number": "9.12.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_simultaneous_effects",
+  "child_ids": [],
+  "text_markup": "If more than one effect attempts to modify the same value, determine its final value from its default value by first applying any effect that sets it to a specific value, then applying each effect that increases the value, and finally applying each effect that lowers the value.",
+  "text_plain": "If more than one effect attempts to modify the same value, determine its final value from its default value by first applying any effect that sets it to a specific value, then applying each effect that increases the value, and finally applying each effect that lowers the value.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modify_value"
+}

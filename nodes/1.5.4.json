@@ -1,0 +1,39 @@
+{
+  "id": "rule_additional_identity",
+  "kind": "subsection",
+  "number": "1.5.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_extra_cards",
+  "child_ids": [
+    "rule_additional_identities_pile",
+    "rule_additional_identities_reference",
+    "rule_legal_additional_identities",
+    "rule_additional_identity_double_sided"
+  ],
+  "text_markup": "Two cards, {card:Rebirth} and {card:DJ Fenris}, make use of identity cards other than the one selected by the player during deck construction.",
+  "text_plain": "Two cards, Rebirth and DJ Fenris, make use of identity cards other than the one selected by the player during deck construction.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 11,
+      "end": 18,
+      "target": "Rebirth",
+      "card_code": "10083"
+    },
+    {
+      "type": "card",
+      "start": 23,
+      "end": 32,
+      "target": "DJ Fenris",
+      "card_code": "22025"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_additional_identity"
+}

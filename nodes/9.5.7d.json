@@ -1,0 +1,19 @@
+{
+  "id": "step_paid_ability_interrupt_window",
+  "kind": "rule",
+  "number": "9.5.7d",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_using_a_paid_ability",
+  "child_ids": [],
+  "text_markup": "An interrupt window occurs, during which abilities can modify, prevent, or avoid the imminent effects.",
+  "text_plain": "An interrupt window occurs, during which abilities can modify, prevent, or avoid the imminent effects.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_paid_ability_interrupt_window"
+}

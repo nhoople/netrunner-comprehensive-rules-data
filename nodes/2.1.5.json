@@ -1,0 +1,29 @@
+{
+  "id": "rule_act_on_different_names",
+  "kind": "rule",
+  "number": "2.1.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_name",
+  "child_ids": [],
+  "text_markup": "If a player is directed to choose or search for cards \"with different names\", each card chosen or found by the search must have a different English name from every other card chosen or found. See also {ref:sec_searching_cards}.",
+  "text_plain": "If a player is directed to choose or search for cards \"with different names\", each card chosen or found by the search must have a different English name from every other card chosen or found. See also section 8.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 201,
+      "end": 212,
+      "ids": [
+        "sec_searching_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_act_on_different_names"
+}

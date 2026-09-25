@@ -1,0 +1,19 @@
+{
+  "id": "rule_condition_met_with_pending_instances",
+  "kind": "rule",
+  "number": "9.6.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trigger_condition_multiple_instances",
+  "child_ids": [],
+  "text_markup": "If a trigger condition is met again while an instance of the corresponding ability is already pending, imminent, or resolving, a new instance can still become pending in the next reaction window.",
+  "text_plain": "If a trigger condition is met again while an instance of the corresponding ability is already pending, imminent, or resolving, a new instance can still become pending in the next reaction window.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_condition_met_with_pending_instances"
+}

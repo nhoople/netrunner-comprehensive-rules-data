@@ -1,0 +1,26 @@
+{
+  "id": "sec_facedown_runner_cards",
+  "kind": "subsection",
+  "number": "8.1.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_faceup_facedown_status",
+  "child_ids": [
+    "rule_facedown_runner_cards_are_blank",
+    "rule_facedown_runner_cards_are_distinct",
+    "rule_facedown_runner_cards_flip_in_heap",
+    "rule_flip_is_not_uninstall",
+    "rule_unflipping_runner_cards",
+    "rule_runner_cards_neither_rezzed_nor_unrezzed"
+  ],
+  "text_markup": "Some abilities can install Runner cards facedown or turn already-installed Runner cards facedown.",
+  "text_plain": "Some abilities can install Runner cards facedown or turn already-installed Runner cards facedown.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_facedown_runner_cards"
+}

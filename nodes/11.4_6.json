@@ -1,0 +1,24 @@
+{
+  "id": "sec_appendix_timing_structure_of_a_run_6",
+  "kind": "timing_structure",
+  "number": "11.4_6",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_of_a_run",
+  "child_ids": [
+    "sec_appendix_timing_structure_of_a_run_6_a",
+    "sec_appendix_timing_structure_of_a_run_6_b",
+    "sec_appendix_timing_structure_of_a_run_6_c",
+    "sec_appendix_timing_structure_of_a_run_6_d"
+  ],
+  "text_markup": "Run Ends Phase",
+  "text_plain": "Run Ends Phase",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_a_run_6"
+}

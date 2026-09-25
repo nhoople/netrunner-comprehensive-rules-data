@@ -1,0 +1,19 @@
+{
+  "id": "rule_end_action_phase_outside_action_phase",
+  "kind": "rule",
+  "number": "5.4.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_action_phase",
+  "child_ids": [],
+  "text_markup": "If an effect attempts to end a player's action phase during their draw phase, their discard phase, or another player's turn, this effect does nothing.",
+  "text_plain": "If an effect attempts to end a player's action phase during their draw phase, their discard phase, or another player's turn, this effect does nothing.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_end_action_phase_outside_action_phase"
+}

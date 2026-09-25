@@ -1,0 +1,26 @@
+{
+  "id": "rule_use_restrictions__example_1",
+  "kind": "example",
+  "number": "9.11.4a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_use_restrictions",
+  "child_ids": [],
+  "text_markup": "A sentence reading \"Use this ability only by spending credits from a {subtype:stealth} card.\" is not an instruction or part of any instruction. It is a restriction that applies to the entire ability.",
+  "text_plain": "A sentence reading \"Use this ability only by spending credits from a stealth card.\" is not an instruction or part of any instruction. It is a restriction that applies to the entire ability.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 69,
+      "end": 76,
+      "target": "stealth"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

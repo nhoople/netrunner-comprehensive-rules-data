@@ -1,0 +1,26 @@
+{
+  "id": "rule_link_strength",
+  "kind": "rule",
+  "number": "10.8.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_traces",
+  "child_ids": [],
+  "text_markup": "After the Corp spends their credits, the Runner has the opportunity to spend credits to establish their link strength. The Runner's {term:link strength} is equal to their link value plus the number of credits spent.",
+  "text_plain": "After the Corp spends their credits, the Runner has the opportunity to spend credits to establish their link strength. The Runner's link strength is equal to their link value plus the number of credits spent.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 132,
+      "end": 145,
+      "target": "link strength"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_link_strength"
+}

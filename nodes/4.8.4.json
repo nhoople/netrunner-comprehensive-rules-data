@@ -1,0 +1,29 @@
+{
+  "id": "rule_searched_cards_set_aside",
+  "kind": "rule",
+  "number": "4.8.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_set_aside",
+  "child_ids": [],
+  "text_markup": "Cards found during a search are set aside facedown while the search completes (in particular, while any deck that was searched is shuffled). See {ref:sec_searching_cards}.",
+  "text_plain": "Cards found during a search are set aside facedown while the search completes (in particular, while any deck that was searched is shuffled). See section 8.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 145,
+      "end": 156,
+      "ids": [
+        "sec_searching_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_searched_cards_set_aside"
+}

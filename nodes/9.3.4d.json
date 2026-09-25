@@ -1,0 +1,19 @@
+{
+  "id": "rule_resolve_instruction_in_order",
+  "kind": "rule",
+  "number": "9.3.4d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction",
+  "child_ids": [],
+  "text_markup": "Other than choosing targets, carry out the steps of a single instruction in the order they are written.",
+  "text_plain": "Other than choosing targets, carry out the steps of a single instruction in the order they are written.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_resolve_instruction_in_order"
+}

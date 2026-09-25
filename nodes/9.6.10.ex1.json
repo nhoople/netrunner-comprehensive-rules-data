@@ -1,0 +1,55 @@
+{
+  "id": "rule_conditional_ability_lose_pending_when_ability_becomes_inactive__example_1",
+  "kind": "example",
+  "number": "9.6.10.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_conditional_ability_lose_pending_when_ability_becomes_inactive",
+  "child_ids": [],
+  "text_markup": "The Runner has both {card:Aesop's Pawnshop} and {card:Drug Dealer} installed. Both cards have abilities that meet their trigger conditions when the Runner's turn begins. If the Runner chooses to trigger {card:Aesop's Pawnshop} first, and then uses it to trash {card:Drug Dealer}, {card:Drug Dealer}'s pending ability can never be triggered, so the Runner does not lose a credit.",
+  "text_plain": "The Runner has both Aesop's Pawnshop and Drug Dealer installed. Both cards have abilities that meet their trigger conditions when the Runner's turn begins. If the Runner chooses to trigger Aesop's Pawnshop first, and then uses it to trash Drug Dealer, Drug Dealer's pending ability can never be triggered, so the Runner does not lose a credit.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 36,
+      "target": "Aesop's Pawnshop",
+      "card_code": "31035"
+    },
+    {
+      "type": "card",
+      "start": 41,
+      "end": 52,
+      "target": "Drug Dealer",
+      "card_code": "08083"
+    },
+    {
+      "type": "card",
+      "start": 189,
+      "end": 205,
+      "target": "Aesop's Pawnshop",
+      "card_code": "31035"
+    },
+    {
+      "type": "card",
+      "start": 239,
+      "end": 250,
+      "target": "Drug Dealer",
+      "card_code": "08083"
+    },
+    {
+      "type": "card",
+      "start": 252,
+      "end": 263,
+      "target": "Drug Dealer",
+      "card_code": "08083"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "subsec_hidden_information",
+  "kind": "subsection",
+  "number": "10.2.2",
+  "ref_type": "section",
+  "title": "Hidden Information",
+  "parent_id": "sec_information",
+  "child_ids": [
+    "rule_hidden_information",
+    "rule_bluffing"
+  ],
+  "text_markup": "Hidden Information",
+  "text_plain": "Hidden Information",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_hidden_information"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_optional_drawing_simultaneously",
+  "kind": "rule",
+  "number": "8.4.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_drawing_simultaneously",
+  "child_ids": [],
+  "text_markup": "If an ability gives multiple players the option to draw cards at the same time, first each player indicates whether or how many cards they will draw, starting with the active player. Then the indicated draws are performed simultaneously.",
+  "text_plain": "If an ability gives multiple players the option to draw cards at the same time, first each player indicates whether or how many cards they will draw, starting with the active player. Then the indicated draws are performed simultaneously.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_optional_drawing_simultaneously"
+}

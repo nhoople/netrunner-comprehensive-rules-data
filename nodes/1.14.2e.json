@@ -1,0 +1,19 @@
+{
+  "id": "rule_controller_bad_publicity_tag",
+  "kind": "rule",
+  "number": "1.14.2e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_controller_object",
+  "child_ids": [],
+  "text_markup": "The Corp controls each bad publicity counter. The Runner controls each tag counter.",
+  "text_plain": "The Corp controls each bad publicity counter. The Runner controls each tag counter.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_controller_bad_publicity_tag"
+}

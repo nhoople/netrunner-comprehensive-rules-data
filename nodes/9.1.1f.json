@@ -1,0 +1,35 @@
+{
+  "id": "rule_interrupt_link",
+  "kind": "rule",
+  "number": "9.1.1f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability",
+  "child_ids": [],
+  "text_markup": "Abilities marked with [interrupt] or that include the word \"would\" in their instructions have special timing rules that differ from other abilities. See {ref:sec_interrupts_replacements}.",
+  "text_plain": "Abilities marked with {interrupt} or that include the word \"would\" in their instructions have special timing rules that differ from other abilities. See section 9.9.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 22,
+      "end": 33,
+      "target": "interrupt"
+    },
+    {
+      "type": "ref",
+      "start": 153,
+      "end": 164,
+      "ids": [
+        "sec_interrupts_replacements"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interrupt_link"
+}

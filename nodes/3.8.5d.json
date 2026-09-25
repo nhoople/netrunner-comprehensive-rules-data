@@ -1,0 +1,38 @@
+{
+  "id": "rule_console_limitation_active",
+  "kind": "rule",
+  "number": "3.8.5d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_consoles",
+  "child_ids": [],
+  "text_markup": "This limitation applies only to active {subtype:console}. A player can have multiple copies of a {subtype:console}, and even different {subtype:consoles}, in their deck.",
+  "text_plain": "This limitation applies only to active console. A player can have multiple copies of a console, and even different consoles, in their deck.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 39,
+      "end": 46,
+      "target": "console"
+    },
+    {
+      "type": "subtype",
+      "start": 87,
+      "end": 94,
+      "target": "console"
+    },
+    {
+      "type": "subtype",
+      "start": 115,
+      "end": 123,
+      "target": "consoles"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_console_limitation_active"
+}

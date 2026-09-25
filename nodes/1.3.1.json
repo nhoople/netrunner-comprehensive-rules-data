@@ -1,0 +1,19 @@
+{
+  "id": "rule_symbols",
+  "kind": "rule",
+  "number": "1.3.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_symbols",
+  "child_ids": [],
+  "text_markup": "Several non-English symbols appear on cards and in this rules document. This section serves as a basic guide to those symbols.",
+  "text_plain": "Several non-English symbols appear on cards and in this rules document. This section serves as a basic guide to those symbols.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_symbols"
+}

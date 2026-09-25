@@ -1,0 +1,28 @@
+{
+  "id": "rule_cancelled_movement",
+  "kind": "rule",
+  "number": "8.2.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_replacing_movements",
+  "child_ids": [
+    "rule_cancelled_movement__example_1"
+  ],
+  "text_markup": "If a movement is replaced or prevented entirely or otherwise cannot be carried out, that movement does not take place and conditions related to that type of movement are not met.",
+  "text_plain": "If a movement is replaced or prevented entirely or otherwise cannot be carried out, that movement does not take place and conditions related to that type of movement are not met.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_cancelled_movement__example_1",
+      "text_markup": "The Corp is resolving the first subroutine on {card:Rototurret} to trash an installed program. The Runner uses {card:Sacrificial Construct} to prevent the program from being trashed. Since trashing did not occur, the Runner does not place a power counter on {card:District 99}, and {card:District 99} can still meet its trigger condition if a program or piece of hardware is successfully trashed later in the turn.",
+      "text_plain": "The Corp is resolving the first subroutine on Rototurret to trash an installed program. The Runner uses Sacrificial Construct to prevent the program from being trashed. Since trashing did not occur, the Runner does not place a power counter on District 99, and District 99 can still meet its trigger condition if a program or piece of hardware is successfully trashed later in the turn.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cancelled_movement"
+}

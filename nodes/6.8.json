@@ -1,0 +1,25 @@
+{
+  "id": "sec_run_ends_phase",
+  "kind": "section",
+  "number": "6.8",
+  "ref_type": "section",
+  "title": "Run Ends Phase",
+  "parent_id": "chpt_runs",
+  "child_ids": [
+    "rule_run_ends_phase",
+    "rule_run_ends_process_priority_windows",
+    "rule_run_ends_lose_bad_pub_credits",
+    "rule_unsuccessful_run",
+    "rule_run_ends_condition"
+  ],
+  "text_markup": "Run Ends Phase",
+  "text_plain": "Run Ends Phase",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_run_ends_phase"
+}

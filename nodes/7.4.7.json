@@ -1,0 +1,22 @@
+{
+  "id": "rule_rnd_candidates_1_at_a_time",
+  "kind": "subsection",
+  "number": "7.4.7",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_determining_candidates",
+  "child_ids": [
+    "rule_rnd_topmost_eligibile_candidate",
+    "rule_rnd_access_from_bottom"
+  ],
+  "text_markup": "During a breach of R&D, the Runner is presented with 1 candidate from the Corp's deck at a time in turn, working down from the top of the deck. Cards are made candidates 1 at a time until the access limit is reached.",
+  "text_plain": "During a breach of R&D, the Runner is presented with 1 candidate from the Corp's deck at a time in turn, working down from the top of the deck. Cards are made candidates 1 at a time until the access limit is reached.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rnd_candidates_1_at_a_time"
+}

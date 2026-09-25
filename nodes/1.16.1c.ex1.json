@@ -1,0 +1,48 @@
+{
+  "id": "rule_cost_restrictions__example_1",
+  "kind": "example",
+  "number": "1.16.1c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_cost_restrictions",
+  "child_ids": [],
+  "text_markup": "The Runner controls {card:Zer0} and {card:Clan Vengeance}, and wants to accumulate more power counters on {card:Clan Vengeance}. {card:Zer0}'s ability has the restriction \"Use this ability only once per turn.\" If the Runner has already used the ability this turn, they cannot suffer additional net damage by attempting (even unsuccessfully) to use the ability again.",
+  "text_plain": "The Runner controls Zer0 and Clan Vengeance, and wants to accumulate more power counters on Clan Vengeance. Zer0's ability has the restriction \"Use this ability only once per turn.\" If the Runner has already used the ability this turn, they cannot suffer additional net damage by attempting (even unsuccessfully) to use the ability again.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 24,
+      "target": "Zer0",
+      "card_code": "21101"
+    },
+    {
+      "type": "card",
+      "start": 29,
+      "end": 43,
+      "target": "Clan Vengeance",
+      "card_code": "12022"
+    },
+    {
+      "type": "card",
+      "start": 92,
+      "end": 106,
+      "target": "Clan Vengeance",
+      "card_code": "12022"
+    },
+    {
+      "type": "card",
+      "start": 108,
+      "end": 112,
+      "target": "Zer0",
+      "card_code": "21101"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_checkpoint_after_timing_structure",
+  "kind": "rule",
+  "number": "10.3.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_checkpoints",
+  "child_ids": [
+    "rule_checkpoint_after_timing_structure__example_1"
+  ],
+  "text_markup": "The checkpoint following the last step of a timing structure takes place outside of that timing structure, as does any associated reaction window.",
+  "text_plain": "The checkpoint following the last step of a timing structure takes place outside of that timing structure, as does any associated reaction window.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_checkpoint_after_timing_structure__example_1",
+      "text_markup": "The Runner, playing as {card:Jesminder Sareen: Girl Behind the Curtain}, steals an agenda during a run on a server with {card:AMAZE Amusements} rezzed in its root. Since {card:AMAZE Amusements}'s ability meets its trigger condition when the run ends, it will become pending in the reaction window following {ref:step_run_complete} and attempt to give the Runner 2 tags. During this window, the run timing structure has closed, and Jesminder's interrupt ability cannot apply to those tags.",
+      "text_plain": "The Runner, playing as Jesminder Sareen: Girl Behind the Curtain, steals an agenda during a run on a server with AMAZE Amusements rezzed in its root. Since AMAZE Amusements's ability meets its trigger condition when the run ends, it will become pending in the reaction window following step 6.9.6d and attempt to give the Runner 2 tags. During this window, the run timing structure has closed, and Jesminder's interrupt ability cannot apply to those tags.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_checkpoint_after_timing_structure"
+}

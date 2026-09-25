@@ -1,0 +1,19 @@
+{
+  "id": "rule_agenda_asset_root_remote_server",
+  "kind": "rule",
+  "number": "8.5.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_corp_cards_default_install",
+  "child_ids": [],
+  "text_markup": "The Corp always installs an agenda or asset into the root of a remote server.",
+  "text_plain": "The Corp always installs an agenda or asset into the root of a remote server.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_agenda_asset_root_remote_server"
+}

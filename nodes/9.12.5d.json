@@ -1,0 +1,38 @@
+{
+  "id": "rule_persistent_applicability",
+  "kind": "rule",
+  "number": "9.12.5d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_persistent",
+  "child_ids": [
+    "rule_persistent_applicability__example_1"
+  ],
+  "text_markup": "A persisting ability is only applicable to the run during which it began to persist. After the checkpoint following {ref:step_run_complete} of the run, no more instances of the ability can be created. Even if another run initiates during the reaction window following that checkpoint, new instances of any abilities persisting from the first run cannot become pending during the second run, even if their trigger conditions would normally be met during that second run.",
+  "text_plain": "A persisting ability is only applicable to the run during which it began to persist. After the checkpoint following step 6.9.6d of the run, no more instances of the ability can be created. Even if another run initiates during the reaction window following that checkpoint, new instances of any abilities persisting from the first run cannot become pending during the second run, even if their trigger conditions would normally be met during that second run.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 116,
+      "end": 127,
+      "ids": [
+        "step_run_complete"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_persistent_applicability__example_1",
+      "text_markup": "The Runner trashes {card:AMAZE Amusements}, causing its \"Whenever a run on this server ends\" ability to persist. When the run ends, the Runner uses {card:Doppelgänger} to make another run while the persisting ability is still pending. The ability remains active so that its existing pending instance can resolve, but another instance cannot be created even if the Runner steals an agenda during the second run.",
+      "text_plain": "The Runner trashes AMAZE Amusements, causing its \"Whenever a run on this server ends\" ability to persist. When the run ends, the Runner uses Doppelgänger to make another run while the persisting ability is still pending. The ability remains active so that its existing pending instance can resolve, but another instance cannot be created even if the Runner steals an agenda during the second run.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_persistent_applicability"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_valid_hosts",
+  "kind": "rule",
+  "number": "1.13.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_placed_loaded",
+  "child_ids": [],
+  "text_markup": "Only cards in score areas and the play area can host objects.",
+  "text_plain": "Only cards in score areas and the play area can host objects.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_valid_hosts"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "rule_install_to_invalid_destination__example_1",
+  "kind": "example",
+  "number": "8.5.14.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_install_to_invalid_destination",
+  "child_ids": [],
+  "text_markup": "The Corp uses {card:Nanisivik Grid} to resolve the first subroutine on a copy of {card:Brân 1.0} in Archives. This subroutine attempts to install ice \"directly inward\" from {card:Brân 1.0}, but this copy of {card:Brân 1.0} is not protecting a server and therefore does not have a position from which \"directly inward\" can be evaluated. There is no legal way to install a card as directed, so the subroutine will have no effect.",
+  "text_plain": "The Corp uses Nanisivik Grid to resolve the first subroutine on a copy of Brân 1.0 in Archives. This subroutine attempts to install ice \"directly inward\" from Brân 1.0, but this copy of Brân 1.0 is not protecting a server and therefore does not have a position from which \"directly inward\" can be evaluated. There is no legal way to install a card as directed, so the subroutine will have no effect.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 14,
+      "end": 28,
+      "target": "Nanisivik Grid",
+      "card_code": "33111"
+    },
+    {
+      "type": "card",
+      "start": 74,
+      "end": 82,
+      "target": "Brân 1.0",
+      "card_code": "30039"
+    },
+    {
+      "type": "card",
+      "start": 159,
+      "end": 167,
+      "target": "Brân 1.0",
+      "card_code": "30039"
+    },
+    {
+      "type": "card",
+      "start": 186,
+      "end": 194,
+      "target": "Brân 1.0",
+      "card_code": "30039"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

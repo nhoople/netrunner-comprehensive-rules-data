@@ -1,0 +1,29 @@
+{
+  "id": "rule_illegal_location_counters_returned_to_bank",
+  "kind": "rule",
+  "number": "4.7.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_bank",
+  "child_ids": [],
+  "text_markup": "Counters that are not in a legal location return to the bank during checkpoints. See {ref:sec_checkpoints}.",
+  "text_plain": "Counters that are not in a legal location return to the bank during checkpoints. See section 10.3.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 85,
+      "end": 97,
+      "ids": [
+        "sec_checkpoints"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_illegal_location_counters_returned_to_bank"
+}

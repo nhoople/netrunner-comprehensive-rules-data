@@ -1,0 +1,27 @@
+{
+  "id": "rule_ice_change_during_movement__example_1",
+  "kind": "example",
+  "number": "6.2.7e.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_ice_change_during_movement",
+  "child_ids": [],
+  "text_markup": "A run begins, and before the Runner approaches the outermost piece of ice protecting the attacked server, the Corp uses {card:Project Yagi-Uda} to swap that ice with another piece of ice. The Runner will approach the new ice.",
+  "text_plain": "A run begins, and before the Runner approaches the outermost piece of ice protecting the attacked server, the Corp uses Project Yagi-Uda to swap that ice with another piece of ice. The Runner will approach the new ice.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 120,
+      "end": 136,
+      "target": "Project Yagi-Uda",
+      "card_code": "26040"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

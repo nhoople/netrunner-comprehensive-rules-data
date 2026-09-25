@@ -1,0 +1,35 @@
+{
+  "id": "rule_text_box_definition",
+  "kind": "rule",
+  "number": "2.17.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_text_box",
+  "child_ids": [],
+  "text_markup": "The {term:text box} is the central area on a card containing any abilities the card has. Abilities usually only apply when the card they appear on is active. {ref:Rule_ability_active_inactive_source_card} details exceptions.",
+  "text_plain": "The text box is the central area on a card containing any abilities the card has. Abilities usually only apply when the card they appear on is active. Section 9.1.8 details exceptions.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 12,
+      "target": "text box"
+    },
+    {
+      "type": "ref",
+      "start": 151,
+      "end": 164,
+      "ids": [
+        "rule_ability_active_inactive_source_card"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_text_box_definition"
+}

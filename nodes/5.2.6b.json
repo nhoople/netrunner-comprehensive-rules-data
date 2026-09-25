@@ -1,0 +1,32 @@
+{
+  "id": "rule_corp_basic_action_credit",
+  "kind": "rule",
+  "number": "5.2.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_corp_actions",
+  "child_ids": [],
+  "text_markup": "\"[click]: Gain 1[c].\"",
+  "text_plain": "\"{click}: Gain 1{c}.\"",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 1,
+      "end": 8,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 16,
+      "end": 19,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_basic_action_credit"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "rule_attacked_server",
+  "kind": "subsection",
+  "number": "6.1.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_run_general",
+  "child_ids": [
+    "rule_announce_attacked_server",
+    "rule_change_attacked_server",
+    "rule_change_runner_position",
+    "rule_change_attacked_server_directly"
+  ],
+  "text_markup": "The {term:attacked server} is the server the Runner is attempting to reach, usually to breach that server.",
+  "text_plain": "The attacked server is the server the Runner is attempting to reach, usually to breach that server.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 19,
+      "target": "attacked server"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_attacked_server"
+}

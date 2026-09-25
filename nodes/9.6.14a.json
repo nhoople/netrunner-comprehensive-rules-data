@@ -1,0 +1,29 @@
+{
+  "id": "rule_when_encountered",
+  "kind": "rule",
+  "number": "9.6.14a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_references_to_trigger_conditions",
+  "child_ids": [],
+  "text_markup": "A \"when encountered\" ability is any ability that could meet its trigger condition at {ref:step_encounter_begins} of an encounter with its source.",
+  "text_plain": "A \"when encountered\" ability is any ability that could meet its trigger condition at step 6.9.3a of an encounter with its source.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 85,
+      "end": 96,
+      "ids": [
+        "step_encounter_begins"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_when_encountered"
+}

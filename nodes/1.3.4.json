@@ -1,0 +1,53 @@
+{
+  "id": "rule_symbol_recurring",
+  "kind": "rule",
+  "number": "1.3.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_symbols",
+  "child_ids": [],
+  "text_markup": "The symbol [recurring] (plaintext: {curly:recurring}) stands for recurring credit. It always appears with a quantity, such as 1[recurring], which means \"one recurring credit,\" or 3[recurring], which means \"three recurring credits.\" See {ref:rule_sec_recurring} for rules about recurring credits.",
+  "text_plain": "The symbol {recurring} (plaintext: {recurring}) stands for recurring credit. It always appears with a quantity, such as 1{recurring}, which means \"one recurring credit,\" or 3{recurring}, which means \"three recurring credits.\" See section 1.10.5 for rules about recurring credits.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 11,
+      "end": 22,
+      "target": "recurring"
+    },
+    {
+      "type": "symbol",
+      "start": 35,
+      "end": 46,
+      "target": "recurring"
+    },
+    {
+      "type": "symbol",
+      "start": 121,
+      "end": 132,
+      "target": "recurring"
+    },
+    {
+      "type": "symbol",
+      "start": 174,
+      "end": 185,
+      "target": "recurring"
+    },
+    {
+      "type": "ref",
+      "start": 230,
+      "end": 244,
+      "ids": [
+        "rule_sec_recurring"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_symbol_recurring"
+}

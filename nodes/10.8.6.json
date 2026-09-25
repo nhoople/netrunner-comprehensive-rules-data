@@ -1,0 +1,26 @@
+{
+  "id": "rule_steps_of_resolving_trace_attempt",
+  "kind": "subsection",
+  "number": "10.8.6",
+  "ref_type": "step",
+  "title": "Steps of Resolving a Trace Attempt",
+  "parent_id": "sec_traces",
+  "child_ids": [
+    "step_trace_initiated",
+    "step_trace_checkpoint",
+    "step_trace_corp_spend_credits",
+    "step_trace_runner_spend_credits",
+    "step_trace_determine_success",
+    "step_trace_complete"
+  ],
+  "text_markup": "Steps of Resolving a Trace Attempt",
+  "text_plain": "Steps of Resolving a Trace Attempt",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_steps_of_resolving_trace_attempt"
+}

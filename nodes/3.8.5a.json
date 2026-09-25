@@ -1,0 +1,38 @@
+{
+  "id": "rule_hardware_console",
+  "kind": "rule",
+  "number": "3.8.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_consoles",
+  "child_ids": [],
+  "text_markup": "Some hardware have the subtype {subtype:console}. All {subtype:consoles} have the text \"Limit 1 {subtype:console} per player.\"",
+  "text_plain": "Some hardware have the subtype console. All consoles have the text \"Limit 1 console per player.\"",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 31,
+      "end": 38,
+      "target": "console"
+    },
+    {
+      "type": "subtype",
+      "start": 44,
+      "end": 52,
+      "target": "consoles"
+    },
+    {
+      "type": "subtype",
+      "start": 76,
+      "end": 83,
+      "target": "console"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hardware_console"
+}

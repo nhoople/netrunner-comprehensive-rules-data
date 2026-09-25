@@ -1,0 +1,19 @@
+{
+  "id": "rule_never_between_turns",
+  "kind": "rule",
+  "number": "5.1.4d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_begin_end_turn_step",
+  "child_ids": [],
+  "text_markup": "Once the game begins, it is always one or the other player's turn. There is no time \"between turns\".",
+  "text_plain": "Once the game begins, it is always one or the other player's turn. There is no time \"between turns\".",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_never_between_turns"
+}

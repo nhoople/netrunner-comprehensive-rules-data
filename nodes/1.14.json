@@ -1,0 +1,25 @@
+{
+  "id": "sec_ownership",
+  "kind": "section",
+  "number": "1.14",
+  "ref_type": "section",
+  "title": "Ownership and Control",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_owner",
+    "rule_controller_object",
+    "rule_pay_costs_controlled_objects",
+    "rule_controller_ability",
+    "rule_controller_choices"
+  ],
+  "text_markup": "Ownership and Control",
+  "text_plain": "Ownership and Control",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_ownership"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "step_run_complete",
+  "kind": "rule",
+  "number": "6.9.6d",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_run_ends_phase",
+  "child_ids": [],
+  "text_markup": "The Run Ends Phase and the run as a whole are both complete.",
+  "text_plain": "The Run Ends Phase and the run as a whole are both complete.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_run_complete"
+}

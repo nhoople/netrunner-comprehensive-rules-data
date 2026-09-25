@@ -1,0 +1,37 @@
+{
+  "id": "sec_appendix_timing_structure_of_breaching_a_server",
+  "kind": "section",
+  "number": "11.5",
+  "ref_type": "section",
+  "title": "Timing Structure of Breaching a Server",
+  "parent_id": "chpt_appendix_timing_structures",
+  "child_ids": [
+    "sec_appendix_timing_structure_of_breaching_a_server_1",
+    "sec_appendix_timing_structure_of_breaching_a_server_2",
+    "sec_appendix_timing_structure_of_breaching_a_server_3",
+    "sec_appendix_timing_structure_of_breaching_a_server_4",
+    "sec_appendix_timing_structure_of_breaching_a_server_5",
+    "sec_appendix_timing_structure_of_breaching_a_server_6",
+    "sec_appendix_timing_structure_of_breaching_a_server_7"
+  ],
+  "text_markup": "Timing Structure of Breaching a Server ({ref:Sec_breaching_steps})",
+  "text_plain": "Timing Structure of Breaching a Server (Section 7.5)",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 40,
+      "end": 51,
+      "ids": [
+        "sec_breaching_steps"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_breaching_a_server"
+}

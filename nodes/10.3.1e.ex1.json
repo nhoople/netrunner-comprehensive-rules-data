@@ -1,0 +1,48 @@
+{
+  "id": "step_checkpoint_card_restrictions__example_1",
+  "kind": "example",
+  "number": "10.3.1e.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "step_checkpoint_card_restrictions",
+  "child_ids": [],
+  "text_markup": "The Runner controls a {card:Chisel} hosted on an unrezzed piece of ice. The Corp rezzes that ice, revealing it to be {card:Tithonium}. Since {card:Tithonium} has an ability prohibiting cards from being hosted on it, {card:Chisel} is now installed in an illegal location and must be trashed.",
+  "text_plain": "The Runner controls a Chisel hosted on an unrezzed piece of ice. The Corp rezzes that ice, revealing it to be Tithonium. Since Tithonium has an ability prohibiting cards from being hosted on it, Chisel is now installed in an illegal location and must be trashed.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 22,
+      "end": 28,
+      "target": "Chisel",
+      "card_code": "26003"
+    },
+    {
+      "type": "card",
+      "start": 110,
+      "end": 119,
+      "target": "Tithonium",
+      "card_code": "12098"
+    },
+    {
+      "type": "card",
+      "start": 127,
+      "end": 136,
+      "target": "Tithonium",
+      "card_code": "12098"
+    },
+    {
+      "type": "card",
+      "start": 195,
+      "end": 201,
+      "target": "Chisel",
+      "card_code": "26003"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

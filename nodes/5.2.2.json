@@ -1,0 +1,31 @@
+{
+  "id": "rule_initiate_action",
+  "kind": "subsection",
+  "number": "5.2.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_actions",
+  "child_ids": [
+    "rule_action_completion",
+    "rule_action_timing_structure_completion",
+    "rule_action_conditional_ability_trigger",
+    "rule_finish_action_trigger_condition"
+  ],
+  "text_markup": "A player initiates an action by paying its cost in [click], as well as any other costs associated with that action, during their action window.",
+  "text_plain": "A player initiates an action by paying its cost in {click}, as well as any other costs associated with that action, during their action window.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 51,
+      "end": 58,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_initiate_action"
+}

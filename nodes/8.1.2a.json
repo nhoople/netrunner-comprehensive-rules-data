@@ -1,0 +1,38 @@
+{
+  "id": "rule_rez_in_paw",
+  "kind": "rule",
+  "number": "8.1.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_rez",
+  "child_ids": [],
+  "text_markup": "Some paid ability windows allow the Corp to rez assets and upgrades. See {ref:rule_paid_ability_window}. The paid ability window at {ref:step_approach_paw} of a run allows the Corp to rez ice.",
+  "text_plain": "Some paid ability windows allow the Corp to rez assets and upgrades. See section 9.2.7. The paid ability window at step 6.9.2b of a run allows the Corp to rez ice.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 73,
+      "end": 86,
+      "ids": [
+        "rule_paid_ability_window"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 115,
+      "end": 126,
+      "ids": [
+        "step_approach_paw"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rez_in_paw"
+}

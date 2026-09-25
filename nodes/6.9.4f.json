@@ -1,0 +1,29 @@
+{
+  "id": "step_approach_new_ice",
+  "kind": "rule",
+  "number": "6.9.4f",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_movement_phase",
+  "child_ids": [],
+  "text_markup": "If the Runner moved to a new position, return to {ref:rule_sec_run_approach_ice_phase}, Approach Ice Phase, approaching the piece of ice in their new position. If not, continue to (g).",
+  "text_plain": "If the Runner moved to a new position, return to step 6.9.2, Approach Ice Phase, approaching the piece of ice in their new position. If not, continue to (g).",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 49,
+      "end": 59,
+      "ids": [
+        "rule_sec_run_approach_ice_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_approach_new_ice"
+}

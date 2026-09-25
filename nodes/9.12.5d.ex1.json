@@ -1,0 +1,34 @@
+{
+  "id": "rule_persistent_applicability__example_1",
+  "kind": "example",
+  "number": "9.12.5d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_persistent_applicability",
+  "child_ids": [],
+  "text_markup": "The Runner trashes {card:AMAZE Amusements}, causing its \"Whenever a run on this server ends\" ability to persist. When the run ends, the Runner uses {card:Doppelgänger} to make another run while the persisting ability is still pending. The ability remains active so that its existing pending instance can resolve, but another instance cannot be created even if the Runner steals an agenda during the second run.",
+  "text_plain": "The Runner trashes AMAZE Amusements, causing its \"Whenever a run on this server ends\" ability to persist. When the run ends, the Runner uses Doppelgänger to make another run while the persisting ability is still pending. The ability remains active so that its existing pending instance can resolve, but another instance cannot be created even if the Runner steals an agenda during the second run.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 19,
+      "end": 35,
+      "target": "AMAZE Amusements",
+      "card_code": "30058"
+    },
+    {
+      "type": "card",
+      "start": 141,
+      "end": 153,
+      "target": "Doppelgänger",
+      "card_code": "20025"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rule_memory_unit",
+  "kind": "rule",
+  "number": "1.20.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_memory",
+  "child_ids": [],
+  "text_markup": "A {term:memory unit} ([MU]) is a space available to the Runner to install programs.",
+  "text_plain": "A memory unit ({MU}) is a space available to the Runner to install programs.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 13,
+      "target": "memory unit"
+    },
+    {
+      "type": "symbol",
+      "start": 15,
+      "end": 19,
+      "target": "mu"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_memory_unit"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sec_position",
+  "kind": "section",
+  "number": "6.2",
+  "ref_type": "section",
+  "title": "Position",
+  "parent_id": "chpt_runs",
+  "child_ids": [
+    "rule_position",
+    "rule_create_position",
+    "rule_count_positions",
+    "rule_destroy_position",
+    "rule_position_runner",
+    "rule_ice_change_can_affect_position",
+    "rule_ice_change_current_position",
+    "rule_move_runner_to_position"
+  ],
+  "text_markup": "Position",
+  "text_plain": "Position",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_position"
+}

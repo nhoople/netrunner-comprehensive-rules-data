@@ -1,0 +1,22 @@
+{
+  "id": "rule_playing_play_cost",
+  "kind": "subsection",
+  "number": "8.6.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_playing_events_and_operations",
+  "child_ids": [
+    "rule_play_cost_x",
+    "rule_play_cost_checkpoint"
+  ],
+  "text_markup": "Normally, playing an operation or event requires paying its play cost. Abilities that initiate playing a card may ignore the play cost or require it to be paid.",
+  "text_plain": "Normally, playing an operation or event requires paying its play cost. Abilities that initiate playing a card may ignore the play cost or require it to be paid.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_playing_play_cost"
+}

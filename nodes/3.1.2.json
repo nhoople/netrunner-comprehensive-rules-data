@@ -1,0 +1,29 @@
+{
+  "id": "rule_identity_deck_size_influence",
+  "kind": "rule",
+  "number": "3.1.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_identities",
+  "child_ids": [],
+  "text_markup": "Only identity cards have minimum deck sizes and influence limits. These values do not apply during the game; instead, they determine deckbuilding constraints for decks associated with that identity. See {ref:sec_deck_construction}.",
+  "text_plain": "Only identity cards have minimum deck sizes and influence limits. These values do not apply during the game; instead, they determine deckbuilding constraints for decks associated with that identity. See section 1.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 203,
+      "end": 214,
+      "ids": [
+        "sec_deck_construction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identity_deck_size_influence"
+}

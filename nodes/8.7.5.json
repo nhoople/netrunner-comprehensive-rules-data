@@ -1,0 +1,19 @@
+{
+  "id": "rule_search_condition",
+  "kind": "rule",
+  "number": "8.7.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_searching_cards",
+  "child_ids": [],
+  "text_markup": "If the trigger condition of a conditional ability involves a search, that ability becomes pending after the search is completed and any shuffling is performed, but before the found cards are acted on.",
+  "text_plain": "If the trigger condition of a conditional ability involves a search, that ability becomes pending after the search is completed and any shuffling is performed, but before the found cards are acted on.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_search_condition"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rule_symbol_interrupt",
+  "kind": "rule",
+  "number": "1.3.9",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_symbols",
+  "child_ids": [],
+  "text_markup": "The symbol [interrupt] (plaintext: {curly:interrupt}) stands for \"interrupt timing\". It is used to designate abilities that resolve immediately before other abilities. See {ref:sec_interrupts_replacements} for rules about interrupt abilities.",
+  "text_plain": "The symbol {interrupt} (plaintext: {interrupt}) stands for \"interrupt timing\". It is used to designate abilities that resolve immediately before other abilities. See section 9.9 for rules about interrupt abilities.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 11,
+      "end": 22,
+      "target": "interrupt"
+    },
+    {
+      "type": "symbol",
+      "start": 35,
+      "end": 46,
+      "target": "interrupt"
+    },
+    {
+      "type": "ref",
+      "start": 166,
+      "end": 177,
+      "ids": [
+        "sec_interrupts_replacements"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_symbol_interrupt"
+}

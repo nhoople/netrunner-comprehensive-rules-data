@@ -1,0 +1,21 @@
+{
+  "id": "rule_order_of_replacement_effects",
+  "kind": "subsection",
+  "number": "9.9.11",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interrupts_replacements",
+  "child_ids": [
+    "rule_replacement_effect_must_have_something_to_replace"
+  ],
+  "text_markup": "If multiple replacement effects would apply to an effect acting on a targeted card, that card's controller chooses the order in which the replacement effects apply. If multiple replacement effects would apply to any other effect, the controller of the base effect chooses the order in which the replacement effects apply.",
+  "text_plain": "If multiple replacement effects would apply to an effect acting on a targeted card, that card's controller chooses the order in which the replacement effects apply. If multiple replacement effects would apply to any other effect, the controller of the base effect chooses the order in which the replacement effects apply.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_order_of_replacement_effects"
+}

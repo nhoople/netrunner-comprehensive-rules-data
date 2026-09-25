@@ -1,0 +1,39 @@
+{
+  "id": "rule_score_steal",
+  "kind": "subsection",
+  "number": "1.17.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_score_scoring_steal",
+  "child_ids": [
+    "rule_advancement_requirement",
+    "rule_not_required_to_score",
+    "rule_score_not_an_action",
+    "rule_decline_to_steal",
+    "rule_add_agenda_to_score_area",
+    "rule_added_agendas_not_scored_or_stolen"
+  ],
+  "text_markup": "Players add agendas to their score areas by {term:scoring} or {term:stealing} them. The Corp can score an agenda to their score area as an option during certain paid ability windows on their turn. The Runner can steal an agenda to their score area while accessing it.",
+  "text_plain": "Players add agendas to their score areas by scoring or stealing them. The Corp can score an agenda to their score area as an option during certain paid ability windows on their turn. The Runner can steal an agenda to their score area while accessing it.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 44,
+      "end": 51,
+      "target": "scoring"
+    },
+    {
+      "type": "term",
+      "start": 55,
+      "end": 63,
+      "target": "stealing"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_score_steal"
+}

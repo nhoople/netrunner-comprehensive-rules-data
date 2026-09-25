@@ -1,0 +1,26 @@
+{
+  "id": "rule_card_name_definition",
+  "kind": "rule",
+  "number": "2.1.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_name",
+  "child_ids": [],
+  "text_markup": "The identifier of a card is its {term:name}, alternatively referred to as its title. It is written along the top of the card for identities, agendas, ice, operations, events, and resources, or immediately below the art box in the case of assets, upgrades, hardware, and programs.",
+  "text_plain": "The identifier of a card is its name, alternatively referred to as its title. It is written along the top of the card for identities, agendas, ice, operations, events, and resources, or immediately below the art box in the case of assets, upgrades, hardware, and programs.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 32,
+      "end": 36,
+      "target": "name"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_card_name_definition"
+}

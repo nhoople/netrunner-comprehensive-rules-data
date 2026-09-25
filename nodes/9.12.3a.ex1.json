@@ -1,0 +1,75 @@
+{
+  "id": "rule_must_with_choice__example_1",
+  "kind": "example",
+  "number": "9.12.3a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_must_with_choice",
+  "child_ids": [],
+  "text_markup": "The Runner has an {card:Imp} and a {card:Scrubber} installed and accesses {card:Mumbad Virtual Tour}. If the Runner only has 4[c], they must still choose to either spend a counter from {card:Imp} to trash {card:Mumbad Virtual Tour} if they are able to do so or spend recurring credits on {card:Scrubber} to help pay the trash cost of the {card:Mumbad Virtual Tour}.",
+  "text_plain": "The Runner has an Imp and a Scrubber installed and accesses Mumbad Virtual Tour. If the Runner only has 4{c}, they must still choose to either spend a counter from Imp to trash Mumbad Virtual Tour if they are able to do so or spend recurring credits on Scrubber to help pay the trash cost of the Mumbad Virtual Tour.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 18,
+      "end": 21,
+      "target": "Imp",
+      "card_code": "31007"
+    },
+    {
+      "type": "card",
+      "start": 28,
+      "end": 36,
+      "target": "Scrubber",
+      "card_code": "31011"
+    },
+    {
+      "type": "card",
+      "start": 60,
+      "end": 79,
+      "target": "Mumbad Virtual Tour",
+      "card_code": "10076"
+    },
+    {
+      "type": "symbol",
+      "start": 105,
+      "end": 108,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 164,
+      "end": 167,
+      "target": "Imp",
+      "card_code": "31007"
+    },
+    {
+      "type": "card",
+      "start": 177,
+      "end": 196,
+      "target": "Mumbad Virtual Tour",
+      "card_code": "10076"
+    },
+    {
+      "type": "card",
+      "start": 253,
+      "end": 261,
+      "target": "Scrubber",
+      "card_code": "31011"
+    },
+    {
+      "type": "card",
+      "start": 296,
+      "end": 315,
+      "target": "Mumbad Virtual Tour",
+      "card_code": "10076"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

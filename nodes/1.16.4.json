@@ -1,0 +1,24 @@
+{
+  "id": "rule_types_of_costs",
+  "kind": "subsection",
+  "number": "1.16.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_costs",
+  "child_ids": [
+    "rule_inherent_cost",
+    "rule_inherent_cost_in_ability",
+    "rule_inherent_and_additional_cost",
+    "rule_inherent_cost_aggregates"
+  ],
+  "text_markup": "There are six main types of costs: install costs (found mainly on hardware, programs, and resources, and incurred when installing ice), play costs (found on operations and events), rez costs (found on assets, upgrades, and ice), paid ability trigger costs, additional costs, and nested costs.",
+  "text_plain": "There are six main types of costs: install costs (found mainly on hardware, programs, and resources, and incurred when installing ice), play costs (found on operations and events), rez costs (found on assets, upgrades, and ice), paid ability trigger costs, additional costs, and nested costs.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_types_of_costs"
+}

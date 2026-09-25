@@ -1,0 +1,25 @@
+{
+  "id": "sec_appendix_timing_structure_of_a_run_1_b",
+  "kind": "timing_structure",
+  "number": "11.4_1_b",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_of_a_run_1",
+  "child_ids": [],
+  "text_markup": "The Runner {n}fills their bad publicity fund.{/n}",
+  "text_plain": "The Runner fills their bad publicity fund.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 11,
+      "end": 42
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_a_run_1_b"
+}

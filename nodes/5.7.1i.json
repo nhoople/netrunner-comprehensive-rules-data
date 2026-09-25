@@ -1,0 +1,19 @@
+{
+  "id": "step_runner_turn_action_phase_complete",
+  "kind": "rule",
+  "number": "5.7.1i",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "subsec_runner_action_phase",
+  "child_ids": [],
+  "text_markup": "The Runner's action phase is complete. Play proceeds to the Runner's discard phase.",
+  "text_plain": "The Runner's action phase is complete. Play proceeds to the Runner's discard phase.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_runner_turn_action_phase_complete"
+}

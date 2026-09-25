@@ -1,0 +1,23 @@
+{
+  "id": "rule_gain_spend_lose_credits",
+  "kind": "subsection",
+  "number": "1.10.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_credits",
+  "child_ids": [
+    "rule_gain_credits",
+    "rule_lose_credits",
+    "rule_spend_credits"
+  ],
+  "text_markup": "Credits enter and leave a player's credit pool as that player gains, loses, or spends credits.",
+  "text_plain": "Credits enter and leave a player's credit pool as that player gains, loses, or spends credits.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_gain_spend_lose_credits"
+}

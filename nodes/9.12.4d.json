@@ -1,0 +1,19 @@
+{
+  "id": "rule_repetition_resolve_independently",
+  "kind": "rule",
+  "number": "9.12.4d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_repeat_this_process",
+  "child_ids": [],
+  "text_markup": "Each repetition of the ability is resolved independently of the others. If the ability provides the player with any choices, they may choose differently each time.",
+  "text_plain": "Each repetition of the ability is resolved independently of the others. If the ability provides the player with any choices, they may choose differently each time.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_repetition_resolve_independently"
+}

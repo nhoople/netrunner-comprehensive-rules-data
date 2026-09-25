@@ -1,0 +1,37 @@
+{
+  "id": "rule_meat_net_damage",
+  "kind": "rule",
+  "number": "10.4.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_damage_types",
+  "child_ids": [],
+  "text_markup": "{term:meat damage} and {term:net damage} are resolved the same way. For each point of damage suffered, {n}the player responsible for the damage trashes 1 randomly-chosen card{/n} from the grip.",
+  "text_plain": "meat damage and net damage are resolved the same way. For each point of damage suffered, the player responsible for the damage trashes 1 randomly-chosen card from the grip.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 11,
+      "target": "meat damage"
+    },
+    {
+      "type": "term",
+      "start": 16,
+      "end": 26,
+      "target": "net damage"
+    },
+    {
+      "type": "new",
+      "start": 89,
+      "end": 157
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_meat_net_damage"
+}

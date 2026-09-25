@@ -1,0 +1,26 @@
+{
+  "id": "rule_trash_cost_location",
+  "kind": "rule",
+  "number": "2.6.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_trash_cost",
+  "child_ids": [],
+  "text_markup": "Assets, upgrades, and some ice and operations have trash costs. A trash cost is a number appearing in the lower-right corner of the card within a [trashcost] symbol.",
+  "text_plain": "Assets, upgrades, and some ice and operations have trash costs. A trash cost is a number appearing in the lower-right corner of the card within a {trashcost} symbol.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 146,
+      "end": 157,
+      "target": "trashcost"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trash_cost_location"
+}

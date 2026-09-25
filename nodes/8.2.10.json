@@ -1,0 +1,35 @@
+{
+  "id": "movement_steal",
+  "kind": "rule",
+  "number": "8.2.10",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_movements",
+  "child_ids": [],
+  "text_markup": "To {term:steal} an agenda is to move it from its current zone to the Runner's score area. The full rules for stealing are detailed in {ref:sec_score_scoring_steal}.",
+  "text_plain": "To steal an agenda is to move it from its current zone to the Runner's score area. The full rules for stealing are detailed in section 1.17.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 8,
+      "target": "steal"
+    },
+    {
+      "type": "ref",
+      "start": 127,
+      "end": 139,
+      "ids": [
+        "sec_score_scoring_steal"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=movement_steal"
+}

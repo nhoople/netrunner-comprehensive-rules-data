@@ -1,0 +1,41 @@
+{
+  "id": "rule_instruction",
+  "kind": "subsection",
+  "number": "9.3.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interpreting_card_text",
+  "child_ids": [
+    "rule_instruction_source",
+    "rule_instruction_target",
+    "rule_instruction_atomic",
+    "rule_resolve_instruction_in_order",
+    "rule_instruction_lingering_effect"
+  ],
+  "text_markup": "An {term:instruction} is a statement or command that is resolved at a specific time and applies immediate effects to the game state. (This can include creating new lingering abilities or effects that will continue to apply over time; see {ref:sec_lingering_effects}.)",
+  "text_plain": "An instruction is a statement or command that is resolved at a specific time and applies immediate effects to the game state. (This can include creating new lingering abilities or effects that will continue to apply over time; see section 9.10.)",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 14,
+      "target": "instruction"
+    },
+    {
+      "type": "ref",
+      "start": 231,
+      "end": 243,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_instruction"
+}

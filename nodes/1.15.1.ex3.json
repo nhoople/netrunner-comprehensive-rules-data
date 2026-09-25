@@ -1,0 +1,27 @@
+{
+  "id": "rule_target__example_3",
+  "kind": "example",
+  "number": "1.15.1.ex3",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_target",
+  "child_ids": [],
+  "text_markup": "{card:Trick of Light} reads, \"Choose 1 installed card you can advance. Move up to 2 advancement counters from 1 other card to the chosen card.\" The targets of this operation are the advancement counters to be moved and the destination card. If 2 tokens are chosen, they must be hosted on the same card.",
+  "text_plain": "Trick of Light reads, \"Choose 1 installed card you can advance. Move up to 2 advancement counters from 1 other card to the chosen card.\" The targets of this operation are the advancement counters to be moved and the destination card. If 2 tokens are chosen, they must be hosted on the same card.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 14,
+      "target": "Trick of Light",
+      "card_code": "31058"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

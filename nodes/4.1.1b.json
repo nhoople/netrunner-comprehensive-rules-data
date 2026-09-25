@@ -1,0 +1,19 @@
+{
+  "id": "rule_player_zones",
+  "kind": "rule",
+  "number": "4.1.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_zone",
+  "child_ids": [],
+  "text_markup": "Each player has their own deck, hand, discard pile, and score area. All players share the play area, the bank, the set-aside zone, and the removed-from-game zone.",
+  "text_plain": "Each player has their own deck, hand, discard pile, and score area. All players share the play area, the bank, the set-aside zone, and the removed-from-game zone.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_player_zones"
+}

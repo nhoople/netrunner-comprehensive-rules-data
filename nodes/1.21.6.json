@@ -1,0 +1,29 @@
+{
+  "id": "rule_remain_visible",
+  "kind": "rule",
+  "number": "1.21.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_visibility",
+  "child_ids": [],
+  "text_markup": "If a resolving ability directs one or both players to look at or reveal a card or set of cards, each such card remains visible to the relevant player(s) until the entire ability is finished resolving or the card moves to a different location. See also {ref:rule_visibility_after_access}.",
+  "text_plain": "If a resolving ability directs one or both players to look at or reveal a card or set of cards, each such card remains visible to the relevant player(s) until the entire ability is finished resolving or the card moves to a different location. See also rule 7.3.1a.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 252,
+      "end": 263,
+      "ids": [
+        "rule_visibility_after_access"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_remain_visible"
+}

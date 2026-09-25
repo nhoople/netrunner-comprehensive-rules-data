@@ -1,0 +1,29 @@
+{
+  "id": "rule_paid_ability_independent",
+  "kind": "rule",
+  "number": "9.5.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_paid_abilities",
+  "child_ids": [],
+  "text_markup": "Once a player pays the trigger cost of a paid ability, that ability becomes independent of its source and {ref:rule_abilities_resolution_independent} applies to it.",
+  "text_plain": "Once a player pays the trigger cost of a paid ability, that ability becomes independent of its source and rule 9.1.4 applies to it.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 106,
+      "end": 116,
+      "ids": [
+        "rule_abilities_resolution_independent"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_paid_ability_independent"
+}

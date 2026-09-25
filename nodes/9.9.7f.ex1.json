@@ -1,0 +1,81 @@
+{
+  "id": "rule_prevent_as_trigger_condition__example_1",
+  "kind": "example",
+  "number": "9.9.7f.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_prevent_as_trigger_condition",
+  "child_ids": [],
+  "text_markup": "The Runner accesses {card:Angelique Garza Correa} and the Corp pays 2[c], making the \"Do 2 meat damage\" instruction imminent. The Runner uses {card:Plascrete Carapace} to prevent 2 meat damage, leaving the imminent instruction with the expected effect \"Do 0 meat damage.\". At this point, the 0 value for the damage can still be modified by abilities like {card:The Cleaners}. But then the Runner resolves the interrupt ability on {card:Guru Davinder}, which removes the damage effect altogether. Since the value for the damage was 0, {card:Guru Davinder}'s second ability does not meet its trigger condition and the Runner does not have to trash {card:Guru Davinder} or pay 4[c]. There is no longer an imminent damage effect, so the Corp cannot use {card:The Cleaners}.",
+  "text_plain": "The Runner accesses Angelique Garza Correa and the Corp pays 2{c}, making the \"Do 2 meat damage\" instruction imminent. The Runner uses Plascrete Carapace to prevent 2 meat damage, leaving the imminent instruction with the expected effect \"Do 0 meat damage.\". At this point, the 0 value for the damage can still be modified by abilities like The Cleaners. But then the Runner resolves the interrupt ability on Guru Davinder, which removes the damage effect altogether. Since the value for the damage was 0, Guru Davinder's second ability does not meet its trigger condition and the Runner does not have to trash Guru Davinder or pay 4{c}. There is no longer an imminent damage effect, so the Corp cannot use The Cleaners.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 42,
+      "target": "Angelique Garza Correa",
+      "card_code": "34063"
+    },
+    {
+      "type": "symbol",
+      "start": 62,
+      "end": 65,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 135,
+      "end": 153,
+      "target": "Plascrete Carapace",
+      "card_code": "02009"
+    },
+    {
+      "type": "card",
+      "start": 341,
+      "end": 353,
+      "target": "The Cleaners",
+      "card_code": "20080"
+    },
+    {
+      "type": "card",
+      "start": 409,
+      "end": 422,
+      "target": "Guru Davinder",
+      "card_code": "10084"
+    },
+    {
+      "type": "card",
+      "start": 506,
+      "end": 519,
+      "target": "Guru Davinder",
+      "card_code": "10084"
+    },
+    {
+      "type": "card",
+      "start": 611,
+      "end": 624,
+      "target": "Guru Davinder",
+      "card_code": "10084"
+    },
+    {
+      "type": "symbol",
+      "start": 633,
+      "end": 636,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 707,
+      "end": 719,
+      "target": "The Cleaners",
+      "card_code": "20080"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

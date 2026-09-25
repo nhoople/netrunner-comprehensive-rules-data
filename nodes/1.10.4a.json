@@ -1,0 +1,26 @@
+{
+  "id": "rule_take_credits",
+  "kind": "rule",
+  "number": "1.10.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_hosted_credits",
+  "child_ids": [],
+  "text_markup": "If a player is instructed to {term:take} credits from a card, they remove that many credits from that card and gain those credits.",
+  "text_plain": "If a player is instructed to take credits from a card, they remove that many credits from that card and gain those credits.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 29,
+      "end": 33,
+      "target": "take"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_take_credits"
+}

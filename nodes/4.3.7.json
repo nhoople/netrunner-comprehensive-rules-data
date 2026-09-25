@@ -1,0 +1,19 @@
+{
+  "id": "rule_hand_name",
+  "kind": "rule",
+  "number": "4.3.7",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_hand",
+  "child_ids": [],
+  "text_markup": "Each player's hand has its own name as a means of differentiating between the two.",
+  "text_plain": "Each player's hand has its own name as a means of differentiating between the two.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hand_name"
+}

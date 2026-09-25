@@ -1,0 +1,19 @@
+{
+  "id": "rule_no_install_cost",
+  "kind": "rule",
+  "number": "1.16.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_install_cost",
+  "child_ids": [],
+  "text_markup": "There is no cost to install an asset, upgrade, or agenda.",
+  "text_plain": "There is no cost to install an asset, upgrade, or agenda.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_no_install_cost"
+}

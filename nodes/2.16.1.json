@@ -1,0 +1,21 @@
+{
+  "id": "rule_subtypes",
+  "kind": "subsection",
+  "number": "2.16.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_subtypes",
+  "child_ids": [
+    "rule_subtype_special_rules"
+  ],
+  "text_markup": "Cards may have one or more subtypes, which are written following the primary type. Subtypes are card descriptors that can be referenced by card abilities. Cards that share a subtype often share a distinct characteristic or ability.",
+  "text_plain": "Cards may have one or more subtypes, which are written following the primary type. Subtypes are card descriptors that can be referenced by card abilities. Cards that share a subtype often share a distinct characteristic or ability.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subtypes"
+}

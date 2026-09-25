@@ -1,0 +1,26 @@
+{
+  "id": "rule_swap",
+  "kind": "rule",
+  "number": "8.8.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_swapping_cards",
+  "child_ids": [],
+  "text_markup": "To {term:swap} two cards is to exchange their locations.",
+  "text_plain": "To swap two cards is to exchange their locations.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 7,
+      "target": "swap"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_swap"
+}

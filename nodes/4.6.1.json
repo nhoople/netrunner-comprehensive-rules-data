@@ -1,0 +1,28 @@
+{
+  "id": "rule_play_area",
+  "kind": "subsection",
+  "number": "4.6.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_play_area",
+  "child_ids": [
+    "rule_play_area_start_game"
+  ],
+  "text_markup": "The {term:play area} is the shared active zone into which cards are played or installed. The play area normally starts the game empty except for each of the player's identities.",
+  "text_plain": "The play area is the shared active zone into which cards are played or installed. The play area normally starts the game empty except for each of the player's identities.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 13,
+      "target": "play area"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_owner",
+  "kind": "subsection",
+  "number": "1.14.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_ownership",
+  "child_ids": [
+    "rule_owner_converted_to_counter",
+    "rule_owner_counters"
+  ],
+  "text_markup": "The {term:owner} of a card is the player who provided that card at the start of the game as their identity, part of their deck, or an extra card along with their deck.",
+  "text_plain": "The owner of a card is the player who provided that card at the start of the game as their identity, part of their deck, or an extra card along with their deck.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 9,
+      "target": "owner"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_owner"
+}

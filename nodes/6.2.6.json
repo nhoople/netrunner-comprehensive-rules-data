@@ -1,0 +1,22 @@
+{
+  "id": "rule_ice_change_can_affect_position",
+  "kind": "subsection",
+  "number": "6.2.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_position",
+  "child_ids": [
+    "rule_ice_change_outward",
+    "rule_ice_change_inward"
+  ],
+  "text_markup": "The Runner's current position is a specific element of the sequence of positions, not an index into that sequence. Adding or removing other positions protecting the attacked server does not affect the Runner's position.",
+  "text_plain": "The Runner's current position is a specific element of the sequence of positions, not an index into that sequence. Adding or removing other positions protecting the attacked server does not affect the Runner's position.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_change_can_affect_position"
+}

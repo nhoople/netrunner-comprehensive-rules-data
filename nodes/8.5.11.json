@@ -1,0 +1,23 @@
+{
+  "id": "sec_install_cost",
+  "kind": "subsection",
+  "number": "8.5.11",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [
+    "rule_install_cost_link",
+    "rule_install_cost_x",
+    "rule_install_cost_checkpoint"
+  ],
+  "text_markup": "Some types of cards have an install cost, which must be paid before the card can become installed, unless an ability indicates that this cost should be ignored.",
+  "text_plain": "Some types of cards have an install cost, which must be paid before the card can become installed, unless an ability indicates that this cost should be ignored.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_install_cost"
+}

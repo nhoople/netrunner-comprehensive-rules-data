@@ -1,0 +1,26 @@
+{
+  "id": "rule_turn",
+  "kind": "rule",
+  "number": "5.1.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_turn_general",
+  "child_ids": [],
+  "text_markup": "A {term:turn} is a duration of time during which a player may take actions and is the first to receive priority to act during priority windows.",
+  "text_plain": "A turn is a duration of time during which a player may take actions and is the first to receive priority to act during priority windows.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 6,
+      "target": "turn"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_turn"
+}

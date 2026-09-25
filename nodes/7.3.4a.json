@@ -1,0 +1,19 @@
+{
+  "id": "rule_candidates_breaching_hq",
+  "kind": "rule",
+  "number": "7.3.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_candidates_presented",
+  "child_ids": [],
+  "text_markup": "When presented with candidates during a breach of HQ, the Runner chooses either a specific candidate that is not in the Corp's hand or to access a random candidate from among the ones in the Corp's hand. A card randomly chosen this way is treated as though the Runner had chosen it.",
+  "text_plain": "When presented with candidates during a breach of HQ, the Runner chooses either a specific candidate that is not in the Corp's hand or to access a random candidate from among the ones in the Corp's hand. A card randomly chosen this way is treated as though the Runner had chosen it.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_candidates_breaching_hq"
+}

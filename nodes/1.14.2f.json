@@ -1,0 +1,19 @@
+{
+  "id": "rule_controller_hosted_counter",
+  "kind": "rule",
+  "number": "1.14.2f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_controller_object",
+  "child_ids": [],
+  "text_markup": "The controller of a counter hosted on a card is the player who controls the host card.",
+  "text_plain": "The controller of a counter hosted on a card is the player who controls the host card.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_controller_hosted_counter"
+}

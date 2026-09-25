@@ -1,0 +1,19 @@
+{
+  "id": "rule_active_exception_modify_cost",
+  "kind": "rule",
+  "number": "9.1.8d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_active_inactive_source_card",
+  "child_ids": [],
+  "text_markup": "Abilities that modify the cost to install, rez, or play their source card are active even while that card is inactive.",
+  "text_plain": "Abilities that modify the cost to install, rez, or play their source card are active even while that card is inactive.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_active_exception_modify_cost"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sec_server_indicator_no_gameplay",
+  "kind": "rule",
+  "number": "2.18.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_server_indicator",
+  "child_ids": [],
+  "text_markup": "The server indicator is a visual aid only and has no direct gameplay function.",
+  "text_plain": "The server indicator is a visual aid only and has no direct gameplay function.",
+  "spans": [],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_server_indicator_no_gameplay"
+}

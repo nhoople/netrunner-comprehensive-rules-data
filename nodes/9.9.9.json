@@ -1,0 +1,23 @@
+{
+  "id": "rule_applying_replacement_effects",
+  "kind": "subsection",
+  "number": "9.9.9",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interrupts_replacements",
+  "child_ids": [
+    "rule_replacement_on_static_ability_must_remain_active",
+    "rule_replacement_effects_apply_as_interrupt_window_opens",
+    "rule_replacement_effect_only_applies_once_per_effect"
+  ],
+  "text_markup": "Replacement effects most commonly apply to the effects of an instruction, but some apply to static abilities or alter the durations of lingering effects.",
+  "text_plain": "Replacement effects most commonly apply to the effects of an instruction, but some apply to static abilities or alter the durations of lingering effects.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_applying_replacement_effects"
+}

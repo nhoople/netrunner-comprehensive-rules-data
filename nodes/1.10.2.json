@@ -1,0 +1,26 @@
+{
+  "id": "rule_credit_pool",
+  "kind": "rule",
+  "number": "1.10.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_credits",
+  "child_ids": [],
+  "text_markup": "Each player has a {term:credit pool} where they keep a supply of credit counters matching the credits they have available to spend. The number of credits in a player's credit pool is open information.",
+  "text_plain": "Each player has a credit pool where they keep a supply of credit counters matching the credits they have available to spend. The number of credits in a player's credit pool is open information.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 18,
+      "end": 29,
+      "target": "credit pool"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_credit_pool"
+}

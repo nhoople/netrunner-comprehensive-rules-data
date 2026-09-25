@@ -1,0 +1,41 @@
+{
+  "id": "rule_action_timing_structure_completion__example_1",
+  "kind": "example",
+  "number": "5.2.2b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_action_timing_structure_completion",
+  "child_ids": [],
+  "text_markup": "The Runner takes the action \"play an event\", playing {card:Stimhack}. The action is not complete until the run initiated by {card:Stimhack} ends, the Runner suffers core damage, and {card:Stimhack} is trashed following its resolution.",
+  "text_plain": "The Runner takes the action \"play an event\", playing Stimhack. The action is not complete until the run initiated by Stimhack ends, the Runner suffers core damage, and Stimhack is trashed following its resolution.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 53,
+      "end": 61,
+      "target": "Stimhack",
+      "card_code": "20005"
+    },
+    {
+      "type": "card",
+      "start": 117,
+      "end": 125,
+      "target": "Stimhack",
+      "card_code": "20005"
+    },
+    {
+      "type": "card",
+      "start": 168,
+      "end": 176,
+      "target": "Stimhack",
+      "card_code": "20005"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

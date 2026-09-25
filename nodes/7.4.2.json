@@ -1,0 +1,36 @@
+{
+  "id": "rule_prohibiting_access",
+  "kind": "subsection",
+  "number": "7.4.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_determining_candidates",
+  "child_ids": [
+    "rule_prohibition_removed",
+    "rule_prohibiting_access_to_1",
+    "rule_prohibiting_access__example_1"
+  ],
+  "text_markup": "If at any time the Runner is prohibited from accessing an object, that object ceases to be a candidate. {n}It cannot become a candidate as long as accessing it remains prohibited.{/n}",
+  "text_plain": "If at any time the Runner is prohibited from accessing an object, that object ceases to be a candidate. It cannot become a candidate as long as accessing it remains prohibited.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 104,
+      "end": 176
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_prohibiting_access__example_1",
+      "text_markup": "The Corp performs a successful trace with the ability on {card:Ash 2X3ZB9CY}, prohibiting the Runner from accessing any card other than Ash for the remainder of the current run. When the server is breached, Ash will be the only candidate for the Runner's first selection, and then there will be no candidates remaining, so the breach will end.",
+      "text_plain": "The Corp performs a successful trace with the ability on Ash 2X3ZB9CY, prohibiting the Runner from accessing any card other than Ash for the remainder of the current run. When the server is breached, Ash will be the only candidate for the Runner's first selection, and then there will be no candidates remaining, so the breach will end.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_prohibiting_access"
+}

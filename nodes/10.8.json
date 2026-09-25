@@ -1,0 +1,26 @@
+{
+  "id": "sec_traces",
+  "kind": "section",
+  "number": "10.8",
+  "ref_type": "section",
+  "title": "Traces",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_trace_attempt_and_base_trace_strength",
+    "rule_trace_strength",
+    "rule_link_strength",
+    "rule_compare_trace_and_link_strength",
+    "rule_trace_conditional_abilities",
+    "rule_steps_of_resolving_trace_attempt"
+  ],
+  "text_markup": "Traces",
+  "text_plain": "Traces",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "A trace is the Corp's attempt to connect from their servers back to the Runner. Many traces can allow the Corp to gain information about the Runner, tagging them, but traces can also produce a wide variety of other effects. Traces most commonly originate from ice subroutines, but Corporate operations can produce some of the nastiest trace effects.",
+  "snippet_plain": "A trace is the Corp's attempt to connect from their servers back to the Runner. Many traces can allow the Corp to gain information about the Runner, tagging them, but traces can also produce a wide variety of other effects. Traces most commonly originate from ice subroutines, but Corporate operations can produce some of the nastiest trace effects.",
+  "url": "https://rules.nullsignal.games/?r=sec_traces"
+}

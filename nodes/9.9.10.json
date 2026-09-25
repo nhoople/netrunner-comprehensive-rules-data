@@ -1,0 +1,28 @@
+{
+  "id": "rule_replace_imminent_effects",
+  "kind": "rule",
+  "number": "9.9.10",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_interrupts_replacements",
+  "child_ids": [
+    "rule_replace_imminent_effects__example_1"
+  ],
+  "text_markup": "Some interrupts create replacement effects to modify an instruction that is already imminent. When the interrupt resolves, if the replacement effect can apply to the expected effects of the imminent instruction, it is applied immediately.",
+  "text_plain": "Some interrupts create replacement effects to modify an instruction that is already imminent. When the interrupt resolves, if the replacement effect can apply to the expected effects of the imminent instruction, it is applied immediately.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_replace_imminent_effects__example_1",
+      "text_markup": "An instruction is imminent with an expected effect of the Corp doing net damage to the Runner. The Corp uses {card:Tori Hanzō}'s ability, creating a replacement effect replacing net damage with core damage. The replacement effect applies immediately, so after {card:Tori Hanzō}'s ability resolves, the expected effect is now to do 1 core damage. When players get priority again, their interrupts are relevant or not based on the new expected effects.",
+      "text_plain": "An instruction is imminent with an expected effect of the Corp doing net damage to the Runner. The Corp uses Tori Hanzō's ability, creating a replacement effect replacing net damage with core damage. The replacement effect applies immediately, so after Tori Hanzō's ability resolves, the expected effect is now to do 1 core damage. When players get priority again, their interrupts are relevant or not based on the new expected effects.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_replace_imminent_effects"
+}

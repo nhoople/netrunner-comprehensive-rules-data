@@ -1,0 +1,55 @@
+{
+  "id": "rule_spend_credits",
+  "kind": "rule",
+  "number": "1.10.3c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_gain_spend_lose_credits",
+  "child_ids": [
+    "rule_spend_credits__example_1",
+    "rule_spend_credits__example_2",
+    "rule_spend_credits__example_3"
+  ],
+  "text_markup": "To {term:spend} or {term:pay} credits, a player puts the specified number of credits back into the bank. By default, the credits must come from the player's credit pool. Abilities can also allow players to spend credits hosted on their cards under certain conditions. If any such abilities apply, the player chooses how to divide the credits they are spending from among the allowed locations. The terms \"spend\" and \"pay\" are synonymous.",
+  "text_plain": "To spend or pay credits, a player puts the specified number of credits back into the bank. By default, the credits must come from the player's credit pool. Abilities can also allow players to spend credits hosted on their cards under certain conditions. If any such abilities apply, the player chooses how to divide the credits they are spending from among the allowed locations. The terms \"spend\" and \"pay\" are synonymous.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 8,
+      "target": "spend"
+    },
+    {
+      "type": "term",
+      "start": 12,
+      "end": 15,
+      "target": "pay"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_spend_credits__example_1",
+      "text_markup": "The Runner may use the credit from {card:Cyberfeeder} to pay for {card:Atman}'s first ability.",
+      "text_plain": "The Runner may use the credit from Cyberfeeder to pay for Atman's first ability.",
+      "is_new": false
+    },
+    {
+      "id": "rule_spend_credits__example_2",
+      "text_markup": "The Runner may use credits from {card:Ghost Runner} when secretly spending credits to resolve a Psi ability (such as {card:The Future Perfect}).",
+      "text_plain": "The Runner may use credits from Ghost Runner when secretly spending credits to resolve a Psi ability (such as The Future Perfect).",
+      "is_new": false
+    },
+    {
+      "id": "rule_spend_credits__example_3",
+      "text_markup": "The Runner must use credits from {card:Ghost Runner} if this is the only way for them to pay 3[c] when resolving the \"when encountered\" ability on {card:Tollbooth}.",
+      "text_plain": "The Runner must use credits from Ghost Runner if this is the only way for them to pay 3{c} when resolving the \"when encountered\" ability on Tollbooth.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_spend_credits"
+}

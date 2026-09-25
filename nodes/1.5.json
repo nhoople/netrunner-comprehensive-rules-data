@@ -1,0 +1,24 @@
+{
+  "id": "sec_extra_cards",
+  "kind": "section",
+  "number": "1.5",
+  "ref_type": "section",
+  "title": "Extra Cards",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_outside_deck",
+    "rule_identity_copy",
+    "rule_adam",
+    "rule_additional_identity"
+  ],
+  "text_markup": "Extra Cards",
+  "text_plain": "Extra Cards",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_extra_cards"
+}

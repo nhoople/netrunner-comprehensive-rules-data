@@ -1,0 +1,29 @@
+{
+  "id": "rule_discard_phase_discarding",
+  "kind": "subsection",
+  "number": "5.5.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_discard_phase",
+  "child_ids": [
+    "rule_discarding_facedown_status",
+    "rule_discarding_trashed"
+  ],
+  "text_markup": "{term: discarding} is the act by which a player moves a card to their discard pile during their discard phase if they have exceeded their maximum hand size.",
+  "text_plain": " discarding is the act by which a player moves a card to their discard pile during their discard phase if they have exceeded their maximum hand size.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 11,
+      "target": " discarding"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_discard_phase_discarding"
+}

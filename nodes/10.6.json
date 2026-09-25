@@ -1,0 +1,23 @@
+{
+  "id": "sec_bad_publicity",
+  "kind": "section",
+  "number": "10.6",
+  "ref_type": "section",
+  "title": "Bad Publicity",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_bad_publicity",
+    "rule_bad_publicity_fund",
+    "rule_bad_publicity_added_and_removed"
+  ],
+  "text_markup": "Bad Publicity",
+  "text_plain": "Bad Publicity",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Nobody likes corrupt Corps, or at least, most people say they don't. If a Corp has a bad reputation, the Runner has an easier time finding help to attack that Corp's servers. This extra help is abstracted as extra credits the Runner gets to use during runs.",
+  "snippet_plain": "Nobody likes corrupt Corps, or at least, most people say they don't. If a Corp has a bad reputation, the Runner has an easier time finding help to attack that Corp's servers. This extra help is abstracted as extra credits the Runner gets to use during runs.",
+  "url": "https://rules.nullsignal.games/?r=sec_bad_publicity"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_modify_duration_of_lingering_effect",
+  "kind": "rule",
+  "number": "9.10.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_lingering_effects",
+  "child_ids": [
+    "rule_modify_duration_of_lingering_effect__example_1"
+  ],
+  "text_markup": "Only lingering effects have durations. An ability that modifies the durations of other abilities functions by keeping their corresponding lingering effects active until an additional duration expires. This type of ability does not interact with effects from static abilities.",
+  "text_plain": "Only lingering effects have durations. An ability that modifies the durations of other abilities functions by keeping their corresponding lingering effects active until an additional duration expires. This type of ability does not interact with effects from static abilities.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_modify_duration_of_lingering_effect__example_1",
+      "text_markup": "The Runner controls {card:Gebrselassie} hosted on {card:Na'Not'K}. They run a server protected by 3 pieces of ice, and use {card:Na'Not'K}'s last ability to raise its strength to a total of 6. When the run ends, {card:Na'Not'K}'s static ability will no longer provide +3 strength, but the lingering effect of +2 strength from its paid ability will be maintained by {card:Gebrselassie} until the turn ends or {card:Gebrselassie} stops being hosted on {card:Na'Not'K}. If the Runner makes another run on a server protected by only 1 piece of ice, {card:Na'Not'K} will have 4 strength when that run begins.",
+      "text_plain": "The Runner controls Gebrselassie hosted on Na'Not'K. They run a server protected by 3 pieces of ice, and use Na'Not'K's last ability to raise its strength to a total of 6. When the run ends, Na'Not'K's static ability will no longer provide +3 strength, but the lingering effect of +2 strength from its paid ability will be maintained by Gebrselassie until the turn ends or Gebrselassie stops being hosted on Na'Not'K. If the Runner makes another run on a server protected by only 1 piece of ice, Na'Not'K will have 4 strength when that run begins.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modify_duration_of_lingering_effect"
+}

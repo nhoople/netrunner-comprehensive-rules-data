@@ -1,0 +1,25 @@
+{
+  "id": "sec_counters_and_tokens",
+  "kind": "section",
+  "number": "1.9",
+  "ref_type": "section",
+  "title": "Counters and Tokens",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_counters_cards",
+    "rule_bank",
+    "rule_card_conversion_game_piece",
+    "rule_additional_counters",
+    "rule_counter_types"
+  ],
+  "text_markup": "Counters and Tokens",
+  "text_plain": "Counters and Tokens",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_counters_and_tokens"
+}

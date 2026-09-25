@@ -1,0 +1,26 @@
+{
+  "id": "rule_trashing",
+  "kind": "rule",
+  "number": "1.19.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_trashing",
+  "child_ids": [],
+  "text_markup": "{term:Trashing} is the act of moving an object to its owner's discard pile.",
+  "text_plain": "Trashing is the act of moving an object to its owner's discard pile.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 8,
+      "target": "Trashing"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trashing"
+}

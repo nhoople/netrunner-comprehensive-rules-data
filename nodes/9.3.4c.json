@@ -1,0 +1,29 @@
+{
+  "id": "rule_instruction_atomic",
+  "kind": "rule",
+  "number": "9.3.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction",
+  "child_ids": [],
+  "text_markup": "Each instruction is carried out as an atomic unit and cannot be interrupted once it begins to resolve. The procedure for carrying out an instruction can be altered by other effects such as interrupts, but only before the instruction begins to resolve. See {ref:sec_interrupts_replacements}.",
+  "text_plain": "Each instruction is carried out as an atomic unit and cannot be interrupted once it begins to resolve. The procedure for carrying out an instruction can be altered by other effects such as interrupts, but only before the instruction begins to resolve. See section 9.9.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 256,
+      "end": 267,
+      "ids": [
+        "sec_interrupts_replacements"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_instruction_atomic"
+}

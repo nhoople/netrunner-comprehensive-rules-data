@@ -1,0 +1,52 @@
+{
+  "id": "rule_trash_hosted_objects_when_host_trashed",
+  "kind": "rule",
+  "number": "1.13.13",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [
+    "rule_trash_hosted_objects_when_host_trashed__example_1",
+    "rule_trash_hosted_objects_when_host_trashed__example_2",
+    "rule_trash_hosted_objects_when_host_trashed__example_3"
+  ],
+  "text_markup": "If a host card changes zones, except by moving from a player's score area to another player's score area, all objects hosted on that card (and all objects hosted on those objects, and so on) are trashed during the next checkpoint. This cannot be prevented. See {ref:sec_checkpoints} for details on checkpoints.",
+  "text_plain": "If a host card changes zones, except by moving from a player's score area to another player's score area, all objects hosted on that card (and all objects hosted on those objects, and so on) are trashed during the next checkpoint. This cannot be prevented. See section 10.3 for details on checkpoints.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 261,
+      "end": 273,
+      "ids": [
+        "sec_checkpoints"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_trash_hosted_objects_when_host_trashed__example_1",
+      "text_markup": "The Runner has an installed copy of {card:Detente} with Corp cards hosted on it. They play {card:Rejig}, adding {card:Detente} to their grip. The hosted Corp cards are trashed.",
+      "text_plain": "The Runner has an installed copy of Detente with Corp cards hosted on it. They play Rejig, adding Detente to their grip. The hosted Corp cards are trashed.",
+      "is_new": false
+    },
+    {
+      "id": "rule_trash_hosted_objects_when_host_trashed__example_2",
+      "text_markup": "The Runner has {card:Next Big Thing} in their score area with a hosted agenda counter. The Corp plays {card:IP Enforcement} to install that agenda. The hosted agenda counter will be trashed after {ref:rule_steps_installing_pay_install_cost} of the installation.",
+      "text_plain": "The Runner has Next Big Thing in their score area with a hosted agenda counter. The Corp plays IP Enforcement to install that agenda. The hosted agenda counter will be trashed after step 8.5.16d of the installation.",
+      "is_new": false
+    },
+    {
+      "id": "rule_trash_hosted_objects_when_host_trashed__example_3",
+      "text_markup": "The Runner has {card:Next Big Thing} in their score area with a hosted agenda counter. The Corp plays {card:Exchange of Information} to swap that agenda to their own score area. The agenda counter remains hosted on {card:Next Big Thing}.",
+      "text_plain": "The Runner has Next Big Thing in their score area with a hosted agenda counter. The Corp plays Exchange of Information to swap that agenda to their own score area. The agenda counter remains hosted on Next Big Thing.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trash_hosted_objects_when_host_trashed"
+}

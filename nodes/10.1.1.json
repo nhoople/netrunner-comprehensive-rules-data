@@ -1,0 +1,35 @@
+{
+  "id": "rule_uniqueness",
+  "kind": "rule",
+  "number": "10.1.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_additional_general",
+  "child_ids": [],
+  "text_markup": "Some cards are {term:unique}, and have a unique symbol (◆) before their name to designate this. There can be only one unique card of the same name active at a time. If a unique card becomes active, any other card that shares its name is trashed during the next checkpoint. Trashing a card this way cannot be prevented. See {ref:sec_checkpoints}.",
+  "text_plain": "Some cards are unique, and have a unique symbol (◆) before their name to designate this. There can be only one unique card of the same name active at a time. If a unique card becomes active, any other card that shares its name is trashed during the next checkpoint. Trashing a card this way cannot be prevented. See section 10.3.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 15,
+      "end": 21,
+      "target": "unique"
+    },
+    {
+      "type": "ref",
+      "start": 316,
+      "end": 328,
+      "ids": [
+        "sec_checkpoints"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_uniqueness"
+}

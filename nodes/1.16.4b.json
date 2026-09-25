@@ -1,0 +1,19 @@
+{
+  "id": "rule_inherent_cost_in_ability",
+  "kind": "rule",
+  "number": "1.16.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_types_of_costs",
+  "child_ids": [],
+  "text_markup": "The presence of an install cost, rez cost, or play cost does not change the optional or mandatory status of an ability. If an effect directs a player to install, rez, or play a card, they must pay the associated cost if able. If they cannot, the card is not installed, rezzed, or played.",
+  "text_plain": "The presence of an install cost, rez cost, or play cost does not change the optional or mandatory status of an ability. If an effect directs a player to install, rez, or play a card, they must pay the associated cost if able. If they cannot, the card is not installed, rezzed, or played.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_inherent_cost_in_ability"
+}

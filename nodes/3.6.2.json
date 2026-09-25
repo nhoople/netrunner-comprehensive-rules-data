@@ -1,0 +1,19 @@
+{
+  "id": "rule_upgrade_no_limit",
+  "kind": "rule",
+  "number": "3.6.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_upgrades",
+  "child_ids": [],
+  "text_markup": "There is no limit to the number of upgrades that can be installed in the root of a single server.",
+  "text_plain": "There is no limit to the number of upgrades that can be installed in the root of a single server.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_upgrade_no_limit"
+}

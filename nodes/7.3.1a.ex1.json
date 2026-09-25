@@ -1,0 +1,69 @@
+{
+  "id": "rule_visibility_after_access__example_1",
+  "kind": "example",
+  "number": "7.3.1a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_visibility_after_access",
+  "child_ids": [],
+  "text_markup": "The Runner breaches HQ and accesses {card:Scatter Field}, {card:Palisade}, and {card:Offworld Office}, in that order. When the Runner steals {card:Offworld Office}, the Corp uses {card:Poétrï Luxury Brands} to install a card from HQ. The Runner will know whether the Corp installs the {card:Scatter Field}, the {card:Palisade}, or an unknown card from the rest of HQ.",
+  "text_plain": "The Runner breaches HQ and accesses Scatter Field, Palisade, and Offworld Office, in that order. When the Runner steals Offworld Office, the Corp uses Poétrï Luxury Brands to install a card from HQ. The Runner will know whether the Corp installs the Scatter Field, the Palisade, or an unknown card from the rest of HQ.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 36,
+      "end": 49,
+      "target": "Scatter Field",
+      "card_code": "35042"
+    },
+    {
+      "type": "card",
+      "start": 51,
+      "end": 59,
+      "target": "Palisade",
+      "card_code": "30072"
+    },
+    {
+      "type": "card",
+      "start": 65,
+      "end": 80,
+      "target": "Offworld Office",
+      "card_code": "30067"
+    },
+    {
+      "type": "card",
+      "start": 120,
+      "end": 135,
+      "target": "Offworld Office",
+      "card_code": "30067"
+    },
+    {
+      "type": "card",
+      "start": 151,
+      "end": 171,
+      "target": "Poétrï Luxury Brands",
+      "card_code": "35036"
+    },
+    {
+      "type": "card",
+      "start": 250,
+      "end": 263,
+      "target": "Scatter Field",
+      "card_code": "35042"
+    },
+    {
+      "type": "card",
+      "start": 269,
+      "end": 277,
+      "target": "Palisade",
+      "card_code": "30072"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

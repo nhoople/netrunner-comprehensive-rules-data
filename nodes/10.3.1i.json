@@ -1,0 +1,29 @@
+{
+  "id": "step_checkpoint_vacant_position",
+  "kind": "rule",
+  "number": "10.3.1i",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_checkpoints",
+  "child_ids": [],
+  "text_markup": "Any position protecting a server that is not occupied by a piece of ice ceases to exist, except if it is the Runner's current position or if there is a piece of ice in the process of being installed protecting that server. See also {ref:rule_destroy_position}.",
+  "text_plain": "Any position protecting a server that is not occupied by a piece of ice ceases to exist, except if it is the Runner's current position or if there is a piece of ice in the process of being installed protecting that server. See also rule 6.2.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 232,
+      "end": 242,
+      "ids": [
+        "rule_destroy_position"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_checkpoint_vacant_position"
+}

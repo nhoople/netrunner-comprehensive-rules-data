@@ -1,0 +1,19 @@
+{
+  "id": "rule_non_movements",
+  "kind": "rule",
+  "number": "8.2.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_movement",
+  "child_ids": [],
+  "text_markup": "Other terms that change the locations of cards are not movements. If an ability directs a player to \"add\" or \"move\" cards to 1 or more locations, simply put those cards in the indicated locations. If an ability or game rule directs a player to \"discard\", \"set aside\", or \"remove from the game\" 1 or more cards, simply put those cards in their owner's discard pile, the set-aside zone, or the removed-from-game zone, respectively.",
+  "text_plain": "Other terms that change the locations of cards are not movements. If an ability directs a player to \"add\" or \"move\" cards to 1 or more locations, simply put those cards in the indicated locations. If an ability or game rule directs a player to \"discard\", \"set aside\", or \"remove from the game\" 1 or more cards, simply put those cards in their owner's discard pile, the set-aside zone, or the removed-from-game zone, respectively.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_non_movements"
+}

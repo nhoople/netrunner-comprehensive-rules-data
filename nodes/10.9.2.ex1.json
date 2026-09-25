@@ -1,0 +1,34 @@
+{
+  "id": "rule_empty_requires_loading__example_1",
+  "kind": "example",
+  "number": "10.9.2.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_empty_requires_loading",
+  "child_ids": [],
+  "text_markup": "The Runner installs {card:Crowdfunding}, and its first ability becomes pending. Even though there are no credits hosted on {card:Crowdfunding} until that ability resolves, the following \"When it is empty, ...\" ability does not meet its trigger condition because the card has not yet been loaded.",
+  "text_plain": "The Runner installs Crowdfunding, and its first ability becomes pending. Even though there are no credits hosted on Crowdfunding until that ability resolves, the following \"When it is empty, ...\" ability does not meet its trigger condition because the card has not yet been loaded.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 32,
+      "target": "Crowdfunding",
+      "card_code": "28002"
+    },
+    {
+      "type": "card",
+      "start": 116,
+      "end": 128,
+      "target": "Crowdfunding",
+      "card_code": "28002"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

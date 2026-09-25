@@ -1,0 +1,19 @@
+{
+  "id": "rule_timing_structure_quick_ref",
+  "kind": "rule",
+  "number": "11.1.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_timing_structure_overview",
+  "child_ids": [],
+  "text_markup": "The following pages contain quick reference guides for the main timing structures in the game. When initiating a new timing structure, begin at the first numbered step and proceed through the structure sequentially, unless instructed to move to a different phase or step.",
+  "text_plain": "The following pages contain quick reference guides for the main timing structures in the game. When initiating a new timing structure, begin at the first numbered step and proceed through the structure sequentially, unless instructed to move to a different phase or step.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_timing_structure_quick_ref"
+}

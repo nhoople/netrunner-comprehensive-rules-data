@@ -1,0 +1,29 @@
+{
+  "id": "rule_max_hand_size",
+  "kind": "subsection",
+  "number": "5.5.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_discard_phase",
+  "child_ids": [
+    "rule_max_hand_size_default",
+    "rule_max_hand_size_core_damage"
+  ],
+  "text_markup": "A player's {term:maximum hand size} is the maximum number of cards that player can keep in their hand during their discard phase.",
+  "text_plain": "A player's maximum hand size is the maximum number of cards that player can keep in their hand during their discard phase.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 11,
+      "end": 28,
+      "target": "maximum hand size"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_max_hand_size"
+}

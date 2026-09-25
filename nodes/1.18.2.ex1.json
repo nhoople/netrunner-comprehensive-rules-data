@@ -1,0 +1,41 @@
+{
+  "id": "rule_placing_advancement_counter__example_1",
+  "kind": "example",
+  "number": "1.18.2.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_placing_advancement_counter",
+  "child_ids": [],
+  "text_markup": "The Corp plays {card:Mushin No Shin}, choosing to install an {card:Oaktown Renovation}. Because the three advancement counters were placed on the card directly, the Corp does not gain any credits from the ability on {card:Oaktown Renovation}.",
+  "text_plain": "The Corp plays Mushin No Shin, choosing to install an Oaktown Renovation. Because the three advancement counters were placed on the card directly, the Corp does not gain any credits from the ability on Oaktown Renovation.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 29,
+      "target": "Mushin No Shin",
+      "card_code": "05015"
+    },
+    {
+      "type": "card",
+      "start": 54,
+      "end": 72,
+      "target": "Oaktown Renovation",
+      "card_code": "31072"
+    },
+    {
+      "type": "card",
+      "start": 202,
+      "end": 220,
+      "target": "Oaktown Renovation",
+      "card_code": "31072"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

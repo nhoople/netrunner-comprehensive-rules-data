@@ -1,0 +1,40 @@
+{
+  "id": "rule_end_run_no_run_or_encounter__example_1",
+  "kind": "example",
+  "number": "6.1.4c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_end_run_no_run_or_encounter",
+  "child_ids": [],
+  "text_markup": "The Corp plays {card:Unleash} and resolves the last subroutine on {card:Lycian Multi-Munition}. The Corp will gain 1[c], but there is no further effect.",
+  "text_plain": "The Corp plays Unleash and resolves the last subroutine on Lycian Multi-Munition. The Corp will gain 1{c}, but there is no further effect.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 22,
+      "target": "Unleash",
+      "card_code": "36044"
+    },
+    {
+      "type": "card",
+      "start": 59,
+      "end": 80,
+      "target": "Lycian Multi-Munition",
+      "card_code": "34100"
+    },
+    {
+      "type": "symbol",
+      "start": 102,
+      "end": 105,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

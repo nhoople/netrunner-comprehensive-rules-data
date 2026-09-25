@@ -1,0 +1,19 @@
+{
+  "id": "rule_bid_secret",
+  "kind": "rule",
+  "number": "10.14.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_bidding",
+  "child_ids": [],
+  "text_markup": "Players select their bids in secret. This can be accomplished by writing down a number, by hiding a number of credit counters in a closed fist, or by any other unambiguous method.",
+  "text_plain": "Players select their bids in secret. This can be accomplished by writing down a number, by hiding a number of credit counters in a closed fist, or by any other unambiguous method.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bid_secret"
+}

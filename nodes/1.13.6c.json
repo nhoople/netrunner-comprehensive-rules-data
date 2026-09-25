@@ -1,0 +1,28 @@
+{
+  "id": "rule_host_on_ability",
+  "kind": "rule",
+  "number": "1.13.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_host_relationship",
+  "child_ids": [
+    "rule_host_on_ability__example_1"
+  ],
+  "text_markup": "If a card has an ability stipulating that it can only be installed hosted onto another card, then during the installation process a player that wishes to install that card must choose a valid destination matching the description provided. If no such destination exists before the installation process begins, the card cannot be installed.",
+  "text_plain": "If a card has an ability stipulating that it can only be installed hosted onto another card, then during the installation process a player that wishes to install that card must choose a valid destination matching the description provided. If no such destination exists before the installation process begins, the card cannot be installed.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_host_on_ability__example_1",
+      "text_markup": "{card:Egret} states, \"Install only on a rezzed piece of ice.\" The Runner can only install Egret if there is an installed, rezzed piece of ice available before the installation process begins; otherwise, it is illegal for the Runner to install {card:Egret}.",
+      "text_plain": "Egret states, \"Install only on a rezzed piece of ice.\" The Runner can only install Egret if there is an installed, rezzed piece of ice available before the installation process begins; otherwise, it is illegal for the Runner to install Egret.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_host_on_ability"
+}

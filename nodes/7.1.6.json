@@ -1,0 +1,21 @@
+{
+  "id": "rule_after_mid_access_agenda",
+  "kind": "subsection",
+  "number": "7.1.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_accessing_cards",
+  "child_ids": [
+    "rule_agenda_additional_cost"
+  ],
+  "text_markup": "If, after resolving mid-access abilities, the Runner is still accessing an agenda, they must steal it.",
+  "text_plain": "If, after resolving mid-access abilities, the Runner is still accessing an agenda, they must steal it.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_after_mid_access_agenda"
+}

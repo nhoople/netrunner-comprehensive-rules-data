@@ -1,0 +1,29 @@
+{
+  "id": "rule_draw_irrelevant_abilities_dont_see_set_aside",
+  "kind": "rule",
+  "number": "8.4.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_draw_procedure",
+  "child_ids": [],
+  "text_markup": "Abilities that do not refer specifically to cards a player has drawn are subject to {ref:rule_set_aside_zone_passthrough}, and only see the drawn cards move directly from the player's deck to their hand.",
+  "text_plain": "Abilities that do not refer specifically to cards a player has drawn are subject to rule 4.8.3, and only see the drawn cards move directly from the player's deck to their hand.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 84,
+      "end": 94,
+      "ids": [
+        "rule_set_aside_zone_passthrough"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_draw_irrelevant_abilities_dont_see_set_aside"
+}

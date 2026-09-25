@@ -1,0 +1,19 @@
+{
+  "id": "rule_arrange_1_or_fewer",
+  "kind": "rule",
+  "number": "8.3.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_arrange_rearrange",
+  "child_ids": [],
+  "text_markup": "If a player is instructed to arrange 1 or fewer cards, instead that player does nothing.",
+  "text_plain": "If a player is instructed to arrange 1 or fewer cards, instead that player does nothing.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_arrange_1_or_fewer"
+}

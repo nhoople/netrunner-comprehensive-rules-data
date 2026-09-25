@@ -1,0 +1,28 @@
+{
+  "id": "rule_replacement_on_static_ability_must_remain_active",
+  "kind": "rule",
+  "number": "9.9.9a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_applying_replacement_effects",
+  "child_ids": [
+    "rule_replacement_on_static_ability_must_remain_active__example_1"
+  ],
+  "text_markup": "If a replacement effect modifies the effects of a static ability or the duration of a lingering effect, this modification applies continuously for as long as the replacement effect itself is active, and no longer applies once the replacement effect or the original effect being modified becomes inactive.",
+  "text_plain": "If a replacement effect modifies the effects of a static ability or the duration of a lingering effect, this modification applies continuously for as long as the replacement effect itself is active, and no longer applies once the replacement effect or the original effect being modified becomes inactive.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_replacement_on_static_ability_must_remain_active__example_1",
+      "text_markup": "{card:Gebrselassie}'s static ability replaces the durations of certain lingering effects affecting its host with a duration of \"for the remainder of the turn.\" If {card:Gebrselassie} is uninstalled or moved to a different host, its replacement effect no longer applies to those lingering effects, so they revert to their normal durations. If any of those durations have already expired, the corresponding effects will end at the next checkpoint.",
+      "text_plain": "Gebrselassie's static ability replaces the durations of certain lingering effects affecting its host with a duration of \"for the remainder of the turn.\" If Gebrselassie is uninstalled or moved to a different host, its replacement effect no longer applies to those lingering effects, so they revert to their normal durations. If any of those durations have already expired, the corresponding effects will end at the next checkpoint.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_replacement_on_static_ability_must_remain_active"
+}

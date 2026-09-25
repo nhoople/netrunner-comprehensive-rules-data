@@ -1,0 +1,38 @@
+{
+  "id": "rule_move_to_piece_of_ice",
+  "kind": "rule",
+  "number": "6.2.8a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_move_runner_to_position",
+  "child_ids": [],
+  "text_markup": "If an ability instructs the Runner to move to a piece of ice in a different position, the Runner's position becomes the position corresponding to that ice, and the server that ice protects becomes the attacked server. The current timing step becomes {ref:rule_sec_run_approach_ice_phase}, the Approach Ice Phase, or {ref:rule_sec_run_encounter_ice_phase}, the Encounter Ice Phase, according to whether the Runner was directed to approach or encounter the ice.",
+  "text_plain": "If an ability instructs the Runner to move to a piece of ice in a different position, the Runner's position becomes the position corresponding to that ice, and the server that ice protects becomes the attacked server. The current timing step becomes step 6.9.2, the Approach Ice Phase, or step 6.9.3, the Encounter Ice Phase, according to whether the Runner was directed to approach or encounter the ice.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 250,
+      "end": 260,
+      "ids": [
+        "rule_sec_run_approach_ice_phase"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 289,
+      "end": 299,
+      "ids": [
+        "rule_sec_run_encounter_ice_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_move_to_piece_of_ice"
+}

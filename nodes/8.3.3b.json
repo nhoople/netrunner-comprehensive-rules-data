@@ -1,0 +1,38 @@
+{
+  "id": "rule_arrange_and_other_effect",
+  "kind": "rule",
+  "number": "8.3.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_arrange_secretly",
+  "child_ids": [
+    "rule_arrange_and_other_effect__example_1"
+  ],
+  "text_markup": "If the instruction directs the player to perform other effects on cards in a deck before arranging them, these effects are performed while the cards are set aside. The player carrying out the instruction does not declare which cards are acted on. See also {ref:rule_set_aside_zone_passthrough}.",
+  "text_plain": "If the instruction directs the player to perform other effects on cards in a deck before arranging them, these effects are performed while the cards are set aside. The player carrying out the instruction does not declare which cards are acted on. See also rule 4.8.3.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 256,
+      "end": 266,
+      "ids": [
+        "rule_set_aside_zone_passthrough"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_arrange_and_other_effect__example_1",
+      "text_markup": "The Corp plays {card:Cultivate}, acting on the top 5 cards of R&D by trashing 1 card, adding 1 card to HQ, and arranging the rest in any order. They do not tell the Runner what location in R&D the trashed card came from, nor what location the card added to HQ came from.",
+      "text_plain": "The Corp plays Cultivate, acting on the top 5 cards of R&D by trashing 1 card, adding 1 card to HQ, and arranging the rest in any order. They do not tell the Runner what location in R&D the trashed card came from, nor what location the card added to HQ came from.",
+      "is_new": true
+    }
+  ],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_arrange_and_other_effect"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rule_sabotage_all_remaining_cards__example_1",
+  "kind": "example",
+  "number": "10.12.3b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_sabotage_all_remaining_cards",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Esâ Afontov: Eco-Insurrectionist}'s ability to sabotage 2. The Corp has 2 cards in HQ and 30 cards in R&D. The Corp can choose not to trash any cards from HQ and trash 2 cards from the top of R&D; choose 1 of the 2 cards in HQ and trash that card and the top card of R&D; or choose and trash both cards from HQ.",
+  "text_plain": "The Runner uses Esâ Afontov: Eco-Insurrectionist's ability to sabotage 2. The Corp has 2 cards in HQ and 30 cards in R&D. The Corp can choose not to trash any cards from HQ and trash 2 cards from the top of R&D; choose 1 of the 2 cards in HQ and trash that card and the top card of R&D; or choose and trash both cards from HQ.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 48,
+      "target": "Esâ Afontov: Eco-Insurrectionist",
+      "card_code": "33001"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

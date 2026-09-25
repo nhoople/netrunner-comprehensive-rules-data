@@ -1,0 +1,34 @@
+{
+  "id": "rule_spend_credits__example_1",
+  "kind": "example",
+  "number": "1.10.3c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_spend_credits",
+  "child_ids": [],
+  "text_markup": "The Runner may use the credit from {card:Cyberfeeder} to pay for {card:Atman}'s first ability.",
+  "text_plain": "The Runner may use the credit from Cyberfeeder to pay for Atman's first ability.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 35,
+      "end": 46,
+      "target": "Cyberfeeder",
+      "card_code": "20006"
+    },
+    {
+      "type": "card",
+      "start": 58,
+      "end": 63,
+      "target": "Atman",
+      "card_code": "31030"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

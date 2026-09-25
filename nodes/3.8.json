@@ -1,0 +1,25 @@
+{
+  "id": "sec_hardware",
+  "kind": "section",
+  "number": "3.8",
+  "ref_type": "section",
+  "title": "Hardware",
+  "parent_id": "chpt_card_types",
+  "child_ids": [
+    "rule_hardware_piece_of_hardware",
+    "rule_hardware_install",
+    "rule_hardware_install_cost",
+    "rule_hardware_no_limit",
+    "subsec_consoles"
+  ],
+  "text_markup": "Hardware",
+  "text_plain": "Hardware",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "The Runner's hardware are the physical tools at their disposal: the computers, chips, and other machinery that make up their rig.",
+  "snippet_plain": "The Runner's hardware are the physical tools at their disposal: the computers, chips, and other machinery that make up their rig.",
+  "url": "https://rules.nullsignal.games/?r=sec_hardware"
+}

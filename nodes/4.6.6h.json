@@ -1,0 +1,29 @@
+{
+  "id": "rule_upgrade_server_restriction",
+  "kind": "rule",
+  "number": "4.6.6h",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_servers",
+  "child_ids": [],
+  "text_markup": "Some upgrades have restrictions limiting them to specific servers. See {ref:rule_x_server_only}.",
+  "text_plain": "Some upgrades have restrictions limiting them to specific servers. See rule 8.5.12.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 71,
+      "end": 82,
+      "ids": [
+        "rule_x_server_only"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_upgrade_server_restriction"
+}

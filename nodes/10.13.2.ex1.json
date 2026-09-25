@@ -1,0 +1,55 @@
+{
+  "id": "rule_dividends_timing__example_1",
+  "kind": "example",
+  "number": "10.13.2.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_dividends_timing",
+  "child_ids": [],
+  "text_markup": "The Corp has {card:Project Ingatan} and a rezzed {card:SanSan City Grid} in the root of a server. The Corp advances {card:Project Ingatan} 3 times and scores it. Once {card:Project Ingatan} moves to the Corp's score area, its hosted advancement counters are all removed, and the modifier from {card:SanSan City Grid} no longer applies. But it did have 3 hosted advancement counters and an advancement requirement of 2 at the time it was scored, so the Corp places 1 agenda counter on it with its dividends 1 ability.",
+  "text_plain": "The Corp has Project Ingatan and a rezzed SanSan City Grid in the root of a server. The Corp advances Project Ingatan 3 times and scores it. Once Project Ingatan moves to the Corp's score area, its hosted advancement counters are all removed, and the modifier from SanSan City Grid no longer applies. But it did have 3 hosted advancement counters and an advancement requirement of 2 at the time it was scored, so the Corp places 1 agenda counter on it with its dividends 1 ability.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 13,
+      "end": 28,
+      "target": "Project Ingatan",
+      "card_code": "35038"
+    },
+    {
+      "type": "card",
+      "start": 42,
+      "end": 58,
+      "target": "SanSan City Grid",
+      "card_code": "31069"
+    },
+    {
+      "type": "card",
+      "start": 102,
+      "end": 117,
+      "target": "Project Ingatan",
+      "card_code": "35038"
+    },
+    {
+      "type": "card",
+      "start": 146,
+      "end": 161,
+      "target": "Project Ingatan",
+      "card_code": "35038"
+    },
+    {
+      "type": "card",
+      "start": 265,
+      "end": 281,
+      "target": "SanSan City Grid",
+      "card_code": "31069"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

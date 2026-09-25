@@ -1,0 +1,32 @@
+{
+  "id": "rule_active_player",
+  "kind": "rule",
+  "number": "9.2.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_timing_and_priority",
+  "child_ids": [],
+  "text_markup": "The {term:active player} is the player whose turn it is. The other player is the {term:inactive player}.",
+  "text_plain": "The active player is the player whose turn it is. The other player is the inactive player.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 17,
+      "target": "active player"
+    },
+    {
+      "type": "term",
+      "start": 74,
+      "end": 89,
+      "target": "inactive player"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_active_player"
+}

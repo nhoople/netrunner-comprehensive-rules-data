@@ -1,0 +1,48 @@
+{
+  "id": "rule_reveal_for_ability_limitations__example_1",
+  "kind": "example",
+  "number": "8.5.13c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_reveal_for_ability_limitations",
+  "child_ids": [],
+  "text_markup": "The Corp triggers the ability on {card:Ob Superheavy Logistics} by trashing a card with printed rez cost 5. They search R&D for {card:Archer} and install it, but decline to pay the additional cost to rez {card:Archer}. Since the ability requires the installed card to have printed rez cost 4, and the card is not otherwise visible to the Runner at any point in this process, the Corp must reveal {card:Archer} to verify that the installation is legal.",
+  "text_plain": "The Corp triggers the ability on Ob Superheavy Logistics by trashing a card with printed rez cost 5. They search R&D for Archer and install it, but decline to pay the additional cost to rez Archer. Since the ability requires the installed card to have printed rez cost 4, and the card is not otherwise visible to the Runner at any point in this process, the Corp must reveal Archer to verify that the installation is legal.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 33,
+      "end": 56,
+      "target": "Ob Superheavy Logistics",
+      "card_code": "33057"
+    },
+    {
+      "type": "card",
+      "start": 121,
+      "end": 127,
+      "target": "Archer",
+      "card_code": "31075"
+    },
+    {
+      "type": "card",
+      "start": 190,
+      "end": 196,
+      "target": "Archer",
+      "card_code": "31075"
+    },
+    {
+      "type": "card",
+      "start": 375,
+      "end": 381,
+      "target": "Archer",
+      "card_code": "31075"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "subsec_servers",
+  "kind": "subsection",
+  "number": "4.6.6",
+  "ref_type": "section",
+  "title": "Servers",
+  "parent_id": "sec_play_area",
+  "child_ids": [
+    "rule_server",
+    "rule_corp_cards_cannot_be_moved",
+    "rule_server_types",
+    "rule_server_ice",
+    "rule_server_root",
+    "rule_server_root_order",
+    "rule_region_unique",
+    "rule_upgrade_server_restriction",
+    "rule_this_server",
+    "rule_another_server",
+    "rule_host_server"
+  ],
+  "text_markup": "Servers",
+  "text_plain": "Servers",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_servers"
+}

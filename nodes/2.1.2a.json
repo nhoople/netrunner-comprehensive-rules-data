@@ -1,0 +1,19 @@
+{
+  "id": "rule_identity_pronouns",
+  "kind": "rule",
+  "number": "2.1.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_identity_subtitles",
+  "child_ids": [],
+  "text_markup": "Runner identities may have the pronouns of the character represented by that identity written next to the subtitle. Pronouns do not affect gameplay.",
+  "text_plain": "Runner identities may have the pronouns of the character represented by that identity written next to the subtitle. Pronouns do not affect gameplay.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identity_pronouns"
+}

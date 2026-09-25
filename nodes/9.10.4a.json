@@ -1,0 +1,35 @@
+{
+  "id": "rule_icebreaker_strength_increase_implicit_link",
+  "kind": "rule",
+  "number": "9.10.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_lingering_effect_inapplicable_timing_structure",
+  "child_ids": [],
+  "text_markup": "Abilities on an {subtype:icebreaker} that modify their source's strength have an implicit duration of \"for the remainder of the current encounter\". See {ref:rule_icebreaker_strength_increase_implicit}.",
+  "text_plain": "Abilities on an icebreaker that modify their source's strength have an implicit duration of \"for the remainder of the current encounter\". See rule 3.9.5b.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 16,
+      "end": 26,
+      "target": "icebreaker"
+    },
+    {
+      "type": "ref",
+      "start": 142,
+      "end": 153,
+      "ids": [
+        "rule_icebreaker_strength_increase_implicit"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_icebreaker_strength_increase_implicit_link"
+}

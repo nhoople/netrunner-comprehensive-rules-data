@@ -1,0 +1,28 @@
+{
+  "id": "rule_object_move_known_location",
+  "kind": "rule",
+  "number": "1.12.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_objects",
+  "child_ids": [
+    "rule_object_move_known_location__example_1"
+  ],
+  "text_markup": "A card or counter that moves to a known location in the same zone is still the same object.",
+  "text_plain": "A card or counter that moves to a known location in the same zone is still the same object.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_object_move_known_location__example_1",
+      "text_markup": "The Runner has chosen a piece of ice with {card:Femme Fatale}, and the Corp uses {card:Thimblerig}'s ability to move that ice to another location. But the ice has not left the play area, so it is still the same object and the Runner can still use {card:Femme Fatale}'s ability to bypass it.",
+      "text_plain": "The Runner has chosen a piece of ice with Femme Fatale, and the Corp uses Thimblerig's ability to move that ice to another location. But the ice has not left the play area, so it is still the same object and the Runner can still use Femme Fatale's ability to bypass it.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_object_move_known_location"
+}

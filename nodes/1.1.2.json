@@ -1,0 +1,47 @@
+{
+  "id": "rule_requirements",
+  "kind": "rule",
+  "number": "1.1.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_concepts_general",
+  "child_ids": [],
+  "text_markup": "Each player needs a legal deck, an identity card for their role, and any extra cards used from outside their deck. They also need a supply of tokens as described in {ref:sec_counters_and_tokens}. The constraints that define the legality of a deck are defined in {ref:sec_deck_construction}, and the cases where cards outside the deck and identity can be used are defined in {ref:sec_extra_cards}.",
+  "text_plain": "Each player needs a legal deck, an identity card for their role, and any extra cards used from outside their deck. They also need a supply of tokens as described in section 1.9. The constraints that define the legality of a deck are defined in section 1.4, and the cases where cards outside the deck and identity can be used are defined in section 1.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 165,
+      "end": 176,
+      "ids": [
+        "sec_counters_and_tokens"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 244,
+      "end": 255,
+      "ids": [
+        "sec_deck_construction"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 340,
+      "end": 351,
+      "ids": [
+        "sec_extra_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_requirements"
+}

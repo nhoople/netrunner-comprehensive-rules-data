@@ -1,0 +1,29 @@
+{
+  "id": "subsec_runner_action_phase",
+  "kind": "subsection",
+  "number": "5.7.1",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_runner_turn",
+  "child_ids": [
+    "step_runner_turn_allotted_clicks",
+    "step_runner_turn_action_phase_paw",
+    "step_runner_turn_recurring_credits_refill",
+    "step_runner_turn_recurring_formal_begin",
+    "step_runner_turn_loop_paw",
+    "step_runner_turn_action",
+    "step_runner_turn_action_loop",
+    "step_runner_turn_action_phase_end",
+    "step_runner_turn_action_phase_complete"
+  ],
+  "text_markup": "During the Runner's action phase, the following steps occur in order:",
+  "text_plain": "During the Runner's action phase, the following steps occur in order:",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_runner_action_phase"
+}

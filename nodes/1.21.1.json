@@ -1,0 +1,35 @@
+{
+  "id": "rule_faceup_facedown",
+  "kind": "subsection",
+  "number": "1.21.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_card_visibility",
+  "child_ids": [
+    "rule_hidden_secret_faceup_facedown",
+    "rule_hosted_cards_treated_as_group"
+  ],
+  "text_markup": "Cards in the play area and other public zones are either {term:faceup} or {term:facedown}. Faceup cards are freely visible to all players. Facedown cards are oriented so that the face containing the card's information is not visible.",
+  "text_plain": "Cards in the play area and other public zones are either faceup or facedown. Faceup cards are freely visible to all players. Facedown cards are oriented so that the face containing the card's information is not visible.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 57,
+      "end": 63,
+      "target": "faceup"
+    },
+    {
+      "type": "term",
+      "start": 67,
+      "end": 75,
+      "target": "facedown"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_faceup_facedown"
+}

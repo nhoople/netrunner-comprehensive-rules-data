@@ -1,0 +1,19 @@
+{
+  "id": "rule_nested_cost_no_may",
+  "kind": "rule",
+  "number": "1.16.11c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_nested_cost",
+  "child_ids": [],
+  "text_markup": "An ability that reads \"If [you/they] do\" or \"If [you/they] do not\" without a preceding \"may\" does not indicate a nested cost.",
+  "text_plain": "An ability that reads \"If [you/they] do\" or \"If [you/they] do not\" without a preceding \"may\" does not indicate a nested cost.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_nested_cost_no_may"
+}

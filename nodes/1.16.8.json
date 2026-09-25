@@ -1,0 +1,26 @@
+{
+  "id": "rule_rez_cost",
+  "kind": "rule",
+  "number": "1.16.8",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_costs",
+  "child_ids": [],
+  "text_markup": "The {term:rez cost} of an asset, upgrade, or piece of ice must be paid in order to rez that card. It is listed on the card itself.",
+  "text_plain": "The rez cost of an asset, upgrade, or piece of ice must be paid in order to rez that card. It is listed on the card itself.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 12,
+      "target": "rez cost"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rez_cost"
+}

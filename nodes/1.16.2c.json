@@ -1,0 +1,28 @@
+{
+  "id": "rule_cost_x",
+  "kind": "rule",
+  "number": "1.16.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_modified_costs",
+  "child_ids": [
+    "rule_cost_x__example_1"
+  ],
+  "text_markup": "Some costs contain the variable X. Before a player pays such a cost, they choose and announce a positive integer or 0 to be the value for X. The chosen value must follow any applicable restrictions.",
+  "text_plain": "Some costs contain the variable X. Before a player pays such a cost, they choose and announce a positive integer or 0 to be the value for X. The chosen value must follow any applicable restrictions.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_cost_x__example_1",
+      "text_markup": "{card:Psychographics} is an operation with a play cost of X. It also has the ability, \"X must be equal to or less than the number of tags the Runner has.\" If the Runner has 3 tags, the Corp can choose 0, 1, 2, or 3 as the value for X when they play {card:Psychographics}.",
+      "text_plain": "Psychographics is an operation with a play cost of X. It also has the ability, \"X must be equal to or less than the number of tags the Runner has.\" If the Runner has 3 tags, the Corp can choose 0, 1, 2, or 3 as the value for X when they play Psychographics.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cost_x"
+}

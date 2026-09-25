@@ -1,0 +1,22 @@
+{
+  "id": "rule_program_strength_value",
+  "kind": "subsection",
+  "number": "3.9.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_programs",
+  "child_ids": [
+    "rule_icebreakers_strength_value",
+    "rule_programs_without_strength_value"
+  ],
+  "text_markup": "Programs are among the card types that have strength.",
+  "text_plain": "Programs are among the card types that have strength.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_program_strength_value"
+}

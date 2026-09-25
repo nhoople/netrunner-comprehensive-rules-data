@@ -1,0 +1,22 @@
+{
+  "id": "rule_trigger_conditional_ability",
+  "kind": "subsection",
+  "number": "9.6.8",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [
+    "rule_triggered_ability_loses_pending",
+    "rule_conditional_ability_interrupt"
+  ],
+  "text_markup": "A player can trigger a conditional ability while they have priority in a reaction window in which the ability is pending.",
+  "text_plain": "A player can trigger a conditional ability while they have priority in a reaction window in which the ability is pending.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trigger_conditional_ability"
+}

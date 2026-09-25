@@ -1,0 +1,19 @@
+{
+  "id": "rule_ice_piece_of_ice",
+  "kind": "rule",
+  "number": "3.4.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_ice",
+  "child_ids": [],
+  "text_markup": "\"Ice\" and \"piece of ice\" are synonymous.",
+  "text_plain": "\"Ice\" and \"piece of ice\" are synonymous.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_piece_of_ice"
+}

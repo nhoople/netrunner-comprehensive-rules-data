@@ -1,0 +1,41 @@
+{
+  "id": "rule_host_via_ability__example_1",
+  "kind": "example",
+  "number": "1.13.6b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_host_via_ability",
+  "child_ids": [],
+  "text_markup": "{card:Glenn Station} reads, \"{card:Glenn Station} can host a single card\", but also has a paid ability that hosts a card on itself. Therefore, {card:Glenn Station} only lets the Corp host cards through that paid ability, not through an install action.",
+  "text_plain": "Glenn Station reads, \"Glenn Station can host a single card\", but also has a paid ability that hosts a card on itself. Therefore, Glenn Station only lets the Corp host cards through that paid ability, not through an install action.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 13,
+      "target": "Glenn Station",
+      "card_code": "07005"
+    },
+    {
+      "type": "card",
+      "start": 22,
+      "end": 35,
+      "target": "Glenn Station",
+      "card_code": "07005"
+    },
+    {
+      "type": "card",
+      "start": 129,
+      "end": 142,
+      "target": "Glenn Station",
+      "card_code": "07005"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

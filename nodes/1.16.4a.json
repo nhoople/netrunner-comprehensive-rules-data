@@ -1,0 +1,56 @@
+{
+  "id": "rule_inherent_cost",
+  "kind": "rule",
+  "number": "1.16.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_types_of_costs",
+  "child_ids": [],
+  "text_markup": "Install costs, rez costs, and play costs are all costs that are inherent properties of cards. These costs are automatically applied to any ability that performs the corresponding effects (installing, rezzing, or playing) unless that ability stipulates otherwise. See also {ref:sec_printed_cost} (for more about these costs as they appear on cards) and {ref:sec_install_cost}, {ref:rule_inherent_rez_cost} and {ref:rule_playing_play_cost} (for more about paying costs to install, rez, and play cards).",
+  "text_plain": "Install costs, rez costs, and play costs are all costs that are inherent properties of cards. These costs are automatically applied to any ability that performs the corresponding effects (installing, rezzing, or playing) unless that ability stipulates otherwise. See also section 2.3 (for more about these costs as they appear on cards) and section 8.5.11, rule 8.1.2d and section 8.6.2 (for more about paying costs to install, rez, and play cards).",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 272,
+      "end": 283,
+      "ids": [
+        "sec_printed_cost"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 341,
+      "end": 355,
+      "ids": [
+        "sec_install_cost"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 357,
+      "end": 368,
+      "ids": [
+        "rule_inherent_rez_cost"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 373,
+      "end": 386,
+      "ids": [
+        "rule_playing_play_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_inherent_cost"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "rule_cost_interrupt_static_mandatory__example_2",
+  "kind": "example",
+  "number": "1.16.1b.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_cost_interrupt_static_mandatory",
+  "child_ids": [],
+  "text_markup": "The Runner is playing as {card:Jesminder Sareen} and encounters {card:Funhouse}, without any other tag-related effects resolving earlier in the run. Since {card:Jesminder Sareen}'s ability would prevent taking 1 tag, the Runner cannot take 1 tag to pay the nested cost in {card:Funhouse}'s ability. {card:Funhouse} will end the run.",
+  "text_plain": "The Runner is playing as Jesminder Sareen and encounters Funhouse, without any other tag-related effects resolving earlier in the run. Since Jesminder Sareen's ability would prevent taking 1 tag, the Runner cannot take 1 tag to pay the nested cost in Funhouse's ability. Funhouse will end the run.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 25,
+      "end": 41,
+      "target": "Jesminder Sareen",
+      "card_code": "10006"
+    },
+    {
+      "type": "card",
+      "start": 57,
+      "end": 65,
+      "target": "Funhouse",
+      "card_code": "30054"
+    },
+    {
+      "type": "card",
+      "start": 141,
+      "end": 157,
+      "target": "Jesminder Sareen",
+      "card_code": "10006"
+    },
+    {
+      "type": "card",
+      "start": 251,
+      "end": 259,
+      "target": "Funhouse",
+      "card_code": "30054"
+    },
+    {
+      "type": "card",
+      "start": 271,
+      "end": 279,
+      "target": "Funhouse",
+      "card_code": "30054"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

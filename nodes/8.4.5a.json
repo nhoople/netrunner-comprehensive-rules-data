@@ -1,0 +1,19 @@
+{
+  "id": "step_draw_set_aside",
+  "kind": "rule",
+  "number": "8.4.5a",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_drawing_n_cards",
+  "child_ids": [],
+  "text_markup": "Set aside N cards from the top of the drawing player's deck. The cards are now considered drawn and can be looked at by their controller.",
+  "text_plain": "Set aside N cards from the top of the drawing player's deck. The cards are now considered drawn and can be looked at by their controller.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_draw_set_aside"
+}

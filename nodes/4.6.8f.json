@@ -1,0 +1,38 @@
+{
+  "id": "rule_limit_remote_servers",
+  "kind": "rule",
+  "number": "4.6.8f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_remote_servers",
+  "child_ids": [
+    "rule_limit_remote_servers__example_1"
+  ],
+  "text_markup": "Some abilities limit the number of remote servers. While such an ability is active, the Corp cannot create a new remote server if this would raise the total number of remote servers above the specified limit. During {ref:step_checkpoint_card_restrictions} of each checkpoint, if there are more remote servers than an active limit allows, the Corp player chooses a number of servers equal to the limit. The checkpoint then trashes all cards in the root of and protecting each remote server that was not chosen.",
+  "text_plain": "Some abilities limit the number of remote servers. While such an ability is active, the Corp cannot create a new remote server if this would raise the total number of remote servers above the specified limit. During step 10.3.1e of each checkpoint, if there are more remote servers than an active limit allows, the Corp player chooses a number of servers equal to the limit. The checkpoint then trashes all cards in the root of and protecting each remote server that was not chosen.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 216,
+      "end": 228,
+      "ids": [
+        "step_checkpoint_card_restrictions"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_limit_remote_servers__example_1",
+      "text_markup": "The Corp's identity is {card:Earth Station: SEA Headquarters}, which has the ability \"Limit 1 remote server.\" If any remote servers exist, the Corp cannot create a new remote server.",
+      "text_plain": "The Corp's identity is Earth Station: SEA Headquarters, which has the ability \"Limit 1 remote server.\" If any remote servers exist, the Corp cannot create a new remote server.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_limit_remote_servers"
+}

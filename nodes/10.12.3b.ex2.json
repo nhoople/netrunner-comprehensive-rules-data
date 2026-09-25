@@ -1,0 +1,27 @@
+{
+  "id": "rule_sabotage_all_remaining_cards__example_2",
+  "kind": "example",
+  "number": "10.12.3b.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_sabotage_all_remaining_cards",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Chastushka}'s ability to sabotage 4. The Corp has 5 cards in HQ and 2 cards in R&D. The Corp must choose at least 2 cards in HQ to be trashed, so that the total number of cards trashed is 4.",
+  "text_plain": "The Runner uses Chastushka's ability to sabotage 4. The Corp has 5 cards in HQ and 2 cards in R&D. The Corp must choose at least 2 cards in HQ to be trashed, so that the total number of cards trashed is 4.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 26,
+      "target": "Chastushka",
+      "card_code": "33002"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

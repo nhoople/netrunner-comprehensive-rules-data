@@ -1,0 +1,22 @@
+{
+  "id": "rule_sabotage_resolution",
+  "kind": "subsection",
+  "number": "10.12.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_sabotage",
+  "child_ids": [
+    "rule_sabotage_facedown",
+    "rule_sabotage_when_corp_can_look_facedown"
+  ],
+  "text_markup": "To resolve a sabotage effect, the Corp chooses which cards to trash from HQ and determines the remaining number of cards to be trashed from the top of R&D. Then, all of those cards are trashed simultaneously",
+  "text_plain": "To resolve a sabotage effect, the Corp chooses which cards to trash from HQ and determines the remaining number of cards to be trashed from the top of R&D. Then, all of those cards are trashed simultaneously",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_sabotage_resolution"
+}

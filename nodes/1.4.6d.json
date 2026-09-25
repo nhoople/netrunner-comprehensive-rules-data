@@ -1,0 +1,28 @@
+{
+  "id": "rule_54+",
+  "kind": "rule",
+  "number": "1.4.6d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_agenda_points",
+  "child_ids": [
+    "rule_54+__example_1"
+  ],
+  "text_markup": "A deck with more than 54 cards must contain 22 or 23 agenda points, plus an additional 2 agenda points for every full 5 cards in the deck over 50.",
+  "text_plain": "A deck with more than 54 cards must contain 22 or 23 agenda points, plus an additional 2 agenda points for every full 5 cards in the deck over 50.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_54+__example_1",
+      "text_markup": "A 66 card deck requires 6 additional agenda points, since it includes 3 sets of 5 cards beyond 50. This gives a final requirement of either 28 or 29 agenda points.",
+      "text_plain": "A 66 card deck requires 6 additional agenda points, since it includes 3 sets of 5 cards beyond 50. This gives a final requirement of either 28 or 29 agenda points.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_54+"
+}

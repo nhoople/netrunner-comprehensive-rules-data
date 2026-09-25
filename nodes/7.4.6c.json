@@ -1,0 +1,29 @@
+{
+  "id": "rule_candidates_entering_rnd",
+  "kind": "rule",
+  "number": "7.4.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_candidates_entering_server",
+  "child_ids": [],
+  "text_markup": "If a card enters the Corp's deck during a breach of R&D, that card could become a candidate (either at that time or later in the breach), depending on the random access limit and its position within the deck. See {ref:rule_rnd_candidates_1_at_a_time}.",
+  "text_plain": "If a card enters the Corp's deck during a breach of R&D, that card could become a candidate (either at that time or later in the breach), depending on the random access limit and its position within the deck. See section 7.4.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 213,
+      "end": 226,
+      "ids": [
+        "rule_rnd_candidates_1_at_a_time"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_candidates_entering_rnd"
+}

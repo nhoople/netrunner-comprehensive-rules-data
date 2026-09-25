@@ -1,0 +1,28 @@
+{
+  "id": "rule_cost_no_interrupt",
+  "kind": "rule",
+  "number": "1.16.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_cost",
+  "child_ids": [
+    "rule_cost_no_interrupt__example_1"
+  ],
+  "text_markup": "The act of paying a cost cannot be modified or cancelled by optional interrupt abilities.",
+  "text_plain": "The act of paying a cost cannot be modified or cancelled by optional interrupt abilities.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_cost_no_interrupt__example_1",
+      "text_markup": "The Runner can trash {card:Clone Chip} to trigger its paid ability, but cannot use {card:LLDS Energy Regulator} to prevent {card:Clone Chip} from being trashed this way.",
+      "text_plain": "The Runner can trash Clone Chip to trigger its paid ability, but cannot use LLDS Energy Regulator to prevent Clone Chip from being trashed this way.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cost_no_interrupt"
+}

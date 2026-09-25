@@ -1,0 +1,19 @@
+{
+  "id": "rule_target_indicate",
+  "kind": "rule",
+  "number": "1.15.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_announce_targets",
+  "child_ids": [],
+  "text_markup": "When a player announces a card as a target, they indicate clearly which card is being chosen without changing its facedown/faceup status or location.",
+  "text_plain": "When a player announces a card as a target, they indicate clearly which card is being chosen without changing its facedown/faceup status or location.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_target_indicate"
+}

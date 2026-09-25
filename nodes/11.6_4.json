@@ -1,0 +1,19 @@
+{
+  "id": "sec_appendix_timing_structure_of_accessing_a_card_4",
+  "kind": "timing_structure",
+  "number": "11.6_4",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_of_accessing_a_card",
+  "child_ids": [],
+  "text_markup": "Access is complete.",
+  "text_plain": "Access is complete.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_accessing_a_card_4"
+}

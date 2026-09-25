@@ -1,0 +1,38 @@
+{
+  "id": "rule_static_no_lingering_effects",
+  "kind": "rule",
+  "number": "9.4.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_static_abilities",
+  "child_ids": [
+    "rule_static_no_lingering_effects__example_1"
+  ],
+  "text_markup": "The effects of static abilities do not have durations and cannot directly create lingering effects (see {ref:sec_lingering_effects}).",
+  "text_plain": "The effects of static abilities do not have durations and cannot directly create lingering effects (see section 9.10).",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 104,
+      "end": 116,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_static_no_lingering_effects__example_1",
+      "text_markup": "The runner controls {card:Puffer} with a hosted {card:Gebrselassie}. {card:Gebrselassie} changes the durations of abilities affecting its host's strength, so if the Runner uses {card:Puffer}'s paid ability to give it +1 strength, that increase will last for the remainder of the turn. {card:Gebrselassie} does not affect {card:Puffer}'s static ability that increases its strength for each hosted power counter, so if the Runner spends [click] to remove a power counter, then the increase in strength from {card:Puffer}'s static ability will immediately be lost.",
+      "text_plain": "The runner controls Puffer with a hosted Gebrselassie. Gebrselassie changes the durations of abilities affecting its host's strength, so if the Runner uses Puffer's paid ability to give it +1 strength, that increase will last for the remainder of the turn. Gebrselassie does not affect Puffer's static ability that increases its strength for each hosted power counter, so if the Runner spends {click} to remove a power counter, then the increase in strength from Puffer's static ability will immediately be lost.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_static_no_lingering_effects"
+}

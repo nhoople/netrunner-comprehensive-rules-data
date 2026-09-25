@@ -1,0 +1,41 @@
+{
+  "id": "rule_trigger_condition_effect_by_player__example_2",
+  "kind": "example",
+  "number": "1.14.5a.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_trigger_condition_effect_by_player",
+  "child_ids": [],
+  "text_markup": "{card:Alice Merchant} states that \"the Corp must trash 1 card from HQ\", so the Corp carries out this effect even though {card:Alice Merchant} is a Runner card, and therefore {card:Hostile Infrastructure} does not meet its trigger condition.",
+  "text_plain": "Alice Merchant states that \"the Corp must trash 1 card from HQ\", so the Corp carries out this effect even though Alice Merchant is a Runner card, and therefore Hostile Infrastructure does not meet its trigger condition.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 14,
+      "target": "Alice Merchant",
+      "card_code": "12061"
+    },
+    {
+      "type": "card",
+      "start": 113,
+      "end": 127,
+      "target": "Alice Merchant",
+      "card_code": "12061"
+    },
+    {
+      "type": "card",
+      "start": 160,
+      "end": 182,
+      "target": "Hostile Infrastructure",
+      "card_code": "06083"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

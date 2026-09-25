@@ -1,0 +1,44 @@
+{
+  "id": "rule_restriction",
+  "kind": "subsection",
+  "number": "9.3.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interpreting_card_text",
+  "child_ids": [
+    "rule_modify_cost_restriction",
+    "rule_act_restriction",
+    "rule_use_restriction",
+    "rule_pay_cost_restriction",
+    "rule_host_restriction",
+    "rule_variable_restriction",
+    "rule_cannot_be_prevented_restriction",
+    "rule_no_restriction"
+  ],
+  "text_markup": "A {term:restriction} is a unit of text that applies one of a specific set of constraints for a card to be played or an ability to be used. If a restriction appears in an ability, it applies to the entire ability regardless of whether it is written before, after, or in the middle of the ability's other text. Many restrictions fall under {ref:rule_ability_active_inactive_source_card}, meaning they are active even while their source is inactive.",
+  "text_plain": "A restriction is a unit of text that applies one of a specific set of constraints for a card to be played or an ability to be used. If a restriction appears in an ability, it applies to the entire ability regardless of whether it is written before, after, or in the middle of the ability's other text. Many restrictions fall under section 9.1.8, meaning they are active even while their source is inactive.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 13,
+      "target": "restriction"
+    },
+    {
+      "type": "ref",
+      "start": 331,
+      "end": 344,
+      "ids": [
+        "rule_ability_active_inactive_source_card"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_restriction"
+}

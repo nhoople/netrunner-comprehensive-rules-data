@@ -1,0 +1,24 @@
+{
+  "id": "sec_inf_cost",
+  "kind": "section",
+  "number": "2.14",
+  "ref_type": "section",
+  "title": "Influence Cost",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_inf_cost_location",
+    "rule_inf_cost_absent",
+    "rule_alliance",
+    "rule_inf_cost_citation"
+  ],
+  "text_markup": "Influence Cost",
+  "text_plain": "Influence Cost",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_inf_cost"
+}

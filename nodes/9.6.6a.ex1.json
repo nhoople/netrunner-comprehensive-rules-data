@@ -1,0 +1,33 @@
+{
+  "id": "rule_instruction_requirements_past_state__example_1",
+  "kind": "example",
+  "number": "9.6.6a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_instruction_requirements_past_state",
+  "child_ids": [],
+  "text_markup": "The ability of {card:Weyland Consortium: Built to Last} only causes the Corp to gain 2[c] when they advance a card that \"had no advancement counters\". This ability becomes pending immediately after an instruction resolves in which the Corp advances a card, and the requirement is checked against the state of the game at the previous checkpoint, before that advancement took place.",
+  "text_plain": "The ability of Weyland Consortium: Built to Last only causes the Corp to gain 2{c} when they advance a card that \"had no advancement counters\". This ability becomes pending immediately after an instruction resolves in which the Corp advances a card, and the requirement is checked against the state of the game at the previous checkpoint, before that advancement took place.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 48,
+      "target": "Weyland Consortium: Built to Last",
+      "card_code": "30059"
+    },
+    {
+      "type": "symbol",
+      "start": 79,
+      "end": 82,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

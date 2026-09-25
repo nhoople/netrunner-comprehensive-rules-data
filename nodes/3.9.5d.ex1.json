@@ -1,0 +1,27 @@
+{
+  "id": "rule_icebreaker_strength_increase_outside_of_encounter__example_1",
+  "kind": "example",
+  "number": "3.9.5d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_icebreaker_strength_increase_outside_of_encounter",
+  "child_ids": [],
+  "text_markup": "If the Runner uses {card:Corroder}'s ability to increase its strength outside of an encounter, it applies only until the next checkpoint.",
+  "text_plain": "If the Runner uses Corroder's ability to increase its strength outside of an encounter, it applies only until the next checkpoint.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 19,
+      "end": 27,
+      "target": "Corroder",
+      "card_code": "31006"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

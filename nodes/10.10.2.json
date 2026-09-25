@@ -1,0 +1,29 @@
+{
+  "id": "rule_charge_targets",
+  "kind": "rule",
+  "number": "10.10.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_charge",
+  "child_ids": [],
+  "text_markup": "If an instruction directs a player to charge 1 or more cards from among a set of cards, the particular cards to be charged are chosen as targets of that instruction. Only cards in the indicated set with at least 1 hosted power counter are valid targets. See {ref:sec_targets}.",
+  "text_plain": "If an instruction directs a player to charge 1 or more cards from among a set of cards, the particular cards to be charged are chosen as targets of that instruction. Only cards in the indicated set with at least 1 hosted power counter are valid targets. See section 1.15.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 258,
+      "end": 270,
+      "ids": [
+        "sec_targets"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_charge_targets"
+}

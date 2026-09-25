@@ -1,0 +1,29 @@
+{
+  "id": "rule_double_sided_identity",
+  "kind": "rule",
+  "number": "1.6.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_player_roles",
+  "child_ids": [],
+  "text_markup": "Some identities are double-sided (see {ref:sec_identities}). If a player is playing a double-sided identity, it begins the game with the front side faceup.",
+  "text_plain": "Some identities are double-sided (see section 3.1). If a player is playing a double-sided identity, it begins the game with the front side faceup.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 38,
+      "end": 49,
+      "ids": [
+        "sec_identities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_double_sided_identity"
+}

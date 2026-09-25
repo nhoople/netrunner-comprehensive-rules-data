@@ -1,0 +1,29 @@
+{
+  "id": "step_choose_candidate",
+  "kind": "rule",
+  "number": "7.5.4",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_breaching_steps",
+  "child_ids": [],
+  "text_markup": "The Runner chooses a candidate. If they cannot, skip to {ref:step_breach_complete}.",
+  "text_plain": "The Runner chooses a candidate. If they cannot, skip to step 7.5.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 56,
+      "end": 66,
+      "ids": [
+        "step_breach_complete"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_choose_candidate"
+}

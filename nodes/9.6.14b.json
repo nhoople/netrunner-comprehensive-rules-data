@@ -1,0 +1,29 @@
+{
+  "id": "rule_when_installed",
+  "kind": "rule",
+  "number": "9.6.14b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_references_to_trigger_conditions",
+  "child_ids": [],
+  "text_markup": "A \"when installed\" ability is any ability that could meet its trigger condition at {ref:rule_steps_installing_installed_condition} of the process of installing its source.",
+  "text_plain": "A \"when installed\" ability is any ability that could meet its trigger condition at step 8.5.16f of the process of installing its source.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 83,
+      "end": 95,
+      "ids": [
+        "rule_steps_installing_installed_condition"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_when_installed"
+}

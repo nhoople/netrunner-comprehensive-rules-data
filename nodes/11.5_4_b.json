@@ -1,0 +1,19 @@
+{
+  "id": "sec_appendix_timing_structure_of_breaching_a_server_4_b",
+  "kind": "timing_structure",
+  "number": "11.5_4_b",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_of_breaching_a_server_4",
+  "child_ids": [],
+  "text_markup": "If no, go to (7).",
+  "text_plain": "If no, go to (7).",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_breaching_a_server_4_b"
+}

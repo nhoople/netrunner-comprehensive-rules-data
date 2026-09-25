@@ -1,0 +1,29 @@
+{
+  "id": "rule_flatline_damage_reference",
+  "kind": "rule",
+  "number": "10.4.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_damage",
+  "child_ids": [],
+  "text_markup": "If the Runner takes more damage than the number of cards in their grip, they are flatlined. See {ref:rule_flatline}.",
+  "text_plain": "If the Runner takes more damage than the number of cards in their grip, they are flatlined. See rule 1.7.2b.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 96,
+      "end": 107,
+      "ids": [
+        "rule_flatline"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_flatline_damage_reference"
+}

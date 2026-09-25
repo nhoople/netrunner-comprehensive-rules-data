@@ -1,0 +1,28 @@
+{
+  "id": "rule_choose_instruction",
+  "kind": "rule",
+  "number": "9.11.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction_sentence_exceptions",
+  "child_ids": [
+    "rule_choose_instruction__example_1"
+  ],
+  "text_markup": "If a sentence directs a player to choose 1 or more targets, but does not act on that choice or describe any other effects, that sentence and the following sentence form a single instruction.",
+  "text_plain": "If a sentence directs a player to choose 1 or more targets, but does not act on that choice or describe any other effects, that sentence and the following sentence form a single instruction.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_choose_instruction__example_1",
+      "text_markup": "{card:Tinkering}'s play ability reads, \"Choose a piece of ice. That ice gains {subtype:sentry}, {subtype:code gate}, and {subtype:barrier} until the end of the turn.\" The first sentence does nothing except direct the Runner to select a target, so it forms a single instruction with the second sentence. The target is chosen as the instruction becomes imminent, and the card gains the subtypes when the instruction resolves.",
+      "text_plain": "Tinkering's play ability reads, \"Choose a piece of ice. That ice gains sentry, code gate, and barrier until the end of the turn.\" The first sentence does nothing except direct the Runner to select a target, so it forms a single instruction with the second sentence. The target is chosen as the instruction becomes imminent, and the card gains the subtypes when the instruction resolves.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_choose_instruction"
+}

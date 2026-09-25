@@ -1,0 +1,26 @@
+{
+  "id": "rule_trace_strength",
+  "kind": "rule",
+  "number": "10.8.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_traces",
+  "child_ids": [],
+  "text_markup": "The Corp acts first during a trace attempt, openly spending any number of credits. This sets the {term:trace strength}, which is the base trace strength plus the number of credits spent.",
+  "text_plain": "The Corp acts first during a trace attempt, openly spending any number of credits. This sets the trace strength, which is the base trace strength plus the number of credits spent.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 97,
+      "end": 111,
+      "target": "trace strength"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trace_strength"
+}

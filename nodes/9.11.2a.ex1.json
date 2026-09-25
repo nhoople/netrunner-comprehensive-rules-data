@@ -1,0 +1,29 @@
+{
+  "id": "rule_step_sequences__example_1",
+  "kind": "example",
+  "number": "9.11.2a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_step_sequences",
+  "child_ids": [],
+  "text_markup": "The steps of installing a card are not separate instructions. Installing a card usually happens in its entirety as part of a single instruction. The only checkpoint that occurs during the procedure of installing a card is at {ref:rule_steps_installing_pay_install_cost}, immediately after the install cost is paid.",
+  "text_plain": "The steps of installing a card are not separate instructions. Installing a card usually happens in its entirety as part of a single instruction. The only checkpoint that occurs during the procedure of installing a card is at step 8.5.16d, immediately after the install cost is paid.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 225,
+      "end": 237,
+      "ids": [
+        "rule_steps_installing_pay_install_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

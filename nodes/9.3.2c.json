@@ -1,0 +1,26 @@
+{
+  "id": "rule_static_condition",
+  "kind": "rule",
+  "number": "9.3.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_condition",
+  "child_ids": [],
+  "text_markup": "A {term:static condition} describes a property of the game state that must be true for an effect to apply. Static conditions often begin with words such as \"if\", \"during\", or \"while\".",
+  "text_plain": "A static condition describes a property of the game state that must be true for an effect to apply. Static conditions often begin with words such as \"if\", \"during\", or \"while\".",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 18,
+      "target": "static condition"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_static_condition"
+}

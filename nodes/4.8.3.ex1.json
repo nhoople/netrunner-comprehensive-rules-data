@@ -1,0 +1,41 @@
+{
+  "id": "rule_set_aside_zone_passthrough__example_1",
+  "kind": "example",
+  "number": "4.8.3.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_set_aside_zone_passthrough",
+  "child_ids": [],
+  "text_markup": "The Runner is playing as {card:Exile} and plays Test Run, searching their heap for a program. Although the program is set aside before being installed, {card:Exile}'s ability treats it as though it were installed directly from the heap, and so {card:Exile} will draw a card.",
+  "text_plain": "The Runner is playing as Exile and plays Test Run, searching their heap for a program. Although the program is set aside before being installed, Exile's ability treats it as though it were installed directly from the heap, and so Exile will draw a card.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 25,
+      "end": 30,
+      "target": "Exile",
+      "card_code": "03030"
+    },
+    {
+      "type": "card",
+      "start": 145,
+      "end": 150,
+      "target": "Exile",
+      "card_code": "03030"
+    },
+    {
+      "type": "card",
+      "start": 230,
+      "end": 235,
+      "target": "Exile",
+      "card_code": "03030"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

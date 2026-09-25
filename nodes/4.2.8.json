@@ -1,0 +1,21 @@
+{
+  "id": "subsec_stack",
+  "kind": "subsection",
+  "number": "4.2.8",
+  "ref_type": "section",
+  "title": "Stack",
+  "parent_id": "sec_deck",
+  "child_ids": [
+    "rule_stack_name"
+  ],
+  "text_markup": "Stack",
+  "text_plain": "Stack",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "The stack represents the Runner's untapped potential: future plans, connections, and opportunities they have yet to discover.",
+  "snippet_plain": "The stack represents the Runner's untapped potential: future plans, connections, and opportunities they have yet to discover.",
+  "url": "https://rules.nullsignal.games/?r=subsec_stack"
+}

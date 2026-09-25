@@ -1,0 +1,28 @@
+{
+  "id": "sec_steps_of_using_a_paid_ability",
+  "kind": "subsection",
+  "number": "9.5.7",
+  "ref_type": "step",
+  "title": "Steps of Using a Paid Ability",
+  "parent_id": "sec_paid_abilities",
+  "child_ids": [
+    "step_paid_ability_announce",
+    "step_paid_ability_condition",
+    "step_paid_ability_target_first_instruction",
+    "step_paid_ability_interrupt_window",
+    "step_paid_ability_resolution",
+    "step_paid_ability_checkpoint",
+    "step_paid_ability_loop",
+    "step_paid_ability_complete"
+  ],
+  "text_markup": "Steps of Using a Paid Ability",
+  "text_plain": "Steps of Using a Paid Ability",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_steps_of_using_a_paid_ability"
+}

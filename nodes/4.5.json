@@ -1,0 +1,24 @@
+{
+  "id": "sec_score_area",
+  "kind": "section",
+  "number": "4.5",
+  "ref_type": "section",
+  "title": "Score Area",
+  "parent_id": "chpt_game_zones",
+  "child_ids": [
+    "rule_score_area",
+    "rule_score_area_open_info",
+    "rule_score_area_unordered",
+    "rule_score_area_active_inactive"
+  ],
+  "text_markup": "Score Area",
+  "text_plain": "Score Area",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "The score areas represent major accomplishments for each player in service of their long-term ambitions. The Corp's score area contains all large-scale projects they have seen to completion. The Runner's score area is a memorial to all such initiatives they have successfully disrupted, exposed, or sold details of to the highest bidder.",
+  "snippet_plain": "The score areas represent major accomplishments for each player in service of their long-term ambitions. The Corp's score area contains all large-scale projects they have seen to completion. The Runner's score area is a memorial to all such initiatives they have successfully disrupted, exposed, or sold details of to the highest bidder.",
+  "url": "https://rules.nullsignal.games/?r=sec_score_area"
+}

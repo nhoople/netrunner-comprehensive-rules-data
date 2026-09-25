@@ -1,0 +1,24 @@
+{
+  "id": "rule_play_no_trash",
+  "kind": "subsection",
+  "number": "8.6.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_playing_events_and_operations",
+  "child_ids": [
+    "rule_play_no_trash_left_play_area",
+    "rule_play_no_trash_hosted",
+    "rule_play_not_trashed_until",
+    "rule_play_no_trash_if_play_effect_will_rfg"
+  ],
+  "text_markup": "In certain circumstances, a played card is not trashed after resolving it.",
+  "text_plain": "In certain circumstances, a played card is not trashed after resolving it.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_no_trash"
+}

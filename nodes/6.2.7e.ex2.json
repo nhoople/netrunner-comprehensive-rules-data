@@ -1,0 +1,45 @@
+{
+  "id": "rule_ice_change_during_movement__example_2",
+  "kind": "example",
+  "number": "6.2.7e.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_ice_change_during_movement",
+  "child_ids": [],
+  "text_markup": "The Runner passes a piece of ice, and in {ref:step_before_jack_out_paw}, the Corp uses {card:Project Yagi-Uda} to swap that ice with another piece of ice. The Runner has still passed their position (but has not passed the new ice occupying that position) and will proceed to the next position in {ref:step_move_position}. They will not approach or encounter the new ice.",
+  "text_plain": "The Runner passes a piece of ice, and in step 6.9.4b, the Corp uses Project Yagi-Uda to swap that ice with another piece of ice. The Runner has still passed their position (but has not passed the new ice occupying that position) and will proceed to the next position in step 6.9.4d. They will not approach or encounter the new ice.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 41,
+      "end": 52,
+      "ids": [
+        "step_before_jack_out_paw"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "card",
+      "start": 68,
+      "end": 84,
+      "target": "Project Yagi-Uda",
+      "card_code": "26040"
+    },
+    {
+      "type": "ref",
+      "start": 270,
+      "end": 281,
+      "ids": [
+        "step_move_position"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

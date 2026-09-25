@@ -1,0 +1,35 @@
+{
+  "id": "rule_dividends",
+  "kind": "rule",
+  "number": "10.13.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_dividends",
+  "child_ids": [
+    "rule_dividends__example_1"
+  ],
+  "text_markup": "{term:Dividends} is a keyword that represents a conditional ability. \"Dividends N\" means \"When you score this agenda, place N agenda counters on it for each hosted advancement counter past its advancement requirement.\".",
+  "text_plain": "Dividends is a keyword that represents a conditional ability. \"Dividends N\" means \"When you score this agenda, place N agenda counters on it for each hosted advancement counter past its advancement requirement.\".",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 9,
+      "target": "Dividends"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_dividends__example_1",
+      "text_markup": "The Corp scores {card:Embedded Reporting} with 5 advancement counters on it. The Corp will put 4 agenda counters on the agenda in their score area, 2 agenda counters for each of the 2 excess advancement counters.",
+      "text_plain": "The Corp scores Embedded Reporting with 5 advancement counters on it. The Corp will put 4 agenda counters on the agenda in their score area, 2 agenda counters for each of the 2 excess advancement counters.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_dividends"
+}

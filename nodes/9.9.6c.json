@@ -1,0 +1,47 @@
+{
+  "id": "rule_modifiable_value_cost",
+  "kind": "rule",
+  "number": "9.9.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_modifiable_values",
+  "child_ids": [
+    "rule_modifiable_value_cost__example_1"
+  ],
+  "text_markup": "A cost that would be paid while resolving an effect is a value. {ref:Rule_cost_calculation} applies to the final value at the time the cost is paid. See also {ref:rule_cost_zero}.",
+  "text_plain": "A cost that would be paid while resolving an effect is a value. Rule 1.16.2a applies to the final value at the time the cost is paid. See also rule 1.16.1d.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 64,
+      "end": 76,
+      "ids": [
+        "rule_cost_calculation"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 143,
+      "end": 155,
+      "ids": [
+        "rule_cost_zero"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_modifiable_value_cost__example_1",
+      "text_markup": "{card:Patchwork}'s interrupt modifies a play cost or install cost, so it is relevant to any instruction where a card will be played or installed and the corresponding cost paid.",
+      "text_plain": "Patchwork's interrupt modifies a play cost or install cost, so it is relevant to any instruction where a card will be played or installed and the corresponding cost paid.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modifiable_value_cost"
+}

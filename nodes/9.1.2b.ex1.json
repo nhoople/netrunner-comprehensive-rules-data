@@ -1,0 +1,34 @@
+{
+  "id": "rule_is_resolving__example_1",
+  "kind": "example",
+  "number": "9.1.2b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_is_resolving",
+  "child_ids": [],
+  "text_markup": "The Corp resolves a subroutine on {card:Attini} while its first ability is active. The subroutine is resolving during the interrupt window for its instruction, so the Runner cannot spend credits during that window and will not be able to use {card:Caldera}'s ability to prevent net damage.",
+  "text_plain": "The Corp resolves a subroutine on Attini while its first ability is active. The subroutine is resolving during the interrupt window for its instruction, so the Runner cannot spend credits during that window and will not be able to use Caldera's ability to prevent net damage.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 34,
+      "end": 40,
+      "target": "Attini",
+      "card_code": "34042"
+    },
+    {
+      "type": "card",
+      "start": 235,
+      "end": 242,
+      "target": "Caldera",
+      "card_code": "12105"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

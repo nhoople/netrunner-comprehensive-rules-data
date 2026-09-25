@@ -1,0 +1,31 @@
+{
+  "id": "sec_interrupts_replacements",
+  "kind": "section",
+  "number": "9.9",
+  "ref_type": "section",
+  "title": "Interrupts and Replacement Effects",
+  "parent_id": "chpt_abilities",
+  "child_ids": [
+    "rule_interrupt_definition",
+    "rule_expected_effects",
+    "sec_relevant_interrupts",
+    "sec_interrupt_window_for_imminent_instruction",
+    "sec_prevent_avoid",
+    "sec_modifiable_values",
+    "sec_calculating_expected_effect_values",
+    "sec_replacement_effects",
+    "rule_applying_replacement_effects",
+    "rule_replace_imminent_effects",
+    "rule_order_of_replacement_effects"
+  ],
+  "text_markup": "Interrupts and Replacement Effects",
+  "text_plain": "Interrupts and Replacement Effects",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_interrupts_replacements"
+}

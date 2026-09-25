@@ -1,0 +1,28 @@
+{
+  "id": "subsec_icebreakers",
+  "kind": "subsection",
+  "number": "3.9.5",
+  "ref_type": "section",
+  "title": "Icebreakers",
+  "parent_id": "sec_programs",
+  "child_ids": [
+    "rule_program_icebreaker",
+    "rule_icebreaker_strength_increase_implicit",
+    "rule_icebreaker_strength_increase_specified",
+    "rule_icebreaker_strength_increase_outside_of_encounter",
+    "rule_icebreaker_interface",
+    "rule_icebreaker_interface_during_encounter",
+    "rule_icebreaker_interface_strength",
+    "rule_icebreaker_interface_subtype"
+  ],
+  "text_markup": "Icebreakers",
+  "text_plain": "Icebreakers",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_icebreakers"
+}

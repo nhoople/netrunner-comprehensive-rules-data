@@ -1,0 +1,44 @@
+{
+  "id": "rule_priority_window",
+  "kind": "subsection",
+  "number": "9.2.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_timing_and_priority",
+  "child_ids": [
+    "rule_triggering",
+    "rule_pass",
+    "rule_keep_priority_until_pass",
+    "rule_nested_priority_window",
+    "rule_checkpoint_before_receiving_priority"
+  ],
+  "text_markup": "A {term:priority window} is a general term for a timing step in which one or both players receive priority. Priority windows {term:open} for different purposes throughout the game. When a priority window {term:closes}, the game continues to the next timing step.",
+  "text_plain": "A priority window is a general term for a timing step in which one or both players receive priority. Priority windows open for different purposes throughout the game. When a priority window closes, the game continues to the next timing step.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 17,
+      "target": "priority window"
+    },
+    {
+      "type": "term",
+      "start": 118,
+      "end": 122,
+      "target": "open"
+    },
+    {
+      "type": "term",
+      "start": 190,
+      "end": 196,
+      "target": "closes"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_priority_window"
+}

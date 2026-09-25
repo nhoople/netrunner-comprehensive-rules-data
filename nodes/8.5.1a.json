@@ -1,0 +1,35 @@
+{
+  "id": "rule_installed_onto_cards",
+  "kind": "rule",
+  "number": "8.5.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_installing",
+  "child_ids": [],
+  "text_markup": "Cards and counters can also be installed onto other cards if either the card being installed onto or the card or counter being installed has an ability allowing this. The relationship created this way is called {term:hosting} and is discussed in {ref:sec_host}. Some abilities also host cards without installing them.",
+  "text_plain": "Cards and counters can also be installed onto other cards if either the card being installed onto or the card or counter being installed has an ability allowing this. The relationship created this way is called hosting and is discussed in section 1.13. Some abilities also host cards without installing them.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 211,
+      "end": 218,
+      "target": "hosting"
+    },
+    {
+      "type": "ref",
+      "start": 239,
+      "end": 251,
+      "ids": [
+        "sec_host"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_installed_onto_cards"
+}

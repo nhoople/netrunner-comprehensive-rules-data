@@ -1,0 +1,41 @@
+{
+  "id": "rule_symbol_sub",
+  "kind": "rule",
+  "number": "1.3.7",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_symbols",
+  "child_ids": [],
+  "text_markup": "The symbol [sub] (plaintext: {curly:sub}) stands for \"subroutine\". Each symbol marks a single subroutine on a piece of ice. See {ref:sec_subroutines} for information about subroutines.",
+  "text_plain": "The symbol {sub} (plaintext: {sub}) stands for \"subroutine\". Each symbol marks a single subroutine on a piece of ice. See section 9.8 for information about subroutines.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 11,
+      "end": 16,
+      "target": "sub"
+    },
+    {
+      "type": "symbol",
+      "start": 29,
+      "end": 34,
+      "target": "sub"
+    },
+    {
+      "type": "ref",
+      "start": 122,
+      "end": 133,
+      "ids": [
+        "sec_subroutines"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_symbol_sub"
+}

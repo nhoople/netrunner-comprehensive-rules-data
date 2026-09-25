@@ -1,0 +1,23 @@
+{
+  "id": "rule_bid_reveal_spend",
+  "kind": "subsection",
+  "number": "10.14.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_bidding",
+  "child_ids": [
+    "rule_bid_spent_immediately",
+    "rule_bid_is_cost",
+    "rule_bid_payment_choices"
+  ],
+  "text_markup": "After all bids are selected, the ability that called for the bids continues resolving. Players will later be instructed to reveal their bids. Each player must spend a number of credits equal to their bid as soon as the bid is revealed.",
+  "text_plain": "After all bids are selected, the ability that called for the bids continues resolving. Players will later be instructed to reveal their bids. Each player must spend a number of credits equal to their bid as soon as the bid is revealed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bid_reveal_spend"
+}

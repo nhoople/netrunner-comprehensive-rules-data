@@ -1,0 +1,55 @@
+{
+  "id": "rule_trigger_conditional_ability_interrupt__example_1",
+  "kind": "example",
+  "number": "9.9.4c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_trigger_conditional_ability_interrupt",
+  "child_ids": [],
+  "text_markup": "An instruction is imminent that would trash an installed copy of {card:Harbinger}. The Runner uses {card:Sacrificial Construct} to prevent {card:Harbinger} from being trashed. The Runner can no longer trigger {card:Harbinger}'s interrupt ability, even though it is still pending, because the expected effects of the instruction no longer include {card:Harbinger} being trashed and therefore the ability is no longer relevant.",
+  "text_plain": "An instruction is imminent that would trash an installed copy of Harbinger. The Runner uses Sacrificial Construct to prevent Harbinger from being trashed. The Runner can no longer trigger Harbinger's interrupt ability, even though it is still pending, because the expected effects of the instruction no longer include Harbinger being trashed and therefore the ability is no longer relevant.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 65,
+      "end": 74,
+      "target": "Harbinger",
+      "card_code": "09034"
+    },
+    {
+      "type": "card",
+      "start": 92,
+      "end": 113,
+      "target": "Sacrificial Construct",
+      "card_code": "20054"
+    },
+    {
+      "type": "card",
+      "start": 125,
+      "end": 134,
+      "target": "Harbinger",
+      "card_code": "09034"
+    },
+    {
+      "type": "card",
+      "start": 188,
+      "end": 197,
+      "target": "Harbinger",
+      "card_code": "09034"
+    },
+    {
+      "type": "card",
+      "start": 318,
+      "end": 327,
+      "target": "Harbinger",
+      "card_code": "09034"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

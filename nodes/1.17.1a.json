@@ -1,0 +1,44 @@
+{
+  "id": "rule_threat_level",
+  "kind": "rule",
+  "number": "1.17.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_score",
+  "child_ids": [
+    "rule_threat_level__example_1"
+  ],
+  "text_markup": "The {term:threat level} is equal to the greatest score of any player. The \"Threat N\" ability flag makes use of the threat level ({ref:rule_threat_flag}).",
+  "text_plain": "The threat level is equal to the greatest score of any player. The \"Threat N\" ability flag makes use of the threat level (rule 9.3.6f).",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 16,
+      "target": "threat level"
+    },
+    {
+      "type": "ref",
+      "start": 122,
+      "end": 133,
+      "ids": [
+        "rule_threat_flag"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_threat_level__example_1",
+      "text_markup": "If the Runner's score is 4 agenda points, and the Corp's score is 3 agenda points, the threat level is 4.",
+      "text_plain": "If the Runner's score is 4 agenda points, and the Corp's score is 3 agenda points, the threat level is 4.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_threat_level"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sec_appendix_timing_structure_of_accessing_a_card",
+  "kind": "section",
+  "number": "11.6",
+  "ref_type": "section",
+  "title": "Timing Structure of Accessing a Card",
+  "parent_id": "chpt_appendix_timing_structures",
+  "child_ids": [
+    "sec_appendix_timing_structure_of_accessing_a_card_1",
+    "sec_appendix_timing_structure_of_accessing_a_card_2",
+    "sec_appendix_timing_structure_of_accessing_a_card_3",
+    "sec_appendix_timing_structure_of_accessing_a_card_4"
+  ],
+  "text_markup": "Timing Structure of Accessing a Card ({ref:Sec_steps_accessing_card})",
+  "text_plain": "Timing Structure of Accessing a Card (Section 7.2)",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 38,
+      "end": 49,
+      "ids": [
+        "sec_steps_accessing_card"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_accessing_a_card"
+}

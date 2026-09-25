@@ -1,0 +1,65 @@
+{
+  "id": "rule_bypass_during_encounter",
+  "kind": "rule",
+  "number": "6.5.8c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_bypass",
+  "child_ids": [
+    "rule_bypass_during_encounter__example_1"
+  ],
+  "text_markup": "A few bypass effects can be triggered later. If ice is bypassed in {ref:step_encounter_paw}, subroutines may or may not have been broken, but {ref:step_resolve_subroutine} never occurs so no subroutines resolve. Note that for ice with zero subroutines, the Runner has \"broken all subroutines\" if and only if {ref:step_encounter_paw} was reached. See {ref:rule_vacuous_truth}.",
+  "text_plain": "A few bypass effects can be triggered later. If ice is bypassed in step 6.9.3b, subroutines may or may not have been broken, but step 6.9.3c never occurs so no subroutines resolve. Note that for ice with zero subroutines, the Runner has \"broken all subroutines\" if and only if step 6.9.3b was reached. See rule 9.12.2d.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 67,
+      "end": 78,
+      "ids": [
+        "step_encounter_paw"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 129,
+      "end": 140,
+      "ids": [
+        "step_resolve_subroutine"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 277,
+      "end": 288,
+      "ids": [
+        "step_encounter_paw"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 306,
+      "end": 318,
+      "ids": [
+        "rule_vacuous_truth"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_bypass_during_encounter__example_1",
+      "text_markup": "The Runner plays {card:Forked} and encounters a {card:Troll} that they can bypass with {card:Femme Fatale}. The Runner pays 0[c] to bypass the {card:Troll} with {card:Femme Fatale}. {card:Forked} does not meet its trigger condition, and {card:Troll} is not trashed, because the opportunity to break subroutines was never reached.",
+      "text_plain": "The Runner plays Forked and encounters a Troll that they can bypass with Femme Fatale. The Runner pays 0{c} to bypass the Troll with Femme Fatale. Forked does not meet its trigger condition, and Troll is not trashed, because the opportunity to break subroutines was never reached.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bypass_during_encounter"
+}

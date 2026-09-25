@@ -1,0 +1,29 @@
+{
+  "id": "rule_install_and_rez_one_at_a_time",
+  "kind": "rule",
+  "number": "8.5.15a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_install_and_rez",
+  "child_ids": [],
+  "text_markup": "Some \"install and rez\" abilities affect more than 1 card. In this case, each card is rezzed directly after it is installed, as part of the same instruction and before the next installation begins. See also {ref:rule_install_one_at_a_time}.",
+  "text_plain": "Some \"install and rez\" abilities affect more than 1 card. In this case, each card is rezzed directly after it is installed, as part of the same instruction and before the next installation begins. See also rule 8.5.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 206,
+      "end": 216,
+      "ids": [
+        "rule_install_one_at_a_time"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_and_rez_one_at_a_time"
+}

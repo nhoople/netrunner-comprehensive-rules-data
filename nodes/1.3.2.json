@@ -1,0 +1,53 @@
+{
+  "id": "rule_symbol_credits",
+  "kind": "rule",
+  "number": "1.3.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_symbols",
+  "child_ids": [],
+  "text_markup": "The symbol [c] (plaintext: {curly:c}) stands for \"credit\". It always appears with a quantity, such as 1[c], which means \"one credit,\" or 3[c], which means \"three credits.\" See {ref:sec_credits} for rules about credits.",
+  "text_plain": "The symbol {c} (plaintext: {c}) stands for \"credit\". It always appears with a quantity, such as 1{c}, which means \"one credit,\" or 3{c}, which means \"three credits.\" See section 1.10 for rules about credits.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 11,
+      "end": 14,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 27,
+      "end": 30,
+      "target": "c"
+    },
+    {
+      "type": "symbol",
+      "start": 97,
+      "end": 100,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 132,
+      "end": 135,
+      "target": "credit"
+    },
+    {
+      "type": "ref",
+      "start": 170,
+      "end": 182,
+      "ids": [
+        "sec_credits"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_symbol_credits"
+}

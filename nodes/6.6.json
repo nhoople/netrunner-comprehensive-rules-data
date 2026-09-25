@@ -1,0 +1,26 @@
+{
+  "id": "sec_movement_phase",
+  "kind": "section",
+  "number": "6.6",
+  "ref_type": "section",
+  "title": "Movement",
+  "parent_id": "chpt_runs",
+  "child_ids": [
+    "rule_movement_phase",
+    "rule_pass_ice",
+    "rule_jack_out_movement_phase",
+    "rule_runner_continues",
+    "rule_runner_approach_new_position",
+    "rule_approach_server"
+  ],
+  "text_markup": "Movement",
+  "text_plain": "Movement",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_movement_phase"
+}

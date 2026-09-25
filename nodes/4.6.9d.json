@@ -1,0 +1,29 @@
+{
+  "id": "rule_ice_install_outermost",
+  "kind": "rule",
+  "number": "4.6.9d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_protecting_a_server",
+  "child_ids": [],
+  "text_markup": "When the Corp installs a piece of ice protecting a server, they must place it in the outermost position protecting that server. See {ref:sec_install_uninstall}.",
+  "text_plain": "When the Corp installs a piece of ice protecting a server, they must place it in the outermost position protecting that server. See section 8.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 132,
+      "end": 143,
+      "ids": [
+        "sec_install_uninstall"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_install_outermost"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_deck_hidden",
+  "kind": "rule",
+  "number": "4.2.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_deck",
+  "child_ids": [],
+  "text_markup": "Decks must be kept facedown with their cards hidden from both players. Neither player may look at the cards in any deck without being explicitly directed to do so by a rule or card ability.",
+  "text_plain": "Decks must be kept facedown with their cards hidden from both players. Neither player may look at the cards in any deck without being explicitly directed to do so by a rule or card ability.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_deck_hidden"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "rule_abilities_no_inherent_order",
+  "kind": "rule",
+  "number": "9.1.9c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_gaining_losing_abilities",
+  "child_ids": [],
+  "text_markup": "Abilities on an object have no particular order, except for play abilities and subroutines. Play abilities cannot be added to or removed from an event or operation, and their order is the order they appear on their source card. To determine the order of subroutines on an object, refer to {ref:rule_subroutines_ordered} and {ref:rule_subroutine_origins}.",
+  "text_plain": "Abilities on an object have no particular order, except for play abilities and subroutines. Play abilities cannot be added to or removed from an event or operation, and their order is the order they appear on their source card. To determine the order of subroutines on an object, refer to section 9.8.2 and section 9.8.3.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 289,
+      "end": 302,
+      "ids": [
+        "rule_subroutines_ordered"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 307,
+      "end": 320,
+      "ids": [
+        "rule_subroutine_origins"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_abilities_no_inherent_order"
+}

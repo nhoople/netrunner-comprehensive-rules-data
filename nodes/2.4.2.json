@@ -1,0 +1,29 @@
+{
+  "id": "rule_adv_requirement_citation",
+  "kind": "rule",
+  "number": "2.4.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_adv_req",
+  "child_ids": [],
+  "text_markup": "{ref:Sec_score_scoring_steal} details how agendas are scored and the purpose of the advancement requirement.",
+  "text_plain": "Section 1.17 details how agendas are scored and the purpose of the advancement requirement.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 0,
+      "end": 12,
+      "ids": [
+        "sec_score_scoring_steal"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_adv_requirement_citation"
+}

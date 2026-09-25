@@ -1,0 +1,26 @@
+{
+  "id": "rule_modified_costs",
+  "kind": "subsection",
+  "number": "1.16.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_costs",
+  "child_ids": [
+    "rule_cost_calculation",
+    "rule_cost_quantities",
+    "rule_cost_x",
+    "rule_cost_x_out_of_context",
+    "rule_alternate_payment",
+    "rule_install_and_rez_reducing_total"
+  ],
+  "text_markup": "The actual contents of a cost can be dependent on the game state. Abilities can modify their own costs, modify costs of a certain type or that meet certain criteria, or include costs that need to be calculated.",
+  "text_plain": "The actual contents of a cost can be dependent on the game state. Abilities can modify their own costs, modify costs of a certain type or that meet certain criteria, or include costs that need to be calculated.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modified_costs"
+}

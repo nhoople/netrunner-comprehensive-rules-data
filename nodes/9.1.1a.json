@@ -1,0 +1,19 @@
+{
+  "id": "rule_all_text_is_an_ability",
+  "kind": "rule",
+  "number": "9.1.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability",
+  "child_ids": [],
+  "text_markup": "All rules text on a card or counter is part of an ability.",
+  "text_plain": "All rules text on a card or counter is part of an ability.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_all_text_is_an_ability"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "subsec_persistent",
+  "kind": "subsection",
+  "number": "9.12.5",
+  "ref_type": "section",
+  "title": "Persistent",
+  "parent_id": "sec_other_rules_and_terminology",
+  "child_ids": [
+    "rule_persistent",
+    "rule_persistent_continuous",
+    "rule_persistent_expiration",
+    "rule_persistent_applicability"
+  ],
+  "text_markup": "Persistent",
+  "text_plain": "Persistent",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_persistent"
+}

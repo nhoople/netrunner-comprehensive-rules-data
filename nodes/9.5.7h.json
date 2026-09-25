@@ -1,0 +1,19 @@
+{
+  "id": "step_paid_ability_complete",
+  "kind": "rule",
+  "number": "9.5.7h",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_using_a_paid_ability",
+  "child_ids": [],
+  "text_markup": "Resolution of the paid ability is complete.",
+  "text_plain": "Resolution of the paid ability is complete.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_paid_ability_complete"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_asset_root_remote",
+  "kind": "rule",
+  "number": "3.3.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_assets",
+  "child_ids": [],
+  "text_markup": "The Corp may install assets only in the roots of remote servers. There can be only one agenda or one asset installed in the root of any given remote server at a time. See {ref:subsec_remote_servers}.",
+  "text_plain": "The Corp may install assets only in the roots of remote servers. There can be only one agenda or one asset installed in the root of any given remote server at a time. See section 4.6.8.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 171,
+      "end": 184,
+      "ids": [
+        "subsec_remote_servers"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_asset_root_remote"
+}

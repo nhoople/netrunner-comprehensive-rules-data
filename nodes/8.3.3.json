@@ -1,0 +1,22 @@
+{
+  "id": "rule_arrange_secretly",
+  "kind": "subsection",
+  "number": "8.3.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_arranging_rearranging",
+  "child_ids": [
+    "rule_arrange_opponent",
+    "rule_arrange_and_other_effect"
+  ],
+  "text_markup": "Some instructions direct a player to arrange cards from the top of their deck or an opponent's deck \"in any order\". To resolve such an instruction, that player sets aside the appropriate number of cards facedown, secretly puts them in the order of their choice, and returns them to the top of that deck. They do not declare which cards moved to which locations. All of the arranged cards become new objects after they are arranged, even cards that return to the same location in the deck.",
+  "text_plain": "Some instructions direct a player to arrange cards from the top of their deck or an opponent's deck \"in any order\". To resolve such an instruction, that player sets aside the appropriate number of cards facedown, secretly puts them in the order of their choice, and returns them to the top of that deck. They do not declare which cards moved to which locations. All of the arranged cards become new objects after they are arranged, even cards that return to the same location in the deck.",
+  "spans": [],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_arrange_secretly"
+}

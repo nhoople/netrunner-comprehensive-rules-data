@@ -1,0 +1,40 @@
+{
+  "id": "rule_resolve_subroutines_run_ends__example_1",
+  "kind": "example",
+  "number": "9.8.7c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_resolve_subroutines_run_ends",
+  "child_ids": [],
+  "text_markup": "The Runner encounters {card:Little Engine} and does not break any subroutines. {card:Little Engine}'s first subroutine resolves and ends the run. Since the run and therefore the encounter have ended, no more subroutines resolve. The Runner will not gain 5[c].",
+  "text_plain": "The Runner encounters Little Engine and does not break any subroutines. Little Engine's first subroutine resolves and ends the run. Since the run and therefore the encounter have ended, no more subroutines resolve. The Runner will not gain 5{c}.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 22,
+      "end": 35,
+      "target": "Little Engine",
+      "card_code": "08057"
+    },
+    {
+      "type": "card",
+      "start": 72,
+      "end": 85,
+      "target": "Little Engine",
+      "card_code": "08057"
+    },
+    {
+      "type": "symbol",
+      "start": 241,
+      "end": 244,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

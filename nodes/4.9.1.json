@@ -1,0 +1,26 @@
+{
+  "id": "rule_removed_from_game_zone",
+  "kind": "rule",
+  "number": "4.9.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_removed_from_game",
+  "child_ids": [],
+  "text_markup": "The {term:removed-from-game zone} is an inactive zone shared by both players. It is used to take cards out of any player's control until the end of the game.",
+  "text_plain": "The removed-from-game zone is an inactive zone shared by both players. It is used to take cards out of any player's control until the end of the game.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 26,
+      "target": "removed-from-game zone"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_removed_from_game_zone"
+}

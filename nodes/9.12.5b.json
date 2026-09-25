@@ -1,0 +1,19 @@
+{
+  "id": "rule_persistent_continuous",
+  "kind": "rule",
+  "number": "9.12.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_persistent",
+  "child_ids": [],
+  "text_markup": "A persistent ability begins to persist simultaneously with the trashing of its source card. The ability never becomes inactive, nor is it considered a new ability.",
+  "text_plain": "A persistent ability begins to persist simultaneously with the trashing of its source card. The ability never becomes inactive, nor is it considered a new ability.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_persistent_continuous"
+}

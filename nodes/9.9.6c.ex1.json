@@ -1,0 +1,27 @@
+{
+  "id": "rule_modifiable_value_cost__example_1",
+  "kind": "example",
+  "number": "9.9.6c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_modifiable_value_cost",
+  "child_ids": [],
+  "text_markup": "{card:Patchwork}'s interrupt modifies a play cost or install cost, so it is relevant to any instruction where a card will be played or installed and the corresponding cost paid.",
+  "text_plain": "Patchwork's interrupt modifies a play cost or install cost, so it is relevant to any instruction where a card will be played or installed and the corresponding cost paid.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 9,
+      "target": "Patchwork",
+      "card_code": "22004"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rule_sec_run_initiation_phase",
+  "kind": "subsection",
+  "number": "6.9.1",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_a_run",
+  "child_ids": [
+    "step_initiation_announce",
+    "step_initiation_bad_publicity",
+    "step_initiation_formal_begin",
+    "step_runner_position",
+    "step_initiation_paw",
+    "step_initiation_complete"
+  ],
+  "text_markup": "Initiation Phase",
+  "text_plain": "Initiation Phase",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_sec_run_initiation_phase"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sec_swapping_cards",
+  "kind": "section",
+  "number": "8.8",
+  "ref_type": "section",
+  "title": "Swapping Cards",
+  "parent_id": "chpt_card_manipulation",
+  "child_ids": [
+    "rule_swap",
+    "rule_swap_only_to_valid_location",
+    "rule_swap_installed_cards",
+    "rule_swap_simultaneous"
+  ],
+  "text_markup": "Swapping Cards",
+  "text_plain": "Swapping Cards",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_swapping_cards"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_mark_already_identified",
+  "kind": "rule",
+  "number": "10.11.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_mark",
+  "child_ids": [],
+  "text_markup": "If a server is already designated as the mark, an instruction to \"identify your mark\" does nothing. The mark is immutable for the remainder of the turn.",
+  "text_plain": "If a server is already designated as the mark, an instruction to \"identify your mark\" does nothing. The mark is immutable for the remainder of the turn.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mark_already_identified"
+}

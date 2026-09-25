@@ -1,0 +1,19 @@
+{
+  "id": "rule_printed_cost_definition",
+  "kind": "rule",
+  "number": "2.3.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_printed_cost",
+  "child_ids": [],
+  "text_markup": "The play, install, or rez cost of a card is a number that appears in the top-left corner of most card types. Play and install costs appear within a large circular icon, while rez costs appear within a small octagonal icon.",
+  "text_plain": "The play, install, or rez cost of a card is a number that appears in the top-left corner of most card types. Play and install costs appear within a large circular icon, while rez costs appear within a small octagonal icon.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_printed_cost_definition"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_owner_converted_to_counter",
+  "kind": "rule",
+  "number": "1.14.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_owner",
+  "child_ids": [],
+  "text_markup": "A card that is converted into a counter retains its owner.",
+  "text_plain": "A card that is converted into a counter retains its owner.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_owner_converted_to_counter"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_modify_subtypes",
+  "kind": "rule",
+  "number": "9.12.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_simultaneous_effects",
+  "child_ids": [],
+  "text_markup": "If more than one effect attempts to add or remove the same subtype from a card, count the number of times the subtype is added (including from the card's printed text) and the number of times the subtype is removed. As long as the number of times added is greater, the card has that subtype. As long as the number of times removed is greater or the numbers are equal, the card does not have that subtype.",
+  "text_plain": "If more than one effect attempts to add or remove the same subtype from a card, count the number of times the subtype is added (including from the card's printed text) and the number of times the subtype is removed. As long as the number of times added is greater, the card has that subtype. As long as the number of times removed is greater or the numbers are equal, the card does not have that subtype.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modify_subtypes"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_move_to_current_ice",
+  "kind": "rule",
+  "number": "6.2.8d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_move_runner_to_position",
+  "child_ids": [],
+  "text_markup": "If an ability instructs the Runner to move to and approach a position they are already approaching, instead the Runner does nothing.",
+  "text_plain": "If an ability instructs the Runner to move to and approach a position they are already approaching, instead the Runner does nothing.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_move_to_current_ice"
+}

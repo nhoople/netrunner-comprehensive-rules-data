@@ -1,0 +1,29 @@
+{
+  "id": "rule_uninstall_ice_during_run",
+  "kind": "rule",
+  "number": "8.5.10",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [],
+  "text_markup": "If a piece of ice is uninstalled while being approached or encountered, any open paid ability window is completed. Then the approach or encounter ends without completing any further steps of that timing structure. The Runner passes the position the uninstalled ice had occupied, and the run continues. See {ref:sec_position} for rules about positions during a run.",
+  "text_plain": "If a piece of ice is uninstalled while being approached or encountered, any open paid ability window is completed. Then the approach or encounter ends without completing any further steps of that timing structure. The Runner passes the position the uninstalled ice had occupied, and the run continues. See section 6.2 for rules about positions during a run.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 306,
+      "end": 317,
+      "ids": [
+        "sec_position"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_uninstall_ice_during_run"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_min_deck_size_citation",
+  "kind": "rule",
+  "number": "2.11.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_min_deck_size",
+  "child_ids": [],
+  "text_markup": "{ref:Sec_deck_construction} details the rules for building a deck, including the requirement to adhere to the minimum deck size of the deck's associated identity.",
+  "text_plain": "Section 1.4 details the rules for building a deck, including the requirement to adhere to the minimum deck size of the deck's associated identity.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 0,
+      "end": 11,
+      "ids": [
+        "sec_deck_construction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_min_deck_size_citation"
+}

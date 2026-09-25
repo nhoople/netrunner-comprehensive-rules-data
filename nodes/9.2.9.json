@@ -1,0 +1,42 @@
+{
+  "id": "rule_interrupt_window",
+  "kind": "subsection",
+  "number": "9.2.9",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_timing_and_priority",
+  "child_ids": [
+    "rule_interrupt_window_linked_to_imminent_instruction",
+    "rule_interrupt_window_opening",
+    "rule_interrupt_window_priority",
+    "rule_interrupt_window_options",
+    "rule_interrupt_window_abilities_unordered",
+    "rule_interrupt_window_must_resolve_mandatory_abilities"
+  ],
+  "text_markup": "An {term:interrupt window} is a priority window that opens just before an instruction would resolve when one or more players have abilities that could modify that imminent instruction. See {ref:sec_interrupts_replacements} for rules about interrupt abilities.",
+  "text_plain": "An interrupt window is a priority window that opens just before an instruction would resolve when one or more players have abilities that could modify that imminent instruction. See section 9.9 for rules about interrupt abilities.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 19,
+      "target": "interrupt window"
+    },
+    {
+      "type": "ref",
+      "start": 182,
+      "end": 193,
+      "ids": [
+        "sec_interrupts_replacements"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interrupt_window"
+}

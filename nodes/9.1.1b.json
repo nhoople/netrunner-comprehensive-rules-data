@@ -1,0 +1,38 @@
+{
+  "id": "rule_basic_action_link",
+  "kind": "rule",
+  "number": "9.1.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability",
+  "child_ids": [],
+  "text_markup": "The basic actions are defined in {ref:rule_corp_actions} and {ref:rule_runner_actions}.",
+  "text_plain": "The basic actions are defined in section 5.2.6 and section 5.2.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 33,
+      "end": 46,
+      "ids": [
+        "rule_corp_actions"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 51,
+      "end": 64,
+      "ids": [
+        "rule_runner_actions"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_basic_action_link"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rule_operation_play",
+  "kind": "subsection",
+  "number": "3.5.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_operations",
+  "child_ids": [
+    "rule_operation_condition",
+    "rule_operation_current",
+    "rule_operation_lockdown"
+  ],
+  "text_markup": "Operations are the only Corp cards that are played. Operations are never installed. Playing an operation causes its abilities to become active, and once those abilities are fully resolved the operation is trashed. See {ref:sec_playing_events_and_operations}.",
+  "text_plain": "Operations are the only Corp cards that are played. Operations are never installed. Playing an operation causes its abilities to become active, and once those abilities are fully resolved the operation is trashed. See section 8.6.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 218,
+      "end": 229,
+      "ids": [
+        "sec_playing_events_and_operations"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_operation_play"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "rule_play_area_counters",
+  "kind": "rule",
+  "number": "4.6.5f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_area_organization",
+  "child_ids": [],
+  "text_markup": "{n}Tag counters and bad publicity counters{/n} have no specific location in the play area {n}unless hosted on a card{/n}. Other types of counters are either nonfunctional gameplay aids or appear only in host relationships. See also {ref:sec_counters_and_tokens}.",
+  "text_plain": "Tag counters and bad publicity counters have no specific location in the play area unless hosted on a card. Other types of counters are either nonfunctional gameplay aids or appear only in host relationships. See also section 1.9.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 0,
+      "end": 39
+    },
+    {
+      "type": "new",
+      "start": 83,
+      "end": 106
+    },
+    {
+      "type": "ref",
+      "start": 218,
+      "end": 229,
+      "ids": [
+        "sec_counters_and_tokens"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_counters"
+}

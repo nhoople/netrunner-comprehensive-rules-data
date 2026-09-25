@@ -1,0 +1,19 @@
+{
+  "id": "rule_deck_inactive",
+  "kind": "rule",
+  "number": "4.2.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_deck",
+  "child_ids": [],
+  "text_markup": "Cards in a deck are inactive.",
+  "text_plain": "Cards in a deck are inactive.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_deck_inactive"
+}

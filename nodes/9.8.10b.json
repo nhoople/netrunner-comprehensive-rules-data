@@ -1,0 +1,19 @@
+{
+  "id": "step_subroutine_interrupt_subroutine_resolution",
+  "kind": "rule",
+  "number": "9.8.10b",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_resolving_a_subroutine",
+  "child_ids": [],
+  "text_markup": "An interrupt window occurs, during which abilities can prevent the subroutine from resolving. If this happens, the remaining steps are not carried out.",
+  "text_plain": "An interrupt window occurs, during which abilities can prevent the subroutine from resolving. If this happens, the remaining steps are not carried out.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_subroutine_interrupt_subroutine_resolution"
+}

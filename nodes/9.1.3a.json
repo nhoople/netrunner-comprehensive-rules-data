@@ -1,0 +1,19 @@
+{
+  "id": "rule_source_printed_abilities",
+  "kind": "rule",
+  "number": "9.1.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_source",
+  "child_ids": [],
+  "text_markup": "Each card is the source of its own printed abilities.",
+  "text_plain": "Each card is the source of its own printed abilities.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_source_printed_abilities"
+}

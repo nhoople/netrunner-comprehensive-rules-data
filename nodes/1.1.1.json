@@ -1,0 +1,19 @@
+{
+  "id": "rule_player_definitions",
+  "kind": "rule",
+  "number": "1.1.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_concepts_general",
+  "child_ids": [],
+  "text_markup": "The game is played between two players. One player takes the role of the Corp (Corporation) and the other takes the role of the Runner. This rules document will frequently refer to a player interchangeably with their game role.",
+  "text_plain": "The game is played between two players. One player takes the role of the Corp (Corporation) and the other takes the role of the Runner. This rules document will frequently refer to a player interchangeably with their game role.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_player_definitions"
+}

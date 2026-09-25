@@ -1,0 +1,29 @@
+{
+  "id": "rule_interrupt_window_options",
+  "kind": "rule",
+  "number": "9.2.9d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_interrupt_window",
+  "child_ids": [],
+  "text_markup": "During an interrupt window, the player with priority has the option to trigger an interrupt ability they control that is relevant to the imminent effect. See {ref:sec_relevant_interrupts}.",
+  "text_plain": "During an interrupt window, the player with priority has the option to trigger an interrupt ability they control that is relevant to the imminent effect. See section 9.9.3.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 158,
+      "end": 171,
+      "ids": [
+        "sec_relevant_interrupts"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interrupt_window_options"
+}

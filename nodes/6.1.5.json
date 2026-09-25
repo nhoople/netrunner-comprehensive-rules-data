@@ -1,0 +1,38 @@
+{
+  "id": "rule_jacking_out",
+  "kind": "subsection",
+  "number": "6.1.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_run_general",
+  "child_ids": [
+    "rule_jack_out_after_passing_ice",
+    "rule_jack_out_before_approach"
+  ],
+  "text_markup": "{term:Jacking out} is the process by which a Runner voluntarily ends a run. Jacking out follows the usual process for ending the run as described in {ref:rule_end_the_run}, but some card abilities function differently depending on whether or not the Runner chose to end the run by jacking out.",
+  "text_plain": "Jacking out is the process by which a Runner voluntarily ends a run. Jacking out follows the usual process for ending the run as described in section 6.1.4, but some card abilities function differently depending on whether or not the Runner chose to end the run by jacking out.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 11,
+      "target": "Jacking out"
+    },
+    {
+      "type": "ref",
+      "start": 142,
+      "end": 155,
+      "ids": [
+        "rule_end_the_run"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_jacking_out"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rule_object_turn_faceup_facedown__example_1",
+  "kind": "example",
+  "number": "1.12.5.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_object_turn_faceup_facedown",
+  "child_ids": [],
+  "text_markup": "The Corp uses {card:Vaporframe Fabricator}, installing a piece of ice at no cost, and then plays Divert Power to derez {card:Vaporframe Fabricator} and rez their newly-installed ice at a discount. The Corp can rez {card:Vaporframe Fabricator} again, but since it is still the same object, its \"once per turn\" ability cannot be used again this turn.",
+  "text_plain": "The Corp uses Vaporframe Fabricator, installing a piece of ice at no cost, and then plays Divert Power to derez Vaporframe Fabricator and rez their newly-installed ice at a discount. The Corp can rez Vaporframe Fabricator again, but since it is still the same object, its \"once per turn\" ability cannot be used again this turn.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 14,
+      "end": 35,
+      "target": "Vaporframe Fabricator",
+      "card_code": "26100"
+    },
+    {
+      "type": "card",
+      "start": 112,
+      "end": 133,
+      "target": "Vaporframe Fabricator",
+      "card_code": "26100"
+    },
+    {
+      "type": "card",
+      "start": 200,
+      "end": 221,
+      "target": "Vaporframe Fabricator",
+      "card_code": "26100"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

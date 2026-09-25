@@ -1,0 +1,29 @@
+{
+  "id": "rule_start_tokens",
+  "kind": "rule",
+  "number": "1.6.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_starting_the_game",
+  "child_ids": [],
+  "text_markup": "The players create the bank by gathering all types of tokens described in {ref:sec_counters_and_tokens}.",
+  "text_plain": "The players create the bank by gathering all types of tokens described in section 1.9.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 74,
+      "end": 85,
+      "ids": [
+        "sec_counters_and_tokens"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_start_tokens"
+}

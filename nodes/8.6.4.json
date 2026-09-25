@@ -1,0 +1,38 @@
+{
+  "id": "rule_playing_lingering_effects",
+  "kind": "rule",
+  "number": "8.6.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_playing_events_and_operations",
+  "child_ids": [
+    "rule_playing_lingering_effects__example_1"
+  ],
+  "text_markup": "Operations and events can create lingering effects. Once those effects exist, they become independent of the source operation or event and the card is considered fully resolved and ready to be trashed. See {ref:sec_lingering_effects}.",
+  "text_plain": "Operations and events can create lingering effects. Once those effects exist, they become independent of the source operation or event and the card is considered fully resolved and ready to be trashed. See section 9.10.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 206,
+      "end": 218,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_playing_lingering_effects__example_1",
+      "text_markup": "{card:Test Run} creates a delayed conditional ability that will resolve at the end of the turn, but {card:Test Run} itself is considered fully resolved and is trashed once it finishes installing a program.",
+      "text_plain": "Test Run creates a delayed conditional ability that will resolve at the end of the turn, but Test Run itself is considered fully resolved and is trashed once it finishes installing a program.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_playing_lingering_effects"
+}

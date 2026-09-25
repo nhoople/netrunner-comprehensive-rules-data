@@ -1,0 +1,35 @@
+{
+  "id": "rule_trigger_conditional_ability_interrupt",
+  "kind": "rule",
+  "number": "9.9.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_interrupt_window_for_imminent_instruction",
+  "child_ids": [
+    "rule_trigger_conditional_ability_interrupt__example_1",
+    "rule_trigger_conditional_ability_interrupt__example_2"
+  ],
+  "text_markup": "While a player has priority in an interrupt window, they can trigger a conditional ability interrupt they control only if it is pending in that window and still relevant to the imminent instruction.",
+  "text_plain": "While a player has priority in an interrupt window, they can trigger a conditional ability interrupt they control only if it is pending in that window and still relevant to the imminent instruction.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_trigger_conditional_ability_interrupt__example_1",
+      "text_markup": "An instruction is imminent that would trash an installed copy of {card:Harbinger}. The Runner uses {card:Sacrificial Construct} to prevent {card:Harbinger} from being trashed. The Runner can no longer trigger {card:Harbinger}'s interrupt ability, even though it is still pending, because the expected effects of the instruction no longer include {card:Harbinger} being trashed and therefore the ability is no longer relevant.",
+      "text_plain": "An instruction is imminent that would trash an installed copy of Harbinger. The Runner uses Sacrificial Construct to prevent Harbinger from being trashed. The Runner can no longer trigger Harbinger's interrupt ability, even though it is still pending, because the expected effects of the instruction no longer include Harbinger being trashed and therefore the ability is no longer relevant.",
+      "is_new": false
+    },
+    {
+      "id": "rule_trigger_conditional_ability_interrupt__example_2",
+      "text_markup": "An instruction is imminent that would give the Runner 2 tags. The Runner trashes {card:Decoy} to use its ability to avoid 1 of the tags, which meets the trigger condition for {card:Thunder Art Gallery}'s ability. The latter resolves as a chain reaction (see {ref:rule_chain_reaction}) while the interrupt window is still open, allowing the Runner to install {card:No One Home}, which has a conditional ability interrupt that is relevant since the instruction is still expected to give the Runner 1 tag. However, {card:No One Home} was not active when the interrupt window opened, so its ability is not pending and cannot be triggered.",
+      "text_plain": "An instruction is imminent that would give the Runner 2 tags. The Runner trashes Decoy to use its ability to avoid 1 of the tags, which meets the trigger condition for Thunder Art Gallery's ability. The latter resolves as a chain reaction (see rule 9.1.2a) while the interrupt window is still open, allowing the Runner to install No One Home, which has a conditional ability interrupt that is relevant since the instruction is still expected to give the Runner 1 tag. However, No One Home was not active when the interrupt window opened, so its ability is not pending and cannot be triggered.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trigger_conditional_ability_interrupt"
+}

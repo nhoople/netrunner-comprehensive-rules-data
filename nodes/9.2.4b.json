@@ -1,0 +1,26 @@
+{
+  "id": "rule_pass",
+  "kind": "rule",
+  "number": "9.2.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_priority_window",
+  "child_ids": [],
+  "text_markup": "Except during action windows, the player with priority has the option to {term:pass} in addition to the available options defined by that priority window. When a player passes, the game progresses to the next step, either by giving priority to the other player or by closing the priority window. Each type of priority window defines the method and resolution of passing.",
+  "text_plain": "Except during action windows, the player with priority has the option to pass in addition to the available options defined by that priority window. When a player passes, the game progresses to the next step, either by giving priority to the other player or by closing the priority window. Each type of priority window defines the method and resolution of passing.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 73,
+      "end": 77,
+      "target": "pass"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_pass"
+}

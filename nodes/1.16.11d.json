@@ -1,0 +1,38 @@
+{
+  "id": "rule_nested_cost_otherwise",
+  "kind": "rule",
+  "number": "1.16.11d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_nested_cost",
+  "child_ids": [],
+  "text_markup": "Some abilities use the word \"otherwise\" to indicate that different instructions should be resolved depending on whether a nested cost was paid or not. In an ability with a nested cost of a form described in {ref:rule_nested_cost_may}, treat \"otherwise\" as an \"if [you/they] do not\" clause attached to the same cost. Conversely, in an ability with a nested cost of a form described in {ref:rule_nested_cost_unless}, treat \"otherwise\" as an \"if [you/they] do\" clause attached to the same cost. Note that \"otherwise\" can also appear in the context of other types of conditions, and does not by itself indicate a nested cost.",
+  "text_plain": "Some abilities use the word \"otherwise\" to indicate that different instructions should be resolved depending on whether a nested cost was paid or not. In an ability with a nested cost of a form described in rule 1.16.11a, treat \"otherwise\" as an \"if [you/they] do not\" clause attached to the same cost. Conversely, in an ability with a nested cost of a form described in rule 1.16.11b, treat \"otherwise\" as an \"if [you/they] do\" clause attached to the same cost. Note that \"otherwise\" can also appear in the context of other types of conditions, and does not by itself indicate a nested cost.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 207,
+      "end": 220,
+      "ids": [
+        "rule_nested_cost_may"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 371,
+      "end": 384,
+      "ids": [
+        "rule_nested_cost_unless"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_nested_cost_otherwise"
+}

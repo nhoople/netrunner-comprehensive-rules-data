@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nsg-cr.local/schemas/span.schema.json",
+  "title": "CR text span",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["type", "start", "end"],
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": [
+        "ref",
+        "card",
+        "term",
+        "subtype",
+        "product",
+        "link",
+        "symbol",
+        "new"
+      ]
+    },
+    "start": { "type": "integer", "minimum": 0 },
+    "end": { "type": "integer", "minimum": 0 },
+    "target": { "type": ["string", "null"] },
+    "ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "card_code": { "type": ["string", "null"] },
+    "href": { "type": ["string", "null"] },
+    "combiner": { "type": ["string", "null"] }
+  }
+}

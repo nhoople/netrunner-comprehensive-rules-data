@@ -1,0 +1,19 @@
+{
+  "id": "rule_mid_access_window_one_ability",
+  "kind": "rule",
+  "number": "9.2.10c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_mid_access_window",
+  "child_ids": [],
+  "text_markup": "After the Runner uses a mid-access ability or passes, the mid-access ability window closes and the game moves to the next timing step. The Runner does not receive priority again.",
+  "text_plain": "After the Runner uses a mid-access ability or passes, the mid-access ability window closes and the game moves to the next timing step. The Runner does not receive priority again.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mid_access_window_one_ability"
+}

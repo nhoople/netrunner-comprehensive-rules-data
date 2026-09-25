@@ -1,0 +1,19 @@
+{
+  "id": "rule_type_line_location",
+  "kind": "rule",
+  "number": "2.15.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_type",
+  "child_ids": [],
+  "text_markup": "A card's types appear as a line of text across the center of non-ice cards above the text box. For ice, they run along the left side of the text box, rotated 90° from the rest of the text.",
+  "text_plain": "A card's types appear as a line of text across the center of non-ice cards above the text box. For ice, they run along the left side of the text box, rotated 90° from the rest of the text.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_type_line_location"
+}

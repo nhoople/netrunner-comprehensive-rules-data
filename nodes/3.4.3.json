@@ -1,0 +1,31 @@
+{
+  "id": "rule_ice_rez_cost",
+  "kind": "subsection",
+  "number": "3.4.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_ice",
+  "child_ids": [
+    "rule_ice_rez_window"
+  ],
+  "text_markup": "Ice are among the card types that have rez costs. They are installed unrezzed and remain inactive until the Corp rezzes them by paying their rez costs. See {ref:sec_faceup_facedown_status}.",
+  "text_plain": "Ice are among the card types that have rez costs. They are installed unrezzed and remain inactive until the Corp rezzes them by paying their rez costs. See section 8.1.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 156,
+      "end": 167,
+      "ids": [
+        "sec_faceup_facedown_status"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_rez_cost"
+}

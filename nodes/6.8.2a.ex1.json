@@ -1,0 +1,34 @@
+{
+  "id": "rule_run_ends_close_paws__example_1",
+  "kind": "example",
+  "number": "6.8.2a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_run_ends_close_paws",
+  "child_ids": [],
+  "text_markup": "The Corp spends a counter from a scored {card:Nisei MK II} to end the run. Once this happens, the Runner does not have an opportunity to use their bad publicity credits from this run to pay for using {card:Self-modifying Code}.",
+  "text_plain": "The Corp spends a counter from a scored Nisei MK II to end the run. Once this happens, the Runner does not have an opportunity to use their bad publicity credits from this run to pay for using Self-modifying Code.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 40,
+      "end": 51,
+      "target": "Nisei MK II",
+      "card_code": "31052"
+    },
+    {
+      "type": "card",
+      "start": 193,
+      "end": 212,
+      "target": "Self-modifying Code",
+      "card_code": "26090"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

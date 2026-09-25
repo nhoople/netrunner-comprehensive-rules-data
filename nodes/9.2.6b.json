@@ -1,0 +1,29 @@
+{
+  "id": "rule_action_window_options",
+  "kind": "rule",
+  "number": "9.2.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_action_window",
+  "child_ids": [],
+  "text_markup": "During an action window, the active player must take an action. {ref:Sec_actions} discusses actions. This type of window does not give the option to pass.",
+  "text_plain": "During an action window, the active player must take an action. Section 5.2 discusses actions. This type of window does not give the option to pass.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 64,
+      "end": 75,
+      "ids": [
+        "sec_actions"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_action_window_options"
+}

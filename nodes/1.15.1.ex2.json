@@ -1,0 +1,27 @@
+{
+  "id": "rule_target__example_2",
+  "kind": "example",
+  "number": "1.15.1.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_target",
+  "child_ids": [],
+  "text_markup": "One of the subroutines on {card:Colossus} reads in part, \"Trash 1 installed program and 1 installed resource.\" The targets of this subroutine are the two cards that will be trashed.",
+  "text_plain": "One of the subroutines on Colossus reads in part, \"Trash 1 installed program and 1 installed resource.\" The targets of this subroutine are the two cards that will be trashed.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 26,
+      "end": 34,
+      "target": "Colossus",
+      "card_code": "26124"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

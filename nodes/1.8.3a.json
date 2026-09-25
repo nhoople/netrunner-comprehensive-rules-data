@@ -1,0 +1,19 @@
+{
+  "id": "rule_default_active_card_locations",
+  "kind": "rule",
+  "number": "1.8.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_active_cards",
+  "child_ids": [],
+  "text_markup": "Runner cards that are installed and faceup in the play area, Corp cards that are installed and rezzed, events and operations in the play area, agendas in the Corp's score area, and both players' identities are active.",
+  "text_plain": "Runner cards that are installed and faceup in the play area, Corp cards that are installed and rezzed, events and operations in the play area, agendas in the Corp's score area, and both players' identities are active.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_default_active_card_locations"
+}

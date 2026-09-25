@@ -1,0 +1,29 @@
+{
+  "id": "rule_candidates_entering_archives",
+  "kind": "rule",
+  "number": "7.4.6d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_candidates_entering_server",
+  "child_ids": [],
+  "text_markup": "If a card enters the Corp's discard pile during a breach of Archives, that card becomes a candidate. See also {ref:rule_archives_facedowns_after_breach}.",
+  "text_plain": "If a card enters the Corp's discard pile during a breach of Archives, that card becomes a candidate. See also rule 7.3.2a.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 110,
+      "end": 121,
+      "ids": [
+        "rule_archives_facedowns_after_breach"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_candidates_entering_archives"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_ice_access",
+  "kind": "rule",
+  "number": "3.4.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ice_trash_cost",
+  "child_ids": [],
+  "text_markup": "Unlike assets, upgrades, and agendas, ice are not normally accessed while installed. Encountering a piece of ice does not entail accessing that ice and does not give the Runner an opportunity to pay its trash cost.",
+  "text_plain": "Unlike assets, upgrades, and agendas, ice are not normally accessed while installed. Encountering a piece of ice does not entail accessing that ice and does not give the Runner an opportunity to pay its trash cost.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_access"
+}

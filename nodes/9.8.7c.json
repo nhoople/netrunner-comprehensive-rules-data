@@ -1,0 +1,28 @@
+{
+  "id": "rule_resolve_subroutines_run_ends",
+  "kind": "rule",
+  "number": "9.8.7c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_resolve_unbroken_subroutines",
+  "child_ids": [
+    "rule_resolve_subroutines_run_ends__example_1"
+  ],
+  "text_markup": "If the encounter ends during this process, no more subroutines are resolved.",
+  "text_plain": "If the encounter ends during this process, no more subroutines are resolved.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_resolve_subroutines_run_ends__example_1",
+      "text_markup": "The Runner encounters {card:Little Engine} and does not break any subroutines. {card:Little Engine}'s first subroutine resolves and ends the run. Since the run and therefore the encounter have ended, no more subroutines resolve. The Runner will not gain 5[c].",
+      "text_plain": "The Runner encounters Little Engine and does not break any subroutines. Little Engine's first subroutine resolves and ends the run. Since the run and therefore the encounter have ended, no more subroutines resolve. The Runner will not gain 5{c}.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_resolve_subroutines_run_ends"
+}

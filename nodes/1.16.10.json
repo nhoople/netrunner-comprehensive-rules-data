@@ -1,0 +1,30 @@
+{
+  "id": "rule_additional_cost",
+  "kind": "subsection",
+  "number": "1.16.10",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_costs",
+  "child_ids": [
+    "rule_decline_additional_cost",
+    "rule_additonal_cost_simultaenous",
+    "rule_additional_cost_checkpoint"
+  ],
+  "text_markup": "An {term:additional cost} adds something to the regular cost of initiating a particular game effect. A player must pay all additional costs along with any regular costs in order to initiate an effect.",
+  "text_plain": "An additional cost adds something to the regular cost of initiating a particular game effect. A player must pay all additional costs along with any regular costs in order to initiate an effect.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 18,
+      "target": "additional cost"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_additional_cost"
+}

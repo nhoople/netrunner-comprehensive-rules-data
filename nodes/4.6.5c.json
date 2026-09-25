@@ -1,0 +1,19 @@
+{
+  "id": "rule_play_area_runner_identity",
+  "kind": "rule",
+  "number": "4.6.5c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_area_organization",
+  "child_ids": [],
+  "text_markup": "The Runner's identity, hardware, programs, and resources do not have specific locations in the play area.",
+  "text_plain": "The Runner's identity, hardware, programs, and resources do not have specific locations in the play area.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_runner_identity"
+}

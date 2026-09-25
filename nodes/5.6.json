@@ -1,0 +1,23 @@
+{
+  "id": "sec_steps_corp_turn",
+  "kind": "section",
+  "number": "5.6",
+  "ref_type": "section",
+  "title": "Steps of the Corp's Turn",
+  "parent_id": "chpt_turns",
+  "child_ids": [
+    "subsec_corp_draw_phase",
+    "subsec_corp_action_phase",
+    "subsec_corp_discard_phase"
+  ],
+  "text_markup": "Steps of the Corp's Turn",
+  "text_plain": "Steps of the Corp's Turn",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_steps_corp_turn"
+}

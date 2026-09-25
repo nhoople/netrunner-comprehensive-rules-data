@@ -1,0 +1,48 @@
+{
+  "id": "rule_no_memory__example_1",
+  "kind": "example",
+  "number": "1.12.2.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_no_memory",
+  "child_ids": [],
+  "text_markup": "The Corp uses the first ability on {card:Vaporframe Fabricator}, which specifies that it can only be used once per turn, and trashes {card:Vaporframe Fabricator} during the installation process. Then the Corp plays Restore, reinstalling the same copy of {card:Vaporframe Fabricator} from Archives. Even though it is the same physical card, the reinstalled {card:Vaporframe Fabricator} is a new object, and its \"once per turn\" ability is available to be used this turn.",
+  "text_plain": "The Corp uses the first ability on Vaporframe Fabricator, which specifies that it can only be used once per turn, and trashes Vaporframe Fabricator during the installation process. Then the Corp plays Restore, reinstalling the same copy of Vaporframe Fabricator from Archives. Even though it is the same physical card, the reinstalled Vaporframe Fabricator is a new object, and its \"once per turn\" ability is available to be used this turn.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 35,
+      "end": 56,
+      "target": "Vaporframe Fabricator",
+      "card_code": "26100"
+    },
+    {
+      "type": "card",
+      "start": 126,
+      "end": 147,
+      "target": "Vaporframe Fabricator",
+      "card_code": "26100"
+    },
+    {
+      "type": "card",
+      "start": 240,
+      "end": 261,
+      "target": "Vaporframe Fabricator",
+      "card_code": "26100"
+    },
+    {
+      "type": "card",
+      "start": 335,
+      "end": 356,
+      "target": "Vaporframe Fabricator",
+      "card_code": "26100"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_condition_requirements_part_of_effect",
+  "kind": "rule",
+  "number": "9.6.5d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trigger_description",
+  "child_ids": [
+    "rule_condition_requirements_part_of_effect__example_1"
+  ],
+  "text_markup": "Additional stipulations and requirements listed in the instructions of a conditional ability are checked as part of the ability's effects and are not part of the ability's trigger condition. For the effects under the scope of this kind of condition to resolve, the condition only needs to be met when the relevant instructions resolve. This can occur even if some or all of those conditions were not met at the time the ability met its trigger condition.",
+  "text_plain": "Additional stipulations and requirements listed in the instructions of a conditional ability are checked as part of the ability's effects and are not part of the ability's trigger condition. For the effects under the scope of this kind of condition to resolve, the condition only needs to be met when the relevant instructions resolve. This can occur even if some or all of those conditions were not met at the time the ability met its trigger condition.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_condition_requirements_part_of_effect__example_1",
+      "text_markup": "If a Runner with 1 link has both {card:Underworld Contact} installed and {card:The Supplier} installed hosting a {card:Dyson Mem Chip}, both {card:Underworld Contact} and {card:The Supplier} meet their trigger conditions at the same time. The Runner can trigger {card:The Supplier} first, installing the Dyson Mem Chip, thus allowing {card:Underworld Contact} to recognize that the Runner has 2 link and give them 1 credit, even though the Runner did not have 2 link at the time the {card:Underworld Contact} became pending.",
+      "text_plain": "If a Runner with 1 link has both Underworld Contact installed and The Supplier installed hosting a Dyson Mem Chip, both Underworld Contact and The Supplier meet their trigger conditions at the same time. The Runner can trigger The Supplier first, installing the Dyson Mem Chip, thus allowing Underworld Contact to recognize that the Runner has 2 link and give them 1 credit, even though the Runner did not have 2 link at the time the Underworld Contact became pending.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_condition_requirements_part_of_effect"
+}

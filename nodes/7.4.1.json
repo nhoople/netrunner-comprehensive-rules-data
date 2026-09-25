@@ -1,0 +1,24 @@
+{
+  "id": "rule_candidates_beginning_breach",
+  "kind": "subsection",
+  "number": "7.4.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_determining_candidates",
+  "child_ids": [
+    "rule_candidates_in_server_root",
+    "rule_candidates_in_hq",
+    "rule_candidates_in_rnd",
+    "rule_candidates_in_archives"
+  ],
+  "text_markup": "The candidates at the beginning of a breach are as follows:",
+  "text_plain": "The candidates at the beginning of a breach are as follows:",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_candidates_beginning_breach"
+}

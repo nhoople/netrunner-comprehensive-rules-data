@@ -1,0 +1,54 @@
+{
+  "id": "rule_rnd_topmost_eligibile_candidate__example_2",
+  "kind": "example",
+  "number": "7.4.7a.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_rnd_topmost_eligibile_candidate",
+  "child_ids": [],
+  "text_markup": "The Corp is playing {card:Seidr Laboratories} and has {card:Strongbox} rezzed in the root of R&D. The Runner breaches R&D with a random access limit of 4. They first access the top card of the Corp's deck and leave it in place. The 2nd card from the top now becomes a candidate, and turns out to be an agenda, which the Runner steals by spending [click] to pay the additional cost imposed by {card:Strongbox}. The Corp then uses {card:Seidr Laboratories} to add 1 card from Archives to the top of R&D. The 3rd candidate presented to the Runner is the card newly added to the top of R&D. After accessing that card, the next card down is still the object that was accessed first, so the card below that (currently 3rd from the top) becomes the 4th and final candidate.",
+  "text_plain": "The Corp is playing Seidr Laboratories and has Strongbox rezzed in the root of R&D. The Runner breaches R&D with a random access limit of 4. They first access the top card of the Corp's deck and leave it in place. The 2nd card from the top now becomes a candidate, and turns out to be an agenda, which the Runner steals by spending {click} to pay the additional cost imposed by Strongbox. The Corp then uses Seidr Laboratories to add 1 card from Archives to the top of R&D. The 3rd candidate presented to the Runner is the card newly added to the top of R&D. After accessing that card, the next card down is still the object that was accessed first, so the card below that (currently 3rd from the top) becomes the 4th and final candidate.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 38,
+      "target": "Seidr Laboratories",
+      "card_code": "13028"
+    },
+    {
+      "type": "card",
+      "start": 47,
+      "end": 56,
+      "target": "Strongbox",
+      "card_code": "20076"
+    },
+    {
+      "type": "symbol",
+      "start": 332,
+      "end": 339,
+      "target": "click"
+    },
+    {
+      "type": "card",
+      "start": 378,
+      "end": 387,
+      "target": "Strongbox",
+      "card_code": "20076"
+    },
+    {
+      "type": "card",
+      "start": 408,
+      "end": 426,
+      "target": "Seidr Laboratories",
+      "card_code": "13028"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

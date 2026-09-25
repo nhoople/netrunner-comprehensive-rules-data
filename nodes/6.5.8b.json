@@ -1,0 +1,30 @@
+{
+  "id": "rule_bypass_start_of_encounter",
+  "kind": "rule",
+  "number": "6.5.8b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_bypass",
+  "child_ids": [],
+  "text_markup": "Most bypass effects occur at the beginning of an encounter and result in {ref:step_encounter_paw,step_resolve_subroutine} never occurring, meaning that subroutines on the encountered ice are neither broken nor resolved.",
+  "text_plain": "Most bypass effects occur at the beginning of an encounter and result in steps 6.9.3b and 6.9.3c never occurring, meaning that subroutines on the encountered ice are neither broken nor resolved.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 73,
+      "end": 96,
+      "ids": [
+        "step_encounter_paw",
+        "step_resolve_subroutine"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bypass_start_of_encounter"
+}

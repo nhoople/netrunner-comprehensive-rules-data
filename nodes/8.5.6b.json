@@ -1,0 +1,19 @@
+{
+  "id": "rule_install_trash_ice",
+  "kind": "rule",
+  "number": "8.5.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_install_trash_like_cards",
+  "child_ids": [],
+  "text_markup": "When installing ice protecting a server, the Corp may first trash any number of other ice already installed protecting that server. Ice trashed in this way will not be counted when determining the install cost of the new ice.",
+  "text_plain": "When installing ice protecting a server, the Corp may first trash any number of other ice already installed protecting that server. Ice trashed in this way will not be counted when determining the install cost of the new ice.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_trash_ice"
+}

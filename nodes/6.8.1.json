@@ -1,0 +1,26 @@
+{
+  "id": "rule_run_ends_phase",
+  "kind": "rule",
+  "number": "6.8.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_run_ends_phase",
+  "child_ids": [],
+  "text_markup": "The {term:run ends phase} formalizes the end of the run and prepares the game to return to the timing structure from which the run was initiated.",
+  "text_plain": "The run ends phase formalizes the end of the run and prepares the game to return to the timing structure from which the run was initiated.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 18,
+      "target": "run ends phase"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_run_ends_phase"
+}

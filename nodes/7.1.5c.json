@@ -1,0 +1,27 @@
+{
+  "id": "rule_access_installed_must_trash_if_able",
+  "kind": "rule",
+  "number": "7.1.5c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_basic_trash_ability",
+  "child_ids": [],
+  "text_markup": "One card, {card:Mumbad Virtual Tour}, has the ability \"If the Runner accesses this upgrade while it is installed, they must trash it, if able.\" When this ability applies, the Runner can use any mid-access ability they have available that trashes the card, but they cannot decline to use a mid-access ability or use one that would not trash the accessed card unless they are unable to pay the cost of any ability that would trash it.",
+  "text_plain": "One card, Mumbad Virtual Tour, has the ability \"If the Runner accesses this upgrade while it is installed, they must trash it, if able.\" When this ability applies, the Runner can use any mid-access ability they have available that trashes the card, but they cannot decline to use a mid-access ability or use one that would not trash the accessed card unless they are unable to pay the cost of any ability that would trash it.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 29,
+      "target": "Mumbad Virtual Tour",
+      "card_code": "10076"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_access_installed_must_trash_if_able"
+}

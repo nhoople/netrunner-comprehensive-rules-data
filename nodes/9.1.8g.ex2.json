@@ -1,0 +1,69 @@
+{
+  "id": "rule_active_exception_conditional_move_to_inactive_zone__example_2",
+  "kind": "example",
+  "number": "9.1.8g.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_active_exception_conditional_move_to_inactive_zone",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:Test Run} to install {card:Nanuq}. When their turn ends, {card:Test Run}'s delayed conditional ability adds {card:Nanuq} to the top of the Runner's stack. This meets the trigger condition of {card:Nanuq}'s first ability, which remains active until it resolves even though {card:Nanuq} itself is inactive in the stack. The ability will move {card:Nanuq} from the top of the stack to the removed-from-game zone.",
+  "text_plain": "The Runner plays Test Run to install Nanuq. When their turn ends, Test Run's delayed conditional ability adds Nanuq to the top of the Runner's stack. This meets the trigger condition of Nanuq's first ability, which remains active until it resolves even though Nanuq itself is inactive in the stack. The ability will move Nanuq from the top of the stack to the removed-from-game zone.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 25,
+      "target": "Test Run",
+      "card_code": "31028"
+    },
+    {
+      "type": "card",
+      "start": 37,
+      "end": 42,
+      "target": "Nanuq",
+      "card_code": "33088"
+    },
+    {
+      "type": "card",
+      "start": 66,
+      "end": 74,
+      "target": "Test Run",
+      "card_code": "31028"
+    },
+    {
+      "type": "card",
+      "start": 110,
+      "end": 115,
+      "target": "Nanuq",
+      "card_code": "33088"
+    },
+    {
+      "type": "card",
+      "start": 186,
+      "end": 191,
+      "target": "Nanuq",
+      "card_code": "33088"
+    },
+    {
+      "type": "card",
+      "start": 260,
+      "end": 265,
+      "target": "Nanuq",
+      "card_code": "33088"
+    },
+    {
+      "type": "card",
+      "start": 321,
+      "end": 326,
+      "target": "Nanuq",
+      "card_code": "33088"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

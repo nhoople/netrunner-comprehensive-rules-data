@@ -1,0 +1,41 @@
+{
+  "id": "rule_shuffle_deck_after_search__example_1",
+  "kind": "example",
+  "number": "8.7.3.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_shuffle_deck_after_search",
+  "child_ids": [],
+  "text_markup": "The Corp is playing {card:Near-Earth Hub} and uses the ability on {card:Tech Startup} to search their deck for an asset and install it. After finding the asset, R&D must be immediately shuffled before the Corp installs the asset or triggers {card:Near-Earth Hub}'s ability.",
+  "text_plain": "The Corp is playing Near-Earth Hub and uses the ability on Tech Startup to search their deck for an asset and install it. After finding the asset, R&D must be immediately shuffled before the Corp installs the asset or triggers Near-Earth Hub's ability.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 34,
+      "target": "Near-Earth Hub",
+      "card_code": "31060"
+    },
+    {
+      "type": "card",
+      "start": 59,
+      "end": 71,
+      "target": "Tech Startup",
+      "card_code": "08020"
+    },
+    {
+      "type": "card",
+      "start": 227,
+      "end": 241,
+      "target": "Near-Earth Hub",
+      "card_code": "31060"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

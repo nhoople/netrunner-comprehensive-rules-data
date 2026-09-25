@@ -1,0 +1,83 @@
+{
+  "id": "rule_forced_mid_access_ability_optional__example_1",
+  "kind": "example",
+  "number": "9.5.3a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_forced_mid_access_ability_optional",
+  "child_ids": [],
+  "text_markup": "The Corp resolves the subroutine on {card:Wendigo}, prohibiting the Runner from using their installed {card:Imp} for the remainder of the run. Later, the Runner accesses an installed {card:Mumbad Virtual Tour}. Even though {card:Mumbad Virtual Tour} forces the Runner to trash it if able, {card:Imp}'s ability is still optional for purposes of {card:Wendigo}'s prohibition. Since {card:Imp}'s ability cannot be used at all this run, {card:Mumbad Virtual Tour} cannot compel the Runner to spend one of its hosted virus counters. If the Runner can pay the cost of another mid-access ability, such as the basic trash ability, the Runner must use that ability. If not, the Runner will not be able to trash {card:Mumbad Virtual Tour} at all.",
+  "text_plain": "The Corp resolves the subroutine on Wendigo, prohibiting the Runner from using their installed Imp for the remainder of the run. Later, the Runner accesses an installed Mumbad Virtual Tour. Even though Mumbad Virtual Tour forces the Runner to trash it if able, Imp's ability is still optional for purposes of Wendigo's prohibition. Since Imp's ability cannot be used at all this run, Mumbad Virtual Tour cannot compel the Runner to spend one of its hosted virus counters. If the Runner can pay the cost of another mid-access ability, such as the basic trash ability, the Runner must use that ability. If not, the Runner will not be able to trash Mumbad Virtual Tour at all.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 36,
+      "end": 43,
+      "target": "Wendigo",
+      "card_code": "06047"
+    },
+    {
+      "type": "card",
+      "start": 95,
+      "end": 98,
+      "target": "Imp",
+      "card_code": "31007"
+    },
+    {
+      "type": "card",
+      "start": 169,
+      "end": 188,
+      "target": "Mumbad Virtual Tour",
+      "card_code": "10076"
+    },
+    {
+      "type": "card",
+      "start": 202,
+      "end": 221,
+      "target": "Mumbad Virtual Tour",
+      "card_code": "10076"
+    },
+    {
+      "type": "card",
+      "start": 261,
+      "end": 264,
+      "target": "Imp",
+      "card_code": "31007"
+    },
+    {
+      "type": "card",
+      "start": 309,
+      "end": 316,
+      "target": "Wendigo",
+      "card_code": "06047"
+    },
+    {
+      "type": "card",
+      "start": 338,
+      "end": 341,
+      "target": "Imp",
+      "card_code": "31007"
+    },
+    {
+      "type": "card",
+      "start": 384,
+      "end": 403,
+      "target": "Mumbad Virtual Tour",
+      "card_code": "10076"
+    },
+    {
+      "type": "card",
+      "start": 646,
+      "end": 665,
+      "target": "Mumbad Virtual Tour",
+      "card_code": "10076"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

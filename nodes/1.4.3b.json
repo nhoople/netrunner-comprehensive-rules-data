@@ -1,0 +1,19 @@
+{
+  "id": "rule_maximum_deck_size",
+  "kind": "rule",
+  "number": "1.4.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_minimum_deck_size",
+  "child_ids": [],
+  "text_markup": "There is no maximum deck size.",
+  "text_plain": "There is no maximum deck size.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_maximum_deck_size"
+}

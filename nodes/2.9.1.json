@@ -1,0 +1,26 @@
+{
+  "id": "rule_base_link_location",
+  "kind": "rule",
+  "number": "2.9.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_base_link",
+  "child_ids": [],
+  "text_markup": "Base link is a number appearing near the top-left of Runner identity cards, next to the [link] symbol.",
+  "text_plain": "Base link is a number appearing near the top-left of Runner identity cards, next to the {link} symbol.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 88,
+      "end": 94,
+      "target": "link"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_base_link_location"
+}

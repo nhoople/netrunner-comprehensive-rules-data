@@ -1,0 +1,25 @@
+{
+  "id": "sec_mark",
+  "kind": "section",
+  "number": "10.11",
+  "ref_type": "section",
+  "title": "Mark",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_mark",
+    "rule_mark_identification",
+    "rule_mark_already_identified",
+    "rule_mark_designation_lingering_effect",
+    "rule_mark_designated_condition_check"
+  ],
+  "text_markup": "Mark",
+  "text_plain": "Mark",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "A savvy Runner is always ready to take advantage of an unexpected windfall or moment of vulnerability: an unguarded shipment, sudden tip-off from a trusted friend, an inattentive guard or merely an unsecured PAD. Many Runners refer to these opportunities as \"marks\", and pursue them for access and profit.",
+  "snippet_plain": "A savvy Runner is always ready to take advantage of an unexpected windfall or moment of vulnerability: an unguarded shipment, sudden tip-off from a trusted friend, an inattentive guard or merely an unsecured PAD. Many Runners refer to these opportunities as \"marks\", and pursue them for access and profit.",
+  "url": "https://rules.nullsignal.games/?r=sec_mark"
+}

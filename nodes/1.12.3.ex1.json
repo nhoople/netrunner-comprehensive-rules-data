@@ -1,0 +1,48 @@
+{
+  "id": "rule_object_move_location__example_1",
+  "kind": "example",
+  "number": "1.12.3.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_object_move_location",
+  "child_ids": [],
+  "text_markup": "The Corp scores {card:Accelerated Beta Test}, looks at the top 3 cards of R&D, and installs and rezzes a piece of ice from among them. As a chain reaction, the Corp then uses {card:The Foundry: Refining the Process} to search R&D, with the result that the other cards currently being looked at by {card:Accelerated Beta Test} are shuffled along with the rest of R&D. Since the cards were moved to an unknown location in R&D, {card:Accelerated Beta Test} can no longer act on them, so those cards can no longer be looked at and will not be installed or trashed.",
+  "text_plain": "The Corp scores Accelerated Beta Test, looks at the top 3 cards of R&D, and installs and rezzes a piece of ice from among them. As a chain reaction, the Corp then uses The Foundry: Refining the Process to search R&D, with the result that the other cards currently being looked at by Accelerated Beta Test are shuffled along with the rest of R&D. Since the cards were moved to an unknown location in R&D, Accelerated Beta Test can no longer act on them, so those cards can no longer be looked at and will not be installed or trashed.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 37,
+      "target": "Accelerated Beta Test",
+      "card_code": "01055"
+    },
+    {
+      "type": "card",
+      "start": 168,
+      "end": 201,
+      "target": "The Foundry: Refining the Process",
+      "card_code": "06021"
+    },
+    {
+      "type": "card",
+      "start": 283,
+      "end": 304,
+      "target": "Accelerated Beta Test",
+      "card_code": "01055"
+    },
+    {
+      "type": "card",
+      "start": 404,
+      "end": 425,
+      "target": "Accelerated Beta Test",
+      "card_code": "01055"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

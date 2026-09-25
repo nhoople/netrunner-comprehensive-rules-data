@@ -1,0 +1,19 @@
+{
+  "id": "rule_discard_phase_definition",
+  "kind": "rule",
+  "number": "5.5.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_discard_phase",
+  "child_ids": [],
+  "text_markup": "The discard phase is the last phase of each player's turn. It contains the discard step and the formal end of that player's turn.",
+  "text_plain": "The discard phase is the last phase of each player's turn. It contains the discard step and the formal end of that player's turn.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_discard_phase_definition"
+}

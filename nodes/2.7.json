@@ -1,0 +1,23 @@
+{
+  "id": "sec_strength",
+  "kind": "section",
+  "number": "2.7",
+  "ref_type": "section",
+  "title": "Strength",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_strength_location",
+    "rule_strength_dash",
+    "rule_strength_citation"
+  ],
+  "text_markup": "Strength",
+  "text_plain": "Strength",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_strength"
+}

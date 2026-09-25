@@ -1,0 +1,26 @@
+{
+  "id": "rule_hidden_information",
+  "kind": "rule",
+  "number": "10.2.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_hidden_information",
+  "child_ids": [],
+  "text_markup": "{term:hidden information} is any information about the game, game state, or cards unavailable to one or more players. This includes facedown cards in play or in Archives, cards in HQ or R&D, cards in the Runner's grip or stack, etc.",
+  "text_plain": "hidden information is any information about the game, game state, or cards unavailable to one or more players. This includes facedown cards in play or in Archives, cards in HQ or R&D, cards in the Runner's grip or stack, etc.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 18,
+      "target": "hidden information"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hidden_information"
+}

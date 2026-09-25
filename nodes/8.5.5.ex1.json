@@ -1,0 +1,41 @@
+{
+  "id": "rule_install_one_at_a_time__example_1",
+  "kind": "example",
+  "number": "8.5.5.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_install_one_at_a_time",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Mass Install} to install three programs. The Runner can install {card:Dhegdheer} first, and then host one of the other two programs on {card:Dhegdheer} in order to reduce the install cost.",
+  "text_plain": "The Runner uses Mass Install to install three programs. The Runner can install Dhegdheer first, and then host one of the other two programs on Dhegdheer in order to reduce the install cost.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 28,
+      "target": "Mass Install",
+      "card_code": "05051"
+    },
+    {
+      "type": "card",
+      "start": 79,
+      "end": 88,
+      "target": "Dhegdheer",
+      "card_code": "13020"
+    },
+    {
+      "type": "card",
+      "start": 143,
+      "end": 152,
+      "target": "Dhegdheer",
+      "card_code": "13020"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

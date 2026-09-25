@@ -1,0 +1,29 @@
+{
+  "id": "sec_play_area",
+  "kind": "section",
+  "number": "4.6",
+  "ref_type": "section",
+  "title": "Play Area",
+  "parent_id": "chpt_game_zones",
+  "child_ids": [
+    "rule_play_area",
+    "rule_play_area_number_location_open_info",
+    "rule_play_area_card_open_info",
+    "rule_play_area_active_inactive",
+    "rule_play_area_organization",
+    "subsec_servers",
+    "subsec_central_servers",
+    "subsec_remote_servers",
+    "subsec_protecting_a_server"
+  ],
+  "text_markup": "Play Area",
+  "text_plain": "Play Area",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_play_area"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_cards_never_in_bank",
+  "kind": "rule",
+  "number": "4.7.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_bank",
+  "child_ids": [],
+  "text_markup": "Cards are never located in the bank.",
+  "text_plain": "Cards are never located in the bank.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cards_never_in_bank"
+}

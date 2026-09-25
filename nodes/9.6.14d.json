@@ -1,0 +1,38 @@
+{
+  "id": "rule_instructed_to_resolve_conditional_ability",
+  "kind": "rule",
+  "number": "9.6.14d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_references_to_trigger_conditions",
+  "child_ids": [
+    "rule_instructed_to_resolve_conditional_ability__example_1"
+  ],
+  "text_markup": "If an effect attempts to resolve a conditional ability according to one of the classes identified in {ref:rule_references_to_trigger_conditions}, the ability is marked pending as though the stipulation of that class had occurred. Any additional requirements of the trigger condition in question must still be met by the game state.",
+  "text_plain": "If an effect attempts to resolve a conditional ability according to one of the classes identified in section 9.6.14, the ability is marked pending as though the stipulation of that class had occurred. Any additional requirements of the trigger condition in question must still be met by the game state.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 101,
+      "end": 115,
+      "ids": [
+        "rule_references_to_trigger_conditions"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_instructed_to_resolve_conditional_ability__example_1",
+      "text_markup": "The Corp has scored {card:AstroScript Pilot Program} and {card:Market Research}. They forfeit one of those agendas to play {card:24/7 News Cycle} and resolve the \"when scored\" ability of the other agenda, even though neither agenda was actually scored at this time. The Corp can forfeit {card:Market Research} to resolve {card:AstroScript Pilot Program}'s ability and put an agenda counter on it, with no other stipulations. If the Runner is tagged, the Corp could instead forfeit {card:AstroScript Pilot Program} to put an agenda counter on {card:Market Research}. However, if the Runner is not tagged, the additional requirement of {card:Market Research}'s trigger condition will not be met, so its \"when scored\" ability cannot become pending or resolve.",
+      "text_plain": "The Corp has scored AstroScript Pilot Program and Market Research. They forfeit one of those agendas to play 24/7 News Cycle and resolve the \"when scored\" ability of the other agenda, even though neither agenda was actually scored at this time. The Corp can forfeit Market Research to resolve AstroScript Pilot Program's ability and put an agenda counter on it, with no other stipulations. If the Runner is tagged, the Corp could instead forfeit AstroScript Pilot Program to put an agenda counter on Market Research. However, if the Runner is not tagged, the additional requirement of Market Research's trigger condition will not be met, so its \"when scored\" ability cannot become pending or resolve.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_instructed_to_resolve_conditional_ability"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_resolve_subroutines_in_order",
+  "kind": "rule",
+  "number": "9.8.7b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_resolve_unbroken_subroutines",
+  "child_ids": [],
+  "text_markup": "The Corp resolves the unbroken subroutines 1 at a time in order. The order of subroutines is discussed in {ref:rule_subroutines_ordered}.",
+  "text_plain": "The Corp resolves the unbroken subroutines 1 at a time in order. The order of subroutines is discussed in section 9.8.2.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 106,
+      "end": 119,
+      "ids": [
+        "rule_subroutines_ordered"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_resolve_subroutines_in_order"
+}

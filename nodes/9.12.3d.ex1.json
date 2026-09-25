@@ -1,0 +1,34 @@
+{
+  "id": "rule_mandatory_choice_effects_can_be_modified__example_1",
+  "kind": "example",
+  "number": "9.12.3d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_mandatory_choice_effects_can_be_modified",
+  "child_ids": [],
+  "text_markup": "If the Runner encounters {card:Data Raven}, they must choose to either take a tag or end the run. The Runner can choose to take the tag, then avoid the tag with {card:Decoy}. This does not cause the run to end, as the decision to take the tag has already been made.",
+  "text_plain": "If the Runner encounters Data Raven, they must choose to either take a tag or end the run. The Runner can choose to take the tag, then avoid the tag with Decoy. This does not cause the run to end, as the decision to take the tag has already been made.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 25,
+      "end": 35,
+      "target": "Data Raven",
+      "card_code": "20113"
+    },
+    {
+      "type": "card",
+      "start": 154,
+      "end": 159,
+      "target": "Decoy",
+      "card_code": "01032"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_mandatory_infinite_loop",
+  "kind": "rule",
+  "number": "10.1.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_infinite_loops",
+  "child_ids": [
+    "rule_mandatory_infinite_loop__example_1"
+  ],
+  "text_markup": "If a mandatory infinite loop is created (a player cannot choose to stop resolving the loop) then the player who is resolving the loop chooses a number. The loop instantaneously resolves that many times, and then ends.",
+  "text_plain": "If a mandatory infinite loop is created (a player cannot choose to stop resolving the loop) then the player who is resolving the loop chooses a number. The loop instantaneously resolves that many times, and then ends.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_mandatory_infinite_loop__example_1",
+      "text_markup": "The Runner runs into a rezzed {card:Wormhole}. The only other piece of ice that is rezzed is a {card:Wormhole}, and so a mandatory infinite loop is created where each of the {card:Wormhole}s' subroutines resolves the other. The Corp chooses how many times this loop occurs, say 2,157 times, and then the Runner continues the run.",
+      "text_plain": "The Runner runs into a rezzed Wormhole. The only other piece of ice that is rezzed is a Wormhole, and so a mandatory infinite loop is created where each of the Wormholes' subroutines resolves the other. The Corp chooses how many times this loop occurs, say 2,157 times, and then the Runner continues the run.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mandatory_infinite_loop"
+}

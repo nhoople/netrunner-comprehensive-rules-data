@@ -1,0 +1,34 @@
+{
+  "id": "rule_arrange_rearrange",
+  "kind": "subsection",
+  "number": "8.3.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_arranging_rearranging",
+  "child_ids": [
+    "rule_arrange_1_or_fewer"
+  ],
+  "text_markup": "To {term:arrange} or {term:rearrange} an ordered set of 2 or more cards is to reposition them among their current locations. The words \"arrange\" and \"rearrange\" are synonymous.",
+  "text_plain": "To arrange or rearrange an ordered set of 2 or more cards is to reposition them among their current locations. The words \"arrange\" and \"rearrange\" are synonymous.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 10,
+      "target": "arrange"
+    },
+    {
+      "type": "term",
+      "start": 14,
+      "end": 23,
+      "target": "rearrange"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_arrange_rearrange"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_mid_access_ability",
+  "kind": "rule",
+  "number": "9.5.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_trigger_paid_abilities",
+  "child_ids": [],
+  "text_markup": "If the \"access\" flag appears before a paid ability's trigger cost, that ability is a mid-access ability. The Runner can use up to 1 mid-access ability during the mid-access ability window at {ref:step_mid_access_ability} of accessing a card.",
+  "text_plain": "If the \"access\" flag appears before a paid ability's trigger cost, that ability is a mid-access ability. The Runner can use up to 1 mid-access ability during the mid-access ability window at step 7.2.2 of accessing a card.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 191,
+      "end": 201,
+      "ids": [
+        "step_mid_access_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mid_access_ability"
+}

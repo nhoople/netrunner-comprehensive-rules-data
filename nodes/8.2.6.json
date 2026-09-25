@@ -1,0 +1,35 @@
+{
+  "id": "movement_install",
+  "kind": "rule",
+  "number": "8.2.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_movements",
+  "child_ids": [],
+  "text_markup": "To {term:install} a card is to move it from its current zone to the play area. The full rules for installing cards are detailed in {ref:sec_install_uninstall}.",
+  "text_plain": "To install a card is to move it from its current zone to the play area. The full rules for installing cards are detailed in section 8.5.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 10,
+      "target": "install"
+    },
+    {
+      "type": "ref",
+      "start": 124,
+      "end": 135,
+      "ids": [
+        "sec_install_uninstall"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=movement_install"
+}

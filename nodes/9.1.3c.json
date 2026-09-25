@@ -1,0 +1,29 @@
+{
+  "id": "rule_source_lingering_effect",
+  "kind": "rule",
+  "number": "9.1.3c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_source",
+  "child_ids": [],
+  "text_markup": "The source of an ability that is being maintained by a lingering effect is the object that created that lingering effect. See {ref:sec_lingering_effects}.",
+  "text_plain": "The source of an ability that is being maintained by a lingering effect is the object that created that lingering effect. See section 9.10.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 126,
+      "end": 138,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_source_lingering_effect"
+}

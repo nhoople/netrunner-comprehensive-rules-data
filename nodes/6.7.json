@@ -1,0 +1,25 @@
+{
+  "id": "sec_success_phase",
+  "kind": "section",
+  "number": "6.7",
+  "ref_type": "section",
+  "title": "Success",
+  "parent_id": "chpt_runs",
+  "child_ids": [
+    "rule_success_phase",
+    "rule_successful_run",
+    "rule_declaring_successful_run",
+    "rule_if_successful",
+    "rule_breach_link"
+  ],
+  "text_markup": "Success",
+  "text_plain": "Success",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_success_phase"
+}

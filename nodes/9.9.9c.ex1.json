@@ -1,0 +1,41 @@
+{
+  "id": "rule_replacement_effect_only_applies_once_per_effect__example_1",
+  "kind": "example",
+  "number": "9.9.9c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_replacement_effect_only_applies_once_per_effect",
+  "child_ids": [],
+  "text_markup": "The Runner accesses {card:Project Vacheron} and its interrupt ability resolves. The interrupt creates a replacement effect that will override adding the agenda to the Runner's score area. The Runner will still steal {card:Project Vacheron}, but they will do so by adding it to their score area with hosted agenda counters. Even though the modified effect still includes adding {card:Project Vacheron} to the Runner's score area, there is no way for the replacement effect to apply again to its own results.",
+  "text_plain": "The Runner accesses Project Vacheron and its interrupt ability resolves. The interrupt creates a replacement effect that will override adding the agenda to the Runner's score area. The Runner will still steal Project Vacheron, but they will do so by adding it to their score area with hosted agenda counters. Even though the modified effect still includes adding Project Vacheron to the Runner's score area, there is no way for the replacement effect to apply again to its own results.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 36,
+      "target": "Project Vacheron",
+      "card_code": "26097"
+    },
+    {
+      "type": "card",
+      "start": 209,
+      "end": 225,
+      "target": "Project Vacheron",
+      "card_code": "26097"
+    },
+    {
+      "type": "card",
+      "start": 363,
+      "end": 379,
+      "target": "Project Vacheron",
+      "card_code": "26097"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

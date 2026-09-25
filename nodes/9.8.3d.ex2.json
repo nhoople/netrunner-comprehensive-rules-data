@@ -1,0 +1,41 @@
+{
+  "id": "rule_subroutine_origin_static_after__example_2",
+  "kind": "example",
+  "number": "9.8.3d.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_subroutine_origin_static_after",
+  "child_ids": [],
+  "text_markup": "The Corp has 3 cards in HQ while the Runner is encountering {card:Ashigaru}. The Runner breaks the first subroutine, then uses {card:Utopia Shard} to force the Corp to discard 2 cards. {card:Ashigaru} correspondingly loses its last 2 subroutines, leaving behind the subroutine that was already broken.",
+  "text_plain": "The Corp has 3 cards in HQ while the Runner is encountering Ashigaru. The Runner breaks the first subroutine, then uses Utopia Shard to force the Corp to discard 2 cards. Ashigaru correspondingly loses its last 2 subroutines, leaving behind the subroutine that was already broken.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 60,
+      "end": 68,
+      "target": "Ashigaru",
+      "card_code": "06064"
+    },
+    {
+      "type": "card",
+      "start": 120,
+      "end": 132,
+      "target": "Utopia Shard",
+      "card_code": "06100"
+    },
+    {
+      "type": "card",
+      "start": 171,
+      "end": 179,
+      "target": "Ashigaru",
+      "card_code": "06064"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

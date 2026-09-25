@@ -1,0 +1,25 @@
+{
+  "id": "sec_upgrades",
+  "kind": "section",
+  "number": "3.6",
+  "ref_type": "section",
+  "title": "Upgrades",
+  "parent_id": "chpt_card_types",
+  "child_ids": [
+    "rule_upgrade_install",
+    "rule_upgrade_no_limit",
+    "rule_upgrade_rez_cost",
+    "rule_upgrade_trash_cost",
+    "subsec_regions"
+  ],
+  "text_markup": "Upgrades",
+  "text_plain": "Upgrades",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_upgrades"
+}

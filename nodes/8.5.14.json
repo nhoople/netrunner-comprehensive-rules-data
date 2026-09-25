@@ -1,0 +1,28 @@
+{
+  "id": "rule_install_to_invalid_destination",
+  "kind": "rule",
+  "number": "8.5.14",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [
+    "rule_install_to_invalid_destination__example_1"
+  ],
+  "text_markup": "Some abilities install cards to a specific location. If an ability specifies a destination that is invalid or cannot be identified, no installation can take place.",
+  "text_plain": "Some abilities install cards to a specific location. If an ability specifies a destination that is invalid or cannot be identified, no installation can take place.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_install_to_invalid_destination__example_1",
+      "text_markup": "The Corp uses {card:Nanisivik Grid} to resolve the first subroutine on a copy of {card:Brân 1.0} in Archives. This subroutine attempts to install ice \"directly inward\" from {card:Brân 1.0}, but this copy of {card:Brân 1.0} is not protecting a server and therefore does not have a position from which \"directly inward\" can be evaluated. There is no legal way to install a card as directed, so the subroutine will have no effect.",
+      "text_plain": "The Corp uses Nanisivik Grid to resolve the first subroutine on a copy of Brân 1.0 in Archives. This subroutine attempts to install ice \"directly inward\" from Brân 1.0, but this copy of Brân 1.0 is not protecting a server and therefore does not have a position from which \"directly inward\" can be evaluated. There is no legal way to install a card as directed, so the subroutine will have no effect.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_to_invalid_destination"
+}

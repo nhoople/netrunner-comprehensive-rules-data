@@ -1,0 +1,80 @@
+{
+  "id": "rule_condition_only_met_while_active__example_2",
+  "kind": "example",
+  "number": "9.6.5b.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_condition_only_met_while_active",
+  "child_ids": [],
+  "text_markup": "The Corp uses {card:Architect Deployment Test} to install and rez a copy of {card:Tranquility Home Grid}, which is the first card installed this turn. After completing the installation from this effect, the Corp pays the rez cost of {card:Tranquility Home Grid}. Since {card:Architect Deployment Test} specified that all costs are ignored, the rez cost is reduced to 0 (see {ref:rule_ignore_all_costs}), but this step still happens and is still followed by a checkpoint (see {ref:rule_cost_checkpoint_cost_zero}). This is the checkpoint that processes that a card was installed, but {card:Tranquility Home Grid} is not yet active and an instance of its ability cannot be created. After the checkpoint and any corresponding reaction window, the Corp finishes rezzing {card:Tranquility Home Grid} and it becomes active.",
+  "text_plain": "The Corp uses Architect Deployment Test to install and rez a copy of Tranquility Home Grid, which is the first card installed this turn. After completing the installation from this effect, the Corp pays the rez cost of Tranquility Home Grid. Since Architect Deployment Test specified that all costs are ignored, the rez cost is reduced to 0 (see rule 1.16.5c), but this step still happens and is still followed by a checkpoint (see rule 1.16.3a). This is the checkpoint that processes that a card was installed, but Tranquility Home Grid is not yet active and an instance of its ability cannot be created. After the checkpoint and any corresponding reaction window, the Corp finishes rezzing Tranquility Home Grid and it becomes active.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 14,
+      "end": 39,
+      "target": "Architect Deployment Test",
+      "card_code": "26032"
+    },
+    {
+      "type": "card",
+      "start": 69,
+      "end": 90,
+      "target": "Tranquility Home Grid",
+      "card_code": "26105"
+    },
+    {
+      "type": "card",
+      "start": 219,
+      "end": 240,
+      "target": "Tranquility Home Grid",
+      "card_code": "26105"
+    },
+    {
+      "type": "card",
+      "start": 248,
+      "end": 273,
+      "target": "Architect Deployment Test",
+      "card_code": "26032"
+    },
+    {
+      "type": "ref",
+      "start": 346,
+      "end": 358,
+      "ids": [
+        "rule_ignore_all_costs"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 432,
+      "end": 444,
+      "ids": [
+        "rule_cost_checkpoint_cost_zero"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "card",
+      "start": 516,
+      "end": 537,
+      "target": "Tranquility Home Grid",
+      "card_code": "26105"
+    },
+    {
+      "type": "card",
+      "start": 692,
+      "end": 713,
+      "target": "Tranquility Home Grid",
+      "card_code": "26105"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

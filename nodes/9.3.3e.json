@@ -1,0 +1,29 @@
+{
+  "id": "rule_host_restriction",
+  "kind": "rule",
+  "number": "9.3.3e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_restriction",
+  "child_ids": [],
+  "text_markup": "If a card's text limits what cards it can host, the text describing that limit is a restriction. See also {ref:rule_host_via_ability}.",
+  "text_plain": "If a card's text limits what cards it can host, the text describing that limit is a restriction. See also rule 1.13.6b.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 106,
+      "end": 118,
+      "ids": [
+        "rule_host_via_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_host_restriction"
+}

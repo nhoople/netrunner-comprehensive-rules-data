@@ -1,0 +1,19 @@
+{
+  "id": "rule_create_position_outermost",
+  "kind": "rule",
+  "number": "6.2.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_create_position",
+  "child_ids": [],
+  "text_markup": "If a piece of ice is being installed in or moved to the outermost position protecting a server, the new position is outward from the outermost already-existing position. If an instruction to install a piece of ice does not explicitly specify otherwise, the ice is installed in the outermost position.",
+  "text_plain": "If a piece of ice is being installed in or moved to the outermost position protecting a server, the new position is outward from the outermost already-existing position. If an instruction to install a piece of ice does not explicitly specify otherwise, the ice is installed in the outermost position.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_create_position_outermost"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_break_all_subroutines_no_targets",
+  "kind": "rule",
+  "number": "9.8.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_unbroken_subroutines_target_for_break_abilities",
+  "child_ids": [],
+  "text_markup": "An ability that breaks \"all subroutines\" does not target any subroutines, and can be used as long as the encountered ice has at least 1 unbroken subroutine.",
+  "text_plain": "An ability that breaks \"all subroutines\" does not target any subroutines, and can be used as long as the encountered ice has at least 1 unbroken subroutine.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_break_all_subroutines_no_targets"
+}

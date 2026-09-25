@@ -1,0 +1,34 @@
+{
+  "id": "rule_ability",
+  "kind": "subsection",
+  "number": "9.1.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_abilities_general",
+  "child_ids": [
+    "rule_all_text_is_an_ability",
+    "rule_basic_action_link",
+    "rule_trash_ability_link",
+    "rule_lingering_effects_link",
+    "rule_ability_categories",
+    "rule_interrupt_link",
+    "rule_instruction_link"
+  ],
+  "text_markup": "An {term:ability} is an independent unit of text on a card or counter, a basic action, or the basic trash ability.",
+  "text_plain": "An ability is an independent unit of text on a card or counter, a basic action, or the basic trash ability.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 10,
+      "target": "ability"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ability"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sec_appendix_timing_structure_of_a_run_1",
+  "kind": "timing_structure",
+  "number": "11.4_1",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_of_a_run",
+  "child_ids": [
+    "sec_appendix_timing_structure_of_a_run_1_a",
+    "sec_appendix_timing_structure_of_a_run_1_b",
+    "sec_appendix_timing_structure_of_a_run_1_c",
+    "sec_appendix_timing_structure_of_a_run_1_d",
+    "sec_appendix_timing_structure_of_a_run_1_e",
+    "sec_appendix_timing_structure_of_a_run_1_f"
+  ],
+  "text_markup": "Initiation Phase",
+  "text_plain": "Initiation Phase",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_of_a_run_1"
+}

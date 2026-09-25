@@ -1,0 +1,29 @@
+{
+  "id": "rule_trace_checkpoint",
+  "kind": "rule",
+  "number": "9.11.1e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction_pause",
+  "child_ids": [],
+  "text_markup": "When a trace is initiated, a checkpoint occurs at {ref:step_trace_checkpoint} of that procedure.",
+  "text_plain": "When a trace is initiated, a checkpoint occurs at step 10.8.6b of that procedure.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 50,
+      "end": 62,
+      "ids": [
+        "step_trace_checkpoint"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trace_checkpoint"
+}

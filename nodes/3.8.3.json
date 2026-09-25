@@ -1,0 +1,29 @@
+{
+  "id": "rule_hardware_install_cost",
+  "kind": "rule",
+  "number": "3.8.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_hardware",
+  "child_ids": [],
+  "text_markup": "Hardware are among the types of cards with install costs. The Runner installs a hardware faceup and active by paying its install cost. See {ref:sec_install_uninstall}.",
+  "text_plain": "Hardware are among the types of cards with install costs. The Runner installs a hardware faceup and active by paying its install cost. See section 8.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 139,
+      "end": 150,
+      "ids": [
+        "sec_install_uninstall"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hardware_install_cost"
+}

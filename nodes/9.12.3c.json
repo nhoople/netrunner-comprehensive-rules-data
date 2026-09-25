@@ -1,0 +1,28 @@
+{
+  "id": "rule_mandatory_choice",
+  "kind": "rule",
+  "number": "9.12.3c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_must",
+  "child_ids": [
+    "rule_mandatory_choice__example_1"
+  ],
+  "text_markup": "If the \"must\" ability presents a player with a choice between two or more effects, that player must choose an effect that can be fully resolved. If none of the choices can be fully resolved, then the \"must\" ability does nothing.",
+  "text_plain": "If the \"must\" ability presents a player with a choice between two or more effects, that player must choose an effect that can be fully resolved. If none of the choices can be fully resolved, then the \"must\" ability does nothing.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_mandatory_choice__example_1",
+      "text_markup": "If the first subroutine on {card:Fairchild 2.0} resolves while the Runner has no installed cards but 3[c], then the Runner must choose to pay 2[c]. When the second subroutine on {card:Fairchild 2.0} resolves, the Runner can neither pay 2[c] nor trash an installed card, so nothing happens.",
+      "text_plain": "If the first subroutine on Fairchild 2.0 resolves while the Runner has no installed cards but 3{c}, then the Runner must choose to pay 2{c}. When the second subroutine on Fairchild 2.0 resolves, the Runner can neither pay 2{c} nor trash an installed card, so nothing happens.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mandatory_choice"
+}

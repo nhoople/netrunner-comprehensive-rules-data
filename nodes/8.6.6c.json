@@ -1,0 +1,29 @@
+{
+  "id": "rule_play_not_trashed_until",
+  "kind": "rule",
+  "number": "8.6.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_no_trash",
+  "child_ids": [],
+  "text_markup": "If the played card has an ability indicating that it is not trashed until a certain effect occurs, instead of trashing it, a lingering effect is created with a duration that expires as the indicated effect occurs. See also {ref:sec_lingering_effects}.",
+  "text_plain": "If the played card has an ability indicating that it is not trashed until a certain effect occurs, instead of trashing it, a lingering effect is created with a duration that expires as the indicated effect occurs. See also section 9.10.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 223,
+      "end": 235,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_not_trashed_until"
+}

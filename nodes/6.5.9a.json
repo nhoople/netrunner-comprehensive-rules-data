@@ -1,0 +1,35 @@
+{
+  "id": "rule_forced_encounter",
+  "kind": "rule",
+  "number": "6.5.9a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_forced_encounters",
+  "child_ids": [
+    "rule_forced_encounter__example_1"
+  ],
+  "text_markup": "If an ability directs the Runner to encounter a piece of ice without first changing their position, resolve an Encounter Ice Phase but do not change the Runner's position, if any. After the encounter, return to the effect that caused the encounter and proceed from there. This type of encounter outside the normal progression of a run is referred to as a {term:forced encounter}.",
+  "text_plain": "If an ability directs the Runner to encounter a piece of ice without first changing their position, resolve an Encounter Ice Phase but do not change the Runner's position, if any. After the encounter, return to the effect that caused the encounter and proceed from there. This type of encounter outside the normal progression of a run is referred to as a forced encounter.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 355,
+      "end": 371,
+      "target": "forced encounter"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_forced_encounter__example_1",
+      "text_markup": "If {card:Shiro} causes {card:Chrysalis} to be accessed, resolve the encounter with {card:Chrysalis} and then return to resolving subroutines on {card:Shiro}.",
+      "text_plain": "If Shiro causes Chrysalis to be accessed, resolve the encounter with Chrysalis and then return to resolving subroutines on Shiro.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_forced_encounter"
+}

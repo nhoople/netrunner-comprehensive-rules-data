@@ -1,0 +1,29 @@
+{
+  "id": "rule_action_completion",
+  "kind": "rule",
+  "number": "5.2.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_initiate_action",
+  "child_ids": [],
+  "text_markup": "Once an action is initiated, it must be completed before the game can advance to the next step or open another action window. If the effects of an action initiate a timing structure, such as a run, players may use paid abilities, rez cards, and score agendas as dictated by the priority windows of that nested timing structure, but otherwise players cannot perform any of those voluntary effects while the action is resolving. See {ref:sec_timing_and_priority} for more details about priority.",
+  "text_plain": "Once an action is initiated, it must be completed before the game can advance to the next step or open another action window. If the effects of an action initiate a timing structure, such as a run, players may use paid abilities, rez cards, and score agendas as dictated by the priority windows of that nested timing structure, but otherwise players cannot perform any of those voluntary effects while the action is resolving. See section 9.2 for more details about priority.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 431,
+      "end": 442,
+      "ids": [
+        "sec_timing_and_priority"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_action_completion"
+}

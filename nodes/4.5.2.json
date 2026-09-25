@@ -1,0 +1,19 @@
+{
+  "id": "rule_score_area_open_info",
+  "kind": "rule",
+  "number": "4.5.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_score_area",
+  "child_ids": [],
+  "text_markup": "The agendas in a score area are open information. A player may look through or count the agendas in a score area at any time.",
+  "text_plain": "The agendas in a score area are open information. A player may look through or count the agendas in a score area at any time.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_score_area_open_info"
+}

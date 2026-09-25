@@ -1,0 +1,27 @@
+{
+  "id": "rule_would_relevant__example_1",
+  "kind": "example",
+  "number": "9.9.3d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_would_relevant",
+  "child_ids": [],
+  "text_markup": "The trigger condition on {card:The Class Act}'s second ability is \"The first time each turn you would draw any number of cards\". Even though this ability's effects do not directly modify the imminent instruction's effects, the ability is relevant to an instruction that is expected to draw cards.",
+  "text_plain": "The trigger condition on The Class Act's second ability is \"The first time each turn you would draw any number of cards\". Even though this ability's effects do not directly modify the imminent instruction's effects, the ability is relevant to an instruction that is expected to draw cards.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 25,
+      "end": 38,
+      "target": "The Class Act",
+      "card_code": "26018"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

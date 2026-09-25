@@ -1,0 +1,70 @@
+{
+  "id": "rule_trash_ability_keeps_track_of_hosted_objects",
+  "kind": "rule",
+  "number": "9.5.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_paid_abilities",
+  "child_ids": [
+    "rule_trash_ability_keeps_track_of_hosted_objects__example_1",
+    "rule_trash_ability_keeps_track_of_hosted_objects__example_2",
+    "rule_trash_ability_keeps_track_of_hosted_objects__example_3"
+  ],
+  "text_markup": "If the trigger cost of a paid ability uninstalls or forfeits the source of that paid ability, and the effects of that paid ability refer to or act on cards or counters hosted on that source, set aside any hosted cards and counters as the trigger cost is paid. The set-aside cards or counters are still considered \"hosted\" for purposes of this ability, but they are not trashed due to not having a host for as long as the ability is resolving. When the ability finishes resolving, if any of those cards or counters are still set aside, they are trashed during {ref:step_checkpoint_hosted_on_agenda} or {ref:step_checkpoint_hosted_on_installed_cards} of the next checkpoint, as appropriate. Other abilities cannot interact with these cards or counters while they are set aside (see {ref:rule_set_aside_zone_passthrough}).",
+  "text_plain": "If the trigger cost of a paid ability uninstalls or forfeits the source of that paid ability, and the effects of that paid ability refer to or act on cards or counters hosted on that source, set aside any hosted cards and counters as the trigger cost is paid. The set-aside cards or counters are still considered \"hosted\" for purposes of this ability, but they are not trashed due to not having a host for as long as the ability is resolving. When the ability finishes resolving, if any of those cards or counters are still set aside, they are trashed during step 10.3.1f or step 10.3.1g of the next checkpoint, as appropriate. Other abilities cannot interact with these cards or counters while they are set aside (see rule 4.8.3).",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 559,
+      "end": 571,
+      "ids": [
+        "step_checkpoint_hosted_on_agenda"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 575,
+      "end": 587,
+      "ids": [
+        "step_checkpoint_hosted_on_installed_cards"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 719,
+      "end": 729,
+      "ids": [
+        "rule_set_aside_zone_passthrough"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_trash_ability_keeps_track_of_hosted_objects__example_1",
+      "text_markup": "The Runner has {card:Fermenter} installed with 4 hosted virus counters. They use its paid ability, which has a cost that includes trashing {card:Fermenter}. As the Runner pays this cost, they set aside the 4 counters. When the ability resolves and refers to the number of hosted virus counters, it includes the counters that were set aside, so the Runner gains 8 credits. When the ability is finished resolving, the counters are returned to the bank.",
+      "text_plain": "The Runner has Fermenter installed with 4 hosted virus counters. They use its paid ability, which has a cost that includes trashing Fermenter. As the Runner pays this cost, they set aside the 4 counters. When the ability resolves and refers to the number of hosted virus counters, it includes the counters that were set aside, so the Runner gains 8 credits. When the ability is finished resolving, the counters are returned to the bank.",
+      "is_new": false
+    },
+    {
+      "id": "rule_trash_ability_keeps_track_of_hosted_objects__example_2",
+      "text_markup": "The Runner uses the [trash] ability on {card:Street Peddler}. They pay the trigger cost and set the 3 hosted cards aside. When the ability resolves, the Runner installs one of the set-aside cards. Since the other two cards are still set aside, the next checkpoint trashes them just as in any other case of cards that were hosted on a card that is no longer installed. No other abilities are able to tell that the cards were set aside: they are treated as having been installed or trashed from their previous location in the play area.",
+      "text_plain": "The Runner uses the {trash} ability on Street Peddler. They pay the trigger cost and set the 3 hosted cards aside. When the ability resolves, the Runner installs one of the set-aside cards. Since the other two cards are still set aside, the next checkpoint trashes them just as in any other case of cards that were hosted on a card that is no longer installed. No other abilities are able to tell that the cards were set aside: they are treated as having been installed or trashed from their previous location in the play area.",
+      "is_new": false
+    },
+    {
+      "id": "rule_trash_ability_keeps_track_of_hosted_objects__example_3",
+      "text_markup": "This example describes a situation similar to the previous examples, but covers the sequence of steps the game carries out in a higher level of detail. The Corp has priority in a paid ability window, and chooses to trigger the [trash] ability on {card:Reconstruction Contract}. As they pay the trigger cost, moving {card:Reconstruction Contract} to Archives, they set aside the advancement counters hosted on {card:Reconstruction Contract}. Next, a checkpoint occurs following the cost having been paid. After that checkpoint and any corresponding reaction window, the [trash] ability's instruction is ready to become imminent. The Corp chooses a card they can advance to be the instruction's target, and an interrupt window opens. After the interrupt window (assuming the effects of the instruction are not prevented), the Corp moves the set-aside counters to the target card.",
+      "text_plain": "This example describes a situation similar to the previous examples, but covers the sequence of steps the game carries out in a higher level of detail. The Corp has priority in a paid ability window, and chooses to trigger the {trash} ability on Reconstruction Contract. As they pay the trigger cost, moving Reconstruction Contract to Archives, they set aside the advancement counters hosted on Reconstruction Contract. Next, a checkpoint occurs following the cost having been paid. After that checkpoint and any corresponding reaction window, the {trash} ability's instruction is ready to become imminent. The Corp chooses a card they can advance to be the instruction's target, and an interrupt window opens. After the interrupt window (assuming the effects of the instruction are not prevented), the Corp moves the set-aside counters to the target card.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trash_ability_keeps_track_of_hosted_objects"
+}

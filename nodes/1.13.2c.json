@@ -1,0 +1,29 @@
+{
+  "id": "rule_install_from_hosted",
+  "kind": "rule",
+  "number": "1.13.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_hosted_installed_state",
+  "child_ids": [],
+  "text_markup": "If a card is installed from a hosted state, it ceases to be hosted. The hosting relationship ends at step {ref:rule_steps_installing_place} of the installation.",
+  "text_plain": "If a card is installed from a hosted state, it ceases to be hosted. The hosting relationship ends at step step 8.5.16a of the installation.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 106,
+      "end": 118,
+      "ids": [
+        "rule_steps_installing_place"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_from_hosted"
+}

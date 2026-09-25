@@ -1,0 +1,26 @@
+{
+  "id": "rule_type_advancement_counter",
+  "kind": "rule",
+  "number": "1.9.5f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_counter_types",
+  "child_ids": [],
+  "text_markup": "{term:Advancement counters} are a counter used primarily on installed agendas to track the Corp's progress toward being able to score them.",
+  "text_plain": "Advancement counters are a counter used primarily on installed agendas to track the Corp's progress toward being able to score them.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 20,
+      "target": "Advancement counters"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_type_advancement_counter"
+}

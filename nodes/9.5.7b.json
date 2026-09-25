@@ -1,0 +1,19 @@
+{
+  "id": "step_paid_ability_condition",
+  "kind": "rule",
+  "number": "9.5.7b",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_using_a_paid_ability",
+  "child_ids": [],
+  "text_markup": "Pay the trigger cost. The ability and its source are considered used. \"When used\" abilities meet their trigger conditions. (The cost-paid checkpoint then occurs.)",
+  "text_plain": "Pay the trigger cost. The ability and its source are considered used. \"When used\" abilities meet their trigger conditions. (The cost-paid checkpoint then occurs.)",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_paid_ability_condition"
+}

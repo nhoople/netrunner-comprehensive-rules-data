@@ -1,0 +1,47 @@
+{
+  "id": "corp_basic_action_purge_virus_counters",
+  "kind": "rule",
+  "number": "5.2.6h",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_corp_actions",
+  "child_ids": [],
+  "text_markup": "\"[click][click][click]: Purge virus counters.\" See {ref:rule_purge}.",
+  "text_plain": "\"{click}{click}{click}: Purge virus counters.\" See rule 10.1.2.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 1,
+      "end": 8,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 8,
+      "end": 15,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 15,
+      "end": 22,
+      "target": "click"
+    },
+    {
+      "type": "ref",
+      "start": 51,
+      "end": 62,
+      "ids": [
+        "rule_purge"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=corp_basic_action_purge_virus_counters"
+}

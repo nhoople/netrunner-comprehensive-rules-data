@@ -1,0 +1,35 @@
+{
+  "id": "rule_corp_basic_action_operation",
+  "kind": "rule",
+  "number": "5.2.6e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_corp_actions",
+  "child_ids": [],
+  "text_markup": "\"[click]: Play 1 operation from HQ.\" See {ref:sec_playing_events_and_operations}.",
+  "text_plain": "\"{click}: Play 1 operation from HQ.\" See section 8.6.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 1,
+      "end": 8,
+      "target": "click"
+    },
+    {
+      "type": "ref",
+      "start": 41,
+      "end": 52,
+      "ids": [
+        "sec_playing_events_and_operations"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_basic_action_operation"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "rule_add_remove_subtypes__example_1",
+  "kind": "example",
+  "number": "2.16.5.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_add_remove_subtypes",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:Tinkering} on a {card:Lycan} hosting 1 advancement counter. {card:Lycan} has two instances of {subtype:sentry}, one printed and one from {card:Tinkering}, and has lost one instance of {subtype:sentry} from its own ability. Thus it is still a {subtype:sentry}.",
+  "text_plain": "The Runner plays Tinkering on a Lycan hosting 1 advancement counter. Lycan has two instances of sentry, one printed and one from Tinkering, and has lost one instance of sentry from its own ability. Thus it is still a sentry.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 26,
+      "target": "Tinkering",
+      "card_code": "20044"
+    },
+    {
+      "type": "card",
+      "start": 32,
+      "end": 37,
+      "target": "Lycan",
+      "card_code": "06089"
+    },
+    {
+      "type": "card",
+      "start": 69,
+      "end": 74,
+      "target": "Lycan",
+      "card_code": "06089"
+    },
+    {
+      "type": "subtype",
+      "start": 96,
+      "end": 102,
+      "target": "sentry"
+    },
+    {
+      "type": "card",
+      "start": 129,
+      "end": 138,
+      "target": "Tinkering",
+      "card_code": "20044"
+    },
+    {
+      "type": "subtype",
+      "start": 169,
+      "end": 175,
+      "target": "sentry"
+    },
+    {
+      "type": "subtype",
+      "start": 217,
+      "end": 223,
+      "target": "sentry"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

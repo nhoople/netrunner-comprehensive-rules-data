@@ -1,0 +1,23 @@
+{
+  "id": "subsec_archives",
+  "kind": "subsection",
+  "number": "4.4.6",
+  "ref_type": "section",
+  "title": "Archives",
+  "parent_id": "sec_discard_pile",
+  "child_ids": [
+    "rule_archives_name",
+    "rule_archives_faceup_facedown",
+    "rule_archives_faceup_open_info"
+  ],
+  "text_markup": "Archives",
+  "text_plain": "Archives",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Archives represents the Corp's internal record database of all scrapped, abandoned, or discontinued projects, contracts, assignments, and other endeavors.",
+  "snippet_plain": "Archives represents the Corp's internal record database of all scrapped, abandoned, or discontinued projects, contracts, assignments, and other endeavors.",
+  "url": "https://rules.nullsignal.games/?r=subsec_archives"
+}

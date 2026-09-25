@@ -1,0 +1,27 @@
+{
+  "id": "rule_target__example_1",
+  "kind": "example",
+  "number": "1.15.1.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_target",
+  "child_ids": [],
+  "text_markup": "{card:Top Hat} reads in part, \"you may choose 1 of the top 5 cards of R&D and access it.\" The target of this instruction is the card in R&D the Runner chooses.",
+  "text_plain": "Top Hat reads in part, \"you may choose 1 of the top 5 cards of R&D and access it.\" The target of this instruction is the card in R&D the Runner chooses.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 7,
+      "target": "Top Hat",
+      "card_code": "11067"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

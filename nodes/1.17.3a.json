@@ -1,0 +1,35 @@
+{
+  "id": "rule_advancement_requirement",
+  "kind": "rule",
+  "number": "1.17.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_score_steal",
+  "child_ids": [],
+  "text_markup": "The {term:advancement requirement} of an agenda restricts when the Corp can score it. The Corp can only score an agenda that has advancement counters on it greater than or equal to its advancement requirement. See {ref:sec_advancing_cards}.",
+  "text_plain": "The advancement requirement of an agenda restricts when the Corp can score it. The Corp can only score an agenda that has advancement counters on it greater than or equal to its advancement requirement. See section 1.18.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 27,
+      "target": "advancement requirement"
+    },
+    {
+      "type": "ref",
+      "start": 207,
+      "end": 219,
+      "ids": [
+        "sec_advancing_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_advancement_requirement"
+}

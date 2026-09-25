@@ -1,0 +1,19 @@
+{
+  "id": "step_determine_candidates_limit",
+  "kind": "rule",
+  "number": "7.5.3",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_breaching_steps",
+  "child_ids": [],
+  "text_markup": "If the breached server is HQ or R&D, determine the limit to how many times the Runner can choose a candidate from the Corp's hand or deck.",
+  "text_plain": "If the breached server is HQ or R&D, determine the limit to how many times the Runner can choose a candidate from the Corp's hand or deck.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_determine_candidates_limit"
+}

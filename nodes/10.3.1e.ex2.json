@@ -1,0 +1,57 @@
+{
+  "id": "step_checkpoint_card_restrictions__example_2",
+  "kind": "example",
+  "number": "10.3.1e.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "step_checkpoint_card_restrictions",
+  "child_ids": [],
+  "text_markup": "The Runner has installed programs with total memory cost equal to their memory limit when the Corp plays {card:Bad Times}, reducing the memory limit by 2[MU]. The Runner can trash any two programs with a memory cost of 1[MU] each, or any one program with a memory cost of 2[MU] or greater. They cannot trash any 0[MU] programs, nor can they trash any set of more than one program with a greater total memory cost than 2[MU], since those objects can be removed from the trashed set while maintaining that the result will be a legal game state.",
+  "text_plain": "The Runner has installed programs with total memory cost equal to their memory limit when the Corp plays Bad Times, reducing the memory limit by 2{MU}. The Runner can trash any two programs with a memory cost of 1{MU} each, or any one program with a memory cost of 2{MU} or greater. They cannot trash any 0{MU} programs, nor can they trash any set of more than one program with a greater total memory cost than 2{MU}, since those objects can be removed from the trashed set while maintaining that the result will be a legal game state.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 105,
+      "end": 114,
+      "target": "Bad Times",
+      "card_code": "06012"
+    },
+    {
+      "type": "symbol",
+      "start": 146,
+      "end": 150,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 213,
+      "end": 217,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 266,
+      "end": 270,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 306,
+      "end": 310,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 412,
+      "end": 416,
+      "target": "mu"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

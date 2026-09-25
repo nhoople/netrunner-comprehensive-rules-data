@@ -1,0 +1,25 @@
+{
+  "id": "rule_facedown_runner_cards_are_blank",
+  "kind": "rule",
+  "number": "8.1.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_facedown_runner_cards",
+  "child_ids": [],
+  "text_markup": "Installed Runner cards that are facedown {n}do not have any characteristics (name, card type, faction, cost, subtypes, influence, etc){/n}, and their abilities are not active.",
+  "text_plain": "Installed Runner cards that are facedown do not have any characteristics (name, card type, faction, cost, subtypes, influence, etc), and their abilities are not active.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 41,
+      "end": 131
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_facedown_runner_cards_are_blank"
+}

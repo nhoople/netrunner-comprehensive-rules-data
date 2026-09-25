@@ -1,0 +1,59 @@
+{
+  "id": "rule_paid_ability_refers_to_encountered_ice__example_2",
+  "kind": "example",
+  "number": "9.5.6c.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_paid_ability_refers_to_encountered_ice",
+  "child_ids": [],
+  "text_markup": "The Runner can use the [trash] ability on {card:Abagnale} during an encounter with a {subtype:code gate}. They can only use the interface ability on {card:Abagnale} during an encounter with a {subtype:code gate} that {card:Abagnale} has sufficient strength to interface with.",
+  "text_plain": "The Runner can use the {trash} ability on Abagnale during an encounter with a code gate. They can only use the interface ability on Abagnale during an encounter with a code gate that Abagnale has sufficient strength to interface with.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 23,
+      "end": 30,
+      "target": "trash"
+    },
+    {
+      "type": "card",
+      "start": 42,
+      "end": 50,
+      "target": "Abagnale",
+      "card_code": "31021"
+    },
+    {
+      "type": "subtype",
+      "start": 78,
+      "end": 87,
+      "target": "code gate"
+    },
+    {
+      "type": "card",
+      "start": 132,
+      "end": 140,
+      "target": "Abagnale",
+      "card_code": "31021"
+    },
+    {
+      "type": "subtype",
+      "start": 168,
+      "end": 177,
+      "target": "code gate"
+    },
+    {
+      "type": "card",
+      "start": 183,
+      "end": 191,
+      "target": "Abagnale",
+      "card_code": "31021"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

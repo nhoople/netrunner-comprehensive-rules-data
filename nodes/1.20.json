@@ -1,0 +1,24 @@
+{
+  "id": "sec_memory",
+  "kind": "section",
+  "number": "1.20",
+  "ref_type": "section",
+  "title": "Memory",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_memory_unit",
+    "rule_memory_limit",
+    "rule_memory_cost",
+    "rule_memory_restricted_mu"
+  ],
+  "text_markup": "Memory",
+  "text_plain": "Memory",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_memory"
+}

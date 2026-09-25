@@ -1,0 +1,29 @@
+{
+  "id": "step_jack_out_choice",
+  "kind": "rule",
+  "number": "6.9.4c",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_movement_phase",
+  "child_ids": [],
+  "text_markup": "The Runner may choose to jack out, proceeding to {ref:rule_sec_run_run_ends_phase}, Run Ends Phase. If the Runner does not, continue to (d).",
+  "text_plain": "The Runner may choose to jack out, proceeding to step 6.9.6, Run Ends Phase. If the Runner does not, continue to (d).",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 49,
+      "end": 59,
+      "ids": [
+        "rule_sec_run_run_ends_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_jack_out_choice"
+}

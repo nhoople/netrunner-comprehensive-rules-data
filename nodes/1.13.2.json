@@ -1,0 +1,23 @@
+{
+  "id": "rule_hosted_installed_state",
+  "kind": "subsection",
+  "number": "1.13.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [
+    "rule_host_without_install",
+    "rule_host_corp_card_uninstall",
+    "rule_install_from_hosted"
+  ],
+  "text_markup": "The state of being hosted is distinct, but not exclusive from, the state of being installed.",
+  "text_plain": "The state of being hosted is distinct, but not exclusive from, the state of being installed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_installed_state"
+}

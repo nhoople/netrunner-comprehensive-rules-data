@@ -1,0 +1,19 @@
+{
+  "id": "rule_nested_cost_may",
+  "kind": "rule",
+  "number": "1.16.11a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_nested_cost",
+  "child_ids": [],
+  "text_markup": "Nested costs are usually written in the format \"[player] may [cost] to [instructions]\" or \"[player] may [cost]. If [you/they] do, [instructions].\" If the indicated player pays the indicated cost, the indicated instructions are resolved. Otherwise, that part of the ability is not resolved.",
+  "text_plain": "Nested costs are usually written in the format \"[player] may [cost] to [instructions]\" or \"[player] may [cost]. If [you/they] do, [instructions].\" If the indicated player pays the indicated cost, the indicated instructions are resolved. Otherwise, that part of the ability is not resolved.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_nested_cost_may"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "step_corp_turn_draw_phase_complete",
+  "kind": "rule",
+  "number": "5.6.1f",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "subsec_corp_draw_phase",
+  "child_ids": [],
+  "text_markup": "The Corp's draw phase is complete. Play proceeds to the Corp's action phase.",
+  "text_plain": "The Corp's draw phase is complete. Play proceeds to the Corp's action phase.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_corp_turn_draw_phase_complete"
+}

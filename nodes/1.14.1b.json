@@ -1,0 +1,19 @@
+{
+  "id": "rule_owner_counters",
+  "kind": "rule",
+  "number": "1.14.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_owner",
+  "child_ids": [],
+  "text_markup": "No player owns counters that are not converted cards.",
+  "text_plain": "No player owns counters that are not converted cards.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_owner_counters"
+}

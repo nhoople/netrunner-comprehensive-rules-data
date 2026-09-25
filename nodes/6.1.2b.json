@@ -1,0 +1,19 @@
+{
+  "id": "rule_change_attacked_server",
+  "kind": "rule",
+  "number": "6.1.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_attacked_server",
+  "child_ids": [],
+  "text_markup": "Card abilities can sometimes change the attacked server during the run. This does not end the run, but it can affect whether or not certain card abilities or effects apply.",
+  "text_plain": "Card abilities can sometimes change the attacked server during the run. This does not end the run, but it can affect whether or not certain card abilities or effects apply.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_change_attacked_server"
+}

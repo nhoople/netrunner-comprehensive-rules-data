@@ -1,0 +1,29 @@
+{
+  "id": "rule_no_memory",
+  "kind": "subsection",
+  "number": "1.12.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_objects",
+  "child_ids": [
+    "rule_identify_object_after_move",
+    "rule_no_memory__example_1"
+  ],
+  "text_markup": "Restrictions and effects on a card or counter only apply for as long as that card or counter remains the same object. Cards and counters have no memory of the objects they were in the past.",
+  "text_plain": "Restrictions and effects on a card or counter only apply for as long as that card or counter remains the same object. Cards and counters have no memory of the objects they were in the past.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_no_memory__example_1",
+      "text_markup": "The Corp uses the first ability on {card:Vaporframe Fabricator}, which specifies that it can only be used once per turn, and trashes {card:Vaporframe Fabricator} during the installation process. Then the Corp plays Restore, reinstalling the same copy of {card:Vaporframe Fabricator} from Archives. Even though it is the same physical card, the reinstalled {card:Vaporframe Fabricator} is a new object, and its \"once per turn\" ability is available to be used this turn.",
+      "text_plain": "The Corp uses the first ability on Vaporframe Fabricator, which specifies that it can only be used once per turn, and trashes Vaporframe Fabricator during the installation process. Then the Corp plays Restore, reinstalling the same copy of Vaporframe Fabricator from Archives. Even though it is the same physical card, the reinstalled Vaporframe Fabricator is a new object, and its \"once per turn\" ability is available to be used this turn.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_no_memory"
+}

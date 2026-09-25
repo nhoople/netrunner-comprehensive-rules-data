@@ -1,0 +1,19 @@
+{
+  "id": "rule_40_44",
+  "kind": "rule",
+  "number": "1.4.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_agenda_points",
+  "child_ids": [],
+  "text_markup": "A deck with 40 to 44 cards must contain 18 or 19 agenda points.",
+  "text_plain": "A deck with 40 to 44 cards must contain 18 or 19 agenda points.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_40_44"
+}

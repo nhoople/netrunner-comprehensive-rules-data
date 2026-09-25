@@ -1,0 +1,43 @@
+{
+  "id": "rule_trash_hosted_objects_when_host_trashed__example_2",
+  "kind": "example",
+  "number": "1.13.13.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_trash_hosted_objects_when_host_trashed",
+  "child_ids": [],
+  "text_markup": "The Runner has {card:Next Big Thing} in their score area with a hosted agenda counter. The Corp plays {card:IP Enforcement} to install that agenda. The hosted agenda counter will be trashed after {ref:rule_steps_installing_pay_install_cost} of the installation.",
+  "text_plain": "The Runner has Next Big Thing in their score area with a hosted agenda counter. The Corp plays IP Enforcement to install that agenda. The hosted agenda counter will be trashed after step 8.5.16d of the installation.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 29,
+      "target": "Next Big Thing",
+      "card_code": "35060"
+    },
+    {
+      "type": "card",
+      "start": 95,
+      "end": 109,
+      "target": "IP Enforcement",
+      "card_code": "35066"
+    },
+    {
+      "type": "ref",
+      "start": 182,
+      "end": 194,
+      "ids": [
+        "rule_steps_installing_pay_install_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

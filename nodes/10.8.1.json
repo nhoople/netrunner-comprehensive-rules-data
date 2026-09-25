@@ -1,0 +1,38 @@
+{
+  "id": "rule_trace_attempt_and_base_trace_strength",
+  "kind": "rule",
+  "number": "10.8.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_traces",
+  "child_ids": [],
+  "text_markup": "Some card abilities initiate a {term:trace attempt} (sometimes simply called a {term:trace}) on the Runner. Traces are marked by the language \"Trace [N]\" on a card, where the given value N is the {term:base trace strength} of the trace. A trace pits the Corp's trace strength against the Runner's link strength, both of which can be increased by spending credits.",
+  "text_plain": "Some card abilities initiate a trace attempt (sometimes simply called a trace) on the Runner. Traces are marked by the language \"Trace [N]\" on a card, where the given value N is the base trace strength of the trace. A trace pits the Corp's trace strength against the Runner's link strength, both of which can be increased by spending credits.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 31,
+      "end": 44,
+      "target": "trace attempt"
+    },
+    {
+      "type": "term",
+      "start": 72,
+      "end": 77,
+      "target": "trace"
+    },
+    {
+      "type": "term",
+      "start": 182,
+      "end": 201,
+      "target": "base trace strength"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trace_attempt_and_base_trace_strength"
+}

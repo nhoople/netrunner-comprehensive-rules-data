@@ -1,0 +1,26 @@
+{
+  "id": "rule_uninstalled",
+  "kind": "rule",
+  "number": "8.5.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_installing",
+  "child_ids": [],
+  "text_markup": "A card or counter is {term:uninstalled} when it stops being installed for any reason.",
+  "text_plain": "A card or counter is uninstalled when it stops being installed for any reason.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 21,
+      "end": 32,
+      "target": "uninstalled"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_uninstalled"
+}

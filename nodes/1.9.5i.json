@@ -1,0 +1,26 @@
+{
+  "id": "rule_type_agenda_counter",
+  "kind": "rule",
+  "number": "1.9.5i",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_counter_types",
+  "child_ids": [],
+  "text_markup": "{term:Agenda counters} are a generic counter used primarily on scored agendas. They have no special rules.",
+  "text_plain": "Agenda counters are a generic counter used primarily on scored agendas. They have no special rules.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 15,
+      "target": "Agenda counters"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_type_agenda_counter"
+}

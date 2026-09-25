@@ -1,0 +1,26 @@
+{
+  "id": "rule_declaration",
+  "kind": "rule",
+  "number": "9.3.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_interpreting_card_text",
+  "child_ids": [],
+  "text_markup": "A {term:declaration} is a statement describing an effect on components or game rules that is applied continuously. A declaration applies its effects as long as it is active.",
+  "text_plain": "A declaration is a statement describing an effect on components or game rules that is applied continuously. A declaration applies its effects as long as it is active.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 13,
+      "target": "declaration"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_declaration"
+}

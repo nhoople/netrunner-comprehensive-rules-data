@@ -1,0 +1,26 @@
+{
+  "id": "rule_three_central_servers",
+  "kind": "rule",
+  "number": "4.6.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_central_servers",
+  "child_ids": [],
+  "text_markup": "The Corp has three {term:central servers} at all times. Each central server corresponds to one of the Corp's zones: HQ corresponds to the Corp's hand, R&D corresponds to the Corp's deck, and Archives corresponds to the Corp's discard pile.",
+  "text_plain": "The Corp has three central servers at all times. Each central server corresponds to one of the Corp's zones: HQ corresponds to the Corp's hand, R&D corresponds to the Corp's deck, and Archives corresponds to the Corp's discard pile.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 19,
+      "end": 34,
+      "target": "central servers"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_three_central_servers"
+}

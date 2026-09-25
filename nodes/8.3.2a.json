@@ -1,0 +1,19 @@
+{
+  "id": "rule_no_checkpoints_during_swaps",
+  "kind": "rule",
+  "number": "8.3.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_arrange_ice",
+  "child_ids": [],
+  "text_markup": "No checkpoints occur during the sequence of swaps. An ability that meets its condition while ice is being arranged will become pending at the end of resolving the instruction in which arranging ice is taking place.",
+  "text_plain": "No checkpoints occur during the sequence of swaps. An ability that meets its condition while ice is being arranged will become pending at the end of resolving the instruction in which arranging ice is taking place.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_no_checkpoints_during_swaps"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "rule_memory_limit",
+  "kind": "rule",
+  "number": "1.20.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_memory",
+  "child_ids": [
+    "rule_memory_limit__example_1"
+  ],
+  "text_markup": "The Runner's {term:memory limit} is the total amount of [MU] the Runner has. If the Runner's identity card does not specify a starting memory limit, their starting memory limit is 4[MU]. An ability of the form \"+N[MU]\" increases the Runner's memory limit by N[MU].",
+  "text_plain": "The Runner's memory limit is the total amount of {MU} the Runner has. If the Runner's identity card does not specify a starting memory limit, their starting memory limit is 4{MU}. An ability of the form \"+N{MU}\" increases the Runner's memory limit by N{MU}.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 13,
+      "end": 25,
+      "target": "memory limit"
+    },
+    {
+      "type": "symbol",
+      "start": 49,
+      "end": 53,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 174,
+      "end": 178,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 206,
+      "end": 210,
+      "target": "mu"
+    },
+    {
+      "type": "symbol",
+      "start": 252,
+      "end": 256,
+      "target": "mu"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_memory_limit__example_1",
+      "text_markup": "The Runner is playing an identity with a starting memory limit of 4[MU]. They have an installed copy of {card:T400 Memory Diamond}, which has the ability \"+1[MU]\". The Runner can therefore have up to 5[MU] worth of programs installed.",
+      "text_plain": "The Runner is playing an identity with a starting memory limit of 4{MU}. They have an installed copy of T400 Memory Diamond, which has the ability \"+1{MU}\". The Runner can therefore have up to 5{MU} worth of programs installed.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_memory_limit"
+}

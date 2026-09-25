@@ -1,0 +1,32 @@
+{
+  "id": "rule_tagged_trash_resource",
+  "kind": "rule",
+  "number": "10.5.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_tags",
+  "child_ids": [],
+  "text_markup": "While the Runner is tagged, the Corp can, as an action, spend [click] and 2[c] to trash one of the Runner's resource cards.",
+  "text_plain": "While the Runner is tagged, the Corp can, as an action, spend {click} and 2{c} to trash one of the Runner's resource cards.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 62,
+      "end": 69,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 75,
+      "end": 78,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_tagged_trash_resource"
+}

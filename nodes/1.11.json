@@ -1,0 +1,24 @@
+{
+  "id": "sec_clicks",
+  "kind": "section",
+  "number": "1.11",
+  "ref_type": "section",
+  "title": "Clicks",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_click",
+    "rule_allotted_clicks",
+    "rule_gain_spend_lose_clicks",
+    "rule_priority_subtype"
+  ],
+  "text_markup": "Clicks",
+  "text_plain": "Clicks",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Working a job, making connections, and especially jacking in—everything you do takes time, and it always goes by faster than you think. A click represents an abstract amount of time spent on a particular activity, either several hours all at once or scattered across the day.",
+  "snippet_plain": "Working a job, making connections, and especially jacking in—everything you do takes time, and it always goes by faster than you think. A click represents an abstract amount of time spent on a particular activity, either several hours all at once or scattered across the day.",
+  "url": "https://rules.nullsignal.games/?r=sec_clicks"
+}

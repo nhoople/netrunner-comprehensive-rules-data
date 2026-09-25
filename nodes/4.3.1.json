@@ -1,0 +1,35 @@
+{
+  "id": "rule_hand",
+  "kind": "rule",
+  "number": "4.3.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_hand",
+  "child_ids": [],
+  "text_markup": "A player's {term:hand} is the zone in which they hold the cards they have drawn from their deck. Cards can be added to a player's hand by other rules and card abilities as well. During setup, each player draws a starting hand. See {ref:sec_starting_the_game}.",
+  "text_plain": "A player's hand is the zone in which they hold the cards they have drawn from their deck. Cards can be added to a player's hand by other rules and card abilities as well. During setup, each player draws a starting hand. See section 1.6.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 11,
+      "end": 15,
+      "target": "hand"
+    },
+    {
+      "type": "ref",
+      "start": 224,
+      "end": 235,
+      "ids": [
+        "sec_starting_the_game"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hand"
+}

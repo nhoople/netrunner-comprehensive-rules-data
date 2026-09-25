@@ -1,0 +1,35 @@
+{
+  "id": "rule_lingering_effect",
+  "kind": "rule",
+  "number": "9.10.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_lingering_effects",
+  "child_ids": [],
+  "text_markup": "Instructions can create {term:lingering effects} that exist beyond their resolution. Once a lingering effect is created, it exists independently of its source even if the source becomes inactive. Lingering effects remain active only for the duration specified in the instruction that created them. Lingering effects with durations that have expired are removed from the game state at {ref:step_checkpoint_duration_abilities} of each checkpoint.",
+  "text_plain": "Instructions can create lingering effects that exist beyond their resolution. Once a lingering effect is created, it exists independently of its source even if the source becomes inactive. Lingering effects remain active only for the duration specified in the instruction that created them. Lingering effects with durations that have expired are removed from the game state at step 10.3.1b of each checkpoint.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 24,
+      "end": 41,
+      "target": "lingering effects"
+    },
+    {
+      "type": "ref",
+      "start": 377,
+      "end": 389,
+      "ids": [
+        "step_checkpoint_duration_abilities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_lingering_effect"
+}

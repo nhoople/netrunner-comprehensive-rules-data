@@ -1,0 +1,32 @@
+{
+  "id": "rule_identity_play_area",
+  "kind": "subsection",
+  "number": "3.1.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_identities",
+  "child_ids": [
+    "rule_identity_double_sided",
+    "rule_identity_not_installed"
+  ],
+  "text_markup": "Each player starts the game with a single identity active in the play area. See {ref:sec_starting_the_game}.",
+  "text_plain": "Each player starts the game with a single identity active in the play area. See section 1.6.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 80,
+      "end": 91,
+      "ids": [
+        "sec_starting_the_game"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identity_play_area"
+}

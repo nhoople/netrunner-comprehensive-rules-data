@@ -1,0 +1,29 @@
+{
+  "id": "rule_inf_limit_citation",
+  "kind": "rule",
+  "number": "2.12.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_inf_limit",
+  "child_ids": [],
+  "text_markup": "{ref:Sec_deck_construction} details the rules for building a deck, including the requirement that out-of-faction cards in the deck adhere to the influence limit of the associated identity.",
+  "text_plain": "Section 1.4 details the rules for building a deck, including the requirement that out-of-faction cards in the deck adhere to the influence limit of the associated identity.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 0,
+      "end": 11,
+      "ids": [
+        "sec_deck_construction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_inf_limit_citation"
+}

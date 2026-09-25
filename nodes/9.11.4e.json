@@ -1,0 +1,28 @@
+{
+  "id": "rule_look_reveal_instruction",
+  "kind": "rule",
+  "number": "9.11.4e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction_sentence_exceptions",
+  "child_ids": [
+    "rule_look_reveal_instruction__example_1"
+  ],
+  "text_markup": "Some older cards direct a player to look at or reveal a set of cards in the same sentence as the effects that will be performed upon those cards. Treat these sentences as if making the cards visible to the relevant player(s) is the end of an instruction. A checkpoint occurs once the cards are visible to the relevant player(s), then the remainder of the sentence is treated as the next instruction.",
+  "text_plain": "Some older cards direct a player to look at or reveal a set of cards in the same sentence as the effects that will be performed upon those cards. Treat these sentences as if making the cards visible to the relevant player(s) is the end of an instruction. A checkpoint occurs once the cards are visible to the relevant player(s), then the remainder of the sentence is treated as the next instruction.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_look_reveal_instruction__example_1",
+      "text_markup": "The Corp is resolving the first subroutine on {card:Architect}, which, in one sentence, allows the Corp to look at cards in R&D and install one of them. Looking at the top 5 cards of R&D ends the ability's first instruction. Once the Corp is able to see those cards, they can choose a target for the second instruction, which will install it. Since the install is optional, the Corp can also decline to choose a target, and the second instruction will have no effect. After the second instruction resolves, the ability is complete, and the Corp's permission to look at cards in R&D ends.",
+      "text_plain": "The Corp is resolving the first subroutine on Architect, which, in one sentence, allows the Corp to look at cards in R&D and install one of them. Looking at the top 5 cards of R&D ends the ability's first instruction. Once the Corp is able to see those cards, they can choose a target for the second instruction, which will install it. Since the install is optional, the Corp can also decline to choose a target, and the second instruction will have no effect. After the second instruction resolves, the ability is complete, and the Corp's permission to look at cards in R&D ends.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_look_reveal_instruction"
+}

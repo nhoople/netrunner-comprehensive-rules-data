@@ -1,0 +1,19 @@
+{
+  "id": "rule_corp_faction_list",
+  "kind": "rule",
+  "number": "2.13.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_faction_list",
+  "child_ids": [],
+  "text_markup": "The Corp factions are Haas-Bioroid, Jinteki, NBN, and the Weyland Consortium.",
+  "text_plain": "The Corp factions are Haas-Bioroid, Jinteki, NBN, and the Weyland Consortium.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_faction_list"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sec_prevent_avoid",
+  "kind": "subsection",
+  "number": "9.9.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interrupts_replacements",
+  "child_ids": [
+    "rule_ordinal_would",
+    "rule_ordinal_prevented"
+  ],
+  "text_markup": "To {term:prevent} or {term:avoid} an effect is to stop that effect from happening. The terms \"prevent\" and \"avoid\" are synonymous.",
+  "text_plain": "To prevent or avoid an effect is to stop that effect from happening. The terms \"prevent\" and \"avoid\" are synonymous.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 10,
+      "target": "prevent"
+    },
+    {
+      "type": "term",
+      "start": 14,
+      "end": 19,
+      "target": "avoid"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_prevent_avoid"
+}

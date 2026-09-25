@@ -1,0 +1,35 @@
+{
+  "id": "rule_cost_condition",
+  "kind": "rule",
+  "number": "9.3.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_condition",
+  "child_ids": [],
+  "text_markup": "A {term:cost condition} describes a cost (either a nested cost or a trigger cost) that a player must pay to apply an effect. Costs are discussed in detail in {ref:sec_costs}.",
+  "text_plain": "A cost condition describes a cost (either a nested cost or a trigger cost) that a player must pay to apply an effect. Costs are discussed in detail in section 1.16.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 16,
+      "target": "cost condition"
+    },
+    {
+      "type": "ref",
+      "start": 151,
+      "end": 163,
+      "ids": [
+        "sec_costs"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cost_condition"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_controller_choices",
+  "kind": "subsection",
+  "number": "1.14.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_ownership",
+  "child_ids": [
+    "rule_trigger_condition_effect_by_player",
+    "rule_controller_choices__example_1"
+  ],
+  "text_markup": "Unless otherwise noted, the controller of an ability carries out its effects and makes any choices required. If a player is specified to perform all or part of an effect, the specified player carries out that part of the effect and makes any choices required instead.",
+  "text_plain": "Unless otherwise noted, the controller of an ability carries out its effects and makes any choices required. If a player is specified to perform all or part of an effect, the specified player carries out that part of the effect and makes any choices required instead.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_controller_choices__example_1",
+      "text_markup": "{card:Rototurret}'s first subroutine reads, \"Trash 1 installed program.\" Since {card:Rototurret} is a Corp card, the Corp chooses which installed program to trash. Conversely, {card:Bulwark}'s first subroutine reads, \"The Runner trashes 1 installed program.\" Since the Runner is specified to be carrying out this effect, they choose which of their installed programs to trash.",
+      "text_plain": "Rototurret's first subroutine reads, \"Trash 1 installed program.\" Since Rototurret is a Corp card, the Corp chooses which installed program to trash. Conversely, Bulwark's first subroutine reads, \"The Runner trashes 1 installed program.\" Since the Runner is specified to be carrying out this effect, they choose which of their installed programs to trash.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_controller_choices"
+}

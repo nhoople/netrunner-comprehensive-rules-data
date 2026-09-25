@@ -1,0 +1,26 @@
+{
+  "id": "rule_trigger_paid_abilities",
+  "kind": "subsection",
+  "number": "9.5.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_paid_abilities",
+  "child_ids": [
+    "rule_action",
+    "rule_interrupt",
+    "rule_mid_access_ability",
+    "rule_interface_ability",
+    "rule_paid_ability_timing_restriction_reference",
+    "rule_other_paid_abilities"
+  ],
+  "text_markup": "A player can trigger paid abilities they control while they have priority in an appropriate priority window.",
+  "text_plain": "A player can trigger paid abilities they control while they have priority in an appropriate priority window.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trigger_paid_abilities"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_search_multiple_cards",
+  "kind": "rule",
+  "number": "8.7.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_find",
+  "child_ids": [],
+  "text_markup": "If a player is searching for a set number of cards without any specified criteria, they must find that many cards from that zone or all the cards in that zone if there are not enough.",
+  "text_plain": "If a player is searching for a set number of cards without any specified criteria, they must find that many cards from that zone or all the cards in that zone if there are not enough.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_search_multiple_cards"
+}

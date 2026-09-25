@@ -1,0 +1,29 @@
+{
+  "id": "chpt_game_zones",
+  "kind": "chapter",
+  "number": "4",
+  "ref_type": "section",
+  "title": "Game Zones",
+  "parent_id": null,
+  "child_ids": [
+    "sec_game_zones_general",
+    "sec_deck",
+    "sec_hand",
+    "sec_discard_pile",
+    "sec_score_area",
+    "sec_play_area",
+    "sec_bank",
+    "sec_set_aside",
+    "sec_removed_from_game"
+  ],
+  "text_markup": "Game Zones",
+  "text_plain": "Game Zones",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=chpt_game_zones"
+}

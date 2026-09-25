@@ -1,0 +1,29 @@
+{
+  "id": "rule_play_area_faceup_facedown",
+  "kind": "rule",
+  "number": "4.6.4d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_area_active_inactive",
+  "child_ids": [],
+  "text_markup": "Some Runner cards are installed facedown or turned facedown through card abilities. This is distinct from the status of rezzed/unrezzed that Corp cards can have. Facedown Runner cards are not active. See {ref:sec_facedown_runner_cards}.",
+  "text_plain": "Some Runner cards are installed facedown or turned facedown through card abilities. This is distinct from the status of rezzed/unrezzed that Corp cards can have. Facedown Runner cards are not active. See section 8.1.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 204,
+      "end": 217,
+      "ids": [
+        "sec_facedown_runner_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_faceup_facedown"
+}

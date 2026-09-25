@@ -1,0 +1,19 @@
+{
+  "id": "rule_sabotage_when_corp_can_look_facedown",
+  "kind": "rule",
+  "number": "10.12.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_sabotage_resolution",
+  "child_ids": [],
+  "text_markup": "The Corp cannot look at cards trashed from R&D by a sabotage effect until after making all decisions for the resolution of that effect.",
+  "text_plain": "The Corp cannot look at cards trashed from R&D by a sabotage effect until after making all decisions for the resolution of that effect.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_sabotage_when_corp_can_look_facedown"
+}

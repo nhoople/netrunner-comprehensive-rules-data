@@ -1,0 +1,19 @@
+{
+  "id": "rule_maximum_copies",
+  "kind": "rule",
+  "number": "1.4.7",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_deck_construction",
+  "child_ids": [],
+  "text_markup": "The deck cannot contain more than 3 copies of any single card, by name. Some cards stipulate alternative copy limits in their card text.",
+  "text_plain": "The deck cannot contain more than 3 copies of any single card, by name. Some cards stipulate alternative copy limits in their card text.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_maximum_copies"
+}

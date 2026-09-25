@@ -1,0 +1,28 @@
+{
+  "id": "rule_corp_actions",
+  "kind": "subsection",
+  "number": "5.2.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_actions",
+  "child_ids": [
+    "rule_corp_basic_actions",
+    "rule_corp_basic_action_credit",
+    "rule_corp_basic_action_draw",
+    "rule_corp_basic_action_install",
+    "rule_corp_basic_action_operation",
+    "corp_basic_action_advance",
+    "corp_basic_action_trash_resource",
+    "corp_basic_action_purge_virus_counters"
+  ],
+  "text_markup": "Corp Actions",
+  "text_plain": "Corp Actions",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_actions"
+}

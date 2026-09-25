@@ -1,0 +1,53 @@
+{
+  "id": "rule_number_of_accesses__example_2",
+  "kind": "example",
+  "number": "7.3.6.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_number_of_accesses",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:Immolation Script}, and the subroutine on {card:Hudson 1.0} resolves before Archives is breached. {n}When the Runner breaches Archives, the first candidate they choose is a piece of ice, and they apply the replacement effect from {card:Immolation Script} to trash a rezzed copy of the chosen ice instead of accessing the candidate copy. No card was actually accessed, so the Runner can proceed to choose another candidate. However, if the Runner had first accessed a card without applying {card:Immolation Script}'s replacement effect, they would then be prohibited from accessing any more cards, so there would be no more candidates to choose and they could not apply a replacement effect afterward.{/n}",
+  "text_plain": "The Runner plays Immolation Script, and the subroutine on Hudson 1.0 resolves before Archives is breached. When the Runner breaches Archives, the first candidate they choose is a piece of ice, and they apply the replacement effect from Immolation Script to trash a rezzed copy of the chosen ice instead of accessing the candidate copy. No card was actually accessed, so the Runner can proceed to choose another candidate. However, if the Runner had first accessed a card without applying Immolation Script's replacement effect, they would then be prohibited from accessing any more cards, so there would be no more candidates to choose and they could not apply a replacement effect afterward.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 34,
+      "target": "Immolation Script",
+      "card_code": "08041"
+    },
+    {
+      "type": "card",
+      "start": 58,
+      "end": 68,
+      "target": "Hudson 1.0",
+      "card_code": "20067"
+    },
+    {
+      "type": "card",
+      "start": 236,
+      "end": 253,
+      "target": "Immolation Script",
+      "card_code": "08041"
+    },
+    {
+      "type": "card",
+      "start": 488,
+      "end": 505,
+      "target": "Immolation Script",
+      "card_code": "08041"
+    },
+    {
+      "type": "new",
+      "start": 107,
+      "end": 692
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

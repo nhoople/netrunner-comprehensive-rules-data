@@ -1,0 +1,35 @@
+{
+  "id": "runner_basic_action_run",
+  "kind": "rule",
+  "number": "5.2.7f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_runner_actions",
+  "child_ids": [],
+  "text_markup": "\"[click]: Run any server.\" See {ref:chpt_runs}.",
+  "text_plain": "\"{click}: Run any server.\" See section 6.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 1,
+      "end": 8,
+      "target": "click"
+    },
+    {
+      "type": "ref",
+      "start": 31,
+      "end": 40,
+      "ids": [
+        "chpt_runs"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=runner_basic_action_run"
+}

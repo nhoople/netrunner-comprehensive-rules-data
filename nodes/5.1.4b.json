@@ -1,0 +1,19 @@
+{
+  "id": "rule_turn_end_trigger_conditions",
+  "kind": "rule",
+  "number": "5.1.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_begin_end_turn_step",
+  "child_ids": [],
+  "text_markup": "Trigger conditions related to a turn or discard phase ending are met at the timing step that indicates the formal end of the turn. They are not met when the turn timing structure later closes. The end of the turn and the end of the discard phase are the same.",
+  "text_plain": "Trigger conditions related to a turn or discard phase ending are met at the timing step that indicates the formal end of the turn. They are not met when the turn timing structure later closes. The end of the turn and the end of the discard phase are the same.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_turn_end_trigger_conditions"
+}

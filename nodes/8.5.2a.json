@@ -1,0 +1,19 @@
+{
+  "id": "rule_corp_install_choose_destination_server",
+  "kind": "rule",
+  "number": "8.5.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_corp_cards_default_install",
+  "child_ids": [],
+  "text_markup": "As part of installing a card, the Corp chooses which server will be the destination for that card. The Corp can either choose an already existing server as the destination or announces that the card will create a new remote server.",
+  "text_plain": "As part of installing a card, the Corp chooses which server will be the destination for that card. The Corp can either choose an already existing server as the destination or announces that the card will create a new remote server.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_install_choose_destination_server"
+}

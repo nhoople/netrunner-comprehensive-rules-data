@@ -1,0 +1,57 @@
+{
+  "id": "rule_subroutines_ordered",
+  "kind": "subsection",
+  "number": "9.8.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_subroutines",
+  "child_ids": [
+    "rule_subroutines_duplicated",
+    "rule_subroutines_static_ability_remove_subroutines",
+    "rule_gain_subroutines_in_any_order",
+    "rule_corp_decides_unspecified_order"
+  ],
+  "text_markup": "Subroutines always have a specified order. {n}Subroutines on a piece of ice are categorized based on how the ice gained them, as described in {ref:rule_subroutine_origins}. All subroutines in the first category presented ({ref:rule_subroutine_origin_external_before}) are ordered first, followed by all subroutines in the second category ({ref:rule_subroutine_origin_static_before}), and so on. Each category's description includes the rule for how multiple subroutines within that category are ordered.{/n}",
+  "text_plain": "Subroutines always have a specified order. Subroutines on a piece of ice are categorized based on how the ice gained them, as described in section 9.8.3. All subroutines in the first category presented (rule 9.8.3a) are ordered first, followed by all subroutines in the second category (rule 9.8.3b), and so on. Each category's description includes the rule for how multiple subroutines within that category are ordered.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 139,
+      "end": 152,
+      "ids": [
+        "rule_subroutine_origins"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 203,
+      "end": 214,
+      "ids": [
+        "rule_subroutine_origin_external_before"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 287,
+      "end": 298,
+      "ids": [
+        "rule_subroutine_origin_static_before"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "new",
+      "start": 43,
+      "end": 420
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutines_ordered"
+}

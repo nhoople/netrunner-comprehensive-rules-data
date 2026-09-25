@@ -1,0 +1,19 @@
+{
+  "id": "step_runner_turn_formal_end",
+  "kind": "rule",
+  "number": "5.7.2d",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "subsec_runner_discard_phase",
+  "child_ids": [],
+  "text_markup": "The Runner's turn formally ends. Conditions related to the turn or discard phase ending are met.",
+  "text_plain": "The Runner's turn formally ends. Conditions related to the turn or discard phase ending are met.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_runner_turn_formal_end"
+}

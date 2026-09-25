@@ -1,0 +1,29 @@
+{
+  "id": "rule_steps_installing_trash_like_cards",
+  "kind": "rule",
+  "number": "8.5.16c",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_installing",
+  "child_ids": [],
+  "text_markup": "Trash like cards as described in {ref:rule_install_trash_like_cards}.",
+  "text_plain": "Trash like cards as described in section 8.5.6.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 33,
+      "end": 46,
+      "ids": [
+        "rule_install_trash_like_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_steps_installing_trash_like_cards"
+}

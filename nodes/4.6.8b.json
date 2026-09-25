@@ -1,0 +1,19 @@
+{
+  "id": "rule_creating_remote_servers",
+  "kind": "rule",
+  "number": "4.6.8b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_remote_servers",
+  "child_ids": [],
+  "text_markup": "The Corp starts the game with no remote servers. The Corp creates a new remote server by declaring it as the destination server for a card they are about to install. There is usually no limit to the number of remote servers the Corp can have at any given time.",
+  "text_plain": "The Corp starts the game with no remote servers. The Corp creates a new remote server by declaring it as the destination server for a card they are about to install. There is usually no limit to the number of remote servers the Corp can have at any given time.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_creating_remote_servers"
+}

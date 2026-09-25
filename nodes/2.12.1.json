@@ -1,0 +1,19 @@
+{
+  "id": "rule_inf_limit_location",
+  "kind": "rule",
+  "number": "2.12.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_inf_limit",
+  "child_ids": [],
+  "text_markup": "The influence limit is a number shown as the lowermost of two small boxes in the lower-left of Corp identities and the lower-right of Runner identities.",
+  "text_plain": "The influence limit is a number shown as the lowermost of two small boxes in the lower-left of Corp identities and the lower-right of Runner identities.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_inf_limit_location"
+}

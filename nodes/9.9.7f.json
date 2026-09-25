@@ -1,0 +1,36 @@
+{
+  "id": "rule_prevent_as_trigger_condition",
+  "kind": "rule",
+  "number": "9.9.7f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_calculating_expected_effect_values",
+  "child_ids": [
+    "rule_prevent_as_trigger_condition__example_1"
+  ],
+  "text_markup": "One card, {card:Guru Davinder}, has a non-interrupt conditional ability with the trigger condition \"Whenever this resource prevents 1 or more damage\". The trigger condition is met when the following occurs: the expected effects of an imminent instruction include a damage effect with a value greater than 0 for the amount of the damage; an interrupt ability resolves from the same source object as the conditional ability; and the interrupt decreases the value for the damage amount or removes the damage effect entirely.",
+  "text_plain": "One card, Guru Davinder, has a non-interrupt conditional ability with the trigger condition \"Whenever this resource prevents 1 or more damage\". The trigger condition is met when the following occurs: the expected effects of an imminent instruction include a damage effect with a value greater than 0 for the amount of the damage; an interrupt ability resolves from the same source object as the conditional ability; and the interrupt decreases the value for the damage amount or removes the damage effect entirely.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 23,
+      "target": "Guru Davinder",
+      "card_code": "10084"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_prevent_as_trigger_condition__example_1",
+      "text_markup": "The Runner accesses {card:Angelique Garza Correa} and the Corp pays 2[c], making the \"Do 2 meat damage\" instruction imminent. The Runner uses {card:Plascrete Carapace} to prevent 2 meat damage, leaving the imminent instruction with the expected effect \"Do 0 meat damage.\". At this point, the 0 value for the damage can still be modified by abilities like {card:The Cleaners}. But then the Runner resolves the interrupt ability on {card:Guru Davinder}, which removes the damage effect altogether. Since the value for the damage was 0, {card:Guru Davinder}'s second ability does not meet its trigger condition and the Runner does not have to trash {card:Guru Davinder} or pay 4[c]. There is no longer an imminent damage effect, so the Corp cannot use {card:The Cleaners}.",
+      "text_plain": "The Runner accesses Angelique Garza Correa and the Corp pays 2{c}, making the \"Do 2 meat damage\" instruction imminent. The Runner uses Plascrete Carapace to prevent 2 meat damage, leaving the imminent instruction with the expected effect \"Do 0 meat damage.\". At this point, the 0 value for the damage can still be modified by abilities like The Cleaners. But then the Runner resolves the interrupt ability on Guru Davinder, which removes the damage effect altogether. Since the value for the damage was 0, Guru Davinder's second ability does not meet its trigger condition and the Runner does not have to trash Guru Davinder or pay 4{c}. There is no longer an imminent damage effect, so the Corp cannot use The Cleaners.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_prevent_as_trigger_condition"
+}

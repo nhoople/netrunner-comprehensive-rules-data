@@ -1,0 +1,29 @@
+{
+  "id": "rule_play_area_location",
+  "kind": "rule",
+  "number": "4.1.7b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_location",
+  "child_ids": [],
+  "text_markup": "Some objects in the play area are in specific locations. See {ref:rule_play_area_organization}.",
+  "text_plain": "Some objects in the play area are in specific locations. See section 4.6.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 61,
+      "end": 74,
+      "ids": [
+        "rule_play_area_organization"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_location"
+}

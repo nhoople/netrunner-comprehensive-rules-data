@@ -1,0 +1,35 @@
+{
+  "id": "rule_values_defined_by_x",
+  "kind": "rule",
+  "number": "9.12.2e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_quantities_and_sets",
+  "child_ids": [
+    "rule_values_defined_by_x__example_1",
+    "rule_values_defined_by_x__example_2"
+  ],
+  "text_markup": "Some values are defined with a variable \"X\". If the ability defining X is inactive or if the value of X cannot be evaluated, treat X as equal to 0.",
+  "text_plain": "Some values are defined with a variable \"X\". If the ability defining X is inactive or if the value of X cannot be evaluated, treat X as equal to 0.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_values_defined_by_x__example_1",
+      "text_markup": "The Corp uses the ability granted by {card:ZATO City Grid} to trash {card:Surveyor} and resolve one of its subroutines. Since {card:Surveyor} is in Archives when the trace on the subroutine initiates, the ability defining X is inactive, so the base trace strength is 0.",
+      "text_plain": "The Corp uses the ability granted by ZATO City Grid to trash Surveyor and resolve one of its subroutines. Since Surveyor is in Archives when the trace on the subroutine initiates, the ability defining X is inactive, so the base trace strength is 0.",
+      "is_new": false
+    },
+    {
+      "id": "rule_values_defined_by_x__example_2",
+      "text_markup": "{card:Hush} is hosted on {card:Surveyor}. The ability defining X is lost, so {card:Surveyor}'s strength is 0.",
+      "text_plain": "Hush is hosted on Surveyor. The ability defining X is lost, so Surveyor's strength is 0.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_values_defined_by_x"
+}

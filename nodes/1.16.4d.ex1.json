@@ -1,0 +1,53 @@
+{
+  "id": "rule_inherent_cost_aggregates__example_1",
+  "kind": "example",
+  "number": "1.16.4d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_inherent_cost_aggregates",
+  "child_ids": [],
+  "text_markup": "The Corp has {card:Jeeves Model Bioroids} rezzed, and uses the basic action \"[click]: Play an operation.\" to play {card:Blue Level Clearance}. Both the click spent for the cost of the basic action and the click spent for {card:Blue Level Clearance}'s additional cost count as clicks spent to take the \"[click]: Play an operation.\" action.",
+  "text_plain": "The Corp has Jeeves Model Bioroids rezzed, and uses the basic action \"{click}: Play an operation.\" to play Blue Level Clearance. Both the click spent for the cost of the basic action and the click spent for Blue Level Clearance's additional cost count as clicks spent to take the \"{click}: Play an operation.\" action.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 13,
+      "end": 34,
+      "target": "Jeeves Model Bioroids",
+      "card_code": "10067"
+    },
+    {
+      "type": "symbol",
+      "start": 70,
+      "end": 77,
+      "target": "click"
+    },
+    {
+      "type": "card",
+      "start": 107,
+      "end": 127,
+      "target": "Blue Level Clearance",
+      "card_code": "04090"
+    },
+    {
+      "type": "card",
+      "start": 207,
+      "end": 227,
+      "target": "Blue Level Clearance",
+      "card_code": "04090"
+    },
+    {
+      "type": "symbol",
+      "start": 281,
+      "end": 288,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

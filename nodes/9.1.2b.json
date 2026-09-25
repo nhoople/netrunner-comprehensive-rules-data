@@ -1,0 +1,54 @@
+{
+  "id": "rule_is_resolving",
+  "kind": "rule",
+  "number": "9.1.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_resolve_ability",
+  "child_ids": [
+    "rule_is_resolving__example_1",
+    "rule_is_resolving__example_2"
+  ],
+  "text_markup": "An ability \"is resolving\" from when its first instruction becomes imminent until its last instruction has finished resolving. See also {ref:sec_interrupts_replacements}. An event or operation \"is resolving\" throughout {ref:rule_steps_playing_resolve_play_abilities} of playing that event or operation.",
+  "text_plain": "An ability \"is resolving\" from when its first instruction becomes imminent until its last instruction has finished resolving. See also section 9.9. An event or operation \"is resolving\" throughout step 8.6.7f of playing that event or operation.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 135,
+      "end": 146,
+      "ids": [
+        "sec_interrupts_replacements"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 196,
+      "end": 207,
+      "ids": [
+        "rule_steps_playing_resolve_play_abilities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_is_resolving__example_1",
+      "text_markup": "The Corp resolves a subroutine on {card:Attini} while its first ability is active. The subroutine is resolving during the interrupt window for its instruction, so the Runner cannot spend credits during that window and will not be able to use {card:Caldera}'s ability to prevent net damage.",
+      "text_plain": "The Corp resolves a subroutine on Attini while its first ability is active. The subroutine is resolving during the interrupt window for its instruction, so the Runner cannot spend credits during that window and will not be able to use Caldera's ability to prevent net damage.",
+      "is_new": false
+    },
+    {
+      "id": "rule_is_resolving__example_2",
+      "text_markup": "The Runner is playing {card:Zahya Sadeghi: Versatile Smuggler} and plays {card:Direct Access} to run HQ. The static ability on {card:Direct Access} removes {card:Zahya Sadeghi}'s ability while it is resolving. Normally, that ability would meet its trigger condition and resolve immediately after the \"Run any server.\" instruction. This reaction window is outside of the run, but it is still part of {card:Direct Access} resolving, so the ability is not present at the needed time and cannot be triggered or resolved.",
+      "text_plain": "The Runner is playing Zahya Sadeghi: Versatile Smuggler and plays Direct Access to run HQ. The static ability on Direct Access removes Zahya Sadeghi's ability while it is resolving. Normally, that ability would meet its trigger condition and resolve immediately after the \"Run any server.\" instruction. This reaction window is outside of the run, but it is still part of Direct Access resolving, so the ability is not present at the needed time and cannot be triggered or resolved.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_is_resolving"
+}

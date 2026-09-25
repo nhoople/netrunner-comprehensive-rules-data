@@ -1,0 +1,26 @@
+{
+  "id": "sec_appendix_timing_structure_runners_turn_2_c",
+  "kind": "timing_structure",
+  "number": "11.3_2_c",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_runners_turn_2",
+  "child_ids": [],
+  "text_markup": "The Runner loses unspent [click].",
+  "text_plain": "The Runner loses unspent {click}.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 25,
+      "end": 32,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_runners_turn_2_c"
+}

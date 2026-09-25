@@ -1,0 +1,19 @@
+{
+  "id": "rule_archives_discard_pile",
+  "kind": "rule",
+  "number": "4.6.7d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_central_servers",
+  "child_ids": [],
+  "text_markup": "The Corp's discard pile is placed in the play area to indicate the location of Archives relative to other servers, but the cards in the discard pile are not installed. The cards in Archives are the cards in the discard pile. The upgrades installed in the root of Archives are placed in a vertical orientation near the discard pile. The ice installed protecting Archives are placed in a horizontal orientation in front of the discard pile outwards towards the Runner.",
+  "text_plain": "The Corp's discard pile is placed in the play area to indicate the location of Archives relative to other servers, but the cards in the discard pile are not installed. The cards in Archives are the cards in the discard pile. The upgrades installed in the root of Archives are placed in a vertical orientation near the discard pile. The ice installed protecting Archives are placed in a horizontal orientation in front of the discard pile outwards towards the Runner.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_archives_discard_pile"
+}

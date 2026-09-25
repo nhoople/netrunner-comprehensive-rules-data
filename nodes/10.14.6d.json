@@ -1,0 +1,19 @@
+{
+  "id": "rule_psi_outcome",
+  "kind": "rule",
+  "number": "10.14.6d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_psi_games",
+  "child_ids": [],
+  "text_markup": "In an ability that calls for a Psi Game, subsequent instructions will depend on the outcome of the Psi Game. The condition \"if the bids match\" is satisfied if the Corp and Runner bid the same number of credits. The condition \"if the bids differ\" is satisfied if the Corp and Runner did not bid the same number of credits.",
+  "text_plain": "In an ability that calls for a Psi Game, subsequent instructions will depend on the outcome of the Psi Game. The condition \"if the bids match\" is satisfied if the Corp and Runner bid the same number of credits. The condition \"if the bids differ\" is satisfied if the Corp and Runner did not bid the same number of credits.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_psi_outcome"
+}

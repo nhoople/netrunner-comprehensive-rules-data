@@ -1,0 +1,34 @@
+{
+  "id": "rule_prohibiting_access_to_1",
+  "kind": "rule",
+  "number": "7.4.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_prohibiting_access",
+  "child_ids": [
+    "rule_prohibiting_access_to_1__example_1"
+  ],
+  "text_markup": "{n}Some abilities state that the Runner \"cannot access more than 1 card\" during a particular run. The effect of this ability is that as long as the Runner has accessed a card during the indicated run, they are prohibited from accessing other cards during that run. The ability has no effect on breaches or candidates until a card has been accessed, and for breaches of HQ and R&D, it never affects the random access limit, even if a card was accessed before the breach began.{/n}",
+  "text_plain": "Some abilities state that the Runner \"cannot access more than 1 card\" during a particular run. The effect of this ability is that as long as the Runner has accessed a card during the indicated run, they are prohibited from accessing other cards during that run. The ability has no effect on breaches or candidates until a card has been accessed, and for breaches of HQ and R&D, it never affects the random access limit, even if a card was accessed before the breach began.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 0,
+      "end": 472
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_prohibiting_access_to_1__example_1",
+      "text_markup": "The Runner breaches HQ during a run on HQ while {card:Flagship} is rezzed in the root of HQ, and they have an installed copy of {card:Docklands Pass}, but they have previously accessed a card during that run because of {card:Otoroshi}'s ability. The random access limit is still set to 2, but since the Runner is not allowed to access any cards other than {card:Flagship}, none of the cards in the Corp's hand will be candidates. If {card:Flagship}'s ability becomes inactive before the breach ends, the cards in the Corp's hand will become candidates and the Runner will be able to access 2 of them.",
+      "text_plain": "The Runner breaches HQ during a run on HQ while Flagship is rezzed in the root of HQ, and they have an installed copy of Docklands Pass, but they have previously accessed a card during that run because of Otoroshi's ability. The random access limit is still set to 2, but since the Runner is not allowed to access any cards other than Flagship, none of the cards in the Corp's hand will be candidates. If Flagship's ability becomes inactive before the breach ends, the cards in the Corp's hand will become candidates and the Runner will be able to access 2 of them.",
+      "is_new": true
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_prohibiting_access_to_1"
+}

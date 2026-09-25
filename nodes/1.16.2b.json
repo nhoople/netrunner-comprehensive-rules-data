@@ -1,0 +1,47 @@
+{
+  "id": "rule_cost_quantities",
+  "kind": "rule",
+  "number": "1.16.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_modified_costs",
+  "child_ids": [
+    "rule_cost_quantities__example_1"
+  ],
+  "text_markup": "Some abilities calculate a quantity using phrases like \"for each\", \"for every\", or \"plus\". Any time such a calculation appears in a cost, the result of that calculation is determined at the time the cost is to be paid. The result is taken as an aggregate, so that paying the cost is a single instance of whatever was paid. Note that additional costs ({ref:rule_nested_cost}) are not aggregated with other costs. See also {ref:Subsec_quantities_and_sets} for rules about calculated quantities that appear in other contexts.",
+  "text_plain": "Some abilities calculate a quantity using phrases like \"for each\", \"for every\", or \"plus\". Any time such a calculation appears in a cost, the result of that calculation is determined at the time the cost is to be paid. The result is taken as an aggregate, so that paying the cost is a single instance of whatever was paid. Note that additional costs (section 1.16.11) are not aggregated with other costs. See also Section 9.12.2 for rules about calculated quantities that appear in other contexts.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 351,
+      "end": 366,
+      "ids": [
+        "rule_nested_cost"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 414,
+      "end": 428,
+      "ids": [
+        "subsec_quantities_and_sets"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_cost_quantities__example_1",
+      "text_markup": "The Runner approaches a server protected by 3 advanced pieces of ice and with a rezzed {card:Cayambe Grid} in its root. They pay the nested cost in {card:Cayambe Grid}'s ability. This cost is 1 payment of 6[c], not 3 payments of 2[c], so this only meets the trigger condition for 1 instance of {card:GameNET}'s ability.",
+      "text_plain": "The Runner approaches a server protected by 3 advanced pieces of ice and with a rezzed Cayambe Grid in its root. They pay the nested cost in Cayambe Grid's ability. This cost is 1 payment of 6{c}, not 3 payments of 2{c}, so this only meets the trigger condition for 1 instance of GameNET's ability.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cost_quantities"
+}

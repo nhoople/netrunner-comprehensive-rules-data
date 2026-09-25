@@ -1,0 +1,52 @@
+{
+  "id": "rule_mandatory_choice__example_1",
+  "kind": "example",
+  "number": "9.12.3c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_mandatory_choice",
+  "child_ids": [],
+  "text_markup": "If the first subroutine on {card:Fairchild 2.0} resolves while the Runner has no installed cards but 3[c], then the Runner must choose to pay 2[c]. When the second subroutine on {card:Fairchild 2.0} resolves, the Runner can neither pay 2[c] nor trash an installed card, so nothing happens.",
+  "text_plain": "If the first subroutine on Fairchild 2.0 resolves while the Runner has no installed cards but 3{c}, then the Runner must choose to pay 2{c}. When the second subroutine on Fairchild 2.0 resolves, the Runner can neither pay 2{c} nor trash an installed card, so nothing happens.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 27,
+      "end": 40,
+      "target": "Fairchild 2.0",
+      "card_code": "11031"
+    },
+    {
+      "type": "symbol",
+      "start": 95,
+      "end": 98,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 136,
+      "end": 139,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 171,
+      "end": 184,
+      "target": "Fairchild 2.0",
+      "card_code": "11031"
+    },
+    {
+      "type": "symbol",
+      "start": 223,
+      "end": 226,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

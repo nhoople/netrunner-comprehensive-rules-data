@@ -1,0 +1,29 @@
+{
+  "id": "rule_instruction_target",
+  "kind": "rule",
+  "number": "9.3.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction",
+  "child_ids": [],
+  "text_markup": "If an instruction requires any targets, players announce those targets before that instruction becomes imminent. See {ref:sec_targets}.",
+  "text_plain": "If an instruction requires any targets, players announce those targets before that instruction becomes imminent. See section 1.15.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 117,
+      "end": 129,
+      "ids": [
+        "sec_targets"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_instruction_target"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rule_reveal_for_install_and_rez__example_1",
+  "kind": "example",
+  "number": "8.5.13d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_reveal_for_install_and_rez",
+  "child_ids": [],
+  "text_markup": "The Corp plays {card:Trust Operation} and installs an agenda from Archives with its \"install and rez\" effect. Since agendas cannot be rezzed, the Corp must reveal the installed agenda.",
+  "text_plain": "The Corp plays Trust Operation and installs an agenda from Archives with its \"install and rez\" effect. Since agendas cannot be rezzed, the Corp must reveal the installed agenda.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 30,
+      "target": "Trust Operation",
+      "card_code": "33065"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

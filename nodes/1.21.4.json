@@ -1,0 +1,26 @@
+{
+  "id": "rule_expose",
+  "kind": "rule",
+  "number": "1.21.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_visibility",
+  "child_ids": [],
+  "text_markup": "Some abilities instruct the Runner to {term:expose} one or more cards. To expose a card is to reveal it, except that only installed, unrezzed cards can be exposed.",
+  "text_plain": "Some abilities instruct the Runner to expose one or more cards. To expose a card is to reveal it, except that only installed, unrezzed cards can be exposed.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 38,
+      "end": 44,
+      "target": "expose"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_expose"
+}

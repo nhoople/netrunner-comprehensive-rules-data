@@ -1,0 +1,19 @@
+{
+  "id": "rule_agenda_stolen",
+  "kind": "rule",
+  "number": "1.17.7",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_score_scoring_steal",
+  "child_ids": [],
+  "text_markup": "Some agendas and other cards have abilities with a trigger condition related to an agenda being stolen. These abilities become pending after the Runner moves the agenda from its current zone to their score area.",
+  "text_plain": "Some agendas and other cards have abilities with a trigger condition related to an agenda being stolen. These abilities become pending after the Runner moves the agenda from its current zone to their score area.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_agenda_stolen"
+}

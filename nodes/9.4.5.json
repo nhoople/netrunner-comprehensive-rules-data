@@ -1,0 +1,28 @@
+{
+  "id": "rule_static_modification_keep_restrictions",
+  "kind": "rule",
+  "number": "9.4.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_static_abilities",
+  "child_ids": [
+    "rule_static_modification_keep_restrictions__example_1"
+  ],
+  "text_markup": "Static abilities that modify a value maintain the same restrictions and specifications that were present on the original value.",
+  "text_plain": "Static abilities that modify a value maintain the same restrictions and specifications that were present on the original value.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_static_modification_keep_restrictions__example_1",
+      "text_markup": "{card:The Cleaners} has a static ability that gives every instance of meat damage done by the Corp +1 to the amount of the damage. Part of {card:Flare}'s effect does 2 meat damage that can't be prevented. If this effect resolves while {card:The Cleaners} is active, then all 3 points of meat damage are unpreventable.",
+      "text_plain": "The Cleaners has a static ability that gives every instance of meat damage done by the Corp +1 to the amount of the damage. Part of Flare's effect does 2 meat damage that can't be prevented. If this effect resolves while The Cleaners is active, then all 3 points of meat damage are unpreventable.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_static_modification_keep_restrictions"
+}

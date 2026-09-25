@@ -1,0 +1,19 @@
+{
+  "id": "rule_steps_installing_become_installed",
+  "kind": "rule",
+  "number": "8.5.16e",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_installing",
+  "child_ids": [],
+  "text_markup": "If the card is to be the first card in the root of or protecting a new remote server, that server is created. Move the card to the chosen install location. It becomes installed. If the card is faceup, it becomes active.",
+  "text_plain": "If the card is to be the first card in the root of or protecting a new remote server, that server is created. Move the card to the chosen install location. It becomes installed. If the card is faceup, it becomes active.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_steps_installing_become_installed"
+}

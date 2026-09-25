@@ -1,0 +1,29 @@
+{
+  "id": "rule_ability_active_inactive_source_card",
+  "kind": "subsection",
+  "number": "9.1.8",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_abilities_general",
+  "child_ids": [
+    "rule_active_exception_access",
+    "rule_active_exception_catchall",
+    "rule_active_exception_modify_play_install_rez",
+    "rule_active_exception_modify_cost",
+    "rule_active_exception_advancement_requirement",
+    "rule_active_exception_can_be_advanced",
+    "rule_active_exception_conditional_move_to_inactive_zone",
+    "rule_active_exception_encounter_not_installed",
+    "rule_active_exception_persistent"
+  ],
+  "text_markup": "Some types of abilities are active even while their source card is inactive.",
+  "text_plain": "Some types of abilities are active even while their source card is inactive.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ability_active_inactive_source_card"
+}

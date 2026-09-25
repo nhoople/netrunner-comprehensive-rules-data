@@ -1,0 +1,19 @@
+{
+  "id": "rule_hosted_limit",
+  "kind": "rule",
+  "number": "1.13.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [],
+  "text_markup": "An object can only be hosted on a single card at any given time.",
+  "text_plain": "An object can only be hosted on a single card at any given time.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_limit"
+}

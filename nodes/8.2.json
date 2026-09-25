@@ -1,0 +1,32 @@
+{
+  "id": "sec_card_movements",
+  "kind": "section",
+  "number": "8.2",
+  "ref_type": "section",
+  "title": "Card Movements",
+  "parent_id": "chpt_card_manipulation",
+  "child_ids": [
+    "sec_movement",
+    "sec_replacing_movements",
+    "movement_arrange",
+    "movement_draw",
+    "movement_forfeit",
+    "movement_install",
+    "movement_play",
+    "movement_search",
+    "movement_score",
+    "movement_steal",
+    "movement_swap",
+    "movement_trash"
+  ],
+  "text_markup": "Card Movements",
+  "text_plain": "Card Movements",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_card_movements"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "step_runner_turn_action_loop",
+  "kind": "rule",
+  "number": "5.7.1g",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "subsec_runner_action_phase",
+  "child_ids": [],
+  "text_markup": "Return to (e).",
+  "text_plain": "Return to (e).",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_runner_turn_action_loop"
+}

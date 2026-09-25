@@ -1,0 +1,35 @@
+{
+  "id": "movement_play",
+  "kind": "rule",
+  "number": "8.2.7",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_movements",
+  "child_ids": [],
+  "text_markup": "To {term:play} an event or operation is to move it from its current zone to the play area, resolve its play abilities, and then trash it. The full rules for playing events and operations are detailed in {ref:sec_playing_events_and_operations}.",
+  "text_plain": "To play an event or operation is to move it from its current zone to the play area, resolve its play abilities, and then trash it. The full rules for playing events and operations are detailed in section 8.6.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 7,
+      "target": "play"
+    },
+    {
+      "type": "ref",
+      "start": 196,
+      "end": 207,
+      "ids": [
+        "sec_playing_events_and_operations"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=movement_play"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_delayed_conditional_ability_relevant_once",
+  "kind": "rule",
+  "number": "9.6.13c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_delayed_conditional_ability",
+  "child_ids": [
+    "rule_delayed_conditional_ability_relevant_once__example_1"
+  ],
+  "text_markup": "Any other delayed conditional ability exists until the next time it resolves, after which it expires.",
+  "text_plain": "Any other delayed conditional ability exists until the next time it resolves, after which it expires.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_delayed_conditional_ability_relevant_once__example_1",
+      "text_markup": "{card:Joshua B.}'s ability allows the Runner to gain [click]. If they do, it creates a delayed conditional ability that is independent of {card:Joshua B.} itself, which will meet its trigger condition only once, when that turn ends. After that ability resolves, the game no longer maintains the lingering effect creating the ability.",
+      "text_plain": "Joshua B.'s ability allows the Runner to gain {click}. If they do, it creates a delayed conditional ability that is independent of Joshua B. itself, which will meet its trigger condition only once, when that turn ends. After that ability resolves, the game no longer maintains the lingering effect creating the ability.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_delayed_conditional_ability_relevant_once"
+}

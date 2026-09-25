@@ -1,0 +1,19 @@
+{
+  "id": "rule_agenda_points_location",
+  "kind": "rule",
+  "number": "2.5.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_agenda_points",
+  "child_ids": [],
+  "text_markup": "The agenda point value appears only on agendas. It is the number in the center-left of the card, on top of a graphic depicting three pillars.",
+  "text_plain": "The agenda point value appears only on agendas. It is the number in the center-left of the card, on top of a graphic depicting three pillars.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_agenda_points_location"
+}

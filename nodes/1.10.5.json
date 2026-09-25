@@ -1,0 +1,24 @@
+{
+  "id": "rule_sec_recurring",
+  "kind": "subsection",
+  "number": "1.10.5",
+  "ref_type": "section",
+  "title": "Recurring Credits",
+  "parent_id": "sec_credits",
+  "child_ids": [
+    "rule_recurring_credits",
+    "rule_placing_recurring_credits",
+    "rule_refill_recurring_credits",
+    "rule_recurring_credits_do_not_accumulate"
+  ],
+  "text_markup": "Recurring Credits",
+  "text_plain": "Recurring Credits",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_sec_recurring"
+}

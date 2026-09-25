@@ -1,0 +1,29 @@
+{
+  "id": "rule_play_area_operation_events",
+  "kind": "rule",
+  "number": "4.6.5d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_area_organization",
+  "child_ids": [],
+  "text_markup": "There is no specific location in the play area for operations or events. They are simply played into the play area, where they resolve before being trashed. See {ref:sec_playing_events_and_operations}.",
+  "text_plain": "There is no specific location in the play area for operations or events. They are simply played into the play area, where they resolve before being trashed. See section 8.6.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 161,
+      "end": 172,
+      "ids": [
+        "sec_playing_events_and_operations"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_operation_events"
+}

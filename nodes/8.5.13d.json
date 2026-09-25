@@ -1,0 +1,45 @@
+{
+  "id": "rule_reveal_for_install_and_rez",
+  "kind": "rule",
+  "number": "8.5.13d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_install_from_hidden_or_secret_zone",
+  "child_ids": [
+    "rule_reveal_for_install_and_rez__example_1",
+    "rule_reveal_for_install_and_rez__example_2"
+  ],
+  "text_markup": "Some abilities \"install and rez\" 1 or more cards. If the player resolving an \"install and rez\" effect is allowed to choose a card that they are unable to rez, or if the installed card has an additional cost to rez that the player declines to pay (see {ref:rule_inherent_and_additional_cost}), the player must reveal the installed card, regardless of whether other restrictions apply.",
+  "text_plain": "Some abilities \"install and rez\" 1 or more cards. If the player resolving an \"install and rez\" effect is allowed to choose a card that they are unable to rez, or if the installed card has an additional cost to rez that the player declines to pay (see rule 1.16.4c), the player must reveal the installed card, regardless of whether other restrictions apply.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 251,
+      "end": 263,
+      "ids": [
+        "rule_inherent_and_additional_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_reveal_for_install_and_rez__example_1",
+      "text_markup": "The Corp plays {card:Trust Operation} and installs an agenda from Archives with its \"install and rez\" effect. Since agendas cannot be rezzed, the Corp must reveal the installed agenda.",
+      "text_plain": "The Corp plays Trust Operation and installs an agenda from Archives with its \"install and rez\" effect. Since agendas cannot be rezzed, the Corp must reveal the installed agenda.",
+      "is_new": false
+    },
+    {
+      "id": "rule_reveal_for_install_and_rez__example_2",
+      "text_markup": "The Corp plays {card:Ad Blitz}. Since the \"install and rez\" effect on this card stipulates \"if able\", the Corp cannot choose to install cards they are unable to rez, nor can they decline additional costs if any apply.",
+      "text_plain": "The Corp plays Ad Blitz. Since the \"install and rez\" effect on this card stipulates \"if able\", the Corp cannot choose to install cards they are unable to rez, nor can they decline additional costs if any apply.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_reveal_for_install_and_rez"
+}

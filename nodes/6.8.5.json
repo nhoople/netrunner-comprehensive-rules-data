@@ -1,0 +1,54 @@
+{
+  "id": "rule_run_ends_condition",
+  "kind": "rule",
+  "number": "6.8.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_run_ends_phase",
+  "child_ids": [
+    "rule_run_ends_condition__example_1",
+    "rule_run_ends_condition__example_2"
+  ],
+  "text_markup": "Conditions related to a run ending are not met as soon as an \"end the run\" effect resolves or at the beginning of the Run Ends Phase. Instead, these conditions are met at {ref:step_run_complete}, when the entire run timing structure is complete. Similarly, static abilities that apply during a run and durations that apply until the end of a run expire at {ref:step_run_complete}.",
+  "text_plain": "Conditions related to a run ending are not met as soon as an \"end the run\" effect resolves or at the beginning of the Run Ends Phase. Instead, these conditions are met at step 6.9.6d, when the entire run timing structure is complete. Similarly, static abilities that apply during a run and durations that apply until the end of a run expire at step 6.9.6d.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 171,
+      "end": 182,
+      "ids": [
+        "step_run_complete"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 344,
+      "end": 355,
+      "ids": [
+        "step_run_complete"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_run_ends_condition__example_1",
+      "text_markup": "The Runner plays {card:The Noble Path} to make a run in which they prevent all damage. During the run, the subroutine on Chum resolves, and then the Runner encounters {card:Wall of Static} and does not break its subroutine. When the \"end the run\" ability resolves, the encounter also ends, so the trigger condition on {card:Chum}'s delayed conditional ability is met. The ability will resolve and fail to damage the Runner during the Run Ends Phase, because {card:The Noble Path}'s effect still applies. Similarly, {card:Georgia Emelyov}'s first ability meets its trigger condition at {ref:step_run_declared_unsuccessful}, which is still before the run is over, so the damage will be prevented.",
+      "text_plain": "The Runner plays The Noble Path to make a run in which they prevent all damage. During the run, the subroutine on Chum resolves, and then the Runner encounters Wall of Static and does not break its subroutine. When the \"end the run\" ability resolves, the encounter also ends, so the trigger condition on Chum's delayed conditional ability is met. The ability will resolve and fail to damage the Runner during the Run Ends Phase, because The Noble Path's effect still applies. Similarly, Georgia Emelyov's first ability meets its trigger condition at step 6.9.6c, which is still before the run is over, so the damage will be prevented.",
+      "is_new": false
+    },
+    {
+      "id": "rule_run_ends_condition__example_2",
+      "text_markup": "The Runner plays {card:The Noble Path} to make a run in which they prevent all damage. The run is successful but the Runner takes a tag during the run. When the run ends, {card:Dedicated Response Team}'s ability meets its trigger condition at the same time that {card:The Noble Path}'s effect expires, so the Runner will suffer 2 meat damage.",
+      "text_plain": "The Runner plays The Noble Path to make a run in which they prevent all damage. The run is successful but the Runner takes a tag during the run. When the run ends, Dedicated Response Team's ability meets its trigger condition at the same time that The Noble Path's effect expires, so the Runner will suffer 2 meat damage.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_run_ends_condition"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_alternate_payment",
+  "kind": "rule",
+  "number": "1.16.2e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_modified_costs",
+  "child_ids": [
+    "rule_alternate_payment__example_1"
+  ],
+  "text_markup": "Some abilities modify a cost by allowing a player to pay part or all of that cost in an alternate way. This does not change the value of the cost, but gives the player an additional option when deciding how to pay that cost.",
+  "text_plain": "Some abilities modify a cost by allowing a player to pay part or all of that cost in an alternate way. This does not change the value of the cost, but gives the player an additional option when deciding how to pay that cost.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_alternate_payment__example_1",
+      "text_markup": "The Corp rezzes {card:Biawak}, which has the ability \"You can forfeit 1 agenda as you rez this ice to pay for 10[c] of its rez cost.\" and a rez cost of 14[c]. The Corp chooses to pay {card:Biawak}'s rez cost by spending 2[c] from their credit pool, spending 2[c] from a {card:Mahkota Langit Grid}, and forfeiting 1 agenda.",
+      "text_plain": "The Corp rezzes Biawak, which has the ability \"You can forfeit 1 agenda as you rez this ice to pay for 10{c} of its rez cost.\" and a rez cost of 14{c}. The Corp chooses to pay Biawak's rez cost by spending 2{c} from their credit pool, spending 2{c} from a Mahkota Langit Grid, and forfeiting 1 agenda.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_alternate_payment"
+}

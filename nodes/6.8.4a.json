@@ -1,0 +1,38 @@
+{
+  "id": "rule_not_unsuccessful_when_reached_success_phase",
+  "kind": "rule",
+  "number": "6.8.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_unsuccessful_run",
+  "child_ids": [
+    "rule_not_unsuccessful_when_reached_success_phase__example_1"
+  ],
+  "text_markup": "If the run reached {ref:rule_sec_run_success_phase}, the Success Phase, it is not declared unsuccessful. This is the case regardless of whether the run was actually declared successful.",
+  "text_plain": "If the run reached step 6.9.5, the Success Phase, it is not declared unsuccessful. This is the case regardless of whether the run was actually declared successful.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 19,
+      "end": 29,
+      "ids": [
+        "rule_sec_run_success_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_not_unsuccessful_when_reached_success_phase__example_1",
+      "text_markup": "The Runner reaches a server with {card:Crisium Grid} rezzed. {card:Crisium Grid}'s ability stops the run from being declared successful, but the run is not declared unsuccessful either.",
+      "text_plain": "The Runner reaches a server with Crisium Grid rezzed. Crisium Grid's ability stops the run from being declared successful, but the run is not declared unsuccessful either.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_not_unsuccessful_when_reached_success_phase"
+}

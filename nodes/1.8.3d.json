@@ -1,0 +1,19 @@
+{
+  "id": "rule_identity_become_active",
+  "kind": "rule",
+  "number": "1.8.3d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_active_cards",
+  "child_ids": [],
+  "text_markup": "Identity cards become active when the game begins.",
+  "text_plain": "Identity cards become active when the game begins.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identity_become_active"
+}

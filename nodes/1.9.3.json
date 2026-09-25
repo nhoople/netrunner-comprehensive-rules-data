@@ -1,0 +1,29 @@
+{
+  "id": "rule_card_conversion_game_piece",
+  "kind": "rule",
+  "number": "1.9.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_counters_and_tokens",
+  "child_ids": [],
+  "text_markup": "Some abilities can convert a card into a counter. A counter put into play in this way is tracked with the card acting as a game piece. See {ref:rule_card_to_counter}.",
+  "text_plain": "Some abilities can convert a card into a counter. A counter put into play in this way is tracked with the card acting as a game piece. See rule 10.1.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 139,
+      "end": 150,
+      "ids": [
+        "rule_card_to_counter"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_card_conversion_game_piece"
+}

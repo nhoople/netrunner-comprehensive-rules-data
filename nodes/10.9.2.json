@@ -1,0 +1,28 @@
+{
+  "id": "rule_empty_requires_loading",
+  "kind": "rule",
+  "number": "10.9.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_load_and_empty",
+  "child_ids": [
+    "rule_empty_requires_loading__example_1"
+  ],
+  "text_markup": "An ability on a card that refers to that card becoming empty is always linked to a preceding ability on that same card that loaded it with counters.",
+  "text_plain": "An ability on a card that refers to that card becoming empty is always linked to a preceding ability on that same card that loaded it with counters.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_empty_requires_loading__example_1",
+      "text_markup": "The Runner installs {card:Crowdfunding}, and its first ability becomes pending. Even though there are no credits hosted on {card:Crowdfunding} until that ability resolves, the following \"When it is empty, ...\" ability does not meet its trigger condition because the card has not yet been loaded.",
+      "text_plain": "The Runner installs Crowdfunding, and its first ability becomes pending. Even though there are no credits hosted on Crowdfunding until that ability resolves, the following \"When it is empty, ...\" ability does not meet its trigger condition because the card has not yet been loaded.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_empty_requires_loading"
+}

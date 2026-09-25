@@ -1,0 +1,29 @@
+{
+  "id": "rule_subtypes_active",
+  "kind": "rule",
+  "number": "2.16.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_subtypes",
+  "child_ids": [],
+  "text_markup": "A card has all of its subtypes at all times, even while inactive, with the exception of facedown installed Runner cards. See {ref:sec_facedown_runner_cards}.",
+  "text_plain": "A card has all of its subtypes at all times, even while inactive, with the exception of facedown installed Runner cards. See section 8.1.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 125,
+      "end": 138,
+      "ids": [
+        "sec_facedown_runner_cards"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subtypes_active"
+}

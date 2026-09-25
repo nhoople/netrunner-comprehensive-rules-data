@@ -1,0 +1,27 @@
+{
+  "id": "rule_swap_only_to_valid_location__example_1",
+  "kind": "example",
+  "number": "8.8.2.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_swap_only_to_valid_location",
+  "child_ids": [],
+  "text_markup": "When the subroutine on {card:Metamorph} resolves, the Corp cannot choose to swap an agenda and an upgrade such that the agenda would end up in the same remote server as an asset.",
+  "text_plain": "When the subroutine on Metamorph resolves, the Corp cannot choose to swap an agenda and an upgrade such that the agenda would end up in the same remote server as an asset.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 23,
+      "end": 32,
+      "target": "Metamorph",
+      "card_code": "12094"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

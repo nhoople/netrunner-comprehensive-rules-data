@@ -1,0 +1,29 @@
+{
+  "id": "rule_aggregated_instructions",
+  "kind": "rule",
+  "number": "9.12.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_quantities_and_sets",
+  "child_ids": [],
+  "text_markup": "The following effects are aggregated when performed in a single instruction, as described in {ref:rule_calculated_quantity}: gaining, losing, or spending a number of credits; gaining, losing, or spending a number of clicks; taking, removing, or preventing a number of tags; taking, removing, or preventing a number of bad publicity; looking at or revealing a number of cards from a specified location; drawing a number of cards; trashing a number of cards from specified locations (including by damage); and shuffling a number of cards from a player's discard pile into their deck.",
+  "text_plain": "The following effects are aggregated when performed in a single instruction, as described in rule 9.12.2b: gaining, losing, or spending a number of credits; gaining, losing, or spending a number of clicks; taking, removing, or preventing a number of tags; taking, removing, or preventing a number of bad publicity; looking at or revealing a number of cards from a specified location; drawing a number of cards; trashing a number of cards from specified locations (including by damage); and shuffling a number of cards from a player's discard pile into their deck.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 93,
+      "end": 105,
+      "ids": [
+        "rule_calculated_quantity"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_aggregated_instructions"
+}

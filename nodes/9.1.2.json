@@ -1,0 +1,35 @@
+{
+  "id": "rule_resolve_ability",
+  "kind": "subsection",
+  "number": "9.1.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_abilities_general",
+  "child_ids": [
+    "rule_chain_reaction",
+    "rule_is_resolving"
+  ],
+  "text_markup": "To {term:resolve an ability} means to resolve each of that ability's instructions in the order they appear. If an ability contains more than one instruction, a checkpoint occurs between each consecutive instruction. To {term:resolve an instruction} means to carry out that instruction.",
+  "text_plain": "To resolve an ability means to resolve each of that ability's instructions in the order they appear. If an ability contains more than one instruction, a checkpoint occurs between each consecutive instruction. To resolve an instruction means to carry out that instruction.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 21,
+      "target": "resolve an ability"
+    },
+    {
+      "type": "term",
+      "start": 212,
+      "end": 234,
+      "target": "resolve an instruction"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_resolve_ability"
+}

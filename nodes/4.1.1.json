@@ -1,0 +1,30 @@
+{
+  "id": "rule_zone",
+  "kind": "subsection",
+  "number": "4.1.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_game_zones_general",
+  "child_ids": [
+    "rule_zone_types",
+    "rule_player_zones",
+    "rule_card_in_one_zone"
+  ],
+  "text_markup": "A {term:zone} is a place in which cards and counters can exist during the game.",
+  "text_plain": "A zone is a place in which cards and counters can exist during the game.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 6,
+      "target": "zone"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_zone"
+}

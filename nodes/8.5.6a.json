@@ -1,0 +1,19 @@
+{
+  "id": "rule_must_trash_cases_in_root_of_server",
+  "kind": "rule",
+  "number": "8.5.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_install_trash_like_cards",
+  "child_ids": [],
+  "text_markup": "When installing an agenda or asset in the root of a remote server, or an upgrade in the root of any server, the Corp may first trash any number of other cards already installed in the root of that server. If the card to be installed is an asset or agenda, the Corp must trash any other asset or agenda from that server. If the card to be installed is a region, the Corp must trash any other region from that server.",
+  "text_plain": "When installing an agenda or asset in the root of a remote server, or an upgrade in the root of any server, the Corp may first trash any number of other cards already installed in the root of that server. If the card to be installed is an asset or agenda, the Corp must trash any other asset or agenda from that server. If the card to be installed is a region, the Corp must trash any other region from that server.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_must_trash_cases_in_root_of_server"
+}

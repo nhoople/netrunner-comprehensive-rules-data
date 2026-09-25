@@ -1,0 +1,29 @@
+{
+  "id": "step_encounter_complete",
+  "kind": "rule",
+  "number": "6.9.3e",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_encounter_ice_phase",
+  "child_ids": [],
+  "text_markup": "The Encounter Ice Phase is complete. Continue to {ref:rule_sec_run_movement_phase}, Movement Phase.",
+  "text_plain": "The Encounter Ice Phase is complete. Continue to step 6.9.4, Movement Phase.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 49,
+      "end": 59,
+      "ids": [
+        "rule_sec_run_movement_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_encounter_complete"
+}

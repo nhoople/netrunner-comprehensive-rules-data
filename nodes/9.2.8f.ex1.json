@@ -1,0 +1,81 @@
+{
+  "id": "rule_reaction_window_closing_timing_structure__example_1",
+  "kind": "example",
+  "number": "9.2.8f.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_reaction_window_closing_timing_structure",
+  "child_ids": [],
+  "text_markup": "The Runner has a {card:Femme Fatale} installed and chose a {card:Tollbooth} with its \"when installed\" ability. When the Runner encounters the {card:Tollbooth}, they pay 1[c] to bypass the {card:Tollbooth} with {card:Femme Fatale}. Because the resolution of {card:Femme Fatale}'s ability causes the encounter to end, the pending ability from {card:Tollbooth} cannot be triggered. The Runner does not pay 3[c], and the run does not end.",
+  "text_plain": "The Runner has a Femme Fatale installed and chose a Tollbooth with its \"when installed\" ability. When the Runner encounters the Tollbooth, they pay 1{c} to bypass the Tollbooth with Femme Fatale. Because the resolution of Femme Fatale's ability causes the encounter to end, the pending ability from Tollbooth cannot be triggered. The Runner does not pay 3{c}, and the run does not end.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 29,
+      "target": "Femme Fatale",
+      "card_code": "31022"
+    },
+    {
+      "type": "card",
+      "start": 52,
+      "end": 61,
+      "target": "Tollbooth",
+      "card_code": "31066"
+    },
+    {
+      "type": "card",
+      "start": 128,
+      "end": 137,
+      "target": "Tollbooth",
+      "card_code": "31066"
+    },
+    {
+      "type": "symbol",
+      "start": 149,
+      "end": 152,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 167,
+      "end": 176,
+      "target": "Tollbooth",
+      "card_code": "31066"
+    },
+    {
+      "type": "card",
+      "start": 182,
+      "end": 194,
+      "target": "Femme Fatale",
+      "card_code": "31022"
+    },
+    {
+      "type": "card",
+      "start": 222,
+      "end": 234,
+      "target": "Femme Fatale",
+      "card_code": "31022"
+    },
+    {
+      "type": "card",
+      "start": 299,
+      "end": 308,
+      "target": "Tollbooth",
+      "card_code": "31066"
+    },
+    {
+      "type": "symbol",
+      "start": 355,
+      "end": 358,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

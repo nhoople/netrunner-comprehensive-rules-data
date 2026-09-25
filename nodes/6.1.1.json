@@ -1,0 +1,45 @@
+{
+  "id": "rule_run",
+  "kind": "rule",
+  "number": "6.1.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_run_general",
+  "child_ids": [],
+  "text_markup": "A {term:run} is a Runner's attack on a server. There are 6 phases used in the procedure of carrying out a run, described in {ref/through:sec_run_initiation,sec_run_ends_phase}. A run always begins with the Initiation Phase. {ref:Sec_steps_of_a_run} contains the full set of steps carried out during each phase, and should be referred to in conjunction with the sections discussing the phases.",
+  "text_plain": "A run is a Runner's attack on a server. There are 6 phases used in the procedure of carrying out a run, described in sections 6.3 through 6.8. A run always begins with the Initiation Phase. Section 6.9 contains the full set of steps carried out during each phase, and should be referred to in conjunction with the sections discussing the phases.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 5,
+      "target": "run"
+    },
+    {
+      "type": "ref",
+      "start": 117,
+      "end": 141,
+      "ids": [
+        "sec_run_initiation",
+        "sec_run_ends_phase"
+      ],
+      "combiner": "through"
+    },
+    {
+      "type": "ref",
+      "start": 190,
+      "end": 201,
+      "ids": [
+        "sec_steps_of_a_run"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_run"
+}

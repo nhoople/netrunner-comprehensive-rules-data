@@ -1,0 +1,19 @@
+{
+  "id": "rule_rfg_inactive",
+  "kind": "rule",
+  "number": "4.9.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_removed_from_game",
+  "child_ids": [],
+  "text_markup": "Cards that have been removed from the game are inactive.",
+  "text_plain": "Cards that have been removed from the game are inactive.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rfg_inactive"
+}

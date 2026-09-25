@@ -1,0 +1,31 @@
+{
+  "id": "rule_ice_trash_cost",
+  "kind": "subsection",
+  "number": "3.4.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_ice",
+  "child_ids": [
+    "rule_ice_access"
+  ],
+  "text_markup": "Some ice have trash costs. If the Runner accesses an ice with a trash cost, they may pay the trash cost to trash that ice. See {ref:rule_basic_trash_ability}.",
+  "text_plain": "Some ice have trash costs. If the Runner accesses an ice with a trash cost, they may pay the trash cost to trash that ice. See section 7.1.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 127,
+      "end": 140,
+      "ids": [
+        "rule_basic_trash_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_trash_cost"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sec_accessing_cards",
+  "kind": "section",
+  "number": "7.1",
+  "ref_type": "section",
+  "title": "Accessing Cards",
+  "parent_id": "chpt_access_breach",
+  "child_ids": [
+    "rule_accessing",
+    "rule_accessing_who_can_look",
+    "rule_accessing_trigger_condition",
+    "rule_mid_access_ability_opportunity",
+    "rule_basic_trash_ability",
+    "rule_after_mid_access_agenda",
+    "rule_moved_while_accessing",
+    "rule_end_run_ends_access",
+    "rule_access_set_of_cards",
+    "rule_access_cards_without_breach"
+  ],
+  "text_markup": "Accessing Cards",
+  "text_plain": "Accessing Cards",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_accessing_cards"
+}

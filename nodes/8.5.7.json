@@ -1,0 +1,19 @@
+{
+  "id": "rule_install_corp_cards_trashed_facedown_archives",
+  "kind": "rule",
+  "number": "8.5.7",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [],
+  "text_markup": "If the Corp trashes any cards during the installation process, the trashed cards are placed in Archives with the same faceup or facedown status they had while installed.",
+  "text_plain": "If the Corp trashes any cards during the installation process, the trashed cards are placed in Archives with the same faceup or facedown status they had while installed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_corp_cards_trashed_facedown_archives"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "rule_counter_types",
+  "kind": "subsection",
+  "number": "1.9.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_counters_and_tokens",
+  "child_ids": [
+    "rule_type_credit_counter",
+    "rule_type_click_counter",
+    "rule_type_tag_counter",
+    "rule_type_bad_pub_counter",
+    "rule_type_core_damage_counter",
+    "rule_type_advancement_counter",
+    "rule_type_virus_counter",
+    "rule_type_power_counter",
+    "rule_type_agenda_counter",
+    "rule_type_condition_counter"
+  ],
+  "text_markup": "There are ten types of counters: credit counters, click counters, tag counters, bad publicity counters, core damage counters, advancement counters, virus counters, power counters, agenda counters, and condition counters.",
+  "text_plain": "There are ten types of counters: credit counters, click counters, tag counters, bad publicity counters, core damage counters, advancement counters, virus counters, power counters, agenda counters, and condition counters.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_counter_types"
+}

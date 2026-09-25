@@ -1,0 +1,28 @@
+{
+  "id": "rule_conditional_ability_lose_pending_when_ability_becomes_inactive",
+  "kind": "rule",
+  "number": "9.6.10",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [
+    "rule_conditional_ability_lose_pending_when_ability_becomes_inactive__example_1"
+  ],
+  "text_markup": "If any instances of a conditional ability are pending and the conditional ability itself becomes inactive, those instances lose their pending status and will not resolve.",
+  "text_plain": "If any instances of a conditional ability are pending and the conditional ability itself becomes inactive, those instances lose their pending status and will not resolve.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_conditional_ability_lose_pending_when_ability_becomes_inactive__example_1",
+      "text_markup": "The Runner has both {card:Aesop's Pawnshop} and {card:Drug Dealer} installed. Both cards have abilities that meet their trigger conditions when the Runner's turn begins. If the Runner chooses to trigger {card:Aesop's Pawnshop} first, and then uses it to trash {card:Drug Dealer}, {card:Drug Dealer}'s pending ability can never be triggered, so the Runner does not lose a credit.",
+      "text_plain": "The Runner has both Aesop's Pawnshop and Drug Dealer installed. Both cards have abilities that meet their trigger conditions when the Runner's turn begins. If the Runner chooses to trigger Aesop's Pawnshop first, and then uses it to trash Drug Dealer, Drug Dealer's pending ability can never be triggered, so the Runner does not lose a credit.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_conditional_ability_lose_pending_when_ability_becomes_inactive"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "rule_install_and_rez_reducing_total__example_1",
+  "kind": "example",
+  "number": "1.16.2f.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_install_and_rez_reducing_total",
+  "child_ids": [],
+  "text_markup": "The Corp uses the ability on {card:Tucana} to install and rez a copy of {card:Logjam} from R&D, paying a total of 3[c] less. They install the {card:Logjam} protecting a server that already has 1 piece of ice protecting it, meaning that without the \"total of 3[c] less\" modifier, the install cost would be 1[c] and the rez cost would be 6[c]. The Corp applies 1[c] of the discount to the install cost and 2[c] to the rez cost, leaving a final install cost of 0[c] and a final rez cost of 4[c].",
+  "text_plain": "The Corp uses the ability on Tucana to install and rez a copy of Logjam from R&D, paying a total of 3{c} less. They install the Logjam protecting a server that already has 1 piece of ice protecting it, meaning that without the \"total of 3{c} less\" modifier, the install cost would be 1{c} and the rez cost would be 6{c}. The Corp applies 1{c} of the discount to the install cost and 2{c} to the rez cost, leaving a final install cost of 0{c} and a final rez cost of 4{c}.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 29,
+      "end": 35,
+      "target": "Tucana",
+      "card_code": "34064"
+    },
+    {
+      "type": "card",
+      "start": 65,
+      "end": 71,
+      "target": "Logjam",
+      "card_code": "34127"
+    },
+    {
+      "type": "symbol",
+      "start": 101,
+      "end": 104,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 128,
+      "end": 134,
+      "target": "Logjam",
+      "card_code": "34127"
+    },
+    {
+      "type": "symbol",
+      "start": 238,
+      "end": 241,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 285,
+      "end": 288,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 316,
+      "end": 319,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 339,
+      "end": 342,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 384,
+      "end": 387,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 438,
+      "end": 441,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 467,
+      "end": 470,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

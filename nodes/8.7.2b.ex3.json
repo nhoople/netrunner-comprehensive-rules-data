@@ -1,0 +1,57 @@
+{
+  "id": "rule_valid_search_target_install_play__example_3",
+  "kind": "example",
+  "number": "8.7.2b.ex3",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_valid_search_target_install_play",
+  "child_ids": [],
+  "text_markup": "The Corp uses {card:Tucana} to search for {card:Pharos} while they have 0 credits. They are allowed to find and install {card:Pharos}, even though they cannot afford to rez it. The Corp must reveal {card:Pharos} to show that it cannot be rezzed. See {ref:rule_reveal_for_install_and_rez}.",
+  "text_plain": "The Corp uses Tucana to search for Pharos while they have 0 credits. They are allowed to find and install Pharos, even though they cannot afford to rez it. The Corp must reveal Pharos to show that it cannot be rezzed. See rule 8.5.13d.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 14,
+      "end": 20,
+      "target": "Tucana",
+      "card_code": "34064"
+    },
+    {
+      "type": "card",
+      "start": 35,
+      "end": 41,
+      "target": "Pharos",
+      "card_code": "30063"
+    },
+    {
+      "type": "card",
+      "start": 106,
+      "end": 112,
+      "target": "Pharos",
+      "card_code": "30063"
+    },
+    {
+      "type": "card",
+      "start": 177,
+      "end": 183,
+      "target": "Pharos",
+      "card_code": "30063"
+    },
+    {
+      "type": "ref",
+      "start": 222,
+      "end": 234,
+      "ids": [
+        "rule_reveal_for_install_and_rez"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

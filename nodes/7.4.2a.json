@@ -1,0 +1,28 @@
+{
+  "id": "rule_prohibition_removed",
+  "kind": "rule",
+  "number": "7.4.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_prohibiting_access",
+  "child_ids": [
+    "rule_prohibition_removed__example_1"
+  ],
+  "text_markup": "If an ability prohibiting some or all accesses becomes inactive during a breach, candidates are reevaluated to account for the prohibition no longer applying: for each card in or in the root of the breached server, if that object had been prohibited from being accessed by the newly inactive ability, and if no other rule or effect is applicable that would stop that object from being a candidate, then that object becomes a candidate.",
+  "text_plain": "If an ability prohibiting some or all accesses becomes inactive during a breach, candidates are reevaluated to account for the prohibition no longer applying: for each card in or in the root of the breached server, if that object had been prohibited from being accessed by the newly inactive ability, and if no other rule or effect is applicable that would stop that object from being a candidate, then that object becomes a candidate.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_prohibition_removed__example_1",
+      "text_markup": "The Runner breaches HQ during a run on HQ while {card:Flagship} is rezzed in the root of HQ. They have an installed copy of {card:Docklands Pass}, so the random access limit is set to 2. The Runner accesses a card in HQ, meaning that {card:Flagship}'s restriction applies and all the other cards in HQ cease to be candidates. The Runner then accesses {card:Flagship} and uses {card:Cupellation}'s ability to host {card:Flagship} on {card:Cupellation}, thereby uninstalling it without its persistent ability remaining active (see {ref:subsec_persistent}). Since the restriction on accessing cards other than Flagship no longer applies, the cards in HQ become candidates again, except for the card the Runner previously accessed.",
+      "text_plain": "The Runner breaches HQ during a run on HQ while Flagship is rezzed in the root of HQ. They have an installed copy of Docklands Pass, so the random access limit is set to 2. The Runner accesses a card in HQ, meaning that Flagship's restriction applies and all the other cards in HQ cease to be candidates. The Runner then accesses Flagship and uses Cupellation's ability to host Flagship on Cupellation, thereby uninstalling it without its persistent ability remaining active (see section 9.12.5). Since the restriction on accessing cards other than Flagship no longer applies, the cards in HQ become candidates again, except for the card the Runner previously accessed.",
+      "is_new": true
+    }
+  ],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_prohibition_removed"
+}

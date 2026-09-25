@@ -1,0 +1,26 @@
+{
+  "id": "step_checkpoint_uniqueness",
+  "kind": "rule",
+  "number": "10.3.1d",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_checkpoints",
+  "child_ids": [],
+  "text_markup": "If 2 or more unique (◆) cards with the same name are active, for each such name, all of those cards except the one that became active most recently are trashed. If 2 or more {subtype:console} cards are installed under the control of the same player, for each such player, all of those cards except the one that became active most recently are trashed.",
+  "text_plain": "If 2 or more unique (◆) cards with the same name are active, for each such name, all of those cards except the one that became active most recently are trashed. If 2 or more console cards are installed under the control of the same player, for each such player, all of those cards except the one that became active most recently are trashed.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 174,
+      "end": 181,
+      "target": "console"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_checkpoint_uniqueness"
+}

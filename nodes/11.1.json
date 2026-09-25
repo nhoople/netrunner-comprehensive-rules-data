@@ -1,0 +1,22 @@
+{
+  "id": "sec_timing_structure_overview",
+  "kind": "section",
+  "number": "11.1",
+  "ref_type": "section",
+  "title": "Overview",
+  "parent_id": "chpt_appendix_timing_structures",
+  "child_ids": [
+    "rule_timing_structure_quick_ref",
+    "rule_timing_structure_reference_only"
+  ],
+  "text_markup": "Overview",
+  "text_plain": "Overview",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_timing_structure_overview"
+}

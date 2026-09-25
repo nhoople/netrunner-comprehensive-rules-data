@@ -1,0 +1,19 @@
+{
+  "id": "rule_rfg_move",
+  "kind": "rule",
+  "number": "4.9.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_removed_from_game",
+  "child_ids": [],
+  "text_markup": "If a card is removed from the game, it is moved from its current zone to the removed-from-game zone.",
+  "text_plain": "If a card is removed from the game, it is moved from its current zone to the removed-from-game zone.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rfg_move"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_decline_additional_cost",
+  "kind": "rule",
+  "number": "1.16.10a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_additional_cost",
+  "child_ids": [
+    "rule_decline_additional_cost__example_1"
+  ],
+  "text_markup": "If a player would be forced to carry out a game effect, but doing so has an additional cost, that player may decline to pay the additional cost, even if they are able to pay it, thus preventing that effect from occurring.",
+  "text_plain": "If a player would be forced to carry out a game effect, but doing so has an additional cost, that player may decline to pay the additional cost, even if they are able to pay it, thus preventing that effect from occurring.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_decline_additional_cost__example_1",
+      "text_markup": "The Runner accesses {card:Obokata Protocol}. Normally the Runner must steal agendas that they access, but because {card:Obokata Protocol} has an additional cost to steal, the Runner can decline to suffer the net damage and not steal the agenda.",
+      "text_plain": "The Runner accesses Obokata Protocol. Normally the Runner must steal agendas that they access, but because Obokata Protocol has an additional cost to steal, the Runner can decline to suffer the net damage and not steal the agenda.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_decline_additional_cost"
+}

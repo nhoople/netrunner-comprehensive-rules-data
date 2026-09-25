@@ -1,0 +1,42 @@
+{
+  "id": "rule_this_server",
+  "kind": "rule",
+  "number": "4.6.6i",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_servers",
+  "child_ids": [
+    "rule_this_server__example_1",
+    "rule_this_server__example_2",
+    "rule_this_server__example_3"
+  ],
+  "text_markup": "Some cards refer to the server where they are located (or the central server corresponding to the zone where they are located) using the phrase \"this server\". If an ability is initiated by a trigger condition or cost involving the ability's source card moving from a server, its root, or protecting it to another server or to a location not associated with any server, treat \"this server\" as referring to the server associated with the previous location of the card throughout resolution of that ability. If an ability moves its source card while it is resolving, continue to interpret \"this server\" based on the card's previous location.",
+  "text_plain": "Some cards refer to the server where they are located (or the central server corresponding to the zone where they are located) using the phrase \"this server\". If an ability is initiated by a trigger condition or cost involving the ability's source card moving from a server, its root, or protecting it to another server or to a location not associated with any server, treat \"this server\" as referring to the server associated with the previous location of the card throughout resolution of that ability. If an ability moves its source card while it is resolving, continue to interpret \"this server\" based on the card's previous location.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_this_server__example_1",
+      "text_markup": "The Runner trashes a rezzed {card:Warroid Tracker}. This meets the trigger condition of {card:Warroid Tracker}'s ability, but by the time a checkpoint is resolved and an instance of the ability would become pending, {card:Warroid Tracker} itself is no longer installed. The use of \"this server\" in the trigger condition still refers to the server from which {card:Warroid Tracker} was trashed, not to the server of {card:Warroid Tracker}'s new location in Archives.",
+      "text_plain": "The Runner trashes a rezzed Warroid Tracker. This meets the trigger condition of Warroid Tracker's ability, but by the time a checkpoint is resolved and an instance of the ability would become pending, Warroid Tracker itself is no longer installed. The use of \"this server\" in the trigger condition still refers to the server from which Warroid Tracker was trashed, not to the server of Warroid Tracker's new location in Archives.",
+      "is_new": false
+    },
+    {
+      "id": "rule_this_server__example_2",
+      "text_markup": "The Corp uses the ability granted by {card:ZATO City Grid} to trash {card:Border Control} and resolve its first subroutine. The phrase \"this server\" in that subroutine refers to the server from which the {card:Border Control} was trashed. However, {card:Border Control} is no longer protecting that server, so it is not included in the number of ice counted.",
+      "text_plain": "The Corp uses the ability granted by ZATO City Grid to trash Border Control and resolve its first subroutine. The phrase \"this server\" in that subroutine refers to the server from which the Border Control was trashed. However, Border Control is no longer protecting that server, so it is not included in the number of ice counted.",
+      "is_new": false
+    },
+    {
+      "id": "rule_this_server__example_3",
+      "text_markup": "The Corp uses {card:Nanisivik Grid} to turn a facedown {card:Border Control} in Archives faceup and resolve its first subroutine. {card:Border Control} was not moved between servers, so \"this server\" in that subroutine refers to Archives.",
+      "text_plain": "The Corp uses Nanisivik Grid to turn a facedown Border Control in Archives faceup and resolve its first subroutine. Border Control was not moved between servers, so \"this server\" in that subroutine refers to Archives.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_this_server"
+}

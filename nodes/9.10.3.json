@@ -1,0 +1,23 @@
+{
+  "id": "rule_lingering_effect_maintain_choice",
+  "kind": "subsection",
+  "number": "9.10.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_lingering_effects",
+  "child_ids": [
+    "rule_lingering_effect_maintaining_choice_default_duration",
+    "rule_lingering_effect_maintaining_choice_turn_begins_duration",
+    "rule_lingering_effect_maintaining_choice_duration_other_cases"
+  ],
+  "text_markup": "Some lingering effects maintain a choice that a player made while resolving an ability in order for another ability or effect with the same source object to make use of that choice.",
+  "text_plain": "Some lingering effects maintain a choice that a player made while resolving an ability in order for another ability or effect with the same source object to make use of that choice.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_lingering_effect_maintain_choice"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_terminal_priority_windows_close",
+  "kind": "rule",
+  "number": "5.4.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_forced_action_phase_end",
+  "child_ids": [],
+  "text_markup": "Any currently open priority windows close, their associated abilities lose their pending status, and the player with priority loses priority.",
+  "text_plain": "Any currently open priority windows close, their associated abilities lose their pending status, and the player with priority loses priority.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_terminal_priority_windows_close"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chpt_abilities",
+  "kind": "chapter",
+  "number": "9",
+  "ref_type": "section",
+  "title": "Abilities",
+  "parent_id": null,
+  "child_ids": [
+    "sec_abilities_general",
+    "sec_timing_and_priority",
+    "sec_interpreting_card_text",
+    "sec_static_abilities",
+    "sec_paid_abilities",
+    "sec_conditional_abilities",
+    "sec_play_abilities",
+    "sec_subroutines",
+    "sec_interrupts_replacements",
+    "sec_lingering_effects",
+    "sec_identifying_instructions",
+    "sec_other_rules_and_terminology"
+  ],
+  "text_markup": "Abilities",
+  "text_plain": "Abilities",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=chpt_abilities"
+}

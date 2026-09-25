@@ -1,0 +1,26 @@
+{
+  "id": "rule_bad_publicity",
+  "kind": "rule",
+  "number": "10.6.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_bad_publicity",
+  "child_ids": [],
+  "text_markup": "{term:bad publicity} refers to a bad publicity counter placed on the Corp. Bad publicity is used by card abilities and during runs.",
+  "text_plain": "bad publicity refers to a bad publicity counter placed on the Corp. Bad publicity is used by card abilities and during runs.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 13,
+      "target": "bad publicity"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bad_publicity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_bad_publicity_gone_in_run_ends_phase",
+  "kind": "rule",
+  "number": "10.6.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_bad_publicity_added_and_removed",
+  "child_ids": [],
+  "text_markup": "During {ref:step_run_ends_bad_publicity}, the Runner returns any remaining credits from the bad publicity fund to the bank.",
+  "text_plain": "During step 6.9.6b, the Runner returns any remaining credits from the bad publicity fund to the bank.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 7,
+      "end": 18,
+      "ids": [
+        "step_run_ends_bad_publicity"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bad_publicity_gone_in_run_ends_phase"
+}

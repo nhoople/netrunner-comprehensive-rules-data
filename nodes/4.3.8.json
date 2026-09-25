@@ -1,0 +1,22 @@
+{
+  "id": "subsec_hq",
+  "kind": "subsection",
+  "number": "4.3.8",
+  "ref_type": "section",
+  "title": "HQ",
+  "parent_id": "sec_hand",
+  "child_ids": [
+    "rule_hq_name",
+    "rule_identity_represents_hq"
+  ],
+  "text_markup": "HQ",
+  "text_plain": "HQ",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "HQ stands for Headquarters. It represents the projects, staff, technology, and other assets the Corp is authorized to deploy.",
+  "snippet_plain": "HQ stands for Headquarters. It represents the projects, staff, technology, and other assets the Corp is authorized to deploy.",
+  "url": "https://rules.nullsignal.games/?r=subsec_hq"
+}

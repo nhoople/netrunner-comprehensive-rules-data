@@ -1,0 +1,19 @@
+{
+  "id": "rule_cost_paid_checkpoint",
+  "kind": "rule",
+  "number": "9.11.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction_pause",
+  "child_ids": [],
+  "text_markup": "Any time a cost is paid, a checkpoint must occur immediately afterward.",
+  "text_plain": "Any time a cost is paid, a checkpoint must occur immediately afterward.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cost_paid_checkpoint"
+}

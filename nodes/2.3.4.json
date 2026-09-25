@@ -1,0 +1,21 @@
+{
+  "id": "rule_card_types_with_install_costs",
+  "kind": "subsection",
+  "number": "2.3.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_printed_cost",
+  "child_ids": [
+    "rule_ice_have_install_costs_too"
+  ],
+  "text_markup": "Hardware, programs, and resources have an install cost.",
+  "text_plain": "Hardware, programs, and resources have an install cost.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_card_types_with_install_costs"
+}

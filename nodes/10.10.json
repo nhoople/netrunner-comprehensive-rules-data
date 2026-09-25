@@ -1,0 +1,23 @@
+{
+  "id": "sec_charge",
+  "kind": "section",
+  "number": "10.10",
+  "ref_type": "section",
+  "title": "Charge",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_charge",
+    "rule_charge_targets",
+    "rule_charge_requires_hosted_counter"
+  ],
+  "text_markup": "Charge",
+  "text_plain": "Charge",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "A Runner's life is one of fluidity and adaptation; their rig is in a constant state of repair of upgrade, hideouts change, and belongings come and go. With creativity and skill, a Runner can apply their personal touch to get more out of their tools and resources than anyone else would think possible.",
+  "snippet_plain": "A Runner's life is one of fluidity and adaptation; their rig is in a constant state of repair of upgrade, hideouts change, and belongings come and go. With creativity and skill, a Runner can apply their personal touch to get more out of their tools and resources than anyone else would think possible.",
+  "url": "https://rules.nullsignal.games/?r=sec_charge"
+}

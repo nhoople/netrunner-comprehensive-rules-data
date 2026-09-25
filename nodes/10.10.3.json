@@ -1,0 +1,19 @@
+{
+  "id": "rule_charge_requires_hosted_counter",
+  "kind": "rule",
+  "number": "10.10.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_charge",
+  "child_ids": [],
+  "text_markup": "If an instruction directs you to charge a particular card, that part of the instruction can only be resolved if the card has at least 1 hosted power counter at the time the instruction becomes imminent.",
+  "text_plain": "If an instruction directs you to charge a particular card, that part of the instruction can only be resolved if the card has at least 1 hosted power counter at the time the instruction becomes imminent.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_charge_requires_hosted_counter"
+}

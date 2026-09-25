@@ -1,0 +1,19 @@
+{
+  "id": "rule_action_window_priority",
+  "kind": "rule",
+  "number": "9.2.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_action_window",
+  "child_ids": [],
+  "text_markup": "An action window gives only the active player priority.",
+  "text_plain": "An action window gives only the active player priority.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_action_window_priority"
+}

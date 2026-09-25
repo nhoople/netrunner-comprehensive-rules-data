@@ -1,0 +1,28 @@
+{
+  "id": "sec_breaching_servers",
+  "kind": "section",
+  "number": "7.3",
+  "ref_type": "section",
+  "title": "Breaching Servers",
+  "parent_id": "chpt_access_breach",
+  "child_ids": [
+    "rule_breaching_servers",
+    "rule_breaching_archives",
+    "rule_candidates",
+    "rule_candidates_presented",
+    "rule_random_access_limit",
+    "rule_number_of_accesses",
+    "rule_end_run_ends_breach",
+    "rule_consecutive_breaches"
+  ],
+  "text_markup": "Breaching Servers",
+  "text_plain": "Breaching Servers",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_breaching_servers"
+}

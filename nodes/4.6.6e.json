@@ -1,0 +1,26 @@
+{
+  "id": "rule_server_root",
+  "kind": "rule",
+  "number": "4.6.6e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_servers",
+  "child_ids": [],
+  "text_markup": "All servers have a {term:root} where cards can be installed. A central server's root can contain any number of upgrades, while a remote server's root can contain 1 asset or agenda and any number of upgrades. Assets and agendas cannot be installed in the root of a central server.",
+  "text_plain": "All servers have a root where cards can be installed. A central server's root can contain any number of upgrades, while a remote server's root can contain 1 asset or agenda and any number of upgrades. Assets and agendas cannot be installed in the root of a central server.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 19,
+      "end": 23,
+      "target": "root"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_server_root"
+}

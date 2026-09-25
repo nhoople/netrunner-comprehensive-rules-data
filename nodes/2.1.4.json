@@ -1,0 +1,19 @@
+{
+  "id": "rule_copies_of",
+  "kind": "rule",
+  "number": "2.1.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_name",
+  "child_ids": [],
+  "text_markup": "When a card refers to \"copies of\" cards with a particular name, it refers to any card with that name.",
+  "text_plain": "When a card refers to \"copies of\" cards with a particular name, it refers to any card with that name.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_copies_of"
+}

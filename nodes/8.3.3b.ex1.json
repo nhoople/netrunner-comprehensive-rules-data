@@ -1,0 +1,27 @@
+{
+  "id": "rule_arrange_and_other_effect__example_1",
+  "kind": "example",
+  "number": "8.3.3b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_arrange_and_other_effect",
+  "child_ids": [],
+  "text_markup": "The Corp plays {card:Cultivate}, acting on the top 5 cards of R&D by trashing 1 card, adding 1 card to HQ, and arranging the rest in any order. They do not tell the Runner what location in R&D the trashed card came from, nor what location the card added to HQ came from.",
+  "text_plain": "The Corp plays Cultivate, acting on the top 5 cards of R&D by trashing 1 card, adding 1 card to HQ, and arranging the rest in any order. They do not tell the Runner what location in R&D the trashed card came from, nor what location the card added to HQ came from.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 24,
+      "target": "Cultivate",
+      "card_code": "36043"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

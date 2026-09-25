@@ -1,0 +1,34 @@
+{
+  "id": "rule_placed_loaded",
+  "kind": "subsection",
+  "number": "1.13.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [
+    "rule_valid_hosts"
+  ],
+  "text_markup": "Whenever an object is \"placed\" or \"loaded\" onto a card, a host relationship is created between those two objects. The object placed on top of a card is {term:hosted} on that card. The card onto which the other object is placed is the {term:host}.",
+  "text_plain": "Whenever an object is \"placed\" or \"loaded\" onto a card, a host relationship is created between those two objects. The object placed on top of a card is hosted on that card. The card onto which the other object is placed is the host.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 152,
+      "end": 158,
+      "target": "hosted"
+    },
+    {
+      "type": "term",
+      "start": 227,
+      "end": 231,
+      "target": "host"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_placed_loaded"
+}

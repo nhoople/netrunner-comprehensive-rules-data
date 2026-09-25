@@ -1,0 +1,30 @@
+{
+  "id": "sec_timing_and_priority",
+  "kind": "section",
+  "number": "9.2",
+  "ref_type": "section",
+  "title": "Timing and Priority",
+  "parent_id": "chpt_abilities",
+  "child_ids": [
+    "rule_active_player",
+    "rule_timing_structure",
+    "rule_priority",
+    "rule_priority_window",
+    "rule_priority_window_types",
+    "rule_action_window",
+    "rule_paid_ability_window",
+    "rule_reaction_window",
+    "rule_interrupt_window",
+    "rule_mid_access_window"
+  ],
+  "text_markup": "Timing and Priority",
+  "text_plain": "Timing and Priority",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_timing_and_priority"
+}

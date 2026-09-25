@@ -1,0 +1,39 @@
+{
+  "id": "rule_inactive_cards_characteristics",
+  "kind": "rule",
+  "number": "1.8.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_inactive_cards",
+  "child_ids": [],
+  "text_markup": "Inactive cards{n}, except facedown installed Runner cards,{/n} retain their printed characteristics (name, card type, faction, cost, subtypes, influence, etc). {n}See {ref:sec_facedown_runner_cards} for information about facedown installed Runner cards.{/n}",
+  "text_plain": "Inactive cards, except facedown installed Runner cards, retain their printed characteristics (name, card type, faction, cost, subtypes, influence, etc). See section 8.1.4 for information about facedown installed Runner cards.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 14,
+      "end": 55
+    },
+    {
+      "type": "ref",
+      "start": 157,
+      "end": 170,
+      "ids": [
+        "sec_facedown_runner_cards"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "new",
+      "start": 153,
+      "end": 225
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_inactive_cards_characteristics"
+}

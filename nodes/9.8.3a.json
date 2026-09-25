@@ -1,0 +1,28 @@
+{
+  "id": "rule_subroutine_origin_external_before",
+  "kind": "rule",
+  "number": "9.8.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subroutine_origins",
+  "child_ids": [
+    "rule_subroutine_origin_external_before__example_1"
+  ],
+  "text_markup": "Subroutines gained from an ability, except a static ability on the ice itself, where the ability granting the subroutines states they are added before other subroutines. Subroutines within this category are ordered based on when the effect granting them began to apply, with the most recently added subroutines first.",
+  "text_plain": "Subroutines gained from an ability, except a static ability on the ice itself, where the ability granting the subroutines states they are added before other subroutines. Subroutines within this category are ordered based on when the effect granting them began to apply, with the most recently added subroutines first.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_subroutine_origin_external_before__example_1",
+      "text_markup": "The Runner encounters a copy of {card:Loki} while {card:Stick and Poke} is installed and {card:Warden Fatuma} is rezzed. Since {card:Warden Fatuma}'s ability is a static ability, the subroutine it grants is already present when the encounter begins. The Runner resolves the ability from {card:Stick and Poke}, then the Corp resolves the ability from {card:Loki}, choosing a copy of {card:Tithe}. The subroutines on {card:Loki} are, in order: \"[sub] Do 1 net damage.\", \"[sub] Gain 1[c].\", \"[sub] Do 1 net damage. The Runner draws 1 card.\", \"[sub] The Runner loses [click].\", and \"[sub] End the run unless the Runner shuffles all cards from the grip into the stack.\"",
+      "text_plain": "The Runner encounters a copy of Loki while Stick and Poke is installed and Warden Fatuma is rezzed. Since Warden Fatuma's ability is a static ability, the subroutine it grants is already present when the encounter begins. The Runner resolves the ability from Stick and Poke, then the Corp resolves the ability from Loki, choosing a copy of Tithe. The subroutines on Loki are, in order: \"{sub} Do 1 net damage.\", \"{sub} Gain 1{c}.\", \"{sub} Do 1 net damage. The Runner draws 1 card.\", \"{sub} The Runner loses {click}.\", and \"{sub} End the run unless the Runner shuffles all cards from the grip into the stack.\"",
+      "is_new": true
+    }
+  ],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutine_origin_external_before"
+}

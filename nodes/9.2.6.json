@@ -1,0 +1,31 @@
+{
+  "id": "rule_action_window",
+  "kind": "subsection",
+  "number": "9.2.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_timing_and_priority",
+  "child_ids": [
+    "rule_action_window_priority",
+    "rule_action_window_options",
+    "rule_action_window_closes_after_action",
+    "rule_action_window_occurrence"
+  ],
+  "text_markup": "An {term:action window} is a priority window that opens during a player's action phase if they have unspent clicks.",
+  "text_plain": "An action window is a priority window that opens during a player's action phase if they have unspent clicks.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 16,
+      "target": "action window"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_action_window"
+}

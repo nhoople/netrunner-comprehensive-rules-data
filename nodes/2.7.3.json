@@ -1,0 +1,35 @@
+{
+  "id": "rule_strength_citation",
+  "kind": "rule",
+  "number": "2.7.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_strength",
+  "child_ids": [],
+  "text_markup": "{ref:Subsec_icebreakers} discusses the interaction between ice strength and {subtype:icebreaker} strength.",
+  "text_plain": "Section 3.9.5 discusses the interaction between ice strength and icebreaker strength.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 0,
+      "end": 13,
+      "ids": [
+        "subsec_icebreakers"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "subtype",
+      "start": 65,
+      "end": 75,
+      "target": "icebreaker"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_strength_citation"
+}

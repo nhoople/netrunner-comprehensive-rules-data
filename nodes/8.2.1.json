@@ -1,0 +1,28 @@
+{
+  "id": "sec_movement",
+  "kind": "subsection",
+  "number": "8.2.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_card_movements",
+  "child_ids": [
+    "rule_non_movements"
+  ],
+  "text_markup": "A {term:movement} is a way that cards change their zone or location following special rules. The movements are: arrange, draw, forfeit, install, play, search, score, steal, swap, and trash.",
+  "text_plain": "A movement is a way that cards change their zone or location following special rules. The movements are: arrange, draw, forfeit, install, play, search, score, steal, swap, and trash.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 10,
+      "target": "movement"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_movement"
+}

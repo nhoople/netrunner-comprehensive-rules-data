@@ -1,0 +1,38 @@
+{
+  "id": "rule_game_win",
+  "kind": "rule",
+  "number": "1.17.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_score_scoring_steal",
+  "child_ids": [],
+  "text_markup": "If at any time a player's score is greater than or equal to 7, they win the game at the next checkpoint. See {ref:sec_ending_the_game} regarding winning the game, and {ref:sec_checkpoints} for details about checkpoints.",
+  "text_plain": "If at any time a player's score is greater than or equal to 7, they win the game at the next checkpoint. See section 1.7 regarding winning the game, and section 10.3 for details about checkpoints.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 109,
+      "end": 120,
+      "ids": [
+        "sec_ending_the_game"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 153,
+      "end": 165,
+      "ids": [
+        "sec_checkpoints"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_game_win"
+}

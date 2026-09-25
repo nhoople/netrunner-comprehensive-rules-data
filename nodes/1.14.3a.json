@@ -1,0 +1,19 @@
+{
+  "id": "rule_remove_tags_or_bad_publicity_as_cost",
+  "kind": "rule",
+  "number": "1.14.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_pay_costs_controlled_objects",
+  "child_ids": [],
+  "text_markup": "Either player can remove tags or bad publicity from themself or their opponent to pay costs.",
+  "text_plain": "Either player can remove tags or bad publicity from themself or their opponent to pay costs.",
+  "spans": [],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_remove_tags_or_bad_publicity_as_cost"
+}

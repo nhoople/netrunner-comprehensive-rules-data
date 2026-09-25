@@ -1,0 +1,19 @@
+{
+  "id": "rule_paid_ability_breaks_subroutines",
+  "kind": "rule",
+  "number": "9.5.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_paid_ability_effect_based_timing_restrictions",
+  "child_ids": [],
+  "text_markup": "A paid ability that contains an instruction that could break 1 or more subroutines can only be used during an encounter.",
+  "text_plain": "A paid ability that contains an instruction that could break 1 or more subroutines can only be used during an encounter.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_paid_ability_breaks_subroutines"
+}

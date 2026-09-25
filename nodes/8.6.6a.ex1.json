@@ -1,0 +1,27 @@
+{
+  "id": "rule_play_no_trash_left_play_area__example_1",
+  "kind": "example",
+  "number": "8.6.6a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_play_no_trash_left_play_area",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:Ashen Epilogue} and resolves its play abilities. Its last ability removes it from the game.",
+  "text_plain": "The Runner plays Ashen Epilogue and resolves its play abilities. Its last ability removes it from the game.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 31,
+      "target": "Ashen Epilogue",
+      "card_code": "34094"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

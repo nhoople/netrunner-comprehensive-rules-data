@@ -1,0 +1,29 @@
+{
+  "id": "rule_directly_approach_encounter",
+  "kind": "rule",
+  "number": "6.1.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_modify_run_steps",
+  "child_ids": [],
+  "text_markup": "Some abilities direct the Runner to approach or encounter a piece of ice as part of moving them to that ice's position. See {ref:rule_move_runner_to_position}.",
+  "text_plain": "Some abilities direct the Runner to approach or encounter a piece of ice as part of moving them to that ice's position. See section 6.2.8.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 124,
+      "end": 137,
+      "ids": [
+        "rule_move_runner_to_position"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_directly_approach_encounter"
+}

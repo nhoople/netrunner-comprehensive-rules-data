@@ -1,0 +1,19 @@
+{
+  "id": "rule_mark_identification_method",
+  "kind": "rule",
+  "number": "10.11.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_mark_identification",
+  "child_ids": [],
+  "text_markup": "The random central server can be selected by any method, as long as there is an equal probability to select each of the 3 central servers (HQ, R&D, and Archives). Recommended methods include designating 1 card from outside the game to represent each server, shuffling those 3 cards, and drawing 1, or designating an equal number of faces of a die to represent each server and rolling that die.",
+  "text_plain": "The random central server can be selected by any method, as long as there is an equal probability to select each of the 3 central servers (HQ, R&D, and Archives). Recommended methods include designating 1 card from outside the game to represent each server, shuffling those 3 cards, and drawing 1, or designating an equal number of faces of a die to represent each server and rolling that die.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mark_identification_method"
+}

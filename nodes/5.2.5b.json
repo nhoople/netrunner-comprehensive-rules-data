@@ -1,0 +1,28 @@
+{
+  "id": "rule_defferent_actions",
+  "kind": "rule",
+  "number": "5.2.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_same_different_actions",
+  "child_ids": [
+    "rule_defferent_actions__example_1"
+  ],
+  "text_markup": "Actions a player performs are different if each of them is initiated from a different basic action or card ability. Instances of equivalent abilities on different cards are still different actions.",
+  "text_plain": "Actions a player performs are different if each of them is initiated from a different basic action or card ability. Instances of equivalent abilities on different cards are still different actions.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_defferent_actions__example_1",
+      "text_markup": "The Corp, playing {card:MirrorMorph: Endless Iteration}, plays {card:Hedge Fund} as the first action of their turn, then plays {card:Lateral Growth}. Even though two different cards were played, both times the Corp used the basic action to \"Play 1 operation from HQ\". Since their first two actions were the same, the Corp will not be able to trigger the ability on MirrorMorph this turn.",
+      "text_plain": "The Corp, playing MirrorMorph: Endless Iteration, plays Hedge Fund as the first action of their turn, then plays Lateral Growth. Even though two different cards were played, both times the Corp used the basic action to \"Play 1 operation from HQ\". Since their first two actions were the same, the Corp will not be able to trigger the ability on MirrorMorph this turn.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_defferent_actions"
+}

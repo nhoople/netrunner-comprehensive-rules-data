@@ -1,0 +1,27 @@
+{
+  "id": "rule_no_reveal_for_default_install__example_2",
+  "kind": "example",
+  "number": "8.5.13a.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_no_reveal_for_default_install",
+  "child_ids": [],
+  "text_markup": "The Corp resolves the first subroutine on {card:Brân 1.0}. They do not reveal the card they install to verify that it is a piece of ice as stipulated in the text of the subroutine, nor do they reveal the card to verify that it is a piece of ice as necessitated from installing it protecting a server.",
+  "text_plain": "The Corp resolves the first subroutine on Brân 1.0. They do not reveal the card they install to verify that it is a piece of ice as stipulated in the text of the subroutine, nor do they reveal the card to verify that it is a piece of ice as necessitated from installing it protecting a server.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 42,
+      "end": 50,
+      "target": "Brân 1.0",
+      "card_code": "30039"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

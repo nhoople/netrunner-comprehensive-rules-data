@@ -1,0 +1,24 @@
+{
+  "id": "sec_turn_general",
+  "kind": "section",
+  "number": "5.1",
+  "ref_type": "section",
+  "title": "General",
+  "parent_id": "chpt_turns",
+  "child_ids": [
+    "rule_turn",
+    "rule_corp_turn_phases",
+    "rule_runner_turn_phases",
+    "rule_begin_end_turn_step"
+  ],
+  "text_markup": "General",
+  "text_plain": "General",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_turn_general"
+}

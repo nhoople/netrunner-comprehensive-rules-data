@@ -1,0 +1,19 @@
+{
+  "id": "rule_candidates_in_server_root",
+  "kind": "rule",
+  "number": "7.4.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_candidates_beginning_breach",
+  "child_ids": [],
+  "text_markup": "Each card in the root of the breached server is a candidate.",
+  "text_plain": "Each card in the root of the breached server is a candidate.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_candidates_in_server_root"
+}

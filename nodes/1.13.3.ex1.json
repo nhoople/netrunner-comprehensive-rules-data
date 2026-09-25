@@ -1,0 +1,39 @@
+{
+  "id": "rule_hosted_counters_not_on_player__example_1",
+  "kind": "example",
+  "number": "1.13.3.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_hosted_counters_not_on_player",
+  "child_ids": [],
+  "text_markup": "The Corp resolves the first subroutine on {card:Whitespace}, forcing the Runner to lose 3[c]. The Runner cannot lose credits hosted on their cards, even if they do not have 3[c] in their credit pool.",
+  "text_plain": "The Corp resolves the first subroutine on Whitespace, forcing the Runner to lose 3{c}. The Runner cannot lose credits hosted on their cards, even if they do not have 3{c} in their credit pool.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 42,
+      "end": 52,
+      "target": "Whitespace",
+      "card_code": "30074"
+    },
+    {
+      "type": "symbol",
+      "start": 82,
+      "end": 85,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 167,
+      "end": 170,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

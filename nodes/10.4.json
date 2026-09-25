@@ -1,0 +1,24 @@
+{
+  "id": "sec_damage",
+  "kind": "section",
+  "number": "10.4",
+  "ref_type": "section",
+  "title": "Damage",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_suffer_or_take_damage",
+    "rule_damage_types",
+    "rule_multiple_damage_taken_simultaneously",
+    "rule_flatline_damage_reference"
+  ],
+  "text_markup": "Damage",
+  "text_plain": "Damage",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_damage"
+}

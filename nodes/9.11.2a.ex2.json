@@ -1,0 +1,19 @@
+{
+  "id": "rule_step_sequences__example_2",
+  "kind": "example",
+  "number": "9.11.2a.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_step_sequences",
+  "child_ids": [],
+  "text_markup": "The steps of a checkpoint are not instructions. No checkpoints take place in the middle of another checkpoint.",
+  "text_plain": "The steps of a checkpoint are not instructions. No checkpoints take place in the middle of another checkpoint.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

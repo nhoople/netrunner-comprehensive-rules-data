@@ -1,0 +1,28 @@
+{
+  "id": "rule_split_up_instruction",
+  "kind": "rule",
+  "number": "9.11.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction_sentence_exceptions",
+  "child_ids": [
+    "rule_split_up_instruction__example_1"
+  ],
+  "text_markup": "If a sentence directs a player to play, install, or access more than one card, each such card is handled as a separate instruction. The instruction ends and a new one begins immediately before each play, install, or access after the first.",
+  "text_plain": "If a sentence directs a player to play, install, or access more than one card, each such card is handled as a separate instruction. The instruction ends and a new one begins immediately before each play, install, or access after the first.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_split_up_instruction__example_1",
+      "text_markup": "The Corp plays {card:Shipment from MirrorMorph}, which has a single sentence directing them to install up to 3 cards from HQ. This is treated as though it said, \"You may install a card from HQ. You may install a card from HQ. You may install a card from HQ.\", or equivalently, \"You may install a card from HQ. Repeat this process 2 more times.\"",
+      "text_plain": "The Corp plays Shipment from MirrorMorph, which has a single sentence directing them to install up to 3 cards from HQ. This is treated as though it said, \"You may install a card from HQ. You may install a card from HQ. You may install a card from HQ.\", or equivalently, \"You may install a card from HQ. Repeat this process 2 more times.\"",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_split_up_instruction"
+}

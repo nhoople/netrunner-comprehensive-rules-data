@@ -1,0 +1,19 @@
+{
+  "id": "rule_ice_change_approach_uninstall_move",
+  "kind": "rule",
+  "number": "6.2.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ice_change_current_position",
+  "child_ids": [],
+  "text_markup": "If a piece of ice is uninstalled or moved to another position (protecting this or another server) while it is being approached, the approach ends and the run continues to the Movement Phase.",
+  "text_plain": "If a piece of ice is uninstalled or moved to another position (protecting this or another server) while it is being approached, the approach ends and the run continues to the Movement Phase.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_change_approach_uninstall_move"
+}

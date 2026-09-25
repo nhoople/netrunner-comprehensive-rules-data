@@ -1,0 +1,35 @@
+{
+  "id": "rule_rnd_topmost_eligibile_candidate",
+  "kind": "rule",
+  "number": "7.4.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_rnd_candidates_1_at_a_time",
+  "child_ids": [
+    "rule_rnd_topmost_eligibile_candidate__example_1",
+    "rule_rnd_topmost_eligibile_candidate__example_2"
+  ],
+  "text_markup": "After the Runner chooses a candidate from the Corp's deck and whenever any cards enter, leave, or are reordered within the Corp's deck, all cards in the Corp's deck cease to be candidates. Then, if the random access limit has not been reached, the topmost eligible card in the deck becomes a candidate. A card is eligible for this purpose if the Runner has not already chosen to access that object and is not prohibited from accessing that object in this breach.",
+  "text_plain": "After the Runner chooses a candidate from the Corp's deck and whenever any cards enter, leave, or are reordered within the Corp's deck, all cards in the Corp's deck cease to be candidates. Then, if the random access limit has not been reached, the topmost eligible card in the deck becomes a candidate. A card is eligible for this purpose if the Runner has not already chosen to access that object and is not prohibited from accessing that object in this breach.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_rnd_topmost_eligibile_candidate__example_1",
+      "text_markup": "The Runner plays {card:The Maker's Eye} and breaches R&D, accessing 2 additional cards. They access {card:Celebrity Gift} and then access and steal {card:Bacterial Programming}. The Corp uses {card:Bacterial Programming}'s ability to rearrange cards in R&D, but they leave {card:Celebrity Gift} as the top card of R&D. The cards returned to the top of R&D are new objects, so the Runner must continue the breach from the top of R&D and will access {card:Celebrity Gift} again.",
+      "text_plain": "The Runner plays The Maker's Eye and breaches R&D, accessing 2 additional cards. They access Celebrity Gift and then access and steal Bacterial Programming. The Corp uses Bacterial Programming's ability to rearrange cards in R&D, but they leave Celebrity Gift as the top card of R&D. The cards returned to the top of R&D are new objects, so the Runner must continue the breach from the top of R&D and will access Celebrity Gift again.",
+      "is_new": false
+    },
+    {
+      "id": "rule_rnd_topmost_eligibile_candidate__example_2",
+      "text_markup": "The Corp is playing {card:Seidr Laboratories} and has {card:Strongbox} rezzed in the root of R&D. The Runner breaches R&D with a random access limit of 4. They first access the top card of the Corp's deck and leave it in place. The 2nd card from the top now becomes a candidate, and turns out to be an agenda, which the Runner steals by spending [click] to pay the additional cost imposed by {card:Strongbox}. The Corp then uses {card:Seidr Laboratories} to add 1 card from Archives to the top of R&D. The 3rd candidate presented to the Runner is the card newly added to the top of R&D. After accessing that card, the next card down is still the object that was accessed first, so the card below that (currently 3rd from the top) becomes the 4th and final candidate.",
+      "text_plain": "The Corp is playing Seidr Laboratories and has Strongbox rezzed in the root of R&D. The Runner breaches R&D with a random access limit of 4. They first access the top card of the Corp's deck and leave it in place. The 2nd card from the top now becomes a candidate, and turns out to be an agenda, which the Runner steals by spending {click} to pay the additional cost imposed by Strongbox. The Corp then uses Seidr Laboratories to add 1 card from Archives to the top of R&D. The 3rd candidate presented to the Runner is the card newly added to the top of R&D. After accessing that card, the next card down is still the object that was accessed first, so the card below that (currently 3rd from the top) becomes the 4th and final candidate.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rnd_topmost_eligibile_candidate"
+}

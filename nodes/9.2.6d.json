@@ -1,0 +1,38 @@
+{
+  "id": "rule_action_window_occurrence",
+  "kind": "rule",
+  "number": "9.2.6d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_action_window",
+  "child_ids": [],
+  "text_markup": "There are two timing steps during which an action window may open. The Corp has an action window in {ref:step_corp_turn_action} of their action phase. The Runner has an action window in {ref:step_runner_turn_action} of their action phase.",
+  "text_plain": "There are two timing steps during which an action window may open. The Corp has an action window in step 5.6.2b of their action phase. The Runner has an action window in step 5.7.1f of their action phase.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 100,
+      "end": 111,
+      "ids": [
+        "step_corp_turn_action"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 170,
+      "end": 181,
+      "ids": [
+        "step_runner_turn_action"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_action_window_occurrence"
+}

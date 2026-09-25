@@ -1,0 +1,19 @@
+{
+  "id": "rule_valid_search_target_criteria",
+  "kind": "rule",
+  "number": "8.7.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_find",
+  "child_ids": [],
+  "text_markup": "The card found with a search must match the criteria specified by the search effect.",
+  "text_plain": "The card found with a search must match the criteria specified by the search effect.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_valid_search_target_criteria"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rule_strength_location",
+  "kind": "rule",
+  "number": "2.7.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_strength",
+  "child_ids": [],
+  "text_markup": "Strength is a number appearing on ice and on {subtype:icebreaker} programs. It appears on the bottom-left corner of the card within a large semicircle.",
+  "text_plain": "Strength is a number appearing on ice and on icebreaker programs. It appears on the bottom-left corner of the card within a large semicircle.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 45,
+      "end": 55,
+      "target": "icebreaker"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_strength_location"
+}

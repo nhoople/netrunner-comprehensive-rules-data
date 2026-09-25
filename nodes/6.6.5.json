@@ -1,0 +1,29 @@
+{
+  "id": "rule_runner_approach_new_position",
+  "kind": "rule",
+  "number": "6.6.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_movement_phase",
+  "child_ids": [],
+  "text_markup": "If the Runner moves to a new position, the run continues from the Movement Phase to the Approach Ice Phase, {ref:sec_approach_ice_phase}. The Runner will approach the piece of ice in their new position.",
+  "text_plain": "If the Runner moves to a new position, the run continues from the Movement Phase to the Approach Ice Phase, section 6.4. The Runner will approach the piece of ice in their new position.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 108,
+      "end": 119,
+      "ids": [
+        "sec_approach_ice_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_runner_approach_new_position"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rule_unique_symbol",
+  "kind": "rule",
+  "number": "2.2.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_unique_symbol",
+  "child_ids": [],
+  "text_markup": "Some cards are {term:unique}, and have a unique symbol (◆) before their name to designate this. See {ref:rule_uniqueness}.",
+  "text_plain": "Some cards are unique, and have a unique symbol (◆) before their name to designate this. See rule 10.1.1.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 15,
+      "end": 21,
+      "target": "unique"
+    },
+    {
+      "type": "ref",
+      "start": 93,
+      "end": 104,
+      "ids": [
+        "rule_uniqueness"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_unique_symbol"
+}

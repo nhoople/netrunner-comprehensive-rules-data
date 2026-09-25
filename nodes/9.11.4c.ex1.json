@@ -1,0 +1,45 @@
+{
+  "id": "rule_choose_instruction__example_1",
+  "kind": "example",
+  "number": "9.11.4c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_choose_instruction",
+  "child_ids": [],
+  "text_markup": "{card:Tinkering}'s play ability reads, \"Choose a piece of ice. That ice gains {subtype:sentry}, {subtype:code gate}, and {subtype:barrier} until the end of the turn.\" The first sentence does nothing except direct the Runner to select a target, so it forms a single instruction with the second sentence. The target is chosen as the instruction becomes imminent, and the card gains the subtypes when the instruction resolves.",
+  "text_plain": "Tinkering's play ability reads, \"Choose a piece of ice. That ice gains sentry, code gate, and barrier until the end of the turn.\" The first sentence does nothing except direct the Runner to select a target, so it forms a single instruction with the second sentence. The target is chosen as the instruction becomes imminent, and the card gains the subtypes when the instruction resolves.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 9,
+      "target": "Tinkering",
+      "card_code": "20044"
+    },
+    {
+      "type": "subtype",
+      "start": 71,
+      "end": 77,
+      "target": "sentry"
+    },
+    {
+      "type": "subtype",
+      "start": 79,
+      "end": 88,
+      "target": "code gate"
+    },
+    {
+      "type": "subtype",
+      "start": 94,
+      "end": 101,
+      "target": "barrier"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

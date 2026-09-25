@@ -1,0 +1,30 @@
+{
+  "id": "rule_server_types",
+  "kind": "rule",
+  "number": "4.6.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_servers",
+  "child_ids": [],
+  "text_markup": "The two types of servers are central servers and remote servers. See {ref:subsec_central_servers,subsec_remote_servers}, respectively.",
+  "text_plain": "The two types of servers are central servers and remote servers. See sections 4.6.7 and 4.6.8, respectively.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 69,
+      "end": 93,
+      "ids": [
+        "subsec_central_servers",
+        "subsec_remote_servers"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_server_types"
+}

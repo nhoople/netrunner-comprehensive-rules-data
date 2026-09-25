@@ -1,0 +1,35 @@
+{
+  "id": "rule_icebreaker_strength_increase_specified",
+  "kind": "rule",
+  "number": "3.9.5c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_icebreakers",
+  "child_ids": [
+    "rule_icebreaker_strength_increase_specified__example_1"
+  ],
+  "text_markup": "If an {subtype:icebreaker}'s paid ability specifies another duration for modifying its strength, that modification lasts until both the stated duration and the implicit encounter duration have expired.",
+  "text_plain": "If an icebreaker's paid ability specifies another duration for modifying its strength, that modification lasts until both the stated duration and the implicit encounter duration have expired.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 6,
+      "end": 16,
+      "target": "icebreaker"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_icebreaker_strength_increase_specified__example_1",
+      "text_markup": "{card:Gordian Blade} has the ability \"1[c]: +1 strength for the remainder of this run.\" This ability applies until the end of the current run, whether it is triggered during an encounter or another step of the run. If the ability is triggered during an encounter that takes place outside of a run, the strength increase applies for the duration of that encounter.",
+      "text_plain": "Gordian Blade has the ability \"1{c}: +1 strength for the remainder of this run.\" This ability applies until the end of the current run, whether it is triggered during an encounter or another step of the run. If the ability is triggered during an encounter that takes place outside of a run, the strength increase applies for the duration of that encounter.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_icebreaker_strength_increase_specified"
+}

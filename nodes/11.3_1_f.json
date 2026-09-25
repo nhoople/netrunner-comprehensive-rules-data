@@ -1,0 +1,22 @@
+{
+  "id": "sec_appendix_timing_structure_runners_turn_1_f",
+  "kind": "timing_structure",
+  "number": "11.3_1_f",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_runners_turn_1",
+  "child_ids": [
+    "sec_appendix_timing_structure_runners_turn_1_f_i",
+    "sec_appendix_timing_structure_runners_turn_1_f_ii"
+  ],
+  "text_markup": "Does the Runner have unspent clicks?",
+  "text_plain": "Does the Runner have unspent clicks?",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_runners_turn_1_f"
+}

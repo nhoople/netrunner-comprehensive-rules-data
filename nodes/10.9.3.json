@@ -1,0 +1,19 @@
+{
+  "id": "rule_meeting_empty_condition",
+  "kind": "rule",
+  "number": "10.9.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_load_and_empty",
+  "child_ids": [],
+  "text_markup": "If any other types of counters are placed on that card without having been loaded, and those counters are subsequently removed, then empty abilities on that card do not meet their condition.",
+  "text_plain": "If any other types of counters are placed on that card without having been loaded, and those counters are subsequently removed, then empty abilities on that card do not meet their condition.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_meeting_empty_condition"
+}

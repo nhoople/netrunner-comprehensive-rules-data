@@ -1,0 +1,1765 @@
+[
+  {
+    "type": "subtype",
+    "text": " terminal",
+    "node_ids": [
+      "rule_forced_action_phase_end"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "Icebreaker",
+    "node_ids": [
+      "rule_program_icebreaker"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "alliance",
+    "node_ids": [
+      "rule_alliance"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "barrier",
+    "node_ids": [
+      "rule_target__example_4",
+      "rule_choose_instruction__example_1"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "bioroid",
+    "node_ids": [
+      "rule_paid_ability_refers_to_approached_ice__example_1",
+      "rule_independent_effects__example_1"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "code gate",
+    "node_ids": [
+      "rule_paid_ability_refers_to_encountered_ice__example_2",
+      "rule_choose_instruction__example_1"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "condition",
+    "node_ids": [
+      "rule_operation_condition",
+      "rule_event_condition"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "connection",
+    "node_ids": [
+      "rule_host_via_install__example_1"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "connections",
+    "node_ids": [
+      "rule_host_via_install__example_1"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "console",
+    "node_ids": [
+      "rule_subtype_special_rules",
+      "rule_hardware_console",
+      "rule_install_console",
+      "rule_console_limitation",
+      "rule_console_limitation_active",
+      "step_checkpoint_uniqueness"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "consoles",
+    "node_ids": [
+      "rule_hardware_console",
+      "rule_console_limitation_active"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "current",
+    "node_ids": [
+      "rule_operation_current",
+      "rule_event_current"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "directive",
+    "node_ids": [
+      "rule_adam",
+      "rule_adam_different_directives",
+      "rule_adam_directives_install",
+      "rule_adam_directives_deck"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "directives",
+    "node_ids": [
+      "rule_adam_directives_install"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "icebreaker",
+    "node_ids": [
+      "rule_strength_location",
+      "rule_strength_dash",
+      "rule_strength_citation",
+      "rule_subtype_special_rules",
+      "rule_icebreakers_strength_value",
+      "rule_programs_without_strength_value",
+      "rule_program_icebreaker",
+      "rule_icebreaker_strength_increase_implicit",
+      "rule_icebreaker_strength_increase_specified",
+      "rule_icebreaker_strength_increase_outside_of_encounter",
+      "rule_icebreaker_interface_strength",
+      "rule_icebreaker_interface_subtype",
+      "rule_icebreaker_strength_increase_implicit_link",
+      "step_checkpoint_duration_abilities__example_1"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "icebreakers",
+    "node_ids": [
+      "rule_icebreaker_interface"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "lockdown",
+    "node_ids": [
+      "rule_operation_lockdown"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "priority",
+    "node_ids": [
+      "rule_priority_subtype"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "region",
+    "node_ids": [
+      "rule_subtype_special_rules",
+      "rule_asset_lady_liberty",
+      "rule_upgrade_region",
+      "rule_region_one_root",
+      "rule_region_active_inactive",
+      "rule_region_install",
+      "rule_region_swap",
+      "rule_region_unique",
+      "rule_no_reveal_for_server_limitation__example_1"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "regions",
+    "node_ids": [
+      "rule_upgrade_region"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "sentry",
+    "node_ids": [
+      "rule_add_remove_subtypes__example_1",
+      "rule_choose_instruction__example_1"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "stealth",
+    "node_ids": [
+      "rule_use_restrictions__example_1"
+    ]
+  },
+  {
+    "type": "subtype",
+    "text": "virus",
+    "node_ids": [
+      "rule_type_virus_counter",
+      "rule_lack_of_subtype"
+    ]
+  },
+  {
+    "type": "term",
+    "text": " action phase",
+    "node_ids": [
+      "rule_corp_turn_phases",
+      "rule_runner_turn_phases"
+    ]
+  },
+  {
+    "type": "term",
+    "text": " basic actions",
+    "node_ids": [
+      "rule_runner_basic_actions"
+    ]
+  },
+  {
+    "type": "term",
+    "text": " depends on",
+    "node_ids": [
+      "rule_dependent_effects"
+    ]
+  },
+  {
+    "type": "term",
+    "text": " discard phase",
+    "node_ids": [
+      "rule_corp_turn_phases",
+      "rule_runner_turn_phases"
+    ]
+  },
+  {
+    "type": "term",
+    "text": " discarding",
+    "node_ids": [
+      "rule_discard_phase_discarding"
+    ]
+  },
+  {
+    "type": "term",
+    "text": " draw phase",
+    "node_ids": [
+      "rule_corp_turn_phases"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Accessing",
+    "node_ids": [
+      "rule_accessing"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Advancement counters",
+    "node_ids": [
+      "rule_type_advancement_counter"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Agenda counters",
+    "node_ids": [
+      "rule_type_agenda_counter"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Archives",
+    "node_ids": [
+      "rule_archives_name"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Bad publicity counters",
+    "node_ids": [
+      "rule_type_bad_pub_counter"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Breaching",
+    "node_ids": [
+      "rule_breaching_servers"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Candidates",
+    "node_ids": [
+      "rule_candidates"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Click counters",
+    "node_ids": [
+      "rule_type_click_counter"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Condition counters",
+    "node_ids": [
+      "rule_type_condition_counter"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Core damage counters",
+    "node_ids": [
+      "rule_type_core_damage_counter"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Counters",
+    "node_ids": [
+      "rule_counters_cards"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Credit counters",
+    "node_ids": [
+      "rule_type_credit_counter"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Dividends",
+    "node_ids": [
+      "rule_dividends"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "HQ",
+    "node_ids": [
+      "rule_hq_name"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Installing",
+    "node_ids": [
+      "rule_installing"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Jacking out",
+    "node_ids": [
+      "rule_jacking_out"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Playing",
+    "node_ids": [
+      "rule_playing"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Power counters",
+    "node_ids": [
+      "rule_type_power_counter"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Priority",
+    "node_ids": [
+      "rule_priority"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Psi Game",
+    "node_ids": [
+      "rule_psi_game"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "R&D",
+    "node_ids": [
+      "rule_rnd_name"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Random Access Limit",
+    "node_ids": [
+      "rule_random_access_limit"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Recurring Credits",
+    "node_ids": [
+      "rule_recurring_credits"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Tag counters",
+    "node_ids": [
+      "rule_type_tag_counter"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Trashing",
+    "node_ids": [
+      "rule_trashing"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "Virus counters",
+    "node_ids": [
+      "rule_type_virus_counter"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "ability",
+    "node_ids": [
+      "rule_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "ability flag",
+    "node_ids": [
+      "rule_ability_flag"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "action",
+    "node_ids": [
+      "rule_action_definition",
+      "rule_action"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "action window",
+    "node_ids": [
+      "rule_action_window"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "active",
+    "node_ids": [
+      "rule_active_cards",
+      "rule_ability_active"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "active player",
+    "node_ids": [
+      "rule_active_player"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "additional cost",
+    "node_ids": [
+      "rule_additional_cost"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "advance",
+    "node_ids": [
+      "rule_advance"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "advancement requirement",
+    "node_ids": [
+      "rule_advancement_requirement"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "announces",
+    "node_ids": [
+      "rule_announce_targets"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "approach ice phase",
+    "node_ids": [
+      "rule_approach_ice_phase"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "arrange",
+    "node_ids": [
+      "movement_arrange",
+      "rule_arrange_rearrange"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "attacked server",
+    "node_ids": [
+      "rule_attacked_server"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "avoid",
+    "node_ids": [
+      "sec_prevent_avoid"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "bad publicity",
+    "node_ids": [
+      "rule_bad_publicity"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "bad publicity fund",
+    "node_ids": [
+      "rule_bad_publicity_fund"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "bank",
+    "node_ids": [
+      "rule_bank",
+      "rule_bank_counter_supply"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "base trace strength",
+    "node_ids": [
+      "rule_trace_attempt_and_base_trace_strength"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "basic actions",
+    "node_ids": [
+      "rule_corp_basic_actions"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "basic trash ability",
+    "node_ids": [
+      "rule_basic_trash_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "bid",
+    "node_ids": [
+      "rule_bidding"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "break",
+    "node_ids": [
+      "rule_break_subroutine"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "broken",
+    "node_ids": [
+      "rule_subroutines_status"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "bypass",
+    "node_ids": [
+      "rule_bypass"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "central servers",
+    "node_ids": [
+      "rule_three_central_servers"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "charge",
+    "node_ids": [
+      "rule_charge"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "checkpoint",
+    "node_ids": [
+      "rule_checkpoints"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "click",
+    "node_ids": [
+      "rule_click"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "closes",
+    "node_ids": [
+      "rule_priority_window"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "condition",
+    "node_ids": [
+      "rule_condition"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "conditional ability",
+    "node_ids": [
+      "rule_conditional_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "controller of an ability",
+    "node_ids": [
+      "rule_controller_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "controller of an object",
+    "node_ids": [
+      "rule_controller_object"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "core damage",
+    "node_ids": [
+      "rule_core_damage"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "cost condition",
+    "node_ids": [
+      "rule_cost_condition"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "credit",
+    "node_ids": [
+      "rule_credit"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "credit pool",
+    "node_ids": [
+      "rule_credit_pool"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "declaration",
+    "node_ids": [
+      "rule_declaration"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "delayed conditional ability",
+    "node_ids": [
+      "rule_delayed_conditional_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "derez",
+    "node_ids": [
+      "sec_derez"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "destination",
+    "node_ids": [
+      "rule_location"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "discard pile",
+    "node_ids": [
+      "rule_discard_pile"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "discard step",
+    "node_ids": [
+      "rule_discard_step"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "draw",
+    "node_ids": [
+      "rule_card_draw",
+      "movement_draw"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "drawing",
+    "node_ids": [
+      "rule_drawing"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "effect",
+    "node_ids": [
+      "rule_effect"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "empty",
+    "node_ids": [
+      "rule_load_and_empty"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "encounter ice phase",
+    "node_ids": [
+      "rule_encounter_ice_phase"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "end the run",
+    "node_ids": [
+      "rule_end_the_run"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "expected effects",
+    "node_ids": [
+      "rule_expected_effects"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "expose",
+    "node_ids": [
+      "rule_expose"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "facedown",
+    "node_ids": [
+      "rule_faceup_facedown"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "faceup",
+    "node_ids": [
+      "rule_faceup_facedown"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "find",
+    "node_ids": [
+      "rule_find"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "flatlined",
+    "node_ids": [
+      "rule_flatline"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "flavor text",
+    "node_ids": [
+      "rule_flavor_text"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "forced encounter",
+    "node_ids": [
+      "rule_forced_encounter"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "forfeit",
+    "node_ids": [
+      "movement_forfeit"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "fully breaks",
+    "node_ids": [
+      "rule_fully_break",
+      "rule_object_fully_break"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "gains",
+    "node_ids": [
+      "rule_gain_credits",
+      "rule_gain_clicks"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "grip",
+    "node_ids": [
+      "rule_grip_name"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "hand",
+    "node_ids": [
+      "rule_hand"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "heap",
+    "node_ids": [
+      "rule_heap_name"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "hidden",
+    "node_ids": [
+      "rule_hidden_zone"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "hidden information",
+    "node_ids": [
+      "rule_hidden_or_open_information",
+      "rule_hidden_information"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "host",
+    "node_ids": [
+      "rule_placed_loaded"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "hosted",
+    "node_ids": [
+      "rule_placed_loaded"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "hosting",
+    "node_ids": [
+      "rule_installed_onto_cards"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "imminent",
+    "node_ids": [
+      "rule_instruction_link"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "inactive",
+    "node_ids": [
+      "rule_inactive_cards",
+      "rule_ability_active"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "inactive player",
+    "node_ids": [
+      "rule_active_player"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "independent",
+    "node_ids": [
+      "rule_independent_effects"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "initiation phase",
+    "node_ids": [
+      "rule_run_initiation_phase"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "install",
+    "node_ids": [
+      "movement_install"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "install cost",
+    "node_ids": [
+      "rule_install_cost"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "instances",
+    "node_ids": [
+      "rule_pending_instances"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "instruction",
+    "node_ids": [
+      "rule_instruction"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "instructions",
+    "node_ids": [
+      "rule_instruction_link"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "interface",
+    "node_ids": [
+      "rule_icebreaker_interface"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "interrupt",
+    "node_ids": [
+      "rule_interrupt_definition"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "interrupt window",
+    "node_ids": [
+      "rule_interrupt_window"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "lingering effects",
+    "node_ids": [
+      "rule_effect_beyond_resolution",
+      "rule_lingering_effect"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "link strength",
+    "node_ids": [
+      "rule_link_strength"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "link value",
+    "node_ids": [
+      "rule_link_value"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "load",
+    "node_ids": [
+      "rule_load_and_empty"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "location",
+    "node_ids": [
+      "rule_location"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "looks",
+    "node_ids": [
+      "rule_look"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "lose",
+    "node_ids": [
+      "rule_lose_credits"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "loses",
+    "node_ids": [
+      "rule_lose_spend_clicks"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "mandatory conditional ability",
+    "node_ids": [
+      "rule_optional_conditional_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "mandatory draw",
+    "node_ids": [
+      "rule_mandatory_draw"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "mark",
+    "node_ids": [
+      "rule_mark"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "maximum hand size",
+    "node_ids": [
+      "rule_max_hand_size"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "meat damage",
+    "node_ids": [
+      "rule_meat_net_damage"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "memory cost",
+    "node_ids": [
+      "rule_memory_cost"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "memory limit",
+    "node_ids": [
+      "rule_memory_limit"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "memory unit",
+    "node_ids": [
+      "rule_memory_unit"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "mid-access ability window",
+    "node_ids": [
+      "rule_mid_access_window"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "modal abilities",
+    "node_ids": [
+      "rule_mode_definition"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "mode",
+    "node_ids": [
+      "rule_mode_definition"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "movement",
+    "node_ids": [
+      "sec_movement"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "movement phase",
+    "node_ids": [
+      "rule_movement_phase"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "name",
+    "node_ids": [
+      "rule_card_name_definition"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "nested cost",
+    "node_ids": [
+      "rule_nested_cost"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "net damage",
+    "node_ids": [
+      "rule_meat_net_damage"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "object",
+    "node_ids": [
+      "rule_object"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "open",
+    "node_ids": [
+      "rule_priority_window"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "open information",
+    "node_ids": [
+      "rule_hidden_or_open_information",
+      "rule_open_information"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "optional conditional ability",
+    "node_ids": [
+      "rule_optional_conditional_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "owner",
+    "node_ids": [
+      "rule_owner"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "paid ability",
+    "node_ids": [
+      "rule_paid_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "paid ability window",
+    "node_ids": [
+      "rule_paid_ability_window"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "pass",
+    "node_ids": [
+      "rule_pass"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "pay",
+    "node_ids": [
+      "rule_spend_credits"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "pending",
+    "node_ids": [
+      "rule_pending_instances"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "persist",
+    "node_ids": [
+      "rule_persistent"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "persistent",
+    "node_ids": [
+      "rule_persistent"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "play",
+    "node_ids": [
+      "movement_play"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "play ability",
+    "node_ids": [
+      "rule_play_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "play area",
+    "node_ids": [
+      "rule_play_area"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "play cost",
+    "node_ids": [
+      "rule_play_cost"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "positions",
+    "node_ids": [
+      "rule_position"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "prevent",
+    "node_ids": [
+      "sec_prevent_avoid"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "priority window",
+    "node_ids": [
+      "rule_priority_window"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "public",
+    "node_ids": [
+      "rule_public_zone"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "purge virus counters",
+    "node_ids": [
+      "rule_purge"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "reaction window",
+    "node_ids": [
+      "rule_reaction_window"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "rearrange",
+    "node_ids": [
+      "rule_arrange_rearrange"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "relevant",
+    "node_ids": [
+      "sec_relevant_interrupts"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "reminder text",
+    "node_ids": [
+      "rule_reminder_text"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "remote server",
+    "node_ids": [
+      "rule_remote_server"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "removed-from-game zone",
+    "node_ids": [
+      "rule_removed_from_game_zone"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "replacement effect",
+    "node_ids": [
+      "sec_replacement_effects"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "resolve an ability",
+    "node_ids": [
+      "rule_resolve_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "resolve an instruction",
+    "node_ids": [
+      "rule_resolve_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "resolving",
+    "node_ids": [
+      "rule_instruction_link"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "restriction",
+    "node_ids": [
+      "rule_restriction"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "reveal",
+    "node_ids": [
+      "rule_reveal"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "rez",
+    "node_ids": [
+      "sec_rez"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "rez cost",
+    "node_ids": [
+      "rule_rez_cost"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "rezzed",
+    "node_ids": [
+      "rule_rezzed_unrezzed"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "root",
+    "node_ids": [
+      "rule_server_root"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "run",
+    "node_ids": [
+      "rule_run"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "run ends phase",
+    "node_ids": [
+      "rule_run_ends_phase"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "sabotage",
+    "node_ids": [
+      "rule_sabotage"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "score",
+    "node_ids": [
+      "rule_score",
+      "movement_score"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "score area",
+    "node_ids": [
+      "rule_score_area"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "scoring",
+    "node_ids": [
+      "rule_score_steal"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "search",
+    "node_ids": [
+      "movement_search",
+      "rule_search"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "secret",
+    "node_ids": [
+      "rule_secret_zone"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "server",
+    "node_ids": [
+      "rule_server"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "set-aside zone",
+    "node_ids": [
+      "rule_set_aside_zone"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "source",
+    "node_ids": [
+      "rule_source"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "spend",
+    "node_ids": [
+      "rule_spend_credits"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "spends",
+    "node_ids": [
+      "rule_lose_spend_clicks"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "stack",
+    "node_ids": [
+      "rule_stack_name"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "static ability",
+    "node_ids": [
+      "rule_static_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "static condition",
+    "node_ids": [
+      "rule_static_condition"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "steal",
+    "node_ids": [
+      "movement_steal"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "stealing",
+    "node_ids": [
+      "rule_score_steal"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "subroutine",
+    "node_ids": [
+      "rule_subroutine"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "success phase",
+    "node_ids": [
+      "rule_success_phase"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "successful run",
+    "node_ids": [
+      "rule_successful_run"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "suffers",
+    "node_ids": [
+      "rule_suffer_or_take_damage"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "swap",
+    "node_ids": [
+      "movement_swap",
+      "rule_swap"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "tag",
+    "node_ids": [
+      "rule_tag"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "tagged",
+    "node_ids": [
+      "rule_tagged"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "take",
+    "node_ids": [
+      "rule_take_credits"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "takes",
+    "node_ids": [
+      "rule_suffer_or_take_damage"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "target",
+    "node_ids": [
+      "rule_target"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "text box",
+    "node_ids": [
+      "rule_text_box_definition"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "threat level",
+    "node_ids": [
+      "rule_threat_level"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "timing structure",
+    "node_ids": [
+      "rule_timing_structure"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "tokens",
+    "node_ids": [
+      "rule_counters_cards"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "trace",
+    "node_ids": [
+      "rule_trace_attempt_and_base_trace_strength"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "trace attempt",
+    "node_ids": [
+      "rule_trace_attempt_and_base_trace_strength"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "trace strength",
+    "node_ids": [
+      "rule_trace_strength"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "trash",
+    "node_ids": [
+      "movement_trash"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "trigger condition",
+    "node_ids": [
+      "rule_trigger_condition"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "trigger cost",
+    "node_ids": [
+      "rule_trigger_cost",
+      "rule_paid_ability"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "triggering",
+    "node_ids": [
+      "rule_triggering"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "turn",
+    "node_ids": [
+      "rule_turn"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "unbroken",
+    "node_ids": [
+      "rule_subroutines_status"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "uninstalled",
+    "node_ids": [
+      "rule_uninstalled"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "unique",
+    "node_ids": [
+      "rule_unique_symbol",
+      "rule_uniqueness"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "unrezzed",
+    "node_ids": [
+      "rule_rezzed_unrezzed"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "unsuccessful run",
+    "node_ids": [
+      "rule_unsuccessful_run"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "using",
+    "node_ids": [
+      "rule_using"
+    ]
+  },
+  {
+    "type": "term",
+    "text": "zone",
+    "node_ids": [
+      "rule_zone"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "rule_start_hand",
+  "kind": "subsection",
+  "number": "1.6.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_starting_the_game",
+  "child_ids": [
+    "rule_mulligan"
+  ],
+  "text_markup": "Each player draws 5 cards from the top of their deck to form their starting hand.",
+  "text_plain": "Each player draws 5 cards from the top of their deck to form their starting hand.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_start_hand"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_discarding_process",
+  "kind": "rule",
+  "number": "5.5.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_discard_step",
+  "child_ids": [],
+  "text_markup": "If the number of cards in the active player's hand is greater than their maximum hand size, they discard a number of cards from their hand equal to the difference. The discarding player chooses which of their cards to discard, and the chosen cards are all discarded simultaneously.",
+  "text_plain": "If the number of cards in the active player's hand is greater than their maximum hand size, they discard a number of cards from their hand equal to the difference. The discarding player chooses which of their cards to discard, and the chosen cards are all discarded simultaneously.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_discarding_process"
+}

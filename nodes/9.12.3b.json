@@ -1,0 +1,28 @@
+{
+  "id": "rule_must_without_choice",
+  "kind": "rule",
+  "number": "9.12.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_must",
+  "child_ids": [
+    "rule_must_without_choice__example_1"
+  ],
+  "text_markup": "If a card ability states that a player \"must\" do something and specifies the means by which that player must do so, then that player is not required to carry out the effect except by the means specified, even if it would be possible through the use of other card abilities.",
+  "text_plain": "If a card ability states that a player \"must\" do something and specifies the means by which that player must do so, then that player is not required to carry out the effect except by the means specified, even if it would be possible through the use of other card abilities.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_must_without_choice__example_1",
+      "text_markup": "The Runner has {card:Imp} and {card:Neutralize All Threats} installed when they access a card with a trash cost greater than the number of credits they have available to spend. Because they are unable to trash the card by paying its trash cost, they are not required to spend a counter from {card:Imp} in order to trash it.",
+      "text_plain": "The Runner has Imp and Neutralize All Threats installed when they access a card with a trash cost greater than the number of credits they have available to spend. Because they are unable to trash the card by paying its trash cost, they are not required to spend a counter from Imp in order to trash it.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_must_without_choice"
+}

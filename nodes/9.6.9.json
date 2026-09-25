@@ -1,0 +1,37 @@
+{
+  "id": "rule_optional_conditional_ability",
+  "kind": "subsection",
+  "number": "9.6.9",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [
+    "rule_pass_with_optional_conditional_abilities_pending",
+    "rule_cannot_pass_with_mandatory_conditional_abilities_pending",
+    "rule_mandatory_conditional_ability_with_optional_effects",
+    "rule_optional_conditional_ability_use"
+  ],
+  "text_markup": "If a conditional ability gives its controller a choice of whether to apply its effects, such that the ability could potentially have no effects at all, it is considered an {term:optional conditional ability}. These abilities can usually be recognized by the presence of permissive words such as \"may\" or \"allows\", or by a restriction such as \"Use this ability only once per turn.\" If the ability is not optional, then it is a {term:mandatory conditional ability}.",
+  "text_plain": "If a conditional ability gives its controller a choice of whether to apply its effects, such that the ability could potentially have no effects at all, it is considered an optional conditional ability. These abilities can usually be recognized by the presence of permissive words such as \"may\" or \"allows\", or by a restriction such as \"Use this ability only once per turn.\" If the ability is not optional, then it is a mandatory conditional ability.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 172,
+      "end": 200,
+      "target": "optional conditional ability"
+    },
+    {
+      "type": "term",
+      "start": 419,
+      "end": 448,
+      "target": "mandatory conditional ability"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_optional_conditional_ability"
+}

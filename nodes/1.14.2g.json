@@ -1,0 +1,19 @@
+{
+  "id": "rule_controller_click_core_damage",
+  "kind": "rule",
+  "number": "1.14.2g",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_controller_object",
+  "child_ids": [],
+  "text_markup": "Click counters and core damage counters are gameplay aids only and have no controller.",
+  "text_plain": "Click counters and core damage counters are gameplay aids only and have no controller.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_controller_click_core_damage"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rule_icebreaker_interface_subtype",
+  "kind": "rule",
+  "number": "3.9.5h",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_icebreakers",
+  "child_ids": [],
+  "text_markup": "If an interface ability specifies that it affects a particular subtype of ice, then that ability can only be used on a piece of ice that has the specified subtype. If an ability on an {subtype:icebreaker} does not specify a subtype of ice that it affects, that ability can be used on any piece of ice.",
+  "text_plain": "If an interface ability specifies that it affects a particular subtype of ice, then that ability can only be used on a piece of ice that has the specified subtype. If an ability on an icebreaker does not specify a subtype of ice that it affects, that ability can be used on any piece of ice.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 184,
+      "end": 194,
+      "target": "icebreaker"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_icebreaker_interface_subtype"
+}

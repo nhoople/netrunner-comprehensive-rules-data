@@ -1,0 +1,28 @@
+{
+  "id": "rule_distinct_targets",
+  "kind": "rule",
+  "number": "1.15.2e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_announce_targets",
+  "child_ids": [
+    "rule_distinct_targets__example_1"
+  ],
+  "text_markup": "A player may announce the targets for an instruction in any order, but each object or subroutine can only be chosen as a target once for each announcement. If there are not enough valid targets available, then that player chooses as many distinct targets as possible and the remaining targets are not announced.",
+  "text_plain": "A player may announce the targets for an instruction in any order, but each object or subroutine can only be chosen as a target once for each announcement. If there are not enough valid targets available, then that player chooses as many distinct targets as possible and the remaining targets are not announced.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_distinct_targets__example_1",
+      "text_markup": "The Runner accesses an {card:Aggressive Secretary} with three advancement counters on it. The Runner only has two installed programs, so the Corp chooses both of those programs for {card:Aggressive Secretary}. After the programs have been chosen, they are both trashed simultaneously.",
+      "text_plain": "The Runner accesses an Aggressive Secretary with three advancement counters on it. The Runner only has two installed programs, so the Corp chooses both of those programs for Aggressive Secretary. After the programs have been chosen, they are both trashed simultaneously.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_distinct_targets"
+}

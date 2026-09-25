@@ -1,0 +1,19 @@
+{
+  "id": "rule_inherent_rez_cost",
+  "kind": "rule",
+  "number": "8.1.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_rez",
+  "child_ids": [],
+  "text_markup": "Before rezzing a card, the Corp must pay that card's rez cost. This includes both rezzing in a paid ability window and rezzing through a card ability. Card abilities can modify or ignore rez costs, but must state this explicitly.",
+  "text_plain": "Before rezzing a card, the Corp must pay that card's rez cost. This includes both rezzing in a paid ability window and rezzing through a card ability. Card abilities can modify or ignore rez costs, but must state this explicitly.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_inherent_rez_cost"
+}

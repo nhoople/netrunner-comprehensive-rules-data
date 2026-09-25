@@ -1,0 +1,28 @@
+{
+  "id": "rule_influence_by_copy",
+  "kind": "rule",
+  "number": "1.4.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_influence_limit",
+  "child_ids": [
+    "rule_influence_by_copy__example_1"
+  ],
+  "text_markup": "The total influence cost of out-of-faction cards is counted by copy and not by name.",
+  "text_plain": "The total influence cost of out-of-faction cards is counted by copy and not by name.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_influence_by_copy__example_1",
+      "text_markup": "Including a single copy of {card:Diesel} in a non-Shaper deck adds 2 to the total influence in that deck, while including two copies of {card:Diesel} in a non-Shaper deck adds 4 to the total influence in that deck.",
+      "text_plain": "Including a single copy of Diesel in a non-Shaper deck adds 2 to the total influence in that deck, while including two copies of Diesel in a non-Shaper deck adds 4 to the total influence in that deck.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_influence_by_copy"
+}

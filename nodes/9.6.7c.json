@@ -1,0 +1,19 @@
+{
+  "id": "rule_conditional_ability_static_one_instance",
+  "kind": "rule",
+  "number": "9.6.7c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_conditional_ability_with_static_condition",
+  "child_ids": [],
+  "text_markup": "A conditional ability with a static condition can only be marked pending if no other instance of the same ability from the same source is already pending, imminent, or resolving.",
+  "text_plain": "A conditional ability with a static condition can only be marked pending if no other instance of the same ability from the same source is already pending, imminent, or resolving.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_conditional_ability_static_one_instance"
+}

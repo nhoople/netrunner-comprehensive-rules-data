@@ -1,0 +1,29 @@
+{
+  "id": "rule_server_ice",
+  "kind": "rule",
+  "number": "4.6.6d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_servers",
+  "child_ids": [],
+  "text_markup": "All servers can have ice installed protecting them. See {ref:subsec_protecting_a_server}.",
+  "text_plain": "All servers can have ice installed protecting them. See section 4.6.9.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 56,
+      "end": 69,
+      "ids": [
+        "subsec_protecting_a_server"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_server_ice"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "rule_multiple_damage_taken_simultaneously__example_1",
+  "kind": "example",
+  "number": "10.4.3.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_multiple_damage_taken_simultaneously",
+  "child_ids": [],
+  "text_markup": "The Runner has 2 tags and four cards in their grip, one of which is {card:I've Had Worse}. The Corp plays {card:BOOM!}, dealing 7 meat damage to the Runner. If the Runner cannot or does not prevent at least 3 of the incoming damage, they immediately flatline as they have suffered more damage than they have cards in grip, and {card:I've Had Worse} does not have the opportunity to resolve. If the Runner does prevent enough of the damage to survive, the Runner randomly trashes as many cards as the remaining amount of damage. After all the cards have been randomly selected and placed in the heap, {card:I've Had Worse} meets its trigger condition if it is among those cards trashed by the damage.",
+  "text_plain": "The Runner has 2 tags and four cards in their grip, one of which is I've Had Worse. The Corp plays BOOM!, dealing 7 meat damage to the Runner. If the Runner cannot or does not prevent at least 3 of the incoming damage, they immediately flatline as they have suffered more damage than they have cards in grip, and I've Had Worse does not have the opportunity to resolve. If the Runner does prevent enough of the damage to survive, the Runner randomly trashes as many cards as the remaining amount of damage. After all the cards have been randomly selected and placed in the heap, I've Had Worse meets its trigger condition if it is among those cards trashed by the damage.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 68,
+      "end": 82,
+      "target": "I've Had Worse",
+      "card_code": "07032"
+    },
+    {
+      "type": "card",
+      "start": 99,
+      "end": 104,
+      "target": "BOOM!",
+      "card_code": "11058"
+    },
+    {
+      "type": "card",
+      "start": 313,
+      "end": 327,
+      "target": "I've Had Worse",
+      "card_code": "07032"
+    },
+    {
+      "type": "card",
+      "start": 579,
+      "end": 593,
+      "target": "I've Had Worse",
+      "card_code": "07032"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

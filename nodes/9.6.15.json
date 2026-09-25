@@ -1,0 +1,27 @@
+{
+  "id": "sec_steps_of_triggering_and_resolving_a_conditional_ability",
+  "kind": "subsection",
+  "number": "9.6.15",
+  "ref_type": "step",
+  "title": "Steps of Triggering and Resolving a Conditional Ability",
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [
+    "step_conditional_ability_announce",
+    "step_conditional_ability_target_first_instruction",
+    "step_conditional_ability_interrupt_window",
+    "step_conditional_ability_resolution",
+    "step_conditional_ability_checkpoint",
+    "step_conditional_ability_loop",
+    "step_conditional_ability_complete"
+  ],
+  "text_markup": "Steps of Triggering and Resolving a Conditional Ability",
+  "text_plain": "Steps of Triggering and Resolving a Conditional Ability",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_steps_of_triggering_and_resolving_a_conditional_ability"
+}

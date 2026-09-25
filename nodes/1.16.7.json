@@ -1,0 +1,26 @@
+{
+  "id": "rule_play_cost",
+  "kind": "rule",
+  "number": "1.16.7",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_costs",
+  "child_ids": [],
+  "text_markup": "The {term:play cost} of an operation or event must be paid to play that card. It is listed on the card itself.",
+  "text_plain": "The play cost of an operation or event must be paid to play that card. It is listed on the card itself.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 13,
+      "target": "play cost"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_cost"
+}

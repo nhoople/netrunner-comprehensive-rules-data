@@ -1,0 +1,25 @@
+{
+  "id": "rule_asset_subtypes",
+  "kind": "rule",
+  "number": "2.16.7c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subtypes_list",
+  "child_ids": [],
+  "text_markup": "The asset subtypes are Academic, Advertisement, Alliance, Ambush, Beanstalk, Bioroid, Cast, Character, Clone, Corporation, Deep Net, Enforcer, Executive, Facility, Government, Hostile, Industrial, {n}Liability,{/n} Political, Psi, Region, Research, Ritzy, Seedy, and Transaction.",
+  "text_plain": "The asset subtypes are Academic, Advertisement, Alliance, Ambush, Beanstalk, Bioroid, Cast, Character, Clone, Corporation, Deep Net, Enforcer, Executive, Facility, Government, Hostile, Industrial, Liability, Political, Psi, Region, Research, Ritzy, Seedy, and Transaction.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 197,
+      "end": 207
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_asset_subtypes"
+}

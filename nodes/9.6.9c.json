@@ -1,0 +1,19 @@
+{
+  "id": "rule_mandatory_conditional_ability_with_optional_effects",
+  "kind": "rule",
+  "number": "9.6.9c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_optional_conditional_ability",
+  "child_ids": [],
+  "text_markup": "Both optional and mandatory conditional abilities may have optional parts to their effects. Even if triggering the ability is mandatory, its controller may still decline any optional constituent effects that arise during its resolution.",
+  "text_plain": "Both optional and mandatory conditional abilities may have optional parts to their effects. Even if triggering the ability is mandatory, its controller may still decline any optional constituent effects that arise during its resolution.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mandatory_conditional_ability_with_optional_effects"
+}

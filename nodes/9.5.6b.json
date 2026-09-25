@@ -1,0 +1,28 @@
+{
+  "id": "rule_paid_ability_refers_to_approached_ice",
+  "kind": "rule",
+  "number": "9.5.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_paid_ability_effect_based_timing_restrictions",
+  "child_ids": [
+    "rule_paid_ability_refers_to_approached_ice__example_1"
+  ],
+  "text_markup": "A paid ability that refers to ice the Runner is approaching can only be used during the Approach Ice Phase of a run, and only if the ice being approached meets all stipulations used in referring to it.",
+  "text_plain": "A paid ability that refers to ice the Runner is approaching can only be used during the Approach Ice Phase of a run, and only if the ice being approached meets all stipulations used in referring to it.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_paid_ability_refers_to_approached_ice__example_1",
+      "text_markup": "The Corp can only use the paid ability on {card:Project Wotan} while the Runner is approaching a rezzed piece of {subtype:bioroid} ice.",
+      "text_plain": "The Corp can only use the paid ability on Project Wotan while the Runner is approaching a rezzed piece of bioroid ice.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_paid_ability_refers_to_approached_ice"
+}

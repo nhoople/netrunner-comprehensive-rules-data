@@ -1,0 +1,38 @@
+{
+  "id": "rule_encounter_break_paw",
+  "kind": "rule",
+  "number": "6.5.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_encounter_ice_phase",
+  "child_ids": [],
+  "text_markup": "During the paid ability window in the Encounter Ice Phase ({ref:step_encounter_paw}), the Runner can break subroutines on the ice. See {ref:rule_break_subroutine}.",
+  "text_plain": "During the paid ability window in the Encounter Ice Phase (step 6.9.3b), the Runner can break subroutines on the ice. See rule 9.8.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 59,
+      "end": 70,
+      "ids": [
+        "step_encounter_paw"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 122,
+      "end": 132,
+      "ids": [
+        "rule_break_subroutine"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_encounter_break_paw"
+}

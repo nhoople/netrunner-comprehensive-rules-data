@@ -1,0 +1,19 @@
+{
+  "id": "rule_threat_level__example_1",
+  "kind": "example",
+  "number": "1.17.1a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_threat_level",
+  "child_ids": [],
+  "text_markup": "If the Runner's score is 4 agenda points, and the Corp's score is 3 agenda points, the threat level is 4.",
+  "text_plain": "If the Runner's score is 4 agenda points, and the Corp's score is 3 agenda points, the threat level is 4.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "rule_search_instruction__example_1",
+  "kind": "example",
+  "number": "9.11.4d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_search_instruction",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Djinn} to search for a program while the Corp has {card:Personality Profiles} in their score area. The Runner finds and sets aside a copy of {card:Datasucker} and shuffles the stack. This ends an instruction, and since the search has occurred, {card:Personality Profiles}'s ability meets its trigger condition. The Corp resolves the ability during a reaction window before the next instruction becomes imminent, forcing the Runner to trash a random card from their grip. Finally, the second instruction resolves and the Runner adds the set-aside {card:Datasucker} to their grip.",
+  "text_plain": "The Runner uses Djinn to search for a program while the Corp has Personality Profiles in their score area. The Runner finds and sets aside a copy of Datasucker and shuffles the stack. This ends an instruction, and since the search has occurred, Personality Profiles's ability meets its trigger condition. The Corp resolves the ability during a reaction window before the next instruction becomes imminent, forcing the Runner to trash a random card from their grip. Finally, the second instruction resolves and the Runner adds the set-aside Datasucker to their grip.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 21,
+      "target": "Djinn",
+      "card_code": "01009"
+    },
+    {
+      "type": "card",
+      "start": 65,
+      "end": 85,
+      "target": "Personality Profiles",
+      "card_code": "10066"
+    },
+    {
+      "type": "card",
+      "start": 149,
+      "end": 159,
+      "target": "Datasucker",
+      "card_code": "20009"
+    },
+    {
+      "type": "card",
+      "start": 245,
+      "end": 265,
+      "target": "Personality Profiles",
+      "card_code": "10066"
+    },
+    {
+      "type": "card",
+      "start": 540,
+      "end": 550,
+      "target": "Datasucker",
+      "card_code": "20009"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

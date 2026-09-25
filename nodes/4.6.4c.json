@@ -1,0 +1,29 @@
+{
+  "id": "rule_play_area_runner_cards",
+  "kind": "rule",
+  "number": "4.6.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_area_active_inactive",
+  "child_ids": [],
+  "text_markup": "Generally, Runner hardware, programs, and resources are installed into the play area faceup and active. See {ref:sec_install_uninstall}.",
+  "text_plain": "Generally, Runner hardware, programs, and resources are installed into the play area faceup and active. See section 8.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 108,
+      "end": 119,
+      "ids": [
+        "sec_install_uninstall"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_runner_cards"
+}

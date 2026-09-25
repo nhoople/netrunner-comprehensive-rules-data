@@ -1,0 +1,19 @@
+{
+  "id": "step_checkpoint_discard_pile_counters",
+  "kind": "rule",
+  "number": "10.3.1l",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_checkpoints",
+  "child_ids": [],
+  "text_markup": "Any counters in a discard pile are returned to the bank.",
+  "text_plain": "Any counters in a discard pile are returned to the bank.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_checkpoint_discard_pile_counters"
+}

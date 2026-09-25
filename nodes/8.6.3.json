@@ -1,0 +1,56 @@
+{
+  "id": "rule_playing_one_at_a_time",
+  "kind": "rule",
+  "number": "8.6.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_playing_events_and_operations",
+  "child_ids": [
+    "rule_playing_one_at_a_time__example_1"
+  ],
+  "text_markup": "Playing cards is an exception to {ref:rule_act_on_multiple_cards}. If an effect would play more than one card, then those cards are chosen and played one at a time, following all of the steps of the play process ({ref:sec_steps_playing}) for each card before choosing and playing the next. Each such card is played as a separate instruction. See {ref:rule_split_up_instruction}.",
+  "text_plain": "Playing cards is an exception to rule 9.12.2a. If an effect would play more than one card, then those cards are chosen and played one at a time, following all of the steps of the play process (step 8.6.7) for each card before choosing and playing the next. Each such card is played as a separate instruction. See rule 9.11.4b.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 33,
+      "end": 45,
+      "ids": [
+        "rule_act_on_multiple_cards"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 193,
+      "end": 203,
+      "ids": [
+        "sec_steps_playing"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 313,
+      "end": 325,
+      "ids": [
+        "rule_split_up_instruction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_playing_one_at_a_time__example_1",
+      "text_markup": "The Corp uses {card:Subcontract} to play {card:Hedge Fund} and another operation. The Corp can use the credits gained from {card:Hedge Fund} to pay for the second operation.",
+      "text_plain": "The Corp uses Subcontract to play Hedge Fund and another operation. The Corp can use the credits gained from Hedge Fund to pay for the second operation.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_playing_one_at_a_time"
+}

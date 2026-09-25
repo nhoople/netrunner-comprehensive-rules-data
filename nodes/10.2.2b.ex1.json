@@ -1,0 +1,48 @@
+{
+  "id": "rule_bluffing__example_1",
+  "kind": "example",
+  "number": "10.2.2b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_bluffing",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Indexing}. While rearranging cards, the Runner places {card:Braintrust} on top of R&D, followed by {card:Snare!}. The Corp draws at the beginning of their next turn, then spends their first click to draw a card. For their second click, the Corp installs a card in an empty remote server, telling the Runner that they should run it because it is a {card:Braintrust}.",
+  "text_plain": "The Runner uses Indexing. While rearranging cards, the Runner places Braintrust on top of R&D, followed by Snare!. The Corp draws at the beginning of their next turn, then spends their first click to draw a card. For their second click, the Corp installs a card in an empty remote server, telling the Runner that they should run it because it is a Braintrust.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 24,
+      "target": "Indexing",
+      "card_code": "20039"
+    },
+    {
+      "type": "card",
+      "start": 69,
+      "end": 79,
+      "target": "Braintrust",
+      "card_code": "20094"
+    },
+    {
+      "type": "card",
+      "start": 107,
+      "end": 113,
+      "target": "Snare!",
+      "card_code": "31054"
+    },
+    {
+      "type": "card",
+      "start": 348,
+      "end": 358,
+      "target": "Braintrust",
+      "card_code": "20094"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_modify_cost_restriction",
+  "kind": "rule",
+  "number": "9.3.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_restriction",
+  "child_ids": [],
+  "text_markup": "Text modifying the cost to play, install, rez, or steal the card it appears on is a restriction, including text that adds an additional cost.",
+  "text_plain": "Text modifying the cost to play, install, rez, or steal the card it appears on is a restriction, including text that adds an additional cost.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modify_cost_restriction"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rule_delayed_conditional_ability_specified_duration__example_1",
+  "kind": "example",
+  "number": "9.6.13b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_delayed_conditional_ability_specified_duration",
+  "child_ids": [],
+  "text_markup": "{card:In the Groove} creates a delayed conditional ability that specifies a duration of \"this turn\". Since a duration is specified, it is not limited to only being triggered once. The ability becomes pending and can resolve every time its trigger condition is met, and its existence only expires at the end of the turn.",
+  "text_plain": "In the Groove creates a delayed conditional ability that specifies a duration of \"this turn\". Since a duration is specified, it is not limited to only being triggered once. The ability becomes pending and can resolve every time its trigger condition is met, and its existence only expires at the end of the turn.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 13,
+      "target": "In the Groove",
+      "card_code": "26020"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

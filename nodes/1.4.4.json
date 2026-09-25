@@ -1,0 +1,19 @@
+{
+  "id": "rule_disallowed_cards",
+  "kind": "rule",
+  "number": "1.4.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_deck_construction",
+  "child_ids": [],
+  "text_markup": "Decks cannot contain identity cards, player aid cards, cards from the wrong side (Corp cards in a Runner deck or vice-versa), or out-of-faction cards that lack influence costs.",
+  "text_plain": "Decks cannot contain identity cards, player aid cards, cards from the wrong side (Corp cards in a Runner deck or vice-versa), or out-of-faction cards that lack influence costs.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_disallowed_cards"
+}

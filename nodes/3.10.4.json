@@ -1,0 +1,41 @@
+{
+  "id": "rule_resource_trash_action",
+  "kind": "rule",
+  "number": "3.10.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_resources",
+  "child_ids": [],
+  "text_markup": "While the Runner is tagged, the Corp may spend [click] and 2[c] to trash an installed resource as a basic action. See {ref:sec_tags}.",
+  "text_plain": "While the Runner is tagged, the Corp may spend {click} and 2{c} to trash an installed resource as a basic action. See section 10.5.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 47,
+      "end": 54,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 60,
+      "end": 63,
+      "target": "credit"
+    },
+    {
+      "type": "ref",
+      "start": 118,
+      "end": 130,
+      "ids": [
+        "sec_tags"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_resource_trash_action"
+}

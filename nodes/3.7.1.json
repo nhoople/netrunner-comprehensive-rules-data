@@ -1,0 +1,32 @@
+{
+  "id": "rule_event_play",
+  "kind": "subsection",
+  "number": "3.7.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_events",
+  "child_ids": [
+    "rule_event_condition",
+    "rule_event_current"
+  ],
+  "text_markup": "Events are the only Runner cards that are played. Events are never installed. Playing an event causes its abilities to become active, and once those abilities are fully resolved the event is trashed. See {ref:sec_playing_events_and_operations}.",
+  "text_plain": "Events are the only Runner cards that are played. Events are never installed. Playing an event causes its abilities to become active, and once those abilities are fully resolved the event is trashed. See section 8.6.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 204,
+      "end": 215,
+      "ids": [
+        "sec_playing_events_and_operations"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_event_play"
+}

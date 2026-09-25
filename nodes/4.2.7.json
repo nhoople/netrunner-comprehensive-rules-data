@@ -1,0 +1,22 @@
+{
+  "id": "subsec_rnd",
+  "kind": "subsection",
+  "number": "4.2.7",
+  "ref_type": "section",
+  "title": "R&D",
+  "parent_id": "sec_deck",
+  "child_ids": [
+    "rule_rnd_name",
+    "rule_rnd_empty_rnd"
+  ],
+  "text_markup": "R&D",
+  "text_plain": "R&D",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "R&D stands for Research and Development. It represents upcoming projects and acquisitions the Corp will soon have at their disposal.",
+  "snippet_plain": "R&D stands for Research and Development. It represents upcoming projects and acquisitions the Corp will soon have at their disposal.",
+  "url": "https://rules.nullsignal.games/?r=subsec_rnd"
+}

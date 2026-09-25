@@ -1,0 +1,19 @@
+{
+  "id": "rule_with_the_basic_action",
+  "kind": "rule",
+  "number": "5.2.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_basic_actions",
+  "child_ids": [],
+  "text_markup": "If an ability has a trigger condition related to an effect being performed “with the basic action”, that trigger condition is met by any basic action that performs the indicated effect. If an ability imposes a cost on performing an effect “with the basic action”, that cost applies to any instance of the indicated effect that would occur as part of resolving a basic action.",
+  "text_plain": "If an ability has a trigger condition related to an effect being performed “with the basic action”, that trigger condition is met by any basic action that performs the indicated effect. If an ability imposes a cost on performing an effect “with the basic action”, that cost applies to any instance of the indicated effect that would occur as part of resolving a basic action.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_with_the_basic_action"
+}

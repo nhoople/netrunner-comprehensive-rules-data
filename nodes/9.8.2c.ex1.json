@@ -1,0 +1,86 @@
+{
+  "id": "rule_gain_subroutines_in_any_order__example_1",
+  "kind": "example",
+  "number": "9.8.2c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_gain_subroutines_in_any_order",
+  "child_ids": [],
+  "text_markup": "The Runner encounters a copy of {card:Lancelot} hosting a condition counter from {card:Sub Boost}. The Corp reveals a copy of {card:Merlin} in HQ to add a \"[sub] Do 2 net damage.\" subroutine to {card:Lancelot}. The Corp declares whether the subroutine from {card:Merlin} will be added before {card:Lancelot}'s printed \"[sub] Trash 1 installed program.\" subroutine, between the printed subroutine and the \"[sub] End the run.\" subroutine granted by the condition counter, or after the \"[sub] End the run.\" subroutine.",
+  "text_plain": "The Runner encounters a copy of Lancelot hosting a condition counter from Sub Boost. The Corp reveals a copy of Merlin in HQ to add a \"{sub} Do 2 net damage.\" subroutine to Lancelot. The Corp declares whether the subroutine from Merlin will be added before Lancelot's printed \"{sub} Trash 1 installed program.\" subroutine, between the printed subroutine and the \"{sub} End the run.\" subroutine granted by the condition counter, or after the \"{sub} End the run.\" subroutine.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 32,
+      "end": 40,
+      "target": "Lancelot",
+      "card_code": "06051"
+    },
+    {
+      "type": "card",
+      "start": 74,
+      "end": 83,
+      "target": "Sub Boost",
+      "card_code": "07025"
+    },
+    {
+      "type": "card",
+      "start": 112,
+      "end": 118,
+      "target": "Merlin",
+      "card_code": "06091"
+    },
+    {
+      "type": "symbol",
+      "start": 135,
+      "end": 140,
+      "target": "sub"
+    },
+    {
+      "type": "card",
+      "start": 173,
+      "end": 181,
+      "target": "Lancelot",
+      "card_code": "06051"
+    },
+    {
+      "type": "card",
+      "start": 229,
+      "end": 235,
+      "target": "Merlin",
+      "card_code": "06091"
+    },
+    {
+      "type": "card",
+      "start": 257,
+      "end": 265,
+      "target": "Lancelot",
+      "card_code": "06051"
+    },
+    {
+      "type": "symbol",
+      "start": 277,
+      "end": 282,
+      "target": "sub"
+    },
+    {
+      "type": "symbol",
+      "start": 363,
+      "end": 368,
+      "target": "sub"
+    },
+    {
+      "type": "symbol",
+      "start": 442,
+      "end": 447,
+      "target": "sub"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

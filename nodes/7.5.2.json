@@ -1,0 +1,19 @@
+{
+  "id": "step_flip_archives",
+  "kind": "rule",
+  "number": "7.5.2",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_breaching_steps",
+  "child_ids": [],
+  "text_markup": "If the breached server is Archives, turn all cards in the Corp's discard pile faceup.",
+  "text_plain": "If the breached server is Archives, turn all cards in the Corp's discard pile faceup.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_flip_archives"
+}

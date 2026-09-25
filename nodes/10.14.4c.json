@@ -1,0 +1,29 @@
+{
+  "id": "rule_bid_payment_choices",
+  "kind": "rule",
+  "number": "10.14.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_bid_reveal_spend",
+  "child_ids": [],
+  "text_markup": "If both players are bidding and a player has multiple sources of credits available from which to pay for their bid (see {ref:rule_spend_credits}), that player chooses how to pay after learning the number of credits their opponent bid. If both players have multiple ways to pay for their bids, first the active player chooses how to pay, then the inactive player chooses how to pay. In either circumstance, the credits are spent simultaneously.",
+  "text_plain": "If both players are bidding and a player has multiple sources of credits available from which to pay for their bid (see rule 1.10.3c), that player chooses how to pay after learning the number of credits their opponent bid. If both players have multiple ways to pay for their bids, first the active player chooses how to pay, then the inactive player chooses how to pay. In either circumstance, the credits are spent simultaneously.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 120,
+      "end": 132,
+      "ids": [
+        "rule_spend_credits"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bid_payment_choices"
+}

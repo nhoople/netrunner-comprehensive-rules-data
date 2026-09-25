@@ -1,0 +1,35 @@
+{
+  "id": "rule_server",
+  "kind": "rule",
+  "number": "4.6.6a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_servers",
+  "child_ids": [],
+  "text_markup": "A {term:server} is a set of locations where the Corp installs their cards into the play area and against which the Runner can initiate runs. Whenever a Corp installs an agenda, asset, ice, or upgrade, they must choose a destination server for that card. See {ref:sec_install_uninstall}.",
+  "text_plain": "A server is a set of locations where the Corp installs their cards into the play area and against which the Runner can initiate runs. Whenever a Corp installs an agenda, asset, ice, or upgrade, they must choose a destination server for that card. See section 8.5.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 8,
+      "target": "server"
+    },
+    {
+      "type": "ref",
+      "start": 251,
+      "end": 262,
+      "ids": [
+        "sec_install_uninstall"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_server"
+}

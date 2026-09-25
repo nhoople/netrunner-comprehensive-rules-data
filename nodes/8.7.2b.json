@@ -1,0 +1,42 @@
+{
+  "id": "rule_valid_search_target_install_play",
+  "kind": "rule",
+  "number": "8.7.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_find",
+  "child_ids": [
+    "rule_valid_search_target_install_play__example_1",
+    "rule_valid_search_target_install_play__example_2",
+    "rule_valid_search_target_install_play__example_3"
+  ],
+  "text_markup": "When a search is followed by an install instruction referring to the found card(s), then the player must be able to install the card(s) they find. The same is true when the search is followed by a play instruction.",
+  "text_plain": "When a search is followed by an install instruction referring to the found card(s), then the player must be able to install the card(s) they find. The same is true when the search is followed by a play instruction.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_valid_search_target_install_play__example_1",
+      "text_markup": "The Runner uses {card:Artist Colony} to search for a card and install it. They cannot find an event with the search because events can never be installed. They also cannot find a program, hardware, or resource that they cannot afford to install.",
+      "text_plain": "The Runner uses Artist Colony to search for a card and install it. They cannot find an event with the search because events can never be installed. They also cannot find a program, hardware, or resource that they cannot afford to install.",
+      "is_new": false
+    },
+    {
+      "id": "rule_valid_search_target_install_play__example_2",
+      "text_markup": "The Runner uses {card:Self-modifying Code} to search for a program and install it. They have no more credits after using the ability of {card:Self-modifying Code}, but they have an installed copy of {card:Patchwork}. They can search for {card:Imp} and install it, but they must use {card:Patchwork} by trashing a card from their grip to install {card:Imp}. If the Runner does not have a card in their grip, they cannot find and install {card:Imp}.",
+      "text_plain": "The Runner uses Self-modifying Code to search for a program and install it. They have no more credits after using the ability of Self-modifying Code, but they have an installed copy of Patchwork. They can search for Imp and install it, but they must use Patchwork by trashing a card from their grip to install Imp. If the Runner does not have a card in their grip, they cannot find and install Imp.",
+      "is_new": false
+    },
+    {
+      "id": "rule_valid_search_target_install_play__example_3",
+      "text_markup": "The Corp uses {card:Tucana} to search for {card:Pharos} while they have 0 credits. They are allowed to find and install {card:Pharos}, even though they cannot afford to rez it. The Corp must reveal {card:Pharos} to show that it cannot be rezzed. See {ref:rule_reveal_for_install_and_rez}.",
+      "text_plain": "The Corp uses Tucana to search for Pharos while they have 0 credits. They are allowed to find and install Pharos, even though they cannot afford to rez it. The Corp must reveal Pharos to show that it cannot be rezzed. See rule 8.5.13d.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_valid_search_target_install_play"
+}

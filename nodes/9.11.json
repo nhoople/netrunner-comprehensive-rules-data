@@ -1,0 +1,25 @@
+{
+  "id": "sec_identifying_instructions",
+  "kind": "section",
+  "number": "9.11",
+  "ref_type": "section",
+  "title": "Identifying Instructions",
+  "parent_id": "chpt_abilities",
+  "child_ids": [
+    "rule_instruction_pause",
+    "rule_step_in_timing_structure_is_instruction",
+    "rule_instructions_in_ability_text",
+    "rule_instruction_sentence_exceptions",
+    "rule_linked_abilities_during_timing_structure"
+  ],
+  "text_markup": "Identifying Instructions",
+  "text_plain": "Identifying Instructions",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "To correctly resolve conditional abilities and interrupts that could meet their trigger conditions during the resolution of another ability (see {ref:rule_chain_reaction}), players need to determine where checkpoints occur during the resolution of each ability. This section aids players in making this determination. For clarifications on particular cards, refer to the Rulings section of that card's page on {link:netrunnerdb.com|https://www.netrunnerdb.com}.",
+  "snippet_plain": "To correctly resolve conditional abilities and interrupts that could meet their trigger conditions during the resolution of another ability (see rule 9.1.2a), players need to determine where checkpoints occur during the resolution of each ability. This section aids players in making this determination. For clarifications on particular cards, refer to the Rulings section of that card's page on netrunnerdb.com.",
+  "url": "https://rules.nullsignal.games/?r=sec_identifying_instructions"
+}

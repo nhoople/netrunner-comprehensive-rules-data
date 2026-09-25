@@ -1,0 +1,29 @@
+{
+  "id": "rule_replacement_effect_relevant",
+  "kind": "rule",
+  "number": "9.9.3c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_relevant_interrupts",
+  "child_ids": [],
+  "text_markup": "Its effects could create a replacement effect that applies to the imminent instruction's expected effects. See {ref:rule_replace_imminent_effects}.",
+  "text_plain": "Its effects could create a replacement effect that applies to the imminent instruction's expected effects. See rule 9.9.10.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 111,
+      "end": 122,
+      "ids": [
+        "rule_replace_imminent_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_replacement_effect_relevant"
+}

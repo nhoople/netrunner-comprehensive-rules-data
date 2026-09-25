@@ -1,0 +1,28 @@
+{
+  "id": "sec_steps_of_resolving_a_subroutine",
+  "kind": "subsection",
+  "number": "9.8.10",
+  "ref_type": "step",
+  "title": "Steps of Resolving a Subroutine",
+  "parent_id": "sec_subroutines",
+  "child_ids": [
+    "step_subroutine_becomes_imminent",
+    "step_subroutine_interrupt_subroutine_resolution",
+    "step_subroutine_target_first_instruction",
+    "step_subroutine_interrupt_subroutine_effect",
+    "step_subroutine_resolution",
+    "step_subroutine_checkpoint",
+    "step_subroutine_loop",
+    "step_subroutine_complete"
+  ],
+  "text_markup": "Steps of Resolving a Subroutine",
+  "text_plain": "Steps of Resolving a Subroutine",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_steps_of_resolving_a_subroutine"
+}

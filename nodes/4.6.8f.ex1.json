@@ -1,0 +1,27 @@
+{
+  "id": "rule_limit_remote_servers__example_1",
+  "kind": "example",
+  "number": "4.6.8f.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_limit_remote_servers",
+  "child_ids": [],
+  "text_markup": "The Corp's identity is {card:Earth Station: SEA Headquarters}, which has the ability \"Limit 1 remote server.\" If any remote servers exist, the Corp cannot create a new remote server.",
+  "text_plain": "The Corp's identity is Earth Station: SEA Headquarters, which has the ability \"Limit 1 remote server.\" If any remote servers exist, the Corp cannot create a new remote server.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 23,
+      "end": 54,
+      "target": "Earth Station: SEA Headquarters",
+      "card_code": "26120"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

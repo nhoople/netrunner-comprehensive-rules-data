@@ -1,0 +1,44 @@
+{
+  "id": "rule_priority_subtype",
+  "kind": "rule",
+  "number": "1.11.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_clicks",
+  "child_ids": [],
+  "text_markup": "Some cards have the subtype {subtype:priority} and the text, \"Play only as your first [click].\" A player can only play a {subtype:priority} card using the basic action to play an event or operation, and only if they have not spent any other clicks that turn. Losing clicks does not affect a player's ability to play a {subtype:priority} card.",
+  "text_plain": "Some cards have the subtype priority and the text, \"Play only as your first {click}.\" A player can only play a priority card using the basic action to play an event or operation, and only if they have not spent any other clicks that turn. Losing clicks does not affect a player's ability to play a priority card.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 28,
+      "end": 36,
+      "target": "priority"
+    },
+    {
+      "type": "symbol",
+      "start": 76,
+      "end": 83,
+      "target": "click"
+    },
+    {
+      "type": "subtype",
+      "start": 111,
+      "end": 119,
+      "target": "priority"
+    },
+    {
+      "type": "subtype",
+      "start": 298,
+      "end": 306,
+      "target": "priority"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_priority_subtype"
+}

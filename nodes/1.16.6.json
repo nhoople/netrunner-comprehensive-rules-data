@@ -1,0 +1,30 @@
+{
+  "id": "rule_install_cost",
+  "kind": "subsection",
+  "number": "1.16.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_costs",
+  "child_ids": [
+    "rule_install_cost_on_card",
+    "rule_install_cost_ice",
+    "rule_no_install_cost"
+  ],
+  "text_markup": "The {term:install cost} of a card must be paid to install that card.",
+  "text_plain": "The install cost of a card must be paid to install that card.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 16,
+      "target": "install cost"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_cost"
+}

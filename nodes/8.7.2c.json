@@ -1,0 +1,19 @@
+{
+  "id": "rule_reveal_for_search",
+  "kind": "rule",
+  "number": "8.7.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_find",
+  "child_ids": [],
+  "text_markup": "The searching player is not required to reveal any found cards unless instructed to do so by the ability that initiated the search. Found cards are not revealed until resolution of the ability that initiated the search resumes, pending any necessary shuffling.",
+  "text_plain": "The searching player is not required to reveal any found cards unless instructed to do so by the ability that initiated the search. Found cards are not revealed until resolution of the ability that initiated the search resumes, pending any necessary shuffling.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_reveal_for_search"
+}

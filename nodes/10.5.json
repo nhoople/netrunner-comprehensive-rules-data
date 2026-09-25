@@ -1,0 +1,24 @@
+{
+  "id": "sec_tags",
+  "kind": "section",
+  "number": "10.5",
+  "ref_type": "section",
+  "title": "Tags",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_tag",
+    "rule_tagged",
+    "rule_tagged_trash_resource",
+    "rule_tagged_remove_tag"
+  ],
+  "text_markup": "Tags",
+  "text_plain": "Tags",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Tags represent the Corp's possession of valuable information about the Runner, such as a data trail they've left behind or the physical location they are jacked in from.",
+  "snippet_plain": "Tags represent the Corp's possession of valuable information about the Runner, such as a data trail they've left behind or the physical location they are jacked in from.",
+  "url": "https://rules.nullsignal.games/?r=sec_tags"
+}

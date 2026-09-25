@@ -1,0 +1,27 @@
+{
+  "id": "rule_runner_actions",
+  "kind": "subsection",
+  "number": "5.2.7",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_actions",
+  "child_ids": [
+    "rule_runner_basic_actions",
+    "runner_basic_action_credit",
+    "runner_basic_action_card",
+    "runner_basic_action_install",
+    "runner_basic_action_event",
+    "runner_basic_action_run",
+    "runner_basic_action_remove_tag"
+  ],
+  "text_markup": "Runner Actions",
+  "text_plain": "Runner Actions",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_runner_actions"
+}

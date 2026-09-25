@@ -1,0 +1,36 @@
+{
+  "id": "rule_replace_subroutine_resolution",
+  "kind": "rule",
+  "number": "9.8.9",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_subroutines",
+  "child_ids": [
+    "rule_replace_subroutine_resolution__example_1"
+  ],
+  "text_markup": "One card, {card:Tsakhia \"Bankhar\" Gantulga}, can apply a replacement effect while a subroutine is imminent in order to resolve a different subroutine instead. The replaced subroutine is treated as having the same source as the original imminent subroutine.",
+  "text_plain": "One card, Tsakhia \"Bankhar\" Gantulga, can apply a replacement effect while a subroutine is imminent in order to resolve a different subroutine instead. The replaced subroutine is treated as having the same source as the original imminent subroutine.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 36,
+      "target": "Tsakhia \"Bankhar\" Gantulga",
+      "card_code": "33074"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_replace_subroutine_resolution__example_1",
+      "text_markup": "The Runner encounters {card:Bloop} while {card:Tsakhia \"Bankhar\" Gantulga}'s replacement effect applies. All 3 of {card:Bloop}'s subroutines would resolve, but are replaced by \"[sub] Do 1 net damage.\" by the replacement effect. These subroutines count as resolving from {card:Bloop}, so when the Runner passes {card:Bloop} after the encounter, the Runner can use {card:Persephone} to trash the top card of their stack and the top 3 cards of R&D.",
+      "text_plain": "The Runner encounters Bloop while Tsakhia \"Bankhar\" Gantulga's replacement effect applies. All 3 of Bloop's subroutines would resolve, but are replaced by \"{sub} Do 1 net damage.\" by the replacement effect. These subroutines count as resolving from Bloop, so when the Runner passes Bloop after the encounter, the Runner can use Persephone to trash the top card of their stack and the top 3 cards of R&D.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_replace_subroutine_resolution"
+}

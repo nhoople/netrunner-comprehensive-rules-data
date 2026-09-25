@@ -1,0 +1,19 @@
+{
+  "id": "rule_compare_trace_and_link_strength",
+  "kind": "rule",
+  "number": "10.8.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_traces",
+  "child_ids": [],
+  "text_markup": "After the Runner's link strength is established, it is compared to the Corp's trace strength. If the trace strength exceeds the link strength, the trace attempt is successful and any \"if successful\" abilities associated with the trace meet their trigger conditions. If the link strength is equal to or greater than the trace strength, then the trace attempt is unsuccessful, and any \"if unsuccessful\" abilities associated with the trace meet their trigger conditions.",
+  "text_plain": "After the Runner's link strength is established, it is compared to the Corp's trace strength. If the trace strength exceeds the link strength, the trace attempt is successful and any \"if successful\" abilities associated with the trace meet their trigger conditions. If the link strength is equal to or greater than the trace strength, then the trace attempt is unsuccessful, and any \"if unsuccessful\" abilities associated with the trace meet their trigger conditions.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_compare_trace_and_link_strength"
+}

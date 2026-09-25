@@ -1,0 +1,41 @@
+{
+  "id": "rule_if_successful_ability_optional__example_1",
+  "kind": "example",
+  "number": "6.7.4c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_if_successful_ability_optional",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:Account Siphon} while {card:Ash 2X3ZB9CY} is installed in the root of HQ, and the run is successful. The Runner can wait until after the trace from {card:Ash 2X3ZB9CY} completes before deciding to access cards normally or force the Corp to lose credits.",
+  "text_plain": "The Runner plays Account Siphon while Ash 2X3ZB9CY is installed in the root of HQ, and the run is successful. The Runner can wait until after the trace from Ash 2X3ZB9CY completes before deciding to access cards normally or force the Corp to lose credits.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 31,
+      "target": "Account Siphon",
+      "card_code": "01018"
+    },
+    {
+      "type": "card",
+      "start": 38,
+      "end": 50,
+      "target": "Ash 2X3ZB9CY",
+      "card_code": "20075"
+    },
+    {
+      "type": "card",
+      "start": 157,
+      "end": 169,
+      "target": "Ash 2X3ZB9CY",
+      "card_code": "20075"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

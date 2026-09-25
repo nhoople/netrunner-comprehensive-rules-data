@@ -1,0 +1,29 @@
+{
+  "id": "rule_faction_citation",
+  "kind": "rule",
+  "number": "2.13.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_faction",
+  "child_ids": [],
+  "text_markup": "Each identity is associated with one faction. {ref:Sec_deck_construction} details how factions affect deckbuilding.",
+  "text_plain": "Each identity is associated with one faction. Section 1.4 details how factions affect deckbuilding.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 46,
+      "end": 57,
+      "ids": [
+        "sec_deck_construction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_faction_citation"
+}

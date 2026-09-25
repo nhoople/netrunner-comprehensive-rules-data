@@ -1,0 +1,35 @@
+{
+  "id": "rule_bad_publicity_beginning_run",
+  "kind": "rule",
+  "number": "10.6.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_bad_publicity_added_and_removed",
+  "child_ids": [],
+  "text_markup": "During {ref:step_initiation_bad_publicity}, the Runner adds 1[c] from the bank to the bad publicity fund for each bad publicity the Corp has.",
+  "text_plain": "During step 6.9.1b, the Runner adds 1{c} from the bank to the bad publicity fund for each bad publicity the Corp has.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 7,
+      "end": 18,
+      "ids": [
+        "step_initiation_bad_publicity"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "symbol",
+      "start": 37,
+      "end": 40,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bad_publicity_beginning_run"
+}

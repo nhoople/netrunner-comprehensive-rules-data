@@ -1,0 +1,29 @@
+{
+  "id": "rule_instruction_lingering_effect",
+  "kind": "rule",
+  "number": "9.3.4e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction",
+  "child_ids": [],
+  "text_markup": "Instructions in an ability can create effects that last beyond the resolution of the ability. See {ref:sec_lingering_effects}.",
+  "text_plain": "Instructions in an ability can create effects that last beyond the resolution of the ability. See section 9.10.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 98,
+      "end": 110,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_instruction_lingering_effect"
+}

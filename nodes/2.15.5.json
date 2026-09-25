@@ -1,0 +1,19 @@
+{
+  "id": "rule_card_type_counters",
+  "kind": "rule",
+  "number": "2.15.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_type",
+  "child_ids": [],
+  "text_markup": "Counters never have card types.",
+  "text_plain": "Counters never have card types.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_card_type_counters"
+}

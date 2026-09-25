@@ -1,0 +1,19 @@
+{
+  "id": "rule_accessing_who_can_look",
+  "kind": "rule",
+  "number": "7.1.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_accessing_cards",
+  "child_ids": [],
+  "text_markup": "While the Runner is accessing a card, the Runner is allowed to look at that card, even if it would normally not be visible to them. While the Runner is accessing a card, the Corp is allowed to look at it as well, except when the card is being accessed from R&D.",
+  "text_plain": "While the Runner is accessing a card, the Runner is allowed to look at that card, even if it would normally not be visible to them. While the Runner is accessing a card, the Corp is allowed to look at it as well, except when the card is being accessed from R&D.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_accessing_who_can_look"
+}

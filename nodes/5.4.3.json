@@ -1,0 +1,32 @@
+{
+  "id": "rule_forced_action_phase_end",
+  "kind": "subsection",
+  "number": "5.4.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_action_phase",
+  "child_ids": [
+    "rule_terminal_step_ends",
+    "rule_terminal_priority_windows_close",
+    "rule_terminal_completion",
+    "rule_terminal_checkpoint",
+    "rule_terminal_to_discard_phase"
+  ],
+  "text_markup": "A player's action phase can be forced to end by certain card abilities (e.g. via the ability on a {subtype: terminal} operation or event). When a player's action phase is forced to end, the following occurs:",
+  "text_plain": "A player's action phase can be forced to end by certain card abilities (e.g. via the ability on a  terminal operation or event). When a player's action phase is forced to end, the following occurs:",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 98,
+      "end": 107,
+      "target": " terminal"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_forced_action_phase_end"
+}

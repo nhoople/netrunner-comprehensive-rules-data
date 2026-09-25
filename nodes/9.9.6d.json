@@ -1,0 +1,29 @@
+{
+  "id": "rule_modifiable_value_base_trace_strength",
+  "kind": "rule",
+  "number": "9.9.6d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_modifiable_values",
+  "child_ids": [],
+  "text_markup": "The base trace strength of a trace attempt is a value. See {ref:sec_traces} for rules about trace attempts. A base trace strength value does not need to be greater than 0 for the trace attempt to occur.",
+  "text_plain": "The base trace strength of a trace attempt is a value. See section 10.8 for rules about trace attempts. A base trace strength value does not need to be greater than 0 for the trace attempt to occur.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 59,
+      "end": 71,
+      "ids": [
+        "sec_traces"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modifiable_value_base_trace_strength"
+}

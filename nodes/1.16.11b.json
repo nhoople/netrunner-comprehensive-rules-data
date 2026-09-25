@@ -1,0 +1,28 @@
+{
+  "id": "rule_nested_cost_unless",
+  "kind": "rule",
+  "number": "1.16.11b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_nested_cost",
+  "child_ids": [
+    "rule_nested_cost_unless__example_1"
+  ],
+  "text_markup": "Nested costs can also be written in the format \"[instructions] unless [player] [cost]\" or \"[player] may [cost]. If [you/they] do not, [instructions].\" If the indicated player pays the indicated cost, the indicated instructions are not resolved. Otherwise, that instruction is resolved.",
+  "text_plain": "Nested costs can also be written in the format \"[instructions] unless [player] [cost]\" or \"[player] may [cost]. If [you/they] do not, [instructions].\" If the indicated player pays the indicated cost, the indicated instructions are not resolved. Otherwise, that instruction is resolved.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_nested_cost_unless__example_1",
+      "text_markup": "A subroutine reading \"End the run unless the Runner pays 1[c].\" contains a nested cost. If the Runner chooses to pay 1[c], the subroutine will not end the run.",
+      "text_plain": "A subroutine reading \"End the run unless the Runner pays 1{c}.\" contains a nested cost. If the Runner chooses to pay 1{c}, the subroutine will not end the run.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_nested_cost_unless"
+}

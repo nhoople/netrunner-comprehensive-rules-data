@@ -1,0 +1,21 @@
+{
+  "id": "rule_breaching_archives",
+  "kind": "subsection",
+  "number": "7.3.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_breaching_servers",
+  "child_ids": [
+    "rule_archives_facedowns_after_breach"
+  ],
+  "text_markup": "When the Runner breaches Archives, all the facedown cards in the Corp's discard pile are turned faceup before the Runner accesses any cards.",
+  "text_plain": "When the Runner breaches Archives, all the facedown cards in the Corp's discard pile are turned faceup before the Runner accesses any cards.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_breaching_archives"
+}

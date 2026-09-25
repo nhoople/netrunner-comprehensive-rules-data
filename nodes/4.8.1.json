@@ -1,0 +1,26 @@
+{
+  "id": "rule_set_aside_zone",
+  "kind": "rule",
+  "number": "4.8.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_set_aside",
+  "child_ids": [],
+  "text_markup": "The {term:set-aside zone} is an inactive zone shared by both players. It is used as a temporary holding space for objects being affected by abilities.",
+  "text_plain": "The set-aside zone is an inactive zone shared by both players. It is used as a temporary holding space for objects being affected by abilities.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 18,
+      "target": "set-aside zone"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_set_aside_zone"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_legal_deck",
+  "kind": "rule",
+  "number": "1.4.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_deck_construction",
+  "child_ids": [],
+  "text_markup": "Each deck must meet all requirements in this section to be legal for play.",
+  "text_plain": "Each deck must meet all requirements in this section to be legal for play.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_legal_deck"
+}

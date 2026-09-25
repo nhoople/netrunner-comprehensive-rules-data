@@ -1,0 +1,23 @@
+{
+  "id": "rule_win_conditions",
+  "kind": "subsection",
+  "number": "1.7.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_ending_the_game",
+  "child_ids": [
+    "rule_win_agenda_points",
+    "rule_flatline",
+    "rule_empty_rnd"
+  ],
+  "text_markup": "Each player has two possible win conditions available.",
+  "text_plain": "Each player has two possible win conditions available.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_win_conditions"
+}

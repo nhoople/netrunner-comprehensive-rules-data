@@ -1,0 +1,30 @@
+{
+  "id": "rule_targets_gone",
+  "kind": "rule",
+  "number": "1.15.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_targets",
+  "child_ids": [],
+  "text_markup": "At the time an instruction resolves, if any of its targets either have become invalid or were not announced, as much of that ability resolves as possible without acting on the unannounced or invalid targets, following {ref:rule_if_able,rule_do_as_much_as_you_can} of the Golden Rules. A target can be invalid because the chosen object or subroutine no longer exists or because the target no longer meets other requirements specified by the targeting ability.",
+  "text_plain": "At the time an instruction resolves, if any of its targets either have become invalid or were not announced, as much of that ability resolves as possible without acting on the unannounced or invalid targets, following rules 1.2.3 and 1.2.4 of the Golden Rules. A target can be invalid because the chosen object or subroutine no longer exists or because the target no longer meets other requirements specified by the targeting ability.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 218,
+      "end": 239,
+      "ids": [
+        "rule_if_able",
+        "rule_do_as_much_as_you_can"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_targets_gone"
+}

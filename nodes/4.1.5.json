@@ -1,0 +1,26 @@
+{
+  "id": "rule_hidden_zone",
+  "kind": "rule",
+  "number": "4.1.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_game_zones_general",
+  "child_ids": [],
+  "text_markup": "A {term:hidden} zone is one where cards are not visible to either player. Each player's deck is a hidden zone.",
+  "text_plain": "A hidden zone is one where cards are not visible to either player. Each player's deck is a hidden zone.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 8,
+      "target": "hidden"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hidden_zone"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rule_move_runner_to_position",
+  "kind": "subsection",
+  "number": "6.2.8",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_position",
+  "child_ids": [
+    "rule_move_to_piece_of_ice",
+    "rule_move_to_specific_position",
+    "rule_ineffective_move",
+    "rule_move_to_current_ice"
+  ],
+  "text_markup": "During a run, abilities can move the Runner directly to a position.",
+  "text_plain": "During a run, abilities can move the Runner directly to a position.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_move_runner_to_position"
+}

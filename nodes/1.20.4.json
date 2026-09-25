@@ -1,0 +1,29 @@
+{
+  "id": "rule_memory_restricted_mu",
+  "kind": "subsection",
+  "number": "1.20.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_memory",
+  "child_ids": [
+    "rule_memory_counting_mu_ignores_restrictions",
+    "rule_memory_check_mu_restrictions"
+  ],
+  "text_markup": "Some abilities give the Runner [MU] that can only be used for programs that meet a given requirement.",
+  "text_plain": "Some abilities give the Runner {MU} that can only be used for programs that meet a given requirement.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 31,
+      "end": 35,
+      "target": "mu"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_memory_restricted_mu"
+}

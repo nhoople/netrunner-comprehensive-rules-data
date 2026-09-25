@@ -1,0 +1,19 @@
+{
+  "id": "step_draw_checkpoint",
+  "kind": "rule",
+  "number": "8.4.5b",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_drawing_n_cards",
+  "child_ids": [],
+  "text_markup": "A checkpoint occurs.",
+  "text_plain": "A checkpoint occurs.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_draw_checkpoint"
+}

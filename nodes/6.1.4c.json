@@ -1,0 +1,28 @@
+{
+  "id": "rule_end_run_no_run_or_encounter",
+  "kind": "rule",
+  "number": "6.1.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_end_the_run",
+  "child_ids": [
+    "rule_end_run_no_run_or_encounter__example_1"
+  ],
+  "text_markup": "If an instruction to end the run resolves while there is neither a run nor an encounter in progress, that effect does nothing.",
+  "text_plain": "If an instruction to end the run resolves while there is neither a run nor an encounter in progress, that effect does nothing.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_end_run_no_run_or_encounter__example_1",
+      "text_markup": "The Corp plays {card:Unleash} and resolves the last subroutine on {card:Lycian Multi-Munition}. The Corp will gain 1[c], but there is no further effect.",
+      "text_plain": "The Corp plays Unleash and resolves the last subroutine on Lycian Multi-Munition. The Corp will gain 1{c}, but there is no further effect.",
+      "is_new": true
+    }
+  ],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_end_run_no_run_or_encounter"
+}

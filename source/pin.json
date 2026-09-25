@@ -1,0 +1,22 @@
+{
+  "source_repo": "https://github.com/rubenpieters/netrunner-comprehensive-rules",
+  "source_sha": "552afb75323ff8f0dc2f8f4428cccc1a5c36db44",
+  "version": "26.03",
+  "effective_date": "2026-03-02",
+  "effective_date_display": "2 March 2026",
+  "published_url": "https://rules.nullsignal.games/",
+  "published_hub": "https://nullsignal.games/rules/comp-rules/",
+  "chapter_files": [
+    "01_game_concepts",
+    "02_parts_of_a_card",
+    "03_card_types",
+    "04_game_zones",
+    "05_turns",
+    "06_runs",
+    "07_access_breach",
+    "08_card_manipulation",
+    "09_abilities",
+    "10_additional_rules",
+    "11_appendix_timing_structures"
+  ]
+}

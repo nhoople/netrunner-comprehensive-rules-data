@@ -1,0 +1,28 @@
+{
+  "id": "sec_score_scoring_steal",
+  "kind": "section",
+  "number": "1.17",
+  "ref_type": "section",
+  "title": "Score, Scoring and Stealing",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_score",
+    "rule_game_win",
+    "rule_score_steal",
+    "rule_score_area_faceup",
+    "rule_score_area_uninstalled",
+    "rule_agenda_scored",
+    "rule_agenda_stolen",
+    "rule_advancement_counters_reference"
+  ],
+  "text_markup": "Score, Scoring and Stealing",
+  "text_plain": "Score, Scoring and Stealing",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_score_scoring_steal"
+}

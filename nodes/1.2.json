@@ -1,0 +1,24 @@
+{
+  "id": "sec_golden_rules",
+  "kind": "section",
+  "number": "1.2",
+  "ref_type": "section",
+  "title": "Golden Rules",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_card_precedence",
+    "rule_cannot_precedence",
+    "rule_if_able",
+    "rule_do_as_much_as_you_can"
+  ],
+  "text_markup": "Golden Rules",
+  "text_plain": "Golden Rules",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_golden_rules"
+}

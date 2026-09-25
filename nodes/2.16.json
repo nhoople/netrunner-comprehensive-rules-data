@@ -1,0 +1,27 @@
+{
+  "id": "sec_subtypes",
+  "kind": "section",
+  "number": "2.16",
+  "ref_type": "section",
+  "title": "Subtypes",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_subtypes",
+    "rule_subtype_bold",
+    "rule_lack_of_subtype",
+    "rule_subtypes_active",
+    "rule_add_remove_subtypes",
+    "rule_choose_valid_subtype",
+    "rule_subtypes_list"
+  ],
+  "text_markup": "Subtypes",
+  "text_plain": "Subtypes",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_subtypes"
+}

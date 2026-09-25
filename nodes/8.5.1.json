@@ -1,0 +1,29 @@
+{
+  "id": "rule_installing",
+  "kind": "subsection",
+  "number": "8.5.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [
+    "rule_installed_onto_cards",
+    "rule_uninstalled"
+  ],
+  "text_markup": "{term:Installing} an agenda, asset, ice, upgrade, hardware, program, or resource card is the act of placing that card into the play area. Events, operations, and identities are never installed.",
+  "text_plain": "Installing an agenda, asset, ice, upgrade, hardware, program, or resource card is the act of placing that card into the play area. Events, operations, and identities are never installed.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 10,
+      "target": "Installing"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_installing"
+}

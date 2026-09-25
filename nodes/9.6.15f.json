@@ -1,0 +1,19 @@
+{
+  "id": "step_conditional_ability_loop",
+  "kind": "rule",
+  "number": "9.6.15f",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_triggering_and_resolving_a_conditional_ability",
+  "child_ids": [],
+  "text_markup": "If there are more instructions to resolve, announce any targets for the next instruction. That instruction then becomes imminent. Return to (c).",
+  "text_plain": "If there are more instructions to resolve, announce any targets for the next instruction. That instruction then becomes imminent. Return to (c).",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_conditional_ability_loop"
+}

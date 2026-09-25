@@ -1,0 +1,19 @@
+{
+  "id": "rule_upgrade_subtypes",
+  "kind": "rule",
+  "number": "2.16.7f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subtypes_list",
+  "child_ids": [],
+  "text_markup": "The upgrade subtypes are Academic, Advertisement, Alliance, Ambush, Beanstalk, Bioroid, Character, Clone, Enforcer, Executive, Expendable, Facility, Hostile, Off-site, Orgcrime, Psi, Region, Ritzy, Seedy, Security Protocol, Sysop, and Unorthodox.",
+  "text_plain": "The upgrade subtypes are Academic, Advertisement, Alliance, Ambush, Beanstalk, Bioroid, Character, Clone, Enforcer, Executive, Expendable, Facility, Hostile, Off-site, Orgcrime, Psi, Region, Ritzy, Seedy, Security Protocol, Sysop, and Unorthodox.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_upgrade_subtypes"
+}

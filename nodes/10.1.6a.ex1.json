@@ -1,0 +1,41 @@
+{
+  "id": "rule_mandatory_infinite_loop__example_1",
+  "kind": "example",
+  "number": "10.1.6a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_mandatory_infinite_loop",
+  "child_ids": [],
+  "text_markup": "The Runner runs into a rezzed {card:Wormhole}. The only other piece of ice that is rezzed is a {card:Wormhole}, and so a mandatory infinite loop is created where each of the {card:Wormhole}s' subroutines resolves the other. The Corp chooses how many times this loop occurs, say 2,157 times, and then the Runner continues the run.",
+  "text_plain": "The Runner runs into a rezzed Wormhole. The only other piece of ice that is rezzed is a Wormhole, and so a mandatory infinite loop is created where each of the Wormholes' subroutines resolves the other. The Corp chooses how many times this loop occurs, say 2,157 times, and then the Runner continues the run.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 30,
+      "end": 38,
+      "target": "Wormhole",
+      "card_code": "07013"
+    },
+    {
+      "type": "card",
+      "start": 88,
+      "end": 96,
+      "target": "Wormhole",
+      "card_code": "07013"
+    },
+    {
+      "type": "card",
+      "start": 160,
+      "end": 168,
+      "target": "Wormhole",
+      "card_code": "07013"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

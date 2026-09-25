@@ -1,0 +1,32 @@
+{
+  "id": "rule_move_between_zones",
+  "kind": "subsection",
+  "number": "4.1.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_game_zones_general",
+  "child_ids": [
+    "rule_reveal_from_hidden",
+    "rule_move_instantaneous"
+  ],
+  "text_markup": "Game rules and card effects can move cards and counters between zones. See {ref:sec_card_movements} for rules on card movements.",
+  "text_plain": "Game rules and card effects can move cards and counters between zones. See section 8.2 for rules on card movements.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 75,
+      "end": 86,
+      "ids": [
+        "sec_card_movements"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_move_between_zones"
+}

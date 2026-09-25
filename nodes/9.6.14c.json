@@ -1,0 +1,29 @@
+{
+  "id": "rule_when_scored",
+  "kind": "rule",
+  "number": "9.6.14c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_references_to_trigger_conditions",
+  "child_ids": [],
+  "text_markup": "A \"when scored\" ability is any ability on an agenda that could meet its trigger condition as a result of the Corp choosing the option to score that agenda during a paid ability window (see {ref:rule_paid_ability_window_corp_score}).",
+  "text_plain": "A \"when scored\" ability is any ability on an agenda that could meet its trigger condition as a result of the Corp choosing the option to score that agenda during a paid ability window (see rule 9.2.7d).",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 189,
+      "end": 200,
+      "ids": [
+        "rule_paid_ability_window_corp_score"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_when_scored"
+}

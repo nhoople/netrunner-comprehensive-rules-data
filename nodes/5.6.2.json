@@ -1,0 +1,25 @@
+{
+  "id": "subsec_corp_action_phase",
+  "kind": "subsection",
+  "number": "5.6.2",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_corp_turn",
+  "child_ids": [
+    "step_corp_turn_action_phase_paw",
+    "step_corp_turn_action",
+    "step_corp_turn_action_phase_loop",
+    "step_corp_turn_action_phase_end",
+    "step_corp_turn_action_phase_complete"
+  ],
+  "text_markup": "During the Corp's action phase, the following steps occur in order:",
+  "text_plain": "During the Corp's action phase, the following steps occur in order:",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_corp_action_phase"
+}

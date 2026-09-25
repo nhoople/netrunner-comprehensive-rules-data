@@ -1,0 +1,27 @@
+{
+  "id": "rule_reveal_for_install_and_rez__example_2",
+  "kind": "example",
+  "number": "8.5.13d.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_reveal_for_install_and_rez",
+  "child_ids": [],
+  "text_markup": "The Corp plays {card:Ad Blitz}. Since the \"install and rez\" effect on this card stipulates \"if able\", the Corp cannot choose to install cards they are unable to rez, nor can they decline additional costs if any apply.",
+  "text_plain": "The Corp plays Ad Blitz. Since the \"install and rez\" effect on this card stipulates \"if able\", the Corp cannot choose to install cards they are unable to rez, nor can they decline additional costs if any apply.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 23,
+      "target": "Ad Blitz",
+      "card_code": "09020"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "rule_swap_to_set_aside",
+  "kind": "rule",
+  "number": "8.8.4d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_swap_simultaneous",
+  "child_ids": [],
+  "text_markup": "If a card is swapped with a set-aside card, the card moving into the set-aside zone becomes part of the group of cards being acted on by the ability that had set the other card aside, and the card moving out of the set-aside zone ceases to be acted on by that ability. See {ref:rule_drawn_card_swapped} for a specific case where this can happen, and see also {ref:rule_set_aside_zone_passthrough} regarding effects acting on cards in the set-aside zone.",
+  "text_plain": "If a card is swapped with a set-aside card, the card moving into the set-aside zone becomes part of the group of cards being acted on by the ability that had set the other card aside, and the card moving out of the set-aside zone ceases to be acted on by that ability. See rule 8.4.3b for a specific case where this can happen, and see also rule 4.8.3 regarding effects acting on cards in the set-aside zone.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 273,
+      "end": 284,
+      "ids": [
+        "rule_drawn_card_swapped"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 341,
+      "end": 351,
+      "ids": [
+        "rule_set_aside_zone_passthrough"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_swap_to_set_aside"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rule_install_from_hidden_or_secret_zone",
+  "kind": "subsection",
+  "number": "8.5.13",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [
+    "rule_no_reveal_for_default_install",
+    "rule_no_reveal_for_server_limitation",
+    "rule_reveal_for_ability_limitations",
+    "rule_reveal_for_install_and_rez"
+  ],
+  "text_markup": "If a player attempts to install a facedown card or a card from a hidden or secret zone, they are required in certain cases to reveal that card in order to verify that the installation is valid.",
+  "text_plain": "If a player attempts to install a facedown card or a card from a hidden or secret zone, they are required in certain cases to reveal that card in order to verify that the installation is valid.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_from_hidden_or_secret_zone"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_identity_HQ",
+  "kind": "rule",
+  "number": "3.1.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_identities",
+  "child_ids": [],
+  "text_markup": "The Corp's identity card is used to mark the location of HQ. See {ref:subsec_hq}.",
+  "text_plain": "The Corp's identity card is used to mark the location of HQ. See section 4.3.8.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 65,
+      "end": 78,
+      "ids": [
+        "subsec_hq"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identity_HQ"
+}

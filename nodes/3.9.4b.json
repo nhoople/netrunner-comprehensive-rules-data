@@ -1,0 +1,38 @@
+{
+  "id": "rule_programs_without_strength_value",
+  "kind": "rule",
+  "number": "3.9.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_program_strength_value",
+  "child_ids": [],
+  "text_markup": "Programs without the subtype {subtype:icebreaker} do not have a strength value. A dash (–) is printed on non-{subtype:icebreaker} program cards in the place where strength is printed on {subtype:icebreaker} program cards.",
+  "text_plain": "Programs without the subtype icebreaker do not have a strength value. A dash (–) is printed on non-icebreaker program cards in the place where strength is printed on icebreaker program cards.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 29,
+      "end": 39,
+      "target": "icebreaker"
+    },
+    {
+      "type": "subtype",
+      "start": 99,
+      "end": 109,
+      "target": "icebreaker"
+    },
+    {
+      "type": "subtype",
+      "start": 166,
+      "end": 176,
+      "target": "icebreaker"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_programs_without_strength_value"
+}

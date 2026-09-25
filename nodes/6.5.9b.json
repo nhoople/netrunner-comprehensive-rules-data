@@ -1,0 +1,48 @@
+{
+  "id": "rule_forced_encounter_during_run",
+  "kind": "rule",
+  "number": "6.5.9b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_forced_encounters",
+  "child_ids": [
+    "rule_forced_encounter_during_run__example_1"
+  ],
+  "text_markup": "{n}During a forced encounter,{/n} an instruction to end the run is applied to both the Encounter Ice Phase being resolved and the phase from which the additional encounter was initiated. {n}See also {ref:rule_end_encounter_outside_run}.{/n}",
+  "text_plain": "During a forced encounter, an instruction to end the run is applied to both the Encounter Ice Phase being resolved and the phase from which the additional encounter was initiated. See also rule 6.1.4b.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 0,
+      "end": 26
+    },
+    {
+      "type": "ref",
+      "start": 189,
+      "end": 200,
+      "ids": [
+        "rule_end_encounter_outside_run"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "new",
+      "start": 180,
+      "end": 201
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_forced_encounter_during_run__example_1",
+      "text_markup": "The Corp uses {card:The Twins} to force the Runner to encounter a piece of ice again when they pass it. If a subroutine directs the Corp to end the run during the extra encounter, both that encounter and the original Movement Phase are aborted, and the game proceeds to the Run Ends phase.",
+      "text_plain": "The Corp uses The Twins to force the Runner to encounter a piece of ice again when they pass it. If a subroutine directs the Corp to end the run during the extra encounter, both that encounter and the original Movement Phase are aborted, and the game proceeds to the Run Ends phase.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_forced_encounter_during_run"
+}

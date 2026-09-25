@@ -1,0 +1,30 @@
+{
+  "id": "rule_random_access_limit",
+  "kind": "subsection",
+  "number": "7.3.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_breaching_servers",
+  "child_ids": [
+    "rule_default_random_access_limit",
+    "rule_increasing_random_access_limit",
+    "rule_counting_random_access_limit"
+  ],
+  "text_markup": "The Runner can only choose candidates from the Corp's hand or deck a limited number of times during a breach of HQ or R&D, respectively. This number is called the {term:Random Access Limit}. Before the Runner begins accessing cards during a breach of HQ or R&D, the random access limit for that breach is determined, after which it will not change for the remainder of that breach.",
+  "text_plain": "The Runner can only choose candidates from the Corp's hand or deck a limited number of times during a breach of HQ or R&D, respectively. This number is called the Random Access Limit. Before the Runner begins accessing cards during a breach of HQ or R&D, the random access limit for that breach is determined, after which it will not change for the remainder of that breach.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 163,
+      "end": 182,
+      "target": "Random Access Limit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_random_access_limit"
+}

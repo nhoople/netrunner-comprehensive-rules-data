@@ -1,0 +1,19 @@
+{
+  "id": "rule_resource_no_limit",
+  "kind": "rule",
+  "number": "3.10.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_resources",
+  "child_ids": [],
+  "text_markup": "There is no limit to the number of resources the Runner can have installed.",
+  "text_plain": "There is no limit to the number of resources the Runner can have installed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_resource_no_limit"
+}

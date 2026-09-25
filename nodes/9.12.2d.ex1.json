@@ -1,0 +1,64 @@
+{
+  "id": "rule_vacuous_truth__example_1",
+  "kind": "example",
+  "number": "9.12.2d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_vacuous_truth",
+  "child_ids": [],
+  "text_markup": "The Runner plays {card:Forked}, initiating a run on a server. The first piece of ice that the Runner encounters is {card:Troll}. If {card:Troll}'s \"when encountered\" ability does not end the run, the Runner is automatically considered to have broken all of the zero subroutines on {card:Troll} as soon as {ref:step_encounter_paw} of the encounter begins, and {card:Troll} is trashed by Forked.",
+  "text_plain": "The Runner plays Forked, initiating a run on a server. The first piece of ice that the Runner encounters is Troll. If Troll's \"when encountered\" ability does not end the run, the Runner is automatically considered to have broken all of the zero subroutines on Troll as soon as step 6.9.3b of the encounter begins, and Troll is trashed by Forked.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 23,
+      "target": "Forked",
+      "card_code": "07037"
+    },
+    {
+      "type": "card",
+      "start": 108,
+      "end": 113,
+      "target": "Troll",
+      "card_code": "06108"
+    },
+    {
+      "type": "card",
+      "start": 118,
+      "end": 123,
+      "target": "Troll",
+      "card_code": "06108"
+    },
+    {
+      "type": "card",
+      "start": 260,
+      "end": 265,
+      "target": "Troll",
+      "card_code": "06108"
+    },
+    {
+      "type": "ref",
+      "start": 277,
+      "end": 288,
+      "ids": [
+        "step_encounter_paw"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "card",
+      "start": 318,
+      "end": 323,
+      "target": "Troll",
+      "card_code": "06108"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

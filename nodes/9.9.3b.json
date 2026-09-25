@@ -1,0 +1,38 @@
+{
+  "id": "rule_modify_value_relevant",
+  "kind": "rule",
+  "number": "9.9.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_relevant_interrupts",
+  "child_ids": [],
+  "text_markup": "Its effects could modify a value associated with the imminent instruction's expected effects. See {ref:sec_modifiable_values} and {ref:sec_calculating_expected_effect_values}.",
+  "text_plain": "Its effects could modify a value associated with the imminent instruction's expected effects. See section 9.9.6 and section 9.9.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 98,
+      "end": 111,
+      "ids": [
+        "sec_modifiable_values"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 116,
+      "end": 129,
+      "ids": [
+        "sec_calculating_expected_effect_values"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modify_value_relevant"
+}

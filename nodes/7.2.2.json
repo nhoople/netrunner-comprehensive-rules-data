@@ -1,0 +1,19 @@
+{
+  "id": "step_mid_access_ability",
+  "kind": "rule",
+  "number": "7.2.2",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_accessing_card",
+  "child_ids": [],
+  "text_markup": "The Runner may use a single mid-access ability, such as the basic trash ability.",
+  "text_plain": "The Runner may use a single mid-access ability, such as the basic trash ability.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_mid_access_ability"
+}

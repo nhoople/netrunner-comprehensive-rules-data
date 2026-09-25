@@ -1,0 +1,19 @@
+{
+  "id": "rule_facedown_runner_cards_flip_in_heap",
+  "kind": "rule",
+  "number": "8.1.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_facedown_runner_cards",
+  "child_ids": [],
+  "text_markup": "After a facedown Runner card enters the heap, it is turned faceup.",
+  "text_plain": "After a facedown Runner card enters the heap, it is turned faceup.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_facedown_runner_cards_flip_in_heap"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rule_successful_run",
+  "kind": "rule",
+  "number": "6.7.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_success_phase",
+  "child_ids": [],
+  "text_markup": "A run during which the runner breaks through the Corp's defenses and reaches the server itself is declared a {term:successful run}. This label is frequently referred to by card abilities.",
+  "text_plain": "A run during which the runner breaks through the Corp's defenses and reaches the server itself is declared a successful run. This label is frequently referred to by card abilities.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 109,
+      "end": 123,
+      "target": "successful run"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_successful_run"
+}

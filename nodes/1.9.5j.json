@@ -1,0 +1,26 @@
+{
+  "id": "rule_type_condition_counter",
+  "kind": "rule",
+  "number": "1.9.5j",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_counter_types",
+  "child_ids": [],
+  "text_markup": "{term:Condition counters} are counters that have rules text. Their abilities are active as long as they are hosted on a card.",
+  "text_plain": "Condition counters are counters that have rules text. Their abilities are active as long as they are hosted on a card.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 18,
+      "target": "Condition counters"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_type_condition_counter"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_terminal_step_ends",
+  "kind": "rule",
+  "number": "5.4.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_forced_action_phase_end",
+  "child_ids": [],
+  "text_markup": "The current step of the action phase ends, and all remaining steps are skipped.",
+  "text_plain": "The current step of the action phase ends, and all remaining steps are skipped.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_terminal_step_ends"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_trash_ability_link",
+  "kind": "rule",
+  "number": "9.1.1c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability",
+  "child_ids": [],
+  "text_markup": "The basic trash ability is defined in {ref:rule_basic_trash_ability}.",
+  "text_plain": "The basic trash ability is defined in section 7.1.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 38,
+      "end": 51,
+      "ids": [
+        "rule_basic_trash_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trash_ability_link"
+}

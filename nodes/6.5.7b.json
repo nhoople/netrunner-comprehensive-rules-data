@@ -1,0 +1,26 @@
+{
+  "id": "rule_object_fully_break",
+  "kind": "rule",
+  "number": "6.5.7b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_fully_break",
+  "child_ids": [],
+  "text_markup": "Whenever the Runner fully breaks a piece of ice, if all its subroutines were broken using abilities on a single object, that object also {term:fully breaks} the ice.",
+  "text_plain": "Whenever the Runner fully breaks a piece of ice, if all its subroutines were broken using abilities on a single object, that object also fully breaks the ice.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 137,
+      "end": 149,
+      "target": "fully breaks"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_object_fully_break"
+}

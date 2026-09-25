@@ -1,0 +1,23 @@
+{
+  "id": "rule_paid_ability_effect_based_timing_restrictions",
+  "kind": "subsection",
+  "number": "9.5.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_paid_abilities",
+  "child_ids": [
+    "rule_paid_ability_breaks_subroutines",
+    "rule_paid_ability_refers_to_approached_ice",
+    "rule_paid_ability_refers_to_encountered_ice"
+  ],
+  "text_markup": "Paid abilities with certain effects can only be triggered in specific situations.",
+  "text_plain": "Paid abilities with certain effects can only be triggered in specific situations.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_paid_ability_effect_based_timing_restrictions"
+}

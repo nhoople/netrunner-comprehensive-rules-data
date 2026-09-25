@@ -1,0 +1,19 @@
+{
+  "id": "rule_score_from_score_area",
+  "kind": "rule",
+  "number": "3.2.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_agenda_advancement_requirement_agenda_points",
+  "child_ids": [],
+  "text_markup": "The agenda points on an agenda contribute to a player's score while the agenda is in their score area.",
+  "text_plain": "The agenda points on an agenda contribute to a player's score while the agenda is in their score area.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_score_from_score_area"
+}

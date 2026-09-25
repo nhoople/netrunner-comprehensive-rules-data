@@ -1,0 +1,19 @@
+{
+  "id": "rule_install_cost_x",
+  "kind": "rule",
+  "number": "8.5.11b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_install_cost",
+  "child_ids": [],
+  "text_markup": "If a card has an install cost of X, the value for X is chosen by the player at the time the cost would normally be paid, according to any stipulations indicated in the card's text box. This value of X is maintained until the install effect is complete.",
+  "text_plain": "If a card has an install cost of X, the value for X is chosen by the player at the time the cost would normally be paid, according to any stipulations indicated in the card's text box. This value of X is maintained until the install effect is complete.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_cost_x"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "step_paid_ability_loop",
+  "kind": "rule",
+  "number": "9.5.7g",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_using_a_paid_ability",
+  "child_ids": [],
+  "text_markup": "If there are more instructions to resolve, announce any targets for the next instruction. That instruction then becomes imminent. Return to (d).",
+  "text_plain": "If there are more instructions to resolve, announce any targets for the next instruction. That instruction then becomes imminent. Return to (d).",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_paid_ability_loop"
+}

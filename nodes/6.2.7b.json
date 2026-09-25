@@ -1,0 +1,19 @@
+{
+  "id": "rule_ice_change_approach_swap",
+  "kind": "rule",
+  "number": "6.2.7b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ice_change_current_position",
+  "child_ids": [],
+  "text_markup": "If a piece of ice currently being approached is swapped with another piece of ice, the Runner remains in their current position and the run remains in the Approach Ice Phase. The Runner is now approaching the new piece of ice occupying that position. Trigger conditions related to a piece of ice being approached are not met for the new ice.",
+  "text_plain": "If a piece of ice currently being approached is swapped with another piece of ice, the Runner remains in their current position and the run remains in the Approach Ice Phase. The Runner is now approaching the new piece of ice occupying that position. Trigger conditions related to a piece of ice being approached are not met for the new ice.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ice_change_approach_swap"
+}

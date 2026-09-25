@@ -1,0 +1,25 @@
+{
+  "id": "subsec_regions",
+  "kind": "subsection",
+  "number": "3.6.5",
+  "ref_type": "section",
+  "title": "Regions",
+  "parent_id": "sec_upgrades",
+  "child_ids": [
+    "rule_upgrade_region",
+    "rule_region_one_root",
+    "rule_region_active_inactive",
+    "rule_region_install",
+    "rule_region_swap"
+  ],
+  "text_markup": "Regions",
+  "text_plain": "Regions",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_regions"
+}

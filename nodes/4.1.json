@@ -1,0 +1,27 @@
+{
+  "id": "sec_game_zones_general",
+  "kind": "section",
+  "number": "4.1",
+  "ref_type": "section",
+  "title": "General",
+  "parent_id": "chpt_game_zones",
+  "child_ids": [
+    "rule_zone",
+    "rule_move_between_zones",
+    "rule_outside_game",
+    "rule_public_zone",
+    "rule_hidden_zone",
+    "rule_secret_zone",
+    "rule_location"
+  ],
+  "text_markup": "General",
+  "text_plain": "General",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_game_zones_general"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_keep_priority_until_pass",
+  "kind": "rule",
+  "number": "9.2.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_priority_window",
+  "child_ids": [],
+  "text_markup": "Unless otherwise noted, the player with priority receives priority again after resolving one of their available options. That player will continue to receive priority until they pass.",
+  "text_plain": "Unless otherwise noted, the player with priority receives priority again after resolving one of their available options. That player will continue to receive priority until they pass.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_keep_priority_until_pass"
+}

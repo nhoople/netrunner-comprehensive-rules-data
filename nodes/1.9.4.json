@@ -1,0 +1,19 @@
+{
+  "id": "rule_additional_counters",
+  "kind": "rule",
+  "number": "1.9.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_counters_and_tokens",
+  "child_ids": [],
+  "text_markup": "Some abilities can cause a player or card to have or be \"considered to have\" 1 or more counters or additional counters without placing or giving those counters. A counter considered to exist in this way conveys all the same information and effects as a counter of the specified type would, except that it cannot be moved or removed from the card or player it belongs to, nor can it be spent to pay a cost.",
+  "text_plain": "Some abilities can cause a player or card to have or be \"considered to have\" 1 or more counters or additional counters without placing or giving those counters. A counter considered to exist in this way conveys all the same information and effects as a counter of the specified type would, except that it cannot be moved or removed from the card or player it belongs to, nor can it be spent to pay a cost.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_additional_counters"
+}

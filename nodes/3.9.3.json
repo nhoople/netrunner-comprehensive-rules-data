@@ -1,0 +1,24 @@
+{
+  "id": "rule_program_memory_cost",
+  "kind": "subsection",
+  "number": "3.9.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_programs",
+  "child_ids": [
+    "rule_program_memory",
+    "rule_program_install_exceed_memory_limit",
+    "rule_program_other_exceed_memory_limit",
+    "rule_program_memory_not_a_cost"
+  ],
+  "text_markup": "Programs are the only card type that have a memory cost. A program's memory cost is the number of memory units that program requires while it is installed.",
+  "text_plain": "Programs are the only card type that have a memory cost. A program's memory cost is the number of memory units that program requires while it is installed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_program_memory_cost"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_continue_after_search",
+  "kind": "rule",
+  "number": "8.7.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_searching_cards",
+  "child_ids": [],
+  "text_markup": "Once the search is complete, and any shuffling necessary has occurred, resolution of the ability that initiated the search resumes. If no cards were found during the search, any effects referencing found cards fail to resolve, but as much of the remaining effects resolve as possible.",
+  "text_plain": "Once the search is complete, and any shuffling necessary has occurred, resolution of the ability that initiated the search resumes. If no cards were found during the search, any effects referencing found cards fail to resolve, but as much of the remaining effects resolve as possible.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_continue_after_search"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rule_priority",
+  "kind": "rule",
+  "number": "9.2.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_timing_and_priority",
+  "child_ids": [],
+  "text_markup": "{term:Priority} is a player's opportunity to act and make certain game choices. No more than one player can have priority at any given time.",
+  "text_plain": "Priority is a player's opportunity to act and make certain game choices. No more than one player can have priority at any given time.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 8,
+      "target": "Priority"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_priority"
+}

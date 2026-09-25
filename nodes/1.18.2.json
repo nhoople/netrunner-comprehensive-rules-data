@@ -1,0 +1,28 @@
+{
+  "id": "rule_placing_advancement_counter",
+  "kind": "rule",
+  "number": "1.18.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_advancing_cards",
+  "child_ids": [
+    "rule_placing_advancement_counter__example_1"
+  ],
+  "text_markup": "Resolving an instruction that directly places an advancement counter onto a card is not the same as advancing a card. Likewise, resolving an instruction that moves an advancement counter from one card to another is not the same as advancing a card.",
+  "text_plain": "Resolving an instruction that directly places an advancement counter onto a card is not the same as advancing a card. Likewise, resolving an instruction that moves an advancement counter from one card to another is not the same as advancing a card.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_placing_advancement_counter__example_1",
+      "text_markup": "The Corp plays {card:Mushin No Shin}, choosing to install an {card:Oaktown Renovation}. Because the three advancement counters were placed on the card directly, the Corp does not gain any credits from the ability on {card:Oaktown Renovation}.",
+      "text_plain": "The Corp plays Mushin No Shin, choosing to install an Oaktown Renovation. Because the three advancement counters were placed on the card directly, the Corp does not gain any credits from the ability on Oaktown Renovation.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_placing_advancement_counter"
+}

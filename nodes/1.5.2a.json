@@ -1,0 +1,27 @@
+{
+  "id": "rule_jinteki_biotech_detail",
+  "kind": "rule",
+  "number": "1.5.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_identity_copy",
+  "child_ids": [],
+  "text_markup": "A player playing {card:Jinteki Biotech} as their identity may bring any number of copies of that identity along with their deck. After completing game setup, that player may choose any copy they own to be their active identity for the duration of the game. All other copies are placed outside the game.",
+  "text_plain": "A player playing Jinteki Biotech as their identity may bring any number of copies of that identity along with their deck. After completing game setup, that player may choose any copy they own to be their active identity for the duration of the game. All other copies are placed outside the game.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 17,
+      "end": 32,
+      "target": "Jinteki Biotech",
+      "card_code": "08012"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_jinteki_biotech_detail"
+}

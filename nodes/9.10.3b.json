@@ -1,0 +1,28 @@
+{
+  "id": "rule_lingering_effect_maintaining_choice_turn_begins_duration",
+  "kind": "rule",
+  "number": "9.10.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_lingering_effect_maintain_choice",
+  "child_ids": [
+    "rule_lingering_effect_maintaining_choice_turn_begins_duration__example_1"
+  ],
+  "text_markup": "If a conditional ability has a \"when your turn begins\" trigger condition and no effects other than making a choice, the duration of the lingering effect maintaining the choice expires when that turn ends or the source object becomes inactive.",
+  "text_plain": "If a conditional ability has a \"when your turn begins\" trigger condition and no effects other than making a choice, the duration of the lingering effect maintaining the choice expires when that turn ends or the source object becomes inactive.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_lingering_effect_maintaining_choice_turn_begins_duration__example_1",
+      "text_markup": "{card:Security Testing}'s first ability reads, \"When your turn begins, you may choose a server.\" The choice made when resolving this ability on a particular turn should be maintained only until that turn ends. The trigger condition of {card:Security Testing}'s second ability refers to the chosen server, and it will always look for the server chosen this turn. A successful run on a server that was not chosen this turn will never meet that trigger condition, even if no server was chosen this turn.",
+      "text_plain": "Security Testing's first ability reads, \"When your turn begins, you may choose a server.\" The choice made when resolving this ability on a particular turn should be maintained only until that turn ends. The trigger condition of Security Testing's second ability refers to the chosen server, and it will always look for the server chosen this turn. A successful run on a server that was not chosen this turn will never meet that trigger condition, even if no server was chosen this turn.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_lingering_effect_maintaining_choice_turn_begins_duration"
+}

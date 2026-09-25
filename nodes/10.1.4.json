@@ -1,0 +1,19 @@
+{
+  "id": "rule_card_to_counter",
+  "kind": "rule",
+  "number": "10.1.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_additional_general",
+  "child_ids": [],
+  "text_markup": "Some abilities can convert a card into a counter. When this happens, the card loses all its previous properties and gains only those properties specified in the effect converting it. This conversion lasts until the counter moves to another zone, at which point it reverts to being a card, regains its original printed characteristics, and is trashed.",
+  "text_plain": "Some abilities can convert a card into a counter. When this happens, the card loses all its previous properties and gains only those properties specified in the effect converting it. This conversion lasts until the counter moves to another zone, at which point it reverts to being a card, regains its original printed characteristics, and is trashed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_card_to_counter"
+}

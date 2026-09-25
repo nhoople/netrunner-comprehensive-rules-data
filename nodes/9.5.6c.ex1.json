@@ -1,0 +1,27 @@
+{
+  "id": "rule_paid_ability_refers_to_encountered_ice__example_1",
+  "kind": "example",
+  "number": "9.5.6c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_paid_ability_refers_to_encountered_ice",
+  "child_ids": [],
+  "text_markup": "The Runner cannot trigger the first ability on {card:Arruaceiras Crew} at an arbitrary time to give themself a tag. They can only use this ability during an encounter.",
+  "text_plain": "The Runner cannot trigger the first ability on Arruaceiras Crew at an arbitrary time to give themself a tag. They can only use this ability during an encounter.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 47,
+      "end": 63,
+      "target": "Arruaceiras Crew",
+      "card_code": "34073"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

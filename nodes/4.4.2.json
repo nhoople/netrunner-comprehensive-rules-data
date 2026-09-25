@@ -1,0 +1,19 @@
+{
+  "id": "rule_discard_pile_unordered",
+  "kind": "rule",
+  "number": "4.4.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_discard_pile",
+  "child_ids": [],
+  "text_markup": "Discard piles are not ordered. A player may freely arrange the cards in their discard pile in any order at any time.",
+  "text_plain": "Discard piles are not ordered. A player may freely arrange the cards in their discard pile in any order at any time.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_discard_pile_unordered"
+}

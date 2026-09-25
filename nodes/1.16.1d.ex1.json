@@ -1,0 +1,41 @@
+{
+  "id": "rule_cost_zero__example_1",
+  "kind": "example",
+  "number": "1.16.1d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_cost_zero",
+  "child_ids": [],
+  "text_markup": "The Runner accesses a {card:Beanstalk Royalties} from R&D and announces that they are using the ability of {card:Freedom Khumalo: Crypto-Anarchist} to trash the {card:Beanstalk Royalties}. Even though the Runner does not remove any virus counters from any cards, they have still paid the cost.",
+  "text_plain": "The Runner accesses a Beanstalk Royalties from R&D and announces that they are using the ability of Freedom Khumalo: Crypto-Anarchist to trash the Beanstalk Royalties. Even though the Runner does not remove any virus counters from any cards, they have still paid the cost.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 22,
+      "end": 41,
+      "target": "Beanstalk Royalties",
+      "card_code": "20090"
+    },
+    {
+      "type": "card",
+      "start": 100,
+      "end": 133,
+      "target": "Freedom Khumalo: Crypto-Anarchist",
+      "card_code": "21081"
+    },
+    {
+      "type": "card",
+      "start": 147,
+      "end": 166,
+      "target": "Beanstalk Royalties",
+      "card_code": "20090"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

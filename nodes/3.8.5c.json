@@ -1,0 +1,26 @@
+{
+  "id": "rule_console_limitation",
+  "kind": "rule",
+  "number": "3.8.5c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_consoles",
+  "child_ids": [],
+  "text_markup": "This limitation applies only to hardware with the subtype {subtype:console}.",
+  "text_plain": "This limitation applies only to hardware with the subtype console.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 58,
+      "end": 65,
+      "target": "console"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_console_limitation"
+}

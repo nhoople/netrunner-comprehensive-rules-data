@@ -1,0 +1,45 @@
+{
+  "id": "rule_active_exception_conditional_move_to_inactive_zone",
+  "kind": "rule",
+  "number": "9.1.8g",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_active_inactive_source_card",
+  "child_ids": [
+    "rule_active_exception_conditional_move_to_inactive_zone__example_1",
+    "rule_active_exception_conditional_move_to_inactive_zone__example_2"
+  ],
+  "text_markup": "If an active card moves to a zone where it is inactive, an ability of that card with a trigger condition that is met by this zone change remains active in the card's new location until any corresponding instances of the ability resolve. See {ref:rule_pending_instances} for information about instances of conditional abilities.",
+  "text_plain": "If an active card moves to a zone where it is inactive, an ability of that card with a trigger condition that is met by this zone change remains active in the card's new location until any corresponding instances of the ability resolve. See rule 9.6.2 for information about instances of conditional abilities.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 241,
+      "end": 251,
+      "ids": [
+        "rule_pending_instances"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_active_exception_conditional_move_to_inactive_zone__example_1",
+      "text_markup": "The Runner uses {card:Singularity} to simultaneously trash a rezzed {card:Hostile Infrastructure} and 2 upgrades. Those cards are moved to Archives and become inactive, but {card:Hostile Infrastructure}'s ability remains active, and 3 instances will become pending, each doing 1 net damage when it resolves. Once all those instances are resolved, {card:Hostile Infrastructure}'s ability stops being active.",
+      "text_plain": "The Runner uses Singularity to simultaneously trash a rezzed Hostile Infrastructure and 2 upgrades. Those cards are moved to Archives and become inactive, but Hostile Infrastructure's ability remains active, and 3 instances will become pending, each doing 1 net damage when it resolves. Once all those instances are resolved, Hostile Infrastructure's ability stops being active.",
+      "is_new": false
+    },
+    {
+      "id": "rule_active_exception_conditional_move_to_inactive_zone__example_2",
+      "text_markup": "The Runner plays {card:Test Run} to install {card:Nanuq}. When their turn ends, {card:Test Run}'s delayed conditional ability adds {card:Nanuq} to the top of the Runner's stack. This meets the trigger condition of {card:Nanuq}'s first ability, which remains active until it resolves even though {card:Nanuq} itself is inactive in the stack. The ability will move {card:Nanuq} from the top of the stack to the removed-from-game zone.",
+      "text_plain": "The Runner plays Test Run to install Nanuq. When their turn ends, Test Run's delayed conditional ability adds Nanuq to the top of the Runner's stack. This meets the trigger condition of Nanuq's first ability, which remains active until it resolves even though Nanuq itself is inactive in the stack. The ability will move Nanuq from the top of the stack to the removed-from-game zone.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_active_exception_conditional_move_to_inactive_zone"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "step_after_jack_out_paw",
+  "kind": "rule",
+  "number": "6.9.4e",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_movement_phase",
+  "child_ids": [],
+  "text_markup": "A paid ability window occurs, in which players may use paid abilities and the Corp may rez non-ice cards. (P) (R)",
+  "text_plain": "A paid ability window occurs, in which players may use paid abilities and the Corp may rez non-ice cards. (P) (R)",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_after_jack_out_paw"
+}

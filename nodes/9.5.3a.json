@@ -1,0 +1,47 @@
+{
+  "id": "rule_forced_mid_access_ability_optional",
+  "kind": "rule",
+  "number": "9.5.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_paid_ability_optional",
+  "child_ids": [
+    "rule_forced_mid_access_ability_optional__example_1"
+  ],
+  "text_markup": "Mid-access abilities the Runner is forced to trigger still count as optional abilities. See also {ref:rule_access_installed_must_trash_if_able} and {ref:rule_access_reveal_trash_if_able}.",
+  "text_plain": "Mid-access abilities the Runner is forced to trigger still count as optional abilities. See also rule 7.1.5c and rule 7.1.5d.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 97,
+      "end": 108,
+      "ids": [
+        "rule_access_installed_must_trash_if_able"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 113,
+      "end": 124,
+      "ids": [
+        "rule_access_reveal_trash_if_able"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_forced_mid_access_ability_optional__example_1",
+      "text_markup": "The Corp resolves the subroutine on {card:Wendigo}, prohibiting the Runner from using their installed {card:Imp} for the remainder of the run. Later, the Runner accesses an installed {card:Mumbad Virtual Tour}. Even though {card:Mumbad Virtual Tour} forces the Runner to trash it if able, {card:Imp}'s ability is still optional for purposes of {card:Wendigo}'s prohibition. Since {card:Imp}'s ability cannot be used at all this run, {card:Mumbad Virtual Tour} cannot compel the Runner to spend one of its hosted virus counters. If the Runner can pay the cost of another mid-access ability, such as the basic trash ability, the Runner must use that ability. If not, the Runner will not be able to trash {card:Mumbad Virtual Tour} at all.",
+      "text_plain": "The Corp resolves the subroutine on Wendigo, prohibiting the Runner from using their installed Imp for the remainder of the run. Later, the Runner accesses an installed Mumbad Virtual Tour. Even though Mumbad Virtual Tour forces the Runner to trash it if able, Imp's ability is still optional for purposes of Wendigo's prohibition. Since Imp's ability cannot be used at all this run, Mumbad Virtual Tour cannot compel the Runner to spend one of its hosted virus counters. If the Runner can pay the cost of another mid-access ability, such as the basic trash ability, the Runner must use that ability. If not, the Runner will not be able to trash Mumbad Virtual Tour at all.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_forced_mid_access_ability_optional"
+}

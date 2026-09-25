@@ -1,0 +1,29 @@
+{
+  "id": "rule_interrupt_definition",
+  "kind": "subsection",
+  "number": "9.9.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_interrupts_replacements",
+  "child_ids": [
+    "rule_interrupt_symbol",
+    "rule_interrupt_keywords"
+  ],
+  "text_markup": "An {term:interrupt} is an ability that modifies either the effects of another instruction or the context in which that instruction will be resolved. Interrupts can be written in the form of a paid ability or a conditional ability.",
+  "text_plain": "An interrupt is an ability that modifies either the effects of another instruction or the context in which that instruction will be resolved. Interrupts can be written in the form of a paid ability or a conditional ability.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 12,
+      "target": "interrupt"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interrupt_definition"
+}

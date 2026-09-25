@@ -1,0 +1,44 @@
+{
+  "id": "rule_play_ability",
+  "kind": "rule",
+  "number": "9.7.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_play_abilities",
+  "child_ids": [
+    "rule_play_ability__example_1"
+  ],
+  "text_markup": "Any ability on an event or operation that is not a paid, conditional, or static ability is a {term:play ability}. Play abilities are the abilities that resolve as part of playing that event or operation during {ref:rule_steps_playing_resolve_play_abilities}.",
+  "text_plain": "Any ability on an event or operation that is not a paid, conditional, or static ability is a play ability. Play abilities are the abilities that resolve as part of playing that event or operation during step 8.6.7f.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 93,
+      "end": 105,
+      "target": "play ability"
+    },
+    {
+      "type": "ref",
+      "start": 203,
+      "end": 214,
+      "ids": [
+        "rule_steps_playing_resolve_play_abilities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_play_ability__example_1",
+      "text_markup": "The operation card {card:Oppo Research} has several abilities of different types. The first ability reads \"Play only if the Runner stole or trashed a Corp card during their last turn.\" This is a static ability that contains a restriction and no declarations. The second ability (\"After you resolve this operation, your action phase ends.\") is a conditional ability that meets its trigger condition and resolves after the Corp finishes playing and resolving {card:Oppo Research}. The third and fourth abilities contain instructions with no trigger conditions or paid ability trigger costs, so they are both play abilities. They resolve in sequence while {card:Oppo Research} is being played.",
+      "text_plain": "The operation card Oppo Research has several abilities of different types. The first ability reads \"Play only if the Runner stole or trashed a Corp card during their last turn.\" This is a static ability that contains a restriction and no declarations. The second ability (\"After you resolve this operation, your action phase ends.\") is a conditional ability that meets its trigger condition and resolves after the Corp finishes playing and resolving Oppo Research. The third and fourth abilities contain instructions with no trigger conditions or paid ability trigger costs, so they are both play abilities. They resolve in sequence while Oppo Research is being played.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_ability"
+}

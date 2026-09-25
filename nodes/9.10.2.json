@@ -1,0 +1,29 @@
+{
+  "id": "rule_lingering_effect_maintain_existence_ability",
+  "kind": "rule",
+  "number": "9.10.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_lingering_effects",
+  "child_ids": [],
+  "text_markup": "Some lingering effects exist only to maintain the existence of another ability. Delayed conditional abilities are maintained this way and may have an implicit duration. See {ref:rule_delayed_conditional_ability}.",
+  "text_plain": "Some lingering effects exist only to maintain the existence of another ability. Delayed conditional abilities are maintained this way and may have an implicit duration. See section 9.6.13.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 173,
+      "end": 187,
+      "ids": [
+        "rule_delayed_conditional_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_lingering_effect_maintain_existence_ability"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "rule_forced_encounter__example_1",
+  "kind": "example",
+  "number": "6.5.9a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_forced_encounter",
+  "child_ids": [],
+  "text_markup": "If {card:Shiro} causes {card:Chrysalis} to be accessed, resolve the encounter with {card:Chrysalis} and then return to resolving subroutines on {card:Shiro}.",
+  "text_plain": "If Shiro causes Chrysalis to be accessed, resolve the encounter with Chrysalis and then return to resolving subroutines on Shiro.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 3,
+      "end": 8,
+      "target": "Shiro",
+      "card_code": "05019"
+    },
+    {
+      "type": "card",
+      "start": 16,
+      "end": 25,
+      "target": "Chrysalis",
+      "card_code": "11013"
+    },
+    {
+      "type": "card",
+      "start": 69,
+      "end": 78,
+      "target": "Chrysalis",
+      "card_code": "11013"
+    },
+    {
+      "type": "card",
+      "start": 123,
+      "end": 128,
+      "target": "Shiro",
+      "card_code": "05019"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

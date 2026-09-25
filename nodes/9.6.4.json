@@ -1,0 +1,22 @@
+{
+  "id": "rule_trigger_condition_multiple_instances",
+  "kind": "subsection",
+  "number": "9.6.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [
+    "rule_condition_met_with_pending_instances",
+    "rule_condition_met_multiple_times"
+  ],
+  "text_markup": "A conditional ability with a trigger condition can have multiple instances.",
+  "text_plain": "A conditional ability with a trigger condition can have multiple instances.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trigger_condition_multiple_instances"
+}

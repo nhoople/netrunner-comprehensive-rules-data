@@ -1,0 +1,19 @@
+{
+  "id": "rule_action_window_closes_after_action",
+  "kind": "rule",
+  "number": "9.2.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_action_window",
+  "child_ids": [],
+  "text_markup": "After the active player takes an action, the action window closes and the game moves to the next timing step. The player does not receive priority again.",
+  "text_plain": "After the active player takes an action, the action window closes and the game moves to the next timing step. The player does not receive priority again.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_action_window_closes_after_action"
+}

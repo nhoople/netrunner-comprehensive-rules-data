@@ -1,0 +1,35 @@
+{
+  "id": "rule_effect_beyond_resolution",
+  "kind": "rule",
+  "number": "9.1.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_effect",
+  "child_ids": [],
+  "text_markup": "Any of a non-static ability's effects that apply beyond the duration of that ability's resolution become independent of that ability and its source. The game engine takes responsibility for managing these {term:lingering effects} directly, and deletes them from the game state as their durations expire. See {ref:sec_lingering_effects}.",
+  "text_plain": "Any of a non-static ability's effects that apply beyond the duration of that ability's resolution become independent of that ability and its source. The game engine takes responsibility for managing these lingering effects directly, and deletes them from the game state as their durations expire. See section 9.10.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 205,
+      "end": 222,
+      "target": "lingering effects"
+    },
+    {
+      "type": "ref",
+      "start": 301,
+      "end": 313,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_effect_beyond_resolution"
+}

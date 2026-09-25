@@ -1,0 +1,19 @@
+{
+  "id": "rule_hosted_ice_has_no_position",
+  "kind": "rule",
+  "number": "6.2.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_position",
+  "child_ids": [],
+  "text_markup": "A piece of ice that is hosted on another card is not protecting a server and does not occupy a position, regardless of whether the ice is installed.",
+  "text_plain": "A piece of ice that is hosted on another card is not protecting a server and does not occupy a position, regardless of whether the ice is installed.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_ice_has_no_position"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rule_position",
+  "kind": "subsection",
+  "number": "6.2.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_position",
+  "child_ids": [
+    "rule_hosted_ice_has_no_position"
+  ],
+  "text_markup": "Each server has a sequence of {term:positions} that assign an order to ice protecting that server. A piece of ice protecting a server always occupies exactly 1 position in that server's sequence at a time.",
+  "text_plain": "Each server has a sequence of positions that assign an order to ice protecting that server. A piece of ice protecting a server always occupies exactly 1 position in that server's sequence at a time.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 30,
+      "end": 39,
+      "target": "positions"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_position"
+}

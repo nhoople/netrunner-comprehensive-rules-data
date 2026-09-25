@@ -1,0 +1,32 @@
+{
+  "id": "rule_icebreaker_interface_strength",
+  "kind": "rule",
+  "number": "3.9.5g",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_icebreakers",
+  "child_ids": [],
+  "text_markup": "The Runner can only use an interface ability on an {subtype:icebreaker} if the {subtype:icebreaker} has strength greater than or equal to the strength of the encountered ice.",
+  "text_plain": "The Runner can only use an interface ability on an icebreaker if the icebreaker has strength greater than or equal to the strength of the encountered ice.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 51,
+      "end": 61,
+      "target": "icebreaker"
+    },
+    {
+      "type": "subtype",
+      "start": 69,
+      "end": 79,
+      "target": "icebreaker"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_icebreaker_interface_strength"
+}

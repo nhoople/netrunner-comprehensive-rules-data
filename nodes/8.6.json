@@ -1,0 +1,27 @@
+{
+  "id": "sec_playing_events_and_operations",
+  "kind": "section",
+  "number": "8.6",
+  "ref_type": "section",
+  "title": "Playing Events and Operations",
+  "parent_id": "chpt_card_manipulation",
+  "child_ids": [
+    "rule_playing",
+    "rule_playing_play_cost",
+    "rule_playing_one_at_a_time",
+    "rule_playing_lingering_effects",
+    "rule_playing_timing_structure",
+    "rule_play_no_trash",
+    "sec_steps_playing"
+  ],
+  "text_markup": "Playing Events and Operations",
+  "text_plain": "Playing Events and Operations",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_playing_events_and_operations"
+}

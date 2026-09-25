@@ -1,0 +1,29 @@
+{
+  "id": "rule_static_ability_with_restriction",
+  "kind": "rule",
+  "number": "9.4.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_static_abilities",
+  "child_ids": [],
+  "text_markup": "Static abilities can include restrictions that apply to their source card. These restrictions are often active even while the card is inactive. See {ref:rule_ability_active_inactive_source_card}.",
+  "text_plain": "Static abilities can include restrictions that apply to their source card. These restrictions are often active even while the card is inactive. See section 9.1.8.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 148,
+      "end": 161,
+      "ids": [
+        "rule_ability_active_inactive_source_card"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_static_ability_with_restriction"
+}

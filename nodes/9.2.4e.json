@@ -1,0 +1,29 @@
+{
+  "id": "rule_checkpoint_before_receiving_priority",
+  "kind": "rule",
+  "number": "9.2.4e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_priority_window",
+  "child_ids": [],
+  "text_markup": "Whenever a player receives priority during a priority window, a checkpoint occurs immediately before that player may act. See {ref:sec_checkpoints}.",
+  "text_plain": "Whenever a player receives priority during a priority window, a checkpoint occurs immediately before that player may act. See section 10.3.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 126,
+      "end": 138,
+      "ids": [
+        "sec_checkpoints"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_checkpoint_before_receiving_priority"
+}

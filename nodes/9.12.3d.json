@@ -1,0 +1,38 @@
+{
+  "id": "rule_mandatory_choice_effects_can_be_modified",
+  "kind": "rule",
+  "number": "9.12.3d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_must",
+  "child_ids": [
+    "rule_mandatory_choice_effects_can_be_modified__example_1"
+  ],
+  "text_markup": "Making a choice between effects is always a separate instruction from resolving the chosen effect (see {ref:rule_choice_instruction}). The previous rule only requires the player to choose an effect that is possible to resolve; it does not require the chosen effect to actually resolve as expected. Once an effect has been chosen, the player can apply interrupts to modify, prevent, or replace that effect as normal.",
+  "text_plain": "Making a choice between effects is always a separate instruction from resolving the chosen effect (see rule 9.11.4g). The previous rule only requires the player to choose an effect that is possible to resolve; it does not require the chosen effect to actually resolve as expected. Once an effect has been chosen, the player can apply interrupts to modify, prevent, or replace that effect as normal.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 103,
+      "end": 115,
+      "ids": [
+        "rule_choice_instruction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_mandatory_choice_effects_can_be_modified__example_1",
+      "text_markup": "If the Runner encounters {card:Data Raven}, they must choose to either take a tag or end the run. The Runner can choose to take the tag, then avoid the tag with {card:Decoy}. This does not cause the run to end, as the decision to take the tag has already been made.",
+      "text_plain": "If the Runner encounters Data Raven, they must choose to either take a tag or end the run. The Runner can choose to take the tag, then avoid the tag with Decoy. This does not cause the run to end, as the decision to take the tag has already been made.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mandatory_choice_effects_can_be_modified"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_install_cost_link",
+  "kind": "rule",
+  "number": "8.5.11a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_install_cost",
+  "child_ids": [],
+  "text_markup": "The install cost of a piece of ice is 1 credit for each piece of ice already installed protecting the destination server at the time the cost is to be paid. The install cost of a piece of hardware, program, or resource is indicated on the card. Assets, agendas, upgrades, and facedown Runner cards have no install cost. See also {ref:rule_install_cost_ice}.",
+  "text_plain": "The install cost of a piece of ice is 1 credit for each piece of ice already installed protecting the destination server at the time the cost is to be paid. The install cost of a piece of hardware, program, or resource is indicated on the card. Assets, agendas, upgrades, and facedown Runner cards have no install cost. See also rule 1.16.6b.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 329,
+      "end": 341,
+      "ids": [
+        "rule_install_cost_ice"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_cost_link"
+}

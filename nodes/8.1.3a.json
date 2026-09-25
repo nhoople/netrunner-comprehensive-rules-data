@@ -1,0 +1,19 @@
+{
+  "id": "rule_derez_by_ability",
+  "kind": "rule",
+  "number": "8.1.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_derez",
+  "child_ids": [],
+  "text_markup": "Cards are only derezzed by card effects.",
+  "text_plain": "Cards are only derezzed by card effects.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_derez_by_ability"
+}

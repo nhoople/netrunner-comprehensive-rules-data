@@ -1,0 +1,26 @@
+{
+  "id": "rule_interrupt_symbol",
+  "kind": "rule",
+  "number": "9.9.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_interrupt_definition",
+  "child_ids": [],
+  "text_markup": "Interrupt abilities are denoted by the [interrupt] symbol appearing at the beginning of the ability, or by certain keywords in the ability's text.",
+  "text_plain": "Interrupt abilities are denoted by the {interrupt} symbol appearing at the beginning of the ability, or by certain keywords in the ability's text.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 39,
+      "end": 50,
+      "target": "interrupt"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_interrupt_symbol"
+}

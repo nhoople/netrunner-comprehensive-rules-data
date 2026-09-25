@@ -1,0 +1,28 @@
+{
+  "id": "rule_score",
+  "kind": "subsection",
+  "number": "1.17.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_score_scoring_steal",
+  "child_ids": [
+    "rule_threat_level"
+  ],
+  "text_markup": "The sum of all agenda points on agendas in a player's score area is that player's {term:score}.",
+  "text_plain": "The sum of all agenda points on agendas in a player's score area is that player's score.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 82,
+      "end": 87,
+      "target": "score"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_score"
+}

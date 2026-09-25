@@ -1,0 +1,19 @@
+{
+  "id": "rule_after_checkpoint_reaction_window",
+  "kind": "rule",
+  "number": "10.3.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_checkpoints",
+  "child_ids": [],
+  "text_markup": "After a checkpoint is completed, if it marked any instances of conditional abilities as pending, a new reaction window immediately opens to handle those abilities, even if this takes place during another reaction window. After a reaction window closes, the game proceeds to whatever was due to occur after the checkpoint that caused it to open.",
+  "text_plain": "After a checkpoint is completed, if it marked any instances of conditional abilities as pending, a new reaction window immediately opens to handle those abilities, even if this takes place during another reaction window. After a reaction window closes, the game proceeds to whatever was due to occur after the checkpoint that caused it to open.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_after_checkpoint_reaction_window"
+}

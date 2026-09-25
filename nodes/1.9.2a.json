@@ -1,0 +1,19 @@
+{
+  "id": "rule_bank_default",
+  "kind": "rule",
+  "number": "1.9.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_bank",
+  "child_ids": [],
+  "text_markup": "If an instruction directs players to place counters on a card without designating where those counters come from, take those counters from the bank.",
+  "text_plain": "If an instruction directs players to place counters on a card without designating where those counters come from, take those counters from the bank.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bank_default"
+}

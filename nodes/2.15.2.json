@@ -1,0 +1,19 @@
+{
+  "id": "rule_card_type_list",
+  "kind": "rule",
+  "number": "2.15.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_type",
+  "child_ids": [],
+  "text_markup": "Each card has one card type, which can be identity, agenda, asset, ice, operation, upgrade, event, hardware, program, or resource. It is written in bold at the beginning of the type line.",
+  "text_plain": "Each card has one card type, which can be identity, agenda, asset, ice, operation, upgrade, event, hardware, program, or resource. It is written in bold at the beginning of the type line.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_card_type_list"
+}

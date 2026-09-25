@@ -1,0 +1,35 @@
+{
+  "id": "rule_dependent_effects",
+  "kind": "rule",
+  "number": "9.12.1d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_simultaneous_effects",
+  "child_ids": [],
+  "text_markup": "If a static or lingering effect changes whether a second effect is active, what objects it applies to, or what it does to those objects, the second effect {term: depends on} the first effect. To determine the characteristics of each object in a game state where dependencies exist, use the following process: begin with each object's printed characteristics. Then, apply effects that modify objects to the game state in the order specified by {ref:rule_independent_effects}. Do not apply an effect if it originates from a static ability that is no longer present or no longer active due to a previously-applied effect. When all active effects are applied, this process is complete and each object has its correct characteristics.",
+  "text_plain": "If a static or lingering effect changes whether a second effect is active, what objects it applies to, or what it does to those objects, the second effect  depends on the first effect. To determine the characteristics of each object in a game state where dependencies exist, use the following process: begin with each object's printed characteristics. Then, apply effects that modify objects to the game state in the order specified by rule 9.12.1e. Do not apply an effect if it originates from a static ability that is no longer present or no longer active due to a previously-applied effect. When all active effects are applied, this process is complete and each object has its correct characteristics.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 155,
+      "end": 166,
+      "target": " depends on"
+    },
+    {
+      "type": "ref",
+      "start": 436,
+      "end": 448,
+      "ids": [
+        "rule_independent_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_dependent_effects"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_hand_unordered",
+  "kind": "rule",
+  "number": "4.3.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_hand",
+  "child_ids": [],
+  "text_markup": "Hands are not ordered. A player may freely arrange the cards in their hand in any order at any time.",
+  "text_plain": "Hands are not ordered. A player may freely arrange the cards in their hand in any order at any time.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hand_unordered"
+}

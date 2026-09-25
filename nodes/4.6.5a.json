@@ -1,0 +1,38 @@
+{
+  "id": "rule_play_area_corp_cards_distinct_server",
+  "kind": "rule",
+  "number": "4.6.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_play_area_organization",
+  "child_ids": [],
+  "text_markup": "Corp cards are arranged into distinct servers. Agendas and assets are installed in the roots of remote servers, upgrades are installed in the roots of any servers, and pieces of ice are installed horizontally protecting servers. See {ref:subsec_servers} and {ref:subsec_protecting_a_server}.",
+  "text_plain": "Corp cards are arranged into distinct servers. Agendas and assets are installed in the roots of remote servers, upgrades are installed in the roots of any servers, and pieces of ice are installed horizontally protecting servers. See section 4.6.6 and section 4.6.9.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 233,
+      "end": 246,
+      "ids": [
+        "subsec_servers"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 251,
+      "end": 264,
+      "ids": [
+        "subsec_protecting_a_server"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_corp_cards_distinct_server"
+}

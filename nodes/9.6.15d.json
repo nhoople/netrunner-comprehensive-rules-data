@@ -1,0 +1,19 @@
+{
+  "id": "step_conditional_ability_resolution",
+  "kind": "rule",
+  "number": "9.6.15d",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_triggering_and_resolving_a_conditional_ability",
+  "child_ids": [],
+  "text_markup": "Resolve the instruction, applying any changes to its effects from interrupts that were resolved. If the controller of the ability chooses to resolve an optional effect contained in this instruction, and this is the first instruction for which that player has done so, \"when used\" conditionals meet their trigger conditions.",
+  "text_plain": "Resolve the instruction, applying any changes to its effects from interrupts that were resolved. If the controller of the ability chooses to resolve an optional effect contained in this instruction, and this is the first instruction for which that player has done so, \"when used\" conditionals meet their trigger conditions.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_conditional_ability_resolution"
+}

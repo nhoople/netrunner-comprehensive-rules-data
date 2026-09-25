@@ -1,0 +1,32 @@
+{
+  "id": "rule_link_value",
+  "kind": "rule",
+  "number": "10.7.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_link",
+  "child_ids": [],
+  "text_markup": "The Runner's {term:link value} is calculated by adding the base link on their identity card to the link ([link]) produced by their installed cards.",
+  "text_plain": "The Runner's link value is calculated by adding the base link on their identity card to the link ({link}) produced by their installed cards.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 13,
+      "end": 23,
+      "target": "link value"
+    },
+    {
+      "type": "symbol",
+      "start": 98,
+      "end": 104,
+      "target": "link"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_link_value"
+}

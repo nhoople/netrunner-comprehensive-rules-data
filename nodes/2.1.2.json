@@ -1,0 +1,21 @@
+{
+  "id": "rule_identity_subtitles",
+  "kind": "subsection",
+  "number": "2.1.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_card_name",
+  "child_ids": [
+    "rule_identity_pronouns"
+  ],
+  "text_markup": "Identities have a subtitle written immediately below the main title line. Their full name is the combination of their main title and subtitle.",
+  "text_plain": "Identities have a subtitle written immediately below the main title line. Their full name is the combination of their main title and subtitle.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identity_subtitles"
+}

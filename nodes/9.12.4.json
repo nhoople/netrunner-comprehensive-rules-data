@@ -1,0 +1,24 @@
+{
+  "id": "subsec_repeat_this_process",
+  "kind": "subsection",
+  "number": "9.12.4",
+  "ref_type": "section",
+  "title": "Repeat this process",
+  "parent_id": "sec_other_rules_and_terminology",
+  "child_ids": [
+    "rule_repeat_this_process",
+    "rule_repeat_this_process_x_times",
+    "rule_checkpoint_after_repetition",
+    "rule_repetition_resolve_independently"
+  ],
+  "text_markup": "Repeat this process",
+  "text_plain": "Repeat this process",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_repeat_this_process"
+}

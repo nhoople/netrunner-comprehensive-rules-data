@@ -1,0 +1,19 @@
+{
+  "id": "rule_controller_credits",
+  "kind": "rule",
+  "number": "1.14.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_controller_object",
+  "child_ids": [],
+  "text_markup": "Each player controls the credits in their credit pool.",
+  "text_plain": "Each player controls the credits in their credit pool.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_controller_credits"
+}

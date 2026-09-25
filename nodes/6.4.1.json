@@ -1,0 +1,26 @@
+{
+  "id": "rule_approach_ice_phase",
+  "kind": "rule",
+  "number": "6.4.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_approach_ice_phase",
+  "child_ids": [],
+  "text_markup": "The {term:approach ice phase} gives the Corp the opportunity to rez the ice in the Runner's current position.",
+  "text_plain": "The approach ice phase gives the Corp the opportunity to rez the ice in the Runner's current position.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 22,
+      "target": "approach ice phase"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_approach_ice_phase"
+}

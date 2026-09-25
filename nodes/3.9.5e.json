@@ -1,0 +1,32 @@
+{
+  "id": "rule_icebreaker_interface",
+  "kind": "rule",
+  "number": "3.9.5e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_icebreakers",
+  "child_ids": [],
+  "text_markup": "All {subtype:icebreakers} have abilities that {term:interface} with ice, sometimes referred to as \"interface abilities\". These abilities are indicated by the \"interface\" flag preceding the ability's text.",
+  "text_plain": "All icebreakers have abilities that interface with ice, sometimes referred to as \"interface abilities\". These abilities are indicated by the \"interface\" flag preceding the ability's text.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 4,
+      "end": 15,
+      "target": "icebreakers"
+    },
+    {
+      "type": "term",
+      "start": 36,
+      "end": 45,
+      "target": "interface"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_icebreaker_interface"
+}

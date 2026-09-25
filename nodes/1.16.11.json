@@ -1,0 +1,31 @@
+{
+  "id": "rule_nested_cost",
+  "kind": "subsection",
+  "number": "1.16.11",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_costs",
+  "child_ids": [
+    "rule_nested_cost_may",
+    "rule_nested_cost_unless",
+    "rule_nested_cost_no_may",
+    "rule_nested_cost_otherwise"
+  ],
+  "text_markup": "A {term:nested cost} is a cost appearing within an ability's instructions that must be paid while the ability is resolving in order for some or all of the rest of the effects of that ability to resolve.",
+  "text_plain": "A nested cost is a cost appearing within an ability's instructions that must be paid while the ability is resolving in order for some or all of the rest of the effects of that ability to resolve.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 13,
+      "target": "nested cost"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_nested_cost"
+}

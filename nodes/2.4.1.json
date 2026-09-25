@@ -1,0 +1,19 @@
+{
+  "id": "rule_adv_requirement_location",
+  "kind": "rule",
+  "number": "2.4.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_adv_req",
+  "child_ids": [],
+  "text_markup": "The advancement requirement appears only on agendas. It is a number in the top-right corner of the card, within a small circle.",
+  "text_plain": "The advancement requirement appears only on agendas. It is a number in the top-right corner of the card, within a small circle.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_adv_requirement_location"
+}

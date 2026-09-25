@@ -1,0 +1,29 @@
+{
+  "id": "rule_conditional_ability_independent",
+  "kind": "rule",
+  "number": "9.6.12",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [],
+  "text_markup": "Once a player triggers a conditional ability and its instructions become imminent, the ability becomes independent of its source and {ref:rule_abilities_resolution_independent} applies to it.",
+  "text_plain": "Once a player triggers a conditional ability and its instructions become imminent, the ability becomes independent of its source and rule 9.1.4 applies to it.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 133,
+      "end": 143,
+      "ids": [
+        "rule_abilities_resolution_independent"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_conditional_ability_independent"
+}

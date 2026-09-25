@@ -1,0 +1,28 @@
+{
+  "id": "rule_run_ends_close_paws",
+  "kind": "rule",
+  "number": "6.8.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_run_ends_process_priority_windows",
+  "child_ids": [
+    "rule_run_ends_close_paws__example_1"
+  ],
+  "text_markup": "If a paid ability window was open when the run was ended, the window closes. No player can trigger further paid abilities or resolve other options the window would normally allow (such as rezzing cards).",
+  "text_plain": "If a paid ability window was open when the run was ended, the window closes. No player can trigger further paid abilities or resolve other options the window would normally allow (such as rezzing cards).",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_run_ends_close_paws__example_1",
+      "text_markup": "The Corp spends a counter from a scored {card:Nisei MK II} to end the run. Once this happens, the Runner does not have an opportunity to use their bad publicity credits from this run to pay for using {card:Self-modifying Code}.",
+      "text_plain": "The Corp spends a counter from a scored Nisei MK II to end the run. Once this happens, the Runner does not have an opportunity to use their bad publicity credits from this run to pay for using Self-modifying Code.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_run_ends_close_paws"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rule_lose_spend_clicks",
+  "kind": "rule",
+  "number": "1.11.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_gain_spend_lose_clicks",
+  "child_ids": [],
+  "text_markup": "If a player {term:loses} or {term:spends} clicks, the number of clicks they have is reduced by that amount. The terms \"lose\" and \"spend\" are not synonymous for the purposes of meeting conditions and restrictions of card abilities.",
+  "text_plain": "If a player loses or spends clicks, the number of clicks they have is reduced by that amount. The terms \"lose\" and \"spend\" are not synonymous for the purposes of meeting conditions and restrictions of card abilities.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 12,
+      "end": 17,
+      "target": "loses"
+    },
+    {
+      "type": "term",
+      "start": 21,
+      "end": 27,
+      "target": "spends"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_lose_spend_clicks"
+}

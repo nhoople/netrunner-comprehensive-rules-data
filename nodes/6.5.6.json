@@ -1,0 +1,29 @@
+{
+  "id": "rule_encounter_ice_next_phase",
+  "kind": "rule",
+  "number": "6.5.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_encounter_ice_phase",
+  "child_ids": [],
+  "text_markup": "At the end of the Encounter Ice Phase, the run continues to the Movement Phase, {ref:sec_movement_phase}.",
+  "text_plain": "At the end of the Encounter Ice Phase, the run continues to the Movement Phase, section 6.6.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 80,
+      "end": 91,
+      "ids": [
+        "sec_movement_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_encounter_ice_next_phase"
+}

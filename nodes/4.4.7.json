@@ -1,0 +1,22 @@
+{
+  "id": "subsec_heap",
+  "kind": "subsection",
+  "number": "4.4.7",
+  "ref_type": "section",
+  "title": "Heap",
+  "parent_id": "sec_discard_pile",
+  "child_ids": [
+    "rule_heap_name",
+    "rule_heap_open_info"
+  ],
+  "text_markup": "Heap",
+  "text_plain": "Heap",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "The heap represents what the Runner has lost: their old jobs, favours burned, friends long gone, gear wrecked, and code erased.",
+  "snippet_plain": "The heap represents what the Runner has lost: their old jobs, favours burned, friends long gone, gear wrecked, and code erased.",
+  "url": "https://rules.nullsignal.games/?r=subsec_heap"
+}

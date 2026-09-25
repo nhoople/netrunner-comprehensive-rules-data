@@ -1,0 +1,25 @@
+{
+  "id": "rule_play_area_active_inactive",
+  "kind": "subsection",
+  "number": "4.6.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_play_area",
+  "child_ids": [
+    "rule_play_area_identity",
+    "rule_play_area_corp_cards",
+    "rule_play_area_runner_cards",
+    "rule_play_area_faceup_facedown",
+    "rule_play_area_operations_events"
+  ],
+  "text_markup": "Whether or not a card is active while in the play area is determined by the card's status.",
+  "text_plain": "Whether or not a card is active while in the play area is determined by the card's status.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_active_inactive"
+}

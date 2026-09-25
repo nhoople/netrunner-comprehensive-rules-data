@@ -1,0 +1,19 @@
+{
+  "id": "rule_inf_cost_absent",
+  "kind": "rule",
+  "number": "2.14.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_inf_cost",
+  "child_ids": [],
+  "text_markup": "Some cards cannot be played out of faction, and therefore do not have an influence value, which is different from an influence cost of \"0\". These cards do not have the influence bar at all.",
+  "text_plain": "Some cards cannot be played out of faction, and therefore do not have an influence value, which is different from an influence cost of \"0\". These cards do not have the influence bar at all.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_inf_cost_absent"
+}

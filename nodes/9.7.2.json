@@ -1,0 +1,26 @@
+{
+  "id": "sec_steps_of_resolving_a_play_ability",
+  "kind": "subsection",
+  "number": "9.7.2",
+  "ref_type": "step",
+  "title": "Steps of Resolving a Play Ability",
+  "parent_id": "sec_play_abilities",
+  "child_ids": [
+    "step_play_ability_target_first_instruction",
+    "step_play_ability_interrupt_window",
+    "step_play_ability_interrupt_resolution",
+    "step_play_ability_checkpoint",
+    "step_play_ability_loop",
+    "step_play_ability_complete"
+  ],
+  "text_markup": "Steps of Resolving a Play Ability",
+  "text_plain": "Steps of Resolving a Play Ability",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_steps_of_resolving_a_play_ability"
+}

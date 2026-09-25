@@ -1,0 +1,28 @@
+{
+  "id": "rule_conditional_ability_static_condition_no_effect",
+  "kind": "rule",
+  "number": "9.6.7d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_conditional_ability_with_static_condition",
+  "child_ids": [
+    "rule_conditional_ability_static_condition_no_effect__example_1"
+  ],
+  "text_markup": "If a conditional ability with a static condition resolves and no instruction in that ability had any expected effects at the time that instruction's interrupt window opened, that ability cannot be marked pending again until a timing structure step is completed.",
+  "text_plain": "If a conditional ability with a static condition resolves and no instruction in that ability had any expected effects at the time that instruction's interrupt window opened, that ability cannot be marked pending again until a timing structure step is completed.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_conditional_ability_static_condition_no_effect__example_1",
+      "text_markup": "{card:Parasite} is hosted on a piece of ice with 0 strength. {card:Parasite}'s ability tries to trash that ice. If the effect of an interrupt ability prevents the ice from being trashed without increasing its strength, the condition is still true, so the ability will become pending again. But this does not occur while the previous instance of the ability is still pending or resolving. Conversely, if a static ability (such as the one on {card:Architect}) prohibits {card:Parasite} from trashing the ice, there are no effects {card:Parasite}'s ability can perform, and therefore the ability resolves only once per timing structure step.",
+      "text_plain": "Parasite is hosted on a piece of ice with 0 strength. Parasite's ability tries to trash that ice. If the effect of an interrupt ability prevents the ice from being trashed without increasing its strength, the condition is still true, so the ability will become pending again. But this does not occur while the previous instance of the ability is still pending or resolving. Conversely, if a static ability (such as the one on Architect) prohibits Parasite from trashing the ice, there are no effects Parasite's ability can perform, and therefore the ability resolves only once per timing structure step.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_conditional_ability_static_condition_no_effect"
+}

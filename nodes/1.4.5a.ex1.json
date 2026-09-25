@@ -1,0 +1,34 @@
+{
+  "id": "rule_influence_by_copy__example_1",
+  "kind": "example",
+  "number": "1.4.5a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_influence_by_copy",
+  "child_ids": [],
+  "text_markup": "Including a single copy of {card:Diesel} in a non-Shaper deck adds 2 to the total influence in that deck, while including two copies of {card:Diesel} in a non-Shaper deck adds 4 to the total influence in that deck.",
+  "text_plain": "Including a single copy of Diesel in a non-Shaper deck adds 2 to the total influence in that deck, while including two copies of Diesel in a non-Shaper deck adds 4 to the total influence in that deck.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 27,
+      "end": 33,
+      "target": "Diesel",
+      "card_code": "31027"
+    },
+    {
+      "type": "card",
+      "start": 129,
+      "end": 135,
+      "target": "Diesel",
+      "card_code": "31027"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

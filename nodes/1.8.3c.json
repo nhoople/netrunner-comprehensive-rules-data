@@ -1,0 +1,19 @@
+{
+  "id": "rule_corp_become_active",
+  "kind": "rule",
+  "number": "1.8.3c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_active_cards",
+  "child_ids": [],
+  "text_markup": "Unless otherwise stated, Corp cards other than operations are installed unrezzed, and thus inactive, into the play area. Assets, ice, and upgrades become active when they are rezzed; agendas become active when they are scored. Operations become active as part of the process of playing them.",
+  "text_plain": "Unless otherwise stated, Corp cards other than operations are installed unrezzed, and thus inactive, into the play area. Assets, ice, and upgrades become active when they are rezzed; agendas become active when they are scored. Operations become active as part of the process of playing them.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_become_active"
+}

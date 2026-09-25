@@ -1,0 +1,35 @@
+{
+  "id": "step_checkpoint_card_restrictions",
+  "kind": "rule",
+  "number": "10.3.1e",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_checkpoints",
+  "child_ids": [
+    "step_checkpoint_card_restrictions__example_1",
+    "step_checkpoint_card_restrictions__example_2"
+  ],
+  "text_markup": "If any objects break any restrictions of card abilities or the game rules (such as the Runner's memory limit) or are installed or hosted in an illegal location, an appropriate set of those objects are trashed. A set is appropriate for this purpose if trashing the objects in the set would leave all remaining installed or hosted objects in legal locations and if no object can be removed from the set while maintaining that property. If there are multiple distinct appropriate sets, and one player controls all the objects in each of those sets, that player chooses which set to trash. If the sets contain objects controlled by both players, the active player chooses which set is trashed.",
+  "text_plain": "If any objects break any restrictions of card abilities or the game rules (such as the Runner's memory limit) or are installed or hosted in an illegal location, an appropriate set of those objects are trashed. A set is appropriate for this purpose if trashing the objects in the set would leave all remaining installed or hosted objects in legal locations and if no object can be removed from the set while maintaining that property. If there are multiple distinct appropriate sets, and one player controls all the objects in each of those sets, that player chooses which set to trash. If the sets contain objects controlled by both players, the active player chooses which set is trashed.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "step_checkpoint_card_restrictions__example_1",
+      "text_markup": "The Runner controls a {card:Chisel} hosted on an unrezzed piece of ice. The Corp rezzes that ice, revealing it to be {card:Tithonium}. Since {card:Tithonium} has an ability prohibiting cards from being hosted on it, {card:Chisel} is now installed in an illegal location and must be trashed.",
+      "text_plain": "The Runner controls a Chisel hosted on an unrezzed piece of ice. The Corp rezzes that ice, revealing it to be Tithonium. Since Tithonium has an ability prohibiting cards from being hosted on it, Chisel is now installed in an illegal location and must be trashed.",
+      "is_new": false
+    },
+    {
+      "id": "step_checkpoint_card_restrictions__example_2",
+      "text_markup": "The Runner has installed programs with total memory cost equal to their memory limit when the Corp plays {card:Bad Times}, reducing the memory limit by 2[MU]. The Runner can trash any two programs with a memory cost of 1[MU] each, or any one program with a memory cost of 2[MU] or greater. They cannot trash any 0[MU] programs, nor can they trash any set of more than one program with a greater total memory cost than 2[MU], since those objects can be removed from the trashed set while maintaining that the result will be a legal game state.",
+      "text_plain": "The Runner has installed programs with total memory cost equal to their memory limit when the Corp plays Bad Times, reducing the memory limit by 2{MU}. The Runner can trash any two programs with a memory cost of 1{MU} each, or any one program with a memory cost of 2{MU} or greater. They cannot trash any 0{MU} programs, nor can they trash any set of more than one program with a greater total memory cost than 2{MU}, since those objects can be removed from the trashed set while maintaining that the result will be a legal game state.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_checkpoint_card_restrictions"
+}

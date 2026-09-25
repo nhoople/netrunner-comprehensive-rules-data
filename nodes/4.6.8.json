@@ -1,0 +1,26 @@
+{
+  "id": "subsec_remote_servers",
+  "kind": "subsection",
+  "number": "4.6.8",
+  "ref_type": "section",
+  "title": "Remote Servers",
+  "parent_id": "sec_play_area",
+  "child_ids": [
+    "rule_remote_server",
+    "rule_creating_remote_servers",
+    "rule_separate_remote_servers",
+    "rule_remote_server_existence",
+    "rule_remote_server_cease_to_exist",
+    "rule_limit_remote_servers"
+  ],
+  "text_markup": "Remote Servers",
+  "text_plain": "Remote Servers",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_remote_servers"
+}

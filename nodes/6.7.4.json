@@ -1,0 +1,23 @@
+{
+  "id": "rule_if_successful",
+  "kind": "subsection",
+  "number": "6.7.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_success_phase",
+  "child_ids": [
+    "rule_if_successful_tied_to_server",
+    "rule_if_successful_lingering_effect",
+    "rule_if_successful_ability_optional"
+  ],
+  "text_markup": "Many abilities that initiate a run contain a conditional ability with the trigger condition \"If successful\". This means, \"After the run created this way becomes successful\".",
+  "text_plain": "Many abilities that initiate a run contain a conditional ability with the trigger condition \"If successful\". This means, \"After the run created this way becomes successful\".",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_if_successful"
+}

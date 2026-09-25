@@ -1,0 +1,19 @@
+{
+  "id": "step_initiation_formal_begin",
+  "kind": "rule",
+  "number": "6.9.1c",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_initiation_phase",
+  "child_ids": [],
+  "text_markup": "The run formally begins. Conditions related to the run beginning or initiating are met.",
+  "text_plain": "The run formally begins. Conditions related to the run beginning or initiating are met.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_initiation_formal_begin"
+}

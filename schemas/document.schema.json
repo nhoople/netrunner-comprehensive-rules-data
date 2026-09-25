@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nsg-cr.local/schemas/document.schema.json",
+  "title": "CR document",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["metadata", "changelog", "tree"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "version",
+        "effective_date",
+        "effective_date_display",
+        "source_repo",
+        "source_sha",
+        "published_url",
+        "published_hub",
+        "node_count"
+      ],
+      "properties": {
+        "version": { "type": "string" },
+        "effective_date": { "type": "string" },
+        "effective_date_display": { "type": "string" },
+        "source_repo": { "type": "string" },
+        "source_sha": { "type": "string" },
+        "published_url": { "type": "string" },
+        "published_hub": { "type": "string" },
+        "node_count": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "changelog": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["text_markup", "text_plain", "spans"],
+        "properties": {
+          "text_markup": { "type": "string" },
+          "text_plain": { "type": "string" },
+          "spans": {
+            "type": "array",
+            "items": { "$ref": "https://nsg-cr.local/schemas/span.schema.json" }
+          }
+        }
+      }
+    },
+    "tree": {
+      "type": "array",
+      "items": { "$ref": "https://nsg-cr.local/schemas/node.schema.json" }
+    }
+  }
+}

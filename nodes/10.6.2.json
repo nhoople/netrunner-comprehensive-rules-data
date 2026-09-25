@@ -1,0 +1,26 @@
+{
+  "id": "rule_bad_publicity_fund",
+  "kind": "rule",
+  "number": "10.6.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_bad_publicity",
+  "child_ids": [],
+  "text_markup": "The {term:bad publicity fund} is a location in the play area that can contain credits. Credits in the bad publicity fund are controlled by the Runner, but are not part of the Runner's credit pool. The Runner can spend credits in the bad publicity fund during runs.",
+  "text_plain": "The bad publicity fund is a location in the play area that can contain credits. Credits in the bad publicity fund are controlled by the Runner, but are not part of the Runner's credit pool. The Runner can spend credits in the bad publicity fund during runs.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 22,
+      "target": "bad publicity fund"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bad_publicity_fund"
+}

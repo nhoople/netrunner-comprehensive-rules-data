@@ -1,0 +1,29 @@
+{
+  "id": "rule_maximum_hand_size",
+  "kind": "rule",
+  "number": "4.3.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_hand",
+  "child_ids": [],
+  "text_markup": "Each player has a maximum hand size, usually five. A player may have any number of cards in their hand at any given time, but during the discard phase of a player's turn they must discard cards from their hand until there are no more cards in their hand than their maximum hand size allows. See {ref:sec_discard_phase}.",
+  "text_plain": "Each player has a maximum hand size, usually five. A player may have any number of cards in their hand at any given time, but during the discard phase of a player's turn they must discard cards from their hand until there are no more cards in their hand than their maximum hand size allows. See section 5.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 295,
+      "end": 306,
+      "ids": [
+        "sec_discard_phase"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_maximum_hand_size"
+}

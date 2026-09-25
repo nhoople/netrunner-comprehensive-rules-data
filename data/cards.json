@@ -1,0 +1,2425 @@
+[
+  {
+    "name": "24/7 News Cycle",
+    "card_code": "09019",
+    "node_ids": [
+      "rule_instructed_to_resolve_conditional_ability__example_1"
+    ]
+  },
+  {
+    "name": "A Teia",
+    "card_code": "34039",
+    "node_ids": [
+      "rule_swap_become_installed__example_1"
+    ]
+  },
+  {
+    "name": "A Teia: IP Recovery",
+    "card_code": "34039",
+    "node_ids": [
+      "rule_swap_become_installed__example_1"
+    ]
+  },
+  {
+    "name": "Abagnale",
+    "card_code": "31021",
+    "node_ids": [
+      "rule_paid_ability_refers_to_encountered_ice__example_2"
+    ]
+  },
+  {
+    "name": "Accelerated Beta Test",
+    "card_code": "01055",
+    "node_ids": [
+      "rule_object_move_location__example_1"
+    ]
+  },
+  {
+    "name": "Account Siphon",
+    "card_code": "01018",
+    "node_ids": [
+      "rule_if_successful_ability_optional__example_1",
+      "rule_replacement_effect_must_have_something_to_replace__example_1"
+    ]
+  },
+  {
+    "name": "Ad Blitz",
+    "card_code": "09020",
+    "node_ids": [
+      "rule_reveal_for_install_and_rez__example_2"
+    ]
+  },
+  {
+    "name": "Adam: Compulsive Hacker",
+    "card_code": "09037",
+    "node_ids": [
+      "rule_adam"
+    ]
+  },
+  {
+    "name": "Adrian Seis",
+    "card_code": "34046",
+    "node_ids": [
+      "rule_bid_possible__example_1"
+    ]
+  },
+  {
+    "name": "Aesop's Pawnshop",
+    "card_code": "31035",
+    "node_ids": [
+      "rule_conditional_ability_lose_pending_when_ability_becomes_inactive__example_1"
+    ]
+  },
+  {
+    "name": "Aggressive Secretary",
+    "card_code": "20065",
+    "node_ids": [
+      "rule_distinct_targets__example_1"
+    ]
+  },
+  {
+    "name": "Alice Merchant",
+    "card_code": "12061",
+    "node_ids": [
+      "rule_trigger_condition_effect_by_player__example_2"
+    ]
+  },
+  {
+    "name": "Always Be Running",
+    "card_code": "09041",
+    "node_ids": [
+      "rule_must_cannot_force_additional_cost__example_1"
+    ]
+  },
+  {
+    "name": "AMAZE Amusements",
+    "card_code": "30058",
+    "node_ids": [
+      "rule_previous_object_source__example_1",
+      "rule_persistent_applicability__example_1",
+      "rule_checkpoint_after_timing_structure__example_1"
+    ]
+  },
+  {
+    "name": "Angelique Garza Correa",
+    "card_code": "34063",
+    "node_ids": [
+      "rule_prevent_as_trigger_condition__example_1"
+    ]
+  },
+  {
+    "name": "Ansel 1.0",
+    "card_code": "30038",
+    "node_ids": [
+      "rule_independent_effects__example_1"
+    ]
+  },
+  {
+    "name": "Archangel",
+    "card_code": "09013",
+    "node_ids": [
+      "rule_ice_strength_modification_duration__example_1",
+      "rule_active_exception_encounter_not_installed__example_1"
+    ]
+  },
+  {
+    "name": "Archer",
+    "card_code": "31075",
+    "node_ids": [
+      "rule_reveal_for_ability_limitations__example_1"
+    ]
+  },
+  {
+    "name": "Architect",
+    "card_code": "06061",
+    "node_ids": [
+      "rule_conditional_ability_static_condition_no_effect__example_1",
+      "rule_look_reveal_instruction__example_1"
+    ]
+  },
+  {
+    "name": "Architect Deployment Test",
+    "card_code": "26032",
+    "node_ids": [
+      "rule_condition_only_met_while_active__example_2"
+    ]
+  },
+  {
+    "name": "Archives Interface",
+    "card_code": "07044",
+    "node_ids": [
+      "rule_number_of_accesses__example_1"
+    ]
+  },
+  {
+    "name": "Argus Security: Protection Guaranteed",
+    "card_code": "07001",
+    "node_ids": [
+      "rule_suffer_or_take_damage__example_1"
+    ]
+  },
+  {
+    "name": "Armand \"Geist\" Walker",
+    "card_code": "08063",
+    "node_ids": [
+      "rule_chain_reaction__example_1"
+    ]
+  },
+  {
+    "name": "Arruaceiras Crew",
+    "card_code": "34073",
+    "node_ids": [
+      "rule_paid_ability_refers_to_encountered_ice__example_1"
+    ]
+  },
+  {
+    "name": "Artist Colony",
+    "card_code": "10009",
+    "node_ids": [
+      "rule_valid_search_target_install_play__example_1"
+    ]
+  },
+  {
+    "name": "Ash 2X3ZB9CY",
+    "card_code": "20075",
+    "node_ids": [
+      "rule_if_successful_ability_optional__example_1",
+      "rule_prohibiting_access__example_1"
+    ]
+  },
+  {
+    "name": "Ashen Epilogue",
+    "card_code": "34094",
+    "node_ids": [
+      "rule_play_no_trash_left_play_area__example_1"
+    ]
+  },
+  {
+    "name": "Ashigaru",
+    "card_code": "06064",
+    "node_ids": [
+      "rule_subroutine_origin_static_after__example_1",
+      "rule_subroutine_origin_static_after__example_2"
+    ]
+  },
+  {
+    "name": "AstroScript Pilot Program",
+    "card_code": "01081",
+    "node_ids": [
+      "rule_instructed_to_resolve_conditional_ability__example_1"
+    ]
+  },
+  {
+    "name": "Atman",
+    "card_code": "31030",
+    "node_ids": [
+      "rule_spend_credits__example_1"
+    ]
+  },
+  {
+    "name": "Attini",
+    "card_code": "34042",
+    "node_ids": [
+      "rule_is_resolving__example_1"
+    ]
+  },
+  {
+    "name": "Azef Protocol",
+    "card_code": "33058",
+    "node_ids": [
+      "rule_cost_restrictions__example_2",
+      "rule_additional_cost_checkpoint__example_1"
+    ]
+  },
+  {
+    "name": "Bacterial Programming",
+    "card_code": "21033",
+    "node_ids": [
+      "rule_rnd_topmost_eligibile_candidate__example_1"
+    ]
+  },
+  {
+    "name": "Bad Times",
+    "card_code": "06012",
+    "node_ids": [
+      "step_checkpoint_card_restrictions__example_2"
+    ]
+  },
+  {
+    "name": "Beanstalk Royalties",
+    "card_code": "20090",
+    "node_ids": [
+      "rule_cost_zero__example_1"
+    ]
+  },
+  {
+    "name": "Because I Can",
+    "card_code": "21066",
+    "node_ids": [
+      "rule_if_successful_tied_to_server__example_1"
+    ]
+  },
+  {
+    "name": "Ben Musashi",
+    "card_code": "12054",
+    "node_ids": [
+      "rule_additonal_cost_simultaenous__example_1"
+    ]
+  },
+  {
+    "name": "Biawak",
+    "card_code": "35074",
+    "node_ids": [
+      "rule_alternate_payment__example_1"
+    ]
+  },
+  {
+    "name": "Bio-Modeled Network",
+    "card_code": "12006",
+    "node_ids": [
+      "rule_prevent_all_but_one"
+    ]
+  },
+  {
+    "name": "Biometric Spoofing",
+    "card_code": "13026",
+    "node_ids": [
+      "rule_negative_values_imminent__example_1",
+      "rule_negative_values_resolution__example_1"
+    ]
+  },
+  {
+    "name": "Blackguard",
+    "card_code": "04085",
+    "node_ids": [
+      "rule_condition_met_multiple_times__example_2"
+    ]
+  },
+  {
+    "name": "Bloop",
+    "card_code": "33098",
+    "node_ids": [
+      "rule_replace_subroutine_resolution__example_1"
+    ]
+  },
+  {
+    "name": "Blue Level Clearance",
+    "card_code": "04090",
+    "node_ids": [
+      "rule_inherent_cost_aggregates__example_1"
+    ]
+  },
+  {
+    "name": "BOOM!",
+    "card_code": "11058",
+    "node_ids": [
+      "rule_multiple_damage_taken_simultaneously__example_1"
+    ]
+  },
+  {
+    "name": "Boomerang",
+    "card_code": "26075",
+    "node_ids": [
+      "sec_old_self_reference_rules__example_2"
+    ]
+  },
+  {
+    "name": "Border Control",
+    "card_code": "28005",
+    "node_ids": [
+      "rule_this_server__example_2",
+      "rule_this_server__example_3"
+    ]
+  },
+  {
+    "name": "Botulus",
+    "card_code": "30004",
+    "node_ids": [
+      "rule_swap_installed_cards_preserves_hosting__example_1"
+    ]
+  },
+  {
+    "name": "Brainstorm",
+    "card_code": "10086",
+    "node_ids": [
+      "rule_subroutine_origin_external_after__example_1"
+    ]
+  },
+  {
+    "name": "Braintrust",
+    "card_code": "20094",
+    "node_ids": [
+      "rule_bluffing__example_1"
+    ]
+  },
+  {
+    "name": "Bravado",
+    "card_code": "26074",
+    "node_ids": [
+      "rule_previous_object__example_1"
+    ]
+  },
+  {
+    "name": "Breached Dome",
+    "card_code": "12113",
+    "node_ids": [
+      "rule_negative_values_resolution__example_1"
+    ]
+  },
+  {
+    "name": "Brân 1.0",
+    "card_code": "30039",
+    "node_ids": [
+      "rule_ice_change_inward__example_1",
+      "rule_no_reveal_for_default_install__example_2",
+      "rule_install_to_invalid_destination__example_1"
+    ]
+  },
+  {
+    "name": "Bullfrog",
+    "card_code": "02073",
+    "node_ids": [
+      "rule_ice_change_encounter_move_swap__example_1"
+    ]
+  },
+  {
+    "name": "Bulwark",
+    "card_code": "11078",
+    "node_ids": [
+      "rule_controller_choices__example_1"
+    ]
+  },
+  {
+    "name": "Caldera",
+    "card_code": "12105",
+    "node_ids": [
+      "rule_is_resolving__example_1"
+    ]
+  },
+  {
+    "name": "Carpe Diem",
+    "card_code": "33012",
+    "node_ids": [
+      "rule_mark_designated_condition_check__example_1"
+    ]
+  },
+  {
+    "name": "Casting Call",
+    "card_code": "08096",
+    "node_ids": [
+      "rule_condition_requirements_part_of_condition__example_1"
+    ]
+  },
+  {
+    "name": "Cayambe Grid",
+    "card_code": "26127",
+    "node_ids": [
+      "rule_cost_quantities__example_1"
+    ]
+  },
+  {
+    "name": "Celebrity Gift",
+    "card_code": "31057",
+    "node_ids": [
+      "rule_rnd_topmost_eligibile_candidate__example_1"
+    ]
+  },
+  {
+    "name": "Cell Portal",
+    "card_code": "01074",
+    "node_ids": [
+      "rule_no_position_after_approach_server__example_1"
+    ]
+  },
+  {
+    "name": "Chastushka",
+    "card_code": "33002",
+    "node_ids": [
+      "rule_sabotage_all_remaining_cards__example_2",
+      "rule_sabotage_all_remaining_cards__example_3"
+    ]
+  },
+  {
+    "name": "Chisel",
+    "card_code": "26003",
+    "node_ids": [
+      "step_checkpoint_card_restrictions__example_1"
+    ]
+  },
+  {
+    "name": "Chrome Parlor",
+    "card_code": "08044",
+    "node_ids": [
+      "rule_prevent_all__example_1"
+    ]
+  },
+  {
+    "name": "Chronos Protocol",
+    "card_code": "08111",
+    "node_ids": [
+      "rule_modify_ability_with_choice__example_1"
+    ]
+  },
+  {
+    "name": "Chronos Protocol: Selective Mind-mapping",
+    "card_code": "08111",
+    "node_ids": [
+      "rule_multiple_damage_selected_sequentially__example_1"
+    ]
+  },
+  {
+    "name": "Chrysalis",
+    "card_code": "11013",
+    "node_ids": [
+      "rule_forced_encounter__example_1"
+    ]
+  },
+  {
+    "name": "Chum",
+    "card_code": "01075",
+    "node_ids": [
+      "rule_run_ends_condition__example_1"
+    ]
+  },
+  {
+    "name": "Clan Vengeance",
+    "card_code": "12022",
+    "node_ids": [
+      "rule_cost_restrictions__example_1"
+    ]
+  },
+  {
+    "name": "Cleaver",
+    "card_code": "30006",
+    "node_ids": [
+      "rule_target__example_4"
+    ]
+  },
+  {
+    "name": "Clone Chip",
+    "card_code": "03038",
+    "node_ids": [
+      "rule_cost_no_interrupt__example_1"
+    ]
+  },
+  {
+    "name": "Clone Retirement",
+    "card_code": "04032",
+    "node_ids": [
+      "rule_consecutive_breaches__example_1"
+    ]
+  },
+  {
+    "name": "Clone Suffrage Movement",
+    "card_code": "10049",
+    "node_ids": [
+      "rule_reveal_from_hidden__example_1"
+    ]
+  },
+  {
+    "name": "Code Replicator",
+    "card_code": "21052",
+    "node_ids": [
+      "rule_approach_directly"
+    ]
+  },
+  {
+    "name": "Colossus",
+    "card_code": "26124",
+    "node_ids": [
+      "rule_target__example_2"
+    ]
+  },
+  {
+    "name": "Compile",
+    "card_code": "21088",
+    "node_ids": [
+      "rule_abilities_resolution_independent__example_1"
+    ]
+  },
+  {
+    "name": "Corroder",
+    "card_code": "31006",
+    "node_ids": [
+      "rule_icebreaker_strength_increase_implicit__example_1",
+      "rule_icebreaker_strength_increase_outside_of_encounter__example_1"
+    ]
+  },
+  {
+    "name": "Counter Surveillance",
+    "card_code": "12023",
+    "node_ids": [
+      "rule_access_cards_without_breach"
+    ]
+  },
+  {
+    "name": "Crisium Grid",
+    "card_code": "31079",
+    "node_ids": [
+      "rule_not_unsuccessful_when_reached_success_phase__example_1"
+    ]
+  },
+  {
+    "name": "Crowdfunding",
+    "card_code": "28002",
+    "node_ids": [
+      "rule_empty_requires_loading__example_1"
+    ]
+  },
+  {
+    "name": "Cultivate",
+    "card_code": "36043",
+    "node_ids": [
+      "rule_arrange_and_other_effect__example_1"
+    ]
+  },
+  {
+    "name": "Cupellation",
+    "card_code": "34080",
+    "node_ids": [
+      "rule_prohibition_removed__example_1"
+    ]
+  },
+  {
+    "name": "Cyberfeeder",
+    "card_code": "20006",
+    "node_ids": [
+      "rule_spend_credits__example_1",
+      "rule_hosted_counter_used_condition__example_1"
+    ]
+  },
+  {
+    "name": "Daily Business Show",
+    "card_code": "31063",
+    "node_ids": [
+      "rule_facedown_set_aside_distinct_groups__example_1",
+      "rule_drawn_card_swapped__example_1"
+    ]
+  },
+  {
+    "name": "Data Raven",
+    "card_code": "20113",
+    "node_ids": [
+      "rule_choice_instruction__example_1",
+      "rule_mandatory_choice_effects_can_be_modified__example_1"
+    ]
+  },
+  {
+    "name": "Datasucker",
+    "card_code": "20009",
+    "node_ids": [
+      "rule_search_instruction__example_1"
+    ]
+  },
+  {
+    "name": "Decoy",
+    "card_code": "01032",
+    "node_ids": [
+      "rule_chain_reaction__example_1",
+      "rule_trigger_conditional_ability_interrupt__example_2",
+      "rule_trigger_paid_ability_interrupt__example_1",
+      "rule_mandatory_choice_effects_can_be_modified__example_1"
+    ]
+  },
+  {
+    "name": "Dedicated Neural Net",
+    "card_code": "10088",
+    "node_ids": [
+      "rule_corp_choosing_candidates_breaching_hq"
+    ]
+  },
+  {
+    "name": "Dedicated Response Team",
+    "card_code": "20081",
+    "node_ids": [
+      "rule_run_ends_condition__example_2"
+    ]
+  },
+  {
+    "name": "Detente",
+    "card_code": "35018",
+    "node_ids": [
+      "rule_trash_hosted_objects_when_host_trashed__example_1",
+      "rule_end_encounter_outside_run__example_1"
+    ]
+  },
+  {
+    "name": "Devil Charm",
+    "card_code": "26068",
+    "node_ids": [
+      "rule_ice_strength_modification_duration__example_1"
+    ]
+  },
+  {
+    "name": "Dhegdheer",
+    "card_code": "13020",
+    "node_ids": [
+      "rule_host_transitivity__example_1",
+      "rule_install_one_at_a_time__example_1"
+    ]
+  },
+  {
+    "name": "Diesel",
+    "card_code": "31027",
+    "node_ids": [
+      "rule_influence_by_copy__example_1"
+    ]
+  },
+  {
+    "name": "Direct Access",
+    "card_code": "26028",
+    "node_ids": [
+      "rule_is_resolving__example_2"
+    ]
+  },
+  {
+    "name": "District 99",
+    "card_code": "22007",
+    "node_ids": [
+      "rule_cancelled_movement__example_1"
+    ]
+  },
+  {
+    "name": "DJ Fenris",
+    "card_code": "22025",
+    "node_ids": [
+      "rule_additional_identity"
+    ]
+  },
+  {
+    "name": "Djinn",
+    "card_code": "01009",
+    "node_ids": [
+      "rule_search_instruction__example_1"
+    ]
+  },
+  {
+    "name": "DNA Tracker",
+    "card_code": "11053",
+    "node_ids": [
+      "rule_lose_credits__example_1"
+    ]
+  },
+  {
+    "name": "Docklands Pass",
+    "card_code": "30013",
+    "node_ids": [
+      "rule_prohibition_removed__example_1",
+      "rule_prohibiting_access_to_1__example_1"
+    ]
+  },
+  {
+    "name": "Doppelgänger",
+    "card_code": "20025",
+    "node_ids": [
+      "rule_persistent_applicability__example_1"
+    ]
+  },
+  {
+    "name": "Drafter",
+    "card_code": "26101",
+    "node_ids": [
+      "rule_ice_change_outward__example_1",
+      "step_checkpoint_card_entering_root_during_breach__example_1"
+    ]
+  },
+  {
+    "name": "Drug Dealer",
+    "card_code": "08083",
+    "node_ids": [
+      "rule_conditional_ability_lose_pending_when_ability_becomes_inactive__example_1"
+    ]
+  },
+  {
+    "name": "Dyson Mem Chip",
+    "card_code": "20057",
+    "node_ids": [
+      "rule_condition_requirements_part_of_effect__example_1"
+    ]
+  },
+  {
+    "name": "Earth Station: SEA Headquarters",
+    "card_code": "26120",
+    "node_ids": [
+      "rule_limit_remote_servers__example_1"
+    ]
+  },
+  {
+    "name": "Egret",
+    "card_code": "31032",
+    "node_ids": [
+      "rule_host_on_ability__example_1"
+    ]
+  },
+  {
+    "name": "Eli 1.0",
+    "card_code": "31043",
+    "node_ids": [
+      "rule_costs_with_click__example_1"
+    ]
+  },
+  {
+    "name": "Embedded Reporting",
+    "card_code": "35059",
+    "node_ids": [
+      "rule_dividends__example_1"
+    ]
+  },
+  {
+    "name": "Enhanced Login Protocol",
+    "card_code": "06022",
+    "node_ids": [
+      "rule_abilities_during_a_run__example_1"
+    ]
+  },
+  {
+    "name": "Enigma",
+    "card_code": "31081",
+    "node_ids": [
+      "rule_drawn_card_swapped__example_1"
+    ]
+  },
+  {
+    "name": "Esâ Afontov: Eco-Insurrectionist",
+    "card_code": "33001",
+    "node_ids": [
+      "rule_sabotage_all_remaining_cards__example_1"
+    ]
+  },
+  {
+    "name": "Exchange of Information",
+    "card_code": "10092",
+    "node_ids": [
+      "rule_trash_hosted_objects_when_host_trashed__example_3"
+    ]
+  },
+  {
+    "name": "Exile",
+    "card_code": "03030",
+    "node_ids": [
+      "rule_set_aside_zone_passthrough__example_1"
+    ]
+  },
+  {
+    "name": "Fairchild 2.0",
+    "card_code": "11031",
+    "node_ids": [
+      "rule_mandatory_choice__example_1"
+    ]
+  },
+  {
+    "name": "Fall Guy",
+    "card_code": "20035",
+    "node_ids": [
+      "rule_trash_symbol__example_1"
+    ]
+  },
+  {
+    "name": "False Echo",
+    "card_code": "04007",
+    "node_ids": [
+      "rule_must_cannot_force_additional_cost__example_1"
+    ]
+  },
+  {
+    "name": "Fast Break",
+    "card_code": "22031",
+    "node_ids": [
+      "rule_reveal_from_hidden__example_1"
+    ]
+  },
+  {
+    "name": "Feedback Filter",
+    "card_code": "03037",
+    "node_ids": [
+      "rule_ordinal_would__example_1"
+    ]
+  },
+  {
+    "name": "Femme Fatale",
+    "card_code": "31022",
+    "node_ids": [
+      "rule_object_move_known_location__example_1",
+      "rule_bypass_during_encounter__example_1",
+      "rule_reaction_window_closing_timing_structure__example_1",
+      "rule_lingering_effect_maintaining_choice_duration_other_cases__example_1",
+      "rule_cannot_hide_open_info__example_1"
+    ]
+  },
+  {
+    "name": "Fencer Fueno",
+    "card_code": "26007",
+    "node_ids": [
+      "rule_bid_possible__example_1"
+    ]
+  },
+  {
+    "name": "Fermenter",
+    "card_code": "30007",
+    "node_ids": [
+      "rule_trash_ability_keeps_track_of_hosted_objects__example_1"
+    ]
+  },
+  {
+    "name": "Flagship",
+    "card_code": "36064",
+    "node_ids": [
+      "rule_prohibition_removed__example_1",
+      "rule_prohibiting_access_to_1__example_1"
+    ]
+  },
+  {
+    "name": "Flare",
+    "card_code": "20114",
+    "node_ids": [
+      "rule_static_modification_keep_restrictions__example_1",
+      "rule_modified_values_retain_properties__example_1"
+    ]
+  },
+  {
+    "name": "Forked",
+    "card_code": "07037",
+    "node_ids": [
+      "rule_bypass_during_encounter__example_1",
+      "rule_vacuous_truth__example_1"
+    ]
+  },
+  {
+    "name": "Formicary",
+    "card_code": "22054",
+    "node_ids": [
+      "rule_run_ends_other_priority_windows__example_1"
+    ]
+  },
+  {
+    "name": "Freedom Khumalo: Crypto-Anarchist",
+    "card_code": "21081",
+    "node_ids": [
+      "rule_cost_zero__example_1"
+    ]
+  },
+  {
+    "name": "Funhouse",
+    "card_code": "30054",
+    "node_ids": [
+      "rule_cost_interrupt_static_mandatory__example_2"
+    ]
+  },
+  {
+    "name": "Gagarin Deep Space: Expanding the Horizon",
+    "card_code": "07002",
+    "node_ids": [
+      "rule_candidates_already_accessed__example_2"
+    ]
+  },
+  {
+    "name": "GameNET",
+    "card_code": "26113",
+    "node_ids": [
+      "rule_cost_quantities__example_1"
+    ]
+  },
+  {
+    "name": "Gang Sign",
+    "card_code": "08067",
+    "node_ids": [
+      "rule_ice_strength_modification_duration__example_1"
+    ]
+  },
+  {
+    "name": "Ganked!",
+    "card_code": "26119",
+    "node_ids": [
+      "rule_end_encounter_outside_run__example_1",
+      "rule_no_position_after_approach_server__example_1",
+      "step_checkpoint_card_entering_root_during_breach__example_1"
+    ]
+  },
+  {
+    "name": "Gbahali",
+    "card_code": "21047",
+    "node_ids": [
+      "rule_subroutine_origin_static_after__example_1"
+    ]
+  },
+  {
+    "name": "Gebrselassie",
+    "card_code": "21087",
+    "node_ids": [
+      "rule_static_no_lingering_effects__example_1",
+      "rule_replacement_on_static_ability_must_remain_active__example_1",
+      "rule_modify_duration_of_lingering_effect__example_1"
+    ]
+  },
+  {
+    "name": "Gemini",
+    "card_code": "06084",
+    "node_ids": [
+      "rule_trace_conditional_abilities__example_1"
+    ]
+  },
+  {
+    "name": "Georgia Emelyov",
+    "card_code": "11014",
+    "node_ids": [
+      "rule_run_ends_condition__example_1"
+    ]
+  },
+  {
+    "name": "Ghost Runner",
+    "card_code": "06040",
+    "node_ids": [
+      "rule_spend_credits__example_2",
+      "rule_spend_credits__example_3"
+    ]
+  },
+  {
+    "name": "Glenn Station",
+    "card_code": "07005",
+    "node_ids": [
+      "rule_host_via_ability__example_1"
+    ]
+  },
+  {
+    "name": "Gordian Blade",
+    "card_code": "31033",
+    "node_ids": [
+      "rule_icebreaker_strength_increase_specified__example_1"
+    ]
+  },
+  {
+    "name": "Grappling Hook",
+    "card_code": "05045",
+    "node_ids": [
+      "rule_break_all_but_x_subroutines_targets",
+      "rule_break_all_but_x_subroutines_targets__example_1"
+    ]
+  },
+  {
+    "name": "Guru Davinder",
+    "card_code": "10084",
+    "node_ids": [
+      "rule_cost_interrupt_static_mandatory__example_1",
+      "rule_prevent_as_trigger_condition",
+      "rule_prevent_as_trigger_condition__example_1"
+    ]
+  },
+  {
+    "name": "Hades Shard",
+    "card_code": "06059",
+    "node_ids": [
+      "rule_number_of_accesses__example_1"
+    ]
+  },
+  {
+    "name": "Harbinger",
+    "card_code": "09034",
+    "node_ids": [
+      "sec_replacing_movements__example_1",
+      "rule_trigger_conditional_ability_interrupt__example_1"
+    ]
+  },
+  {
+    "name": "Hedge Fund",
+    "card_code": "30075",
+    "node_ids": [
+      "rule_defferent_actions__example_1",
+      "rule_playing_one_at_a_time__example_1"
+    ]
+  },
+  {
+    "name": "Heimdall 1.0",
+    "card_code": "20066",
+    "node_ids": [
+      "rule_break_all_but_x_subroutines_targets__example_1"
+    ]
+  },
+  {
+    "name": "Heinlein Grid",
+    "card_code": "06023",
+    "node_ids": [
+      "rule_abilities_during_a_run__example_1"
+    ]
+  },
+  {
+    "name": "Hive",
+    "card_code": "20087",
+    "node_ids": [
+      "rule_subroutines_static_ability_remove_subroutines"
+    ]
+  },
+  {
+    "name": "Hostile Infrastructure",
+    "card_code": "06083",
+    "node_ids": [
+      "rule_trigger_condition_effect_by_player__example_1",
+      "rule_trigger_condition_effect_by_player__example_2",
+      "rule_active_exception_conditional_move_to_inactive_zone__example_1",
+      "rule_condition_met_multiple_times__example_1",
+      "rule_act_on_multiple_cards__example_1"
+    ]
+  },
+  {
+    "name": "Hostile Takeover",
+    "card_code": "31071",
+    "node_ids": [
+      "rule_suffer_or_take_damage__example_1"
+    ]
+  },
+  {
+    "name": "Howler",
+    "card_code": "03016",
+    "node_ids": [
+      "rule_target_beyond_move__example_1"
+    ]
+  },
+  {
+    "name": "Hudson 1.0",
+    "card_code": "20067",
+    "node_ids": [
+      "rule_number_of_accesses__example_2"
+    ]
+  },
+  {
+    "name": "Hush",
+    "card_code": "33071",
+    "node_ids": [
+      "rule_independent_effects__example_1",
+      "rule_independent_effects__example_2",
+      "rule_values_defined_by_x__example_2"
+    ]
+  },
+  {
+    "name": "I've Had Worse",
+    "card_code": "07032",
+    "node_ids": [
+      "rule_additonal_cost_simultaenous__example_1",
+      "rule_active_exception_catchall__example_1",
+      "rule_multiple_damage_taken_simultaneously__example_1"
+    ]
+  },
+  {
+    "name": "Immolation Script",
+    "card_code": "08041",
+    "node_ids": [
+      "rule_number_of_accesses__example_2",
+      "rule_candidates_already_accessed__example_1"
+    ]
+  },
+  {
+    "name": "Imp",
+    "card_code": "31007",
+    "node_ids": [
+      "rule_valid_search_target_install_play__example_2",
+      "rule_forced_mid_access_ability_optional__example_1",
+      "rule_must_with_choice__example_1",
+      "rule_must_without_choice__example_1"
+    ]
+  },
+  {
+    "name": "In the Groove",
+    "card_code": "26020",
+    "node_ids": [
+      "rule_delayed_conditional_ability_specified_duration__example_1"
+    ]
+  },
+  {
+    "name": "Indexing",
+    "card_code": "20039",
+    "node_ids": [
+      "rule_bluffing__example_1"
+    ]
+  },
+  {
+    "name": "Information Sifting",
+    "card_code": "10079",
+    "node_ids": [
+      "rule_access_set_of_cards"
+    ]
+  },
+  {
+    "name": "Inversificator",
+    "card_code": "12048",
+    "node_ids": [
+      "rule_run_phase_after__example_1"
+    ]
+  },
+  {
+    "name": "IP Enforcement",
+    "card_code": "35066",
+    "node_ids": [
+      "rule_trash_hosted_objects_when_host_trashed__example_2"
+    ]
+  },
+  {
+    "name": "Jailbreak",
+    "card_code": "30028",
+    "node_ids": [
+      "rule_mark_designated_condition_check__example_1"
+    ]
+  },
+  {
+    "name": "Jeeves Model Bioroids",
+    "card_code": "10067",
+    "node_ids": [
+      "rule_inherent_cost_aggregates__example_1"
+    ]
+  },
+  {
+    "name": "Jesminder Sareen",
+    "card_code": "10006",
+    "node_ids": [
+      "rule_cost_interrupt_static_mandatory__example_2"
+    ]
+  },
+  {
+    "name": "Jesminder Sareen: Girl Behind the Curtain",
+    "card_code": "10006",
+    "node_ids": [
+      "rule_checkpoint_after_timing_structure__example_1"
+    ]
+  },
+  {
+    "name": "Jinteki Biotech",
+    "card_code": "08012",
+    "node_ids": [
+      "rule_jinteki_biotech_detail"
+    ]
+  },
+  {
+    "name": "Jinteki Biotech: Life Imagined",
+    "card_code": "08012",
+    "node_ids": [
+      "rule_identity_copy"
+    ]
+  },
+  {
+    "name": "Joshua B.",
+    "card_code": "02042",
+    "node_ids": [
+      "rule_delayed_conditional_ability_relevant_once__example_1"
+    ]
+  },
+  {
+    "name": "Kitsune",
+    "card_code": "06043",
+    "node_ids": [
+      "sec_old_self_reference_rules__example_1"
+    ]
+  },
+  {
+    "name": "Lady Liberty",
+    "card_code": "22058",
+    "node_ids": [
+      "rule_asset_lady_liberty"
+    ]
+  },
+  {
+    "name": "Lancelot",
+    "card_code": "06051",
+    "node_ids": [
+      "rule_gain_subroutines_in_any_order__example_1"
+    ]
+  },
+  {
+    "name": "Lateral Growth",
+    "card_code": "10104",
+    "node_ids": [
+      "rule_defferent_actions__example_1"
+    ]
+  },
+  {
+    "name": "Leprechaun",
+    "card_code": "06019",
+    "node_ids": [
+      "rule_host_transitivity__example_1"
+    ]
+  },
+  {
+    "name": "Little Engine",
+    "card_code": "08057",
+    "node_ids": [
+      "rule_resolve_subroutines_run_ends__example_1"
+    ]
+  },
+  {
+    "name": "LLDS Energy Regulator",
+    "card_code": "06039",
+    "node_ids": [
+      "rule_cost_no_interrupt__example_1"
+    ]
+  },
+  {
+    "name": "Lockdown",
+    "card_code": "08056",
+    "node_ids": [
+      "rule_expected_effects__example_2"
+    ]
+  },
+  {
+    "name": "Logjam",
+    "card_code": "34127",
+    "node_ids": [
+      "rule_install_and_rez_reducing_total__example_1"
+    ]
+  },
+  {
+    "name": "Loki",
+    "card_code": "12069",
+    "node_ids": [
+      "rule_subroutine_origin_external_before__example_1"
+    ]
+  },
+  {
+    "name": "Loot Box",
+    "card_code": "26051",
+    "node_ids": [
+      "rule_end_encounter_outside_run__example_1"
+    ]
+  },
+  {
+    "name": "Lycan",
+    "card_code": "06089",
+    "node_ids": [
+      "rule_add_remove_subtypes__example_1"
+    ]
+  },
+  {
+    "name": "Lycian Multi-Munition",
+    "card_code": "34100",
+    "node_ids": [
+      "rule_end_run_no_run_or_encounter__example_1"
+    ]
+  },
+  {
+    "name": "Madani",
+    "card_code": "35028",
+    "node_ids": [
+      "rule_hosted_object_same_zone_as_host__example_1"
+    ]
+  },
+  {
+    "name": "Magnet",
+    "card_code": "31044",
+    "node_ids": [
+      "rule_independent_effects__example_2"
+    ]
+  },
+  {
+    "name": "Mahkota Langit Grid",
+    "card_code": "35082",
+    "node_ids": [
+      "rule_alternate_payment__example_1"
+    ]
+  },
+  {
+    "name": "Marker",
+    "card_code": "04116",
+    "node_ids": [
+      "rule_subroutine_origin_external_after__example_1"
+    ]
+  },
+  {
+    "name": "Market Research",
+    "card_code": "04095",
+    "node_ids": [
+      "rule_instructed_to_resolve_conditional_ability__example_1"
+    ]
+  },
+  {
+    "name": "Mass Install",
+    "card_code": "05051",
+    "node_ids": [
+      "rule_install_one_at_a_time__example_1"
+    ]
+  },
+  {
+    "name": "Mayfly",
+    "card_code": "30032",
+    "node_ids": [
+      "rule_abilities_resolution_independent__example_1",
+      "rule_delayed_run_ends_condition_outside_run__example_1"
+    ]
+  },
+  {
+    "name": "Merlin",
+    "card_code": "06091",
+    "node_ids": [
+      "rule_gain_subroutines_in_any_order__example_1"
+    ]
+  },
+  {
+    "name": "Metamorph",
+    "card_code": "12094",
+    "node_ids": [
+      "rule_swap_only_to_valid_location__example_1"
+    ]
+  },
+  {
+    "name": "Mimic",
+    "card_code": "31008",
+    "node_ids": [
+      "rule_hosted_counter_used_condition__example_1"
+    ]
+  },
+  {
+    "name": "MirrorMorph: Endless Iteration",
+    "card_code": "26031",
+    "node_ids": [
+      "rule_defferent_actions__example_1"
+    ]
+  },
+  {
+    "name": "Mirāju",
+    "card_code": "12071",
+    "node_ids": [
+      "rule_run_phase_after__example_1"
+    ]
+  },
+  {
+    "name": "Mother Goddess",
+    "card_code": "06010",
+    "node_ids": [
+      "rule_independent_effects__example_1"
+    ]
+  },
+  {
+    "name": "Mr. Stone",
+    "card_code": "13046",
+    "node_ids": [
+      "rule_negative_values_imminent__example_1"
+    ]
+  },
+  {
+    "name": "Mumbad Virtual Tour",
+    "card_code": "10076",
+    "node_ids": [
+      "rule_access_installed_must_trash_if_able",
+      "rule_forced_mid_access_ability_optional__example_1",
+      "rule_must_with_choice__example_1"
+    ]
+  },
+  {
+    "name": "Mushin No Shin",
+    "card_code": "05015",
+    "node_ids": [
+      "rule_placing_advancement_counter__example_1"
+    ]
+  },
+  {
+    "name": "Mutate",
+    "card_code": "06004",
+    "node_ids": [
+      "rule_create_position_mutate"
+    ]
+  },
+  {
+    "name": "Méliès U",
+    "card_code": "36036",
+    "node_ids": [
+      "rule_melies_u_detail",
+      "rule_server_back"
+    ]
+  },
+  {
+    "name": "Méliès U: Only the Brightest",
+    "card_code": "36036",
+    "node_ids": [
+      "rule_identity_copy",
+      "rule_melies_u_detail"
+    ]
+  },
+  {
+    "name": "Na'Not'K",
+    "card_code": "12088",
+    "node_ids": [
+      "rule_modify_duration_of_lingering_effect__example_1"
+    ]
+  },
+  {
+    "name": "Nanisivik Grid",
+    "card_code": "33111",
+    "node_ids": [
+      "rule_this_server__example_3",
+      "rule_install_to_invalid_destination__example_1"
+    ]
+  },
+  {
+    "name": "Nanuq",
+    "card_code": "33088",
+    "node_ids": [
+      "rule_active_exception_conditional_move_to_inactive_zone__example_2"
+    ]
+  },
+  {
+    "name": "NASX",
+    "card_code": "11118",
+    "node_ids": [
+      "rule_calculated_quantity__example_3"
+    ]
+  },
+  {
+    "name": "Near-Earth Hub",
+    "card_code": "31060",
+    "node_ids": [
+      "rule_shuffle_deck_after_search__example_1"
+    ]
+  },
+  {
+    "name": "Net-Ready Eyes",
+    "card_code": "08047",
+    "node_ids": [
+      "rule_prevent_all__example_1"
+    ]
+  },
+  {
+    "name": "Neutralize All Threats",
+    "card_code": "09043",
+    "node_ids": [
+      "rule_access_reveal_trash_if_able",
+      "rule_must_without_choice__example_1"
+    ]
+  },
+  {
+    "name": "Next Big Thing",
+    "card_code": "35060",
+    "node_ids": [
+      "rule_trash_hosted_objects_when_host_trashed__example_2",
+      "rule_trash_hosted_objects_when_host_trashed__example_3"
+    ]
+  },
+  {
+    "name": "Nico Campaign",
+    "card_code": "30037",
+    "node_ids": [
+      "rule_condition_only_met_while_active__example_1"
+    ]
+  },
+  {
+    "name": "Nisei MK II",
+    "card_code": "31052",
+    "node_ids": [
+      "rule_run_ends_close_paws__example_1"
+    ]
+  },
+  {
+    "name": "No One Home",
+    "card_code": "21045",
+    "node_ids": [
+      "rule_trigger_conditional_ability_interrupt__example_2"
+    ]
+  },
+  {
+    "name": "Oaktown Renovation",
+    "card_code": "31072",
+    "node_ids": [
+      "rule_placing_advancement_counter__example_1"
+    ]
+  },
+  {
+    "name": "Ob Superheavy Logistics",
+    "card_code": "33057",
+    "node_ids": [
+      "rule_additional_cost_checkpoint__example_1",
+      "rule_reveal_for_ability_limitations__example_1",
+      "rule_condition_only_met_while_active__example_1"
+    ]
+  },
+  {
+    "name": "Obokata Protocol",
+    "card_code": "12070",
+    "node_ids": [
+      "rule_cost_interrupt_static_mandatory__example_1",
+      "rule_decline_additional_cost__example_1",
+      "rule_additonal_cost_simultaenous__example_1"
+    ]
+  },
+  {
+    "name": "Off the Grid",
+    "card_code": "04038",
+    "node_ids": [
+      "rule_cannot_run_abilities__example_1"
+    ]
+  },
+  {
+    "name": "Off-Campus Apartment",
+    "card_code": "08022",
+    "node_ids": [
+      "rule_host_via_install__example_1"
+    ]
+  },
+  {
+    "name": "Offworld Office",
+    "card_code": "30067",
+    "node_ids": [
+      "rule_visibility_after_access__example_1"
+    ]
+  },
+  {
+    "name": "On the Lam",
+    "card_code": "11082",
+    "node_ids": [
+      "rule_event_condition"
+    ]
+  },
+  {
+    "name": "Oppo Research",
+    "card_code": "34055",
+    "node_ids": [
+      "rule_play_ability__example_1"
+    ]
+  },
+  {
+    "name": "Order of Sol",
+    "card_code": "06058",
+    "node_ids": [
+      "rule_additonal_cost_simultaenous__example_1"
+    ]
+  },
+  {
+    "name": "Otoroshi",
+    "card_code": "22038",
+    "node_ids": [
+      "rule_prohibiting_access_to_1__example_1"
+    ]
+  },
+  {
+    "name": "Palisade",
+    "card_code": "30072",
+    "node_ids": [
+      "rule_visibility_after_access__example_1",
+      "rule_swap_installed_cards_preserves_hosting__example_1"
+    ]
+  },
+  {
+    "name": "Panic Button",
+    "card_code": "04072",
+    "node_ids": [
+      "rule_subroutine_origin_static_after__example_1"
+    ]
+  },
+  {
+    "name": "Parasite",
+    "card_code": "01012",
+    "node_ids": [
+      "rule_conditional_ability_static_condition_no_effect__example_1"
+    ]
+  },
+  {
+    "name": "Patchwork",
+    "card_code": "22004",
+    "node_ids": [
+      "rule_valid_search_target_install_play__example_2",
+      "rule_modifiable_value_cost__example_1"
+    ]
+  },
+  {
+    "name": "Pelangi",
+    "card_code": "26025",
+    "node_ids": [
+      "rule_lingering_effect_maintaining_choice_default_duration__example_1"
+    ]
+  },
+  {
+    "name": "Persephone",
+    "card_code": "12042",
+    "node_ids": [
+      "rule_replace_subroutine_resolution__example_1"
+    ]
+  },
+  {
+    "name": "Personality Profiles",
+    "card_code": "10066",
+    "node_ids": [
+      "rule_search_instruction__example_1"
+    ]
+  },
+  {
+    "name": "Pharos",
+    "card_code": "30063",
+    "node_ids": [
+      "rule_valid_search_target_install_play__example_3"
+    ]
+  },
+  {
+    "name": "Plascrete Carapace",
+    "card_code": "02009",
+    "node_ids": [
+      "rule_prevent_as_trigger_condition__example_1"
+    ]
+  },
+  {
+    "name": "Poétrï Luxury Brands",
+    "card_code": "35036",
+    "node_ids": [
+      "rule_visibility_after_access__example_1"
+    ]
+  },
+  {
+    "name": "Precognition",
+    "card_code": "01073",
+    "node_ids": [
+      "rule_object_move_location__example_2"
+    ]
+  },
+  {
+    "name": "Predictive Algorithm",
+    "card_code": "08017",
+    "node_ids": [
+      "rule_additonal_cost_simultaenous__example_1"
+    ]
+  },
+  {
+    "name": "Priority Construction",
+    "card_code": "12118",
+    "node_ids": [
+      "rule_identify_object_after_move__example_1"
+    ]
+  },
+  {
+    "name": "Process Automation",
+    "card_code": "13023",
+    "node_ids": [
+      "rule_expected_effects__example_1",
+      "rule_expected_effects__example_2"
+    ]
+  },
+  {
+    "name": "Professional Contacts",
+    "card_code": "31036",
+    "node_ids": [
+      "rule_costs_with_click__example_1"
+    ]
+  },
+  {
+    "name": "Project Ingatan",
+    "card_code": "35038",
+    "node_ids": [
+      "rule_dividends_timing__example_1"
+    ]
+  },
+  {
+    "name": "Project Vacheron",
+    "card_code": "26097",
+    "node_ids": [
+      "rule_replacement_effect_only_applies_once_per_effect__example_1"
+    ]
+  },
+  {
+    "name": "Project Wotan",
+    "card_code": "03006",
+    "node_ids": [
+      "rule_paid_ability_refers_to_approached_ice__example_1"
+    ]
+  },
+  {
+    "name": "Project Yagi-Uda",
+    "card_code": "26040",
+    "node_ids": [
+      "rule_ice_change_during_movement__example_1",
+      "rule_ice_change_during_movement__example_2"
+    ]
+  },
+  {
+    "name": "Prāna Condenser",
+    "card_code": "26107",
+    "node_ids": [
+      "rule_calculated_quantity__example_2"
+    ]
+  },
+  {
+    "name": "Psychographics",
+    "card_code": "31068",
+    "node_ids": [
+      "rule_cost_x__example_1"
+    ]
+  },
+  {
+    "name": "Puffer",
+    "card_code": "21004",
+    "node_ids": [
+      "rule_static_no_lingering_effects__example_1"
+    ]
+  },
+  {
+    "name": "Punitive Counterstrike",
+    "card_code": "31078",
+    "node_ids": [
+      "rule_suffer_or_take_damage__example_1"
+    ]
+  },
+  {
+    "name": "Quantum Predictive Model",
+    "card_code": "09007",
+    "node_ids": [
+      "rule_condition_requirements_part_of_condition__example_1"
+    ]
+  },
+  {
+    "name": "Raman Rai",
+    "card_code": "10068",
+    "node_ids": [
+      "rule_drawn_card_swapped__example_1"
+    ]
+  },
+  {
+    "name": "Raymond Flint",
+    "card_code": "04049",
+    "node_ids": [
+      "rule_consecutive_breaches__example_1"
+    ]
+  },
+  {
+    "name": "realloc()",
+    "card_code": "36033",
+    "node_ids": [
+      "rule_calculated_quantity__example_3"
+    ]
+  },
+  {
+    "name": "Reaper Function",
+    "card_code": "33107",
+    "node_ids": [
+      "rule_condition_only_met_while_active__example_1"
+    ]
+  },
+  {
+    "name": "Rebirth",
+    "card_code": "10083",
+    "node_ids": [
+      "rule_additional_identity"
+    ]
+  },
+  {
+    "name": "Reconstruction Contract",
+    "card_code": "21020",
+    "node_ids": [
+      "rule_trash_ability_keeps_track_of_hosted_objects__example_3"
+    ]
+  },
+  {
+    "name": "Rejig",
+    "card_code": "26029",
+    "node_ids": [
+      "rule_trash_hosted_objects_when_host_trashed__example_1"
+    ]
+  },
+  {
+    "name": "Ritual",
+    "card_code": "35026",
+    "node_ids": [
+      "rule_calculated_quantity__example_1"
+    ]
+  },
+  {
+    "name": "Rook",
+    "card_code": "04003",
+    "node_ids": [
+      "rule_count_positions__example_1"
+    ]
+  },
+  {
+    "name": "Rototurret",
+    "card_code": "31046",
+    "node_ids": [
+      "rule_controller_choices__example_1",
+      "rule_cancelled_movement__example_1"
+    ]
+  },
+  {
+    "name": "RSVP",
+    "card_code": "04077",
+    "node_ids": [
+      "rule_bid_possible__example_2"
+    ]
+  },
+  {
+    "name": "Sacrificial Construct",
+    "card_code": "20054",
+    "node_ids": [
+      "rule_cancelled_movement__example_1",
+      "rule_trigger_conditional_ability_interrupt__example_1"
+    ]
+  },
+  {
+    "name": "SanSan City Grid",
+    "card_code": "31069",
+    "node_ids": [
+      "rule_cost_restrictions__example_2",
+      "rule_dividends_timing__example_1"
+    ]
+  },
+  {
+    "name": "Satellite Uplink",
+    "card_code": "02023",
+    "node_ids": [
+      "rule_condition_met_multiple_times__example_2"
+    ]
+  },
+  {
+    "name": "Scapegoat",
+    "card_code": "36054",
+    "node_ids": [
+      "rule_hosted_counters_not_on_player__example_3"
+    ]
+  },
+  {
+    "name": "Scatter Field",
+    "card_code": "35042",
+    "node_ids": [
+      "rule_visibility_after_access__example_1"
+    ]
+  },
+  {
+    "name": "Scrubber",
+    "card_code": "31011",
+    "node_ids": [
+      "rule_must_with_choice__example_1"
+    ]
+  },
+  {
+    "name": "Security Nexus",
+    "card_code": "09047",
+    "node_ids": [
+      "rule_run_ends_close_reaction_window__example_1"
+    ]
+  },
+  {
+    "name": "Security Testing",
+    "card_code": "31024",
+    "node_ids": [
+      "rule_replacement_effect_must_have_something_to_replace__example_1",
+      "rule_replacement_effect_must_have_something_to_replace__example_2",
+      "rule_lingering_effect_maintaining_choice_turn_begins_duration__example_1"
+    ]
+  },
+  {
+    "name": "Seidr Laboratories",
+    "card_code": "13028",
+    "node_ids": [
+      "rule_rnd_topmost_eligibile_candidate__example_2"
+    ]
+  },
+  {
+    "name": "Self-modifying Code",
+    "card_code": "26090",
+    "node_ids": [
+      "rule_run_ends_close_paws__example_1",
+      "rule_valid_search_target_install_play__example_2"
+    ]
+  },
+  {
+    "name": "Service Outage",
+    "card_code": "11057",
+    "node_ids": [
+      "rule_must_cannot_force_additional_cost__example_1"
+    ]
+  },
+  {
+    "name": "Shipment from MirrorMorph",
+    "card_code": "20074",
+    "node_ids": [
+      "rule_split_up_instruction__example_1"
+    ]
+  },
+  {
+    "name": "Shiro",
+    "card_code": "05019",
+    "node_ids": [
+      "rule_forced_encounter__example_1"
+    ]
+  },
+  {
+    "name": "Showing Off",
+    "card_code": "07034",
+    "node_ids": [
+      "rule_rnd_access_from_bottom",
+      "rule_replacement_effect_must_have_something_to_replace__example_2"
+    ]
+  },
+  {
+    "name": "Singularity",
+    "card_code": "20004",
+    "node_ids": [
+      "rule_active_exception_conditional_move_to_inactive_zone__example_1",
+      "rule_condition_met_multiple_times__example_1",
+      "rule_act_on_multiple_cards__example_1"
+    ]
+  },
+  {
+    "name": "Skorpios Defense Systems",
+    "card_code": "13041",
+    "node_ids": [
+      "rule_active_exception_catchall__example_1"
+    ]
+  },
+  {
+    "name": "Slipstream",
+    "card_code": "21085",
+    "node_ids": [
+      "rule_count_positions__example_2"
+    ]
+  },
+  {
+    "name": "Snare!",
+    "card_code": "31054",
+    "node_ids": [
+      "rule_chain_reaction__example_1",
+      "rule_bluffing__example_1",
+      "rule_multiple_damage_selected_sequentially__example_1"
+    ]
+  },
+  {
+    "name": "Sneakdoor Beta",
+    "card_code": "31023",
+    "node_ids": [
+      "rule_change_attacked_server_directly__example_1"
+    ]
+  },
+  {
+    "name": "Spinal Modem",
+    "card_code": "20007",
+    "node_ids": [
+      "rule_recurring_credits_do_not_accumulate__example_1"
+    ]
+  },
+  {
+    "name": "Stick and Poke",
+    "card_code": "36008",
+    "node_ids": [
+      "rule_subroutine_origin_external_before__example_1"
+    ]
+  },
+  {
+    "name": "Stimhack",
+    "card_code": "20005",
+    "node_ids": [
+      "rule_action_timing_structure_completion__example_1"
+    ]
+  },
+  {
+    "name": "Street Magic",
+    "card_code": "10003",
+    "node_ids": [
+      "rule_resolve_subroutines_runner_choice"
+    ]
+  },
+  {
+    "name": "Street Peddler",
+    "card_code": "08062",
+    "node_ids": [
+      "rule_trash_ability_keeps_track_of_hosted_objects__example_2"
+    ]
+  },
+  {
+    "name": "Strongbox",
+    "card_code": "20076",
+    "node_ids": [
+      "rule_rnd_topmost_eligibile_candidate__example_2"
+    ]
+  },
+  {
+    "name": "Sub Boost",
+    "card_code": "07025",
+    "node_ids": [
+      "rule_gain_subroutines_in_any_order__example_1"
+    ]
+  },
+  {
+    "name": "Subcontract",
+    "card_code": "10113",
+    "node_ids": [
+      "rule_playing_one_at_a_time__example_1"
+    ]
+  },
+  {
+    "name": "Superdeep Borehole",
+    "card_code": "33123",
+    "node_ids": [
+      "rule_hosted_counters_not_on_player__example_2",
+      "rule_hosted_counters_not_on_player__example_3"
+    ]
+  },
+  {
+    "name": "Surveyor",
+    "card_code": "21118",
+    "node_ids": [
+      "rule_values_defined_by_x__example_1",
+      "rule_values_defined_by_x__example_2"
+    ]
+  },
+  {
+    "name": "T400 Memory Diamond",
+    "card_code": "30031",
+    "node_ids": [
+      "rule_memory_limit__example_1"
+    ]
+  },
+  {
+    "name": "Targeted Marketing",
+    "card_code": "06026",
+    "node_ids": [
+      "step_checkpoint_duration_abilities__example_2"
+    ]
+  },
+  {
+    "name": "Tatu-Bola",
+    "card_code": "34044",
+    "node_ids": [
+      "rule_swap_become_installed__example_1"
+    ]
+  },
+  {
+    "name": "Tech Startup",
+    "card_code": "08020",
+    "node_ids": [
+      "rule_shuffle_deck_after_search__example_1"
+    ]
+  },
+  {
+    "name": "Test Run",
+    "card_code": "31028",
+    "node_ids": [
+      "rule_playing_lingering_effects__example_1",
+      "rule_active_exception_conditional_move_to_inactive_zone__example_2"
+    ]
+  },
+  {
+    "name": "The Catalyst",
+    "card_code": "30076",
+    "node_ids": [
+      "rule_gateway_identities"
+    ]
+  },
+  {
+    "name": "The Class Act",
+    "card_code": "26018",
+    "node_ids": [
+      "rule_would_relevant__example_1",
+      "rule_calculated_quantity__example_1"
+    ]
+  },
+  {
+    "name": "The Cleaners",
+    "card_code": "20080",
+    "node_ids": [
+      "rule_static_modification_keep_restrictions__example_1",
+      "rule_negative_values_imminent__example_1",
+      "rule_prevent_all__example_1",
+      "rule_modified_values_retain_properties__example_1",
+      "rule_prevent_as_trigger_condition__example_1",
+      "rule_suffer_or_take_damage__example_1"
+    ]
+  },
+  {
+    "name": "The Foundry: Refining the Process",
+    "card_code": "06021",
+    "node_ids": [
+      "rule_object_move_location__example_1"
+    ]
+  },
+  {
+    "name": "The Future Perfect",
+    "card_code": "05007",
+    "node_ids": [
+      "rule_spend_credits__example_2"
+    ]
+  },
+  {
+    "name": "The Maker's Eye",
+    "card_code": "31029",
+    "node_ids": [
+      "rule_rnd_topmost_eligibile_candidate__example_1"
+    ]
+  },
+  {
+    "name": "The Noble Path",
+    "card_code": "10077",
+    "node_ids": [
+      "rule_run_ends_condition__example_1",
+      "rule_run_ends_condition__example_2"
+    ]
+  },
+  {
+    "name": "The Supplier",
+    "card_code": "06056",
+    "node_ids": [
+      "rule_condition_requirements_part_of_effect__example_1"
+    ]
+  },
+  {
+    "name": "The Syndicate",
+    "card_code": "30077",
+    "node_ids": [
+      "rule_gateway_identities"
+    ]
+  },
+  {
+    "name": "The Twins",
+    "card_code": "07024",
+    "node_ids": [
+      "rule_forced_encounter_during_run__example_1"
+    ]
+  },
+  {
+    "name": "Thimblerig",
+    "card_code": "22039",
+    "node_ids": [
+      "rule_object_move_known_location__example_1",
+      "rule_swap_installed_cards_preserves_hosting__example_1"
+    ]
+  },
+  {
+    "name": "Thunder Art Gallery",
+    "card_code": "22013",
+    "node_ids": [
+      "rule_trigger_conditional_ability_interrupt__example_2",
+      "rule_trigger_paid_ability_interrupt__example_1"
+    ]
+  },
+  {
+    "name": "Tinkering",
+    "card_code": "20044",
+    "node_ids": [
+      "rule_add_remove_subtypes__example_1",
+      "rule_choose_instruction__example_1"
+    ]
+  },
+  {
+    "name": "Titanium Ribs",
+    "card_code": "08045",
+    "node_ids": [
+      "rule_modify_ability_with_choice__example_1"
+    ]
+  },
+  {
+    "name": "Tithe",
+    "card_code": "30073",
+    "node_ids": [
+      "rule_subroutine_origin_external_before__example_1"
+    ]
+  },
+  {
+    "name": "Tithonium",
+    "card_code": "12098",
+    "node_ids": [
+      "step_checkpoint_card_restrictions__example_1"
+    ]
+  },
+  {
+    "name": "TL;DR",
+    "card_code": "09017",
+    "node_ids": [
+      "rule_subroutines_duplicated"
+    ]
+  },
+  {
+    "name": "Tollbooth",
+    "card_code": "31066",
+    "node_ids": [
+      "rule_spend_credits__example_3",
+      "rule_run_ends_close_reaction_window__example_1",
+      "rule_drawn_card_swapped__example_1",
+      "rule_reaction_window_closing_timing_structure__example_1"
+    ]
+  },
+  {
+    "name": "Top Hat",
+    "card_code": "11067",
+    "node_ids": [
+      "rule_target__example_1"
+    ]
+  },
+  {
+    "name": "Tori Hanzō",
+    "card_code": "05022",
+    "node_ids": [
+      "rule_ordinal_would__example_1",
+      "rule_replace_imminent_effects__example_1"
+    ]
+  },
+  {
+    "name": "Tranquility Home Grid",
+    "card_code": "26105",
+    "node_ids": [
+      "rule_condition_only_met_while_active__example_2"
+    ]
+  },
+  {
+    "name": "Trick of Light",
+    "card_code": "31058",
+    "node_ids": [
+      "rule_target__example_3"
+    ]
+  },
+  {
+    "name": "Troll",
+    "card_code": "06108",
+    "node_ids": [
+      "rule_bypass_during_encounter__example_1",
+      "rule_vacuous_truth__example_1"
+    ]
+  },
+  {
+    "name": "Trust Operation",
+    "card_code": "33065",
+    "node_ids": [
+      "rule_reveal_for_install_and_rez__example_1"
+    ]
+  },
+  {
+    "name": "Tsakhia \"Bankhar\" Gantulga",
+    "card_code": "33074",
+    "node_ids": [
+      "rule_replace_subroutine_resolution",
+      "rule_replace_subroutine_resolution__example_1"
+    ]
+  },
+  {
+    "name": "Tucana",
+    "card_code": "34064",
+    "node_ids": [
+      "rule_install_and_rez_reducing_total__example_1",
+      "rule_valid_search_target_install_play__example_3"
+    ]
+  },
+  {
+    "name": "Underworld Contact",
+    "card_code": "20060",
+    "node_ids": [
+      "rule_condition_requirements_part_of_effect__example_1"
+    ]
+  },
+  {
+    "name": "Unleash",
+    "card_code": "36044",
+    "node_ids": [
+      "rule_end_run_no_run_or_encounter__example_1"
+    ]
+  },
+  {
+    "name": "Urtica Cipher",
+    "card_code": "30045",
+    "node_ids": [
+      "rule_calculated_quantity__example_2"
+    ]
+  },
+  {
+    "name": "Utopia Shard",
+    "card_code": "06100",
+    "node_ids": [
+      "rule_subroutine_origin_static_after__example_2"
+    ]
+  },
+  {
+    "name": "Vaporframe Fabricator",
+    "card_code": "26100",
+    "node_ids": [
+      "rule_no_memory__example_1",
+      "rule_object_turn_faceup_facedown__example_1"
+    ]
+  },
+  {
+    "name": "Virtuoso",
+    "card_code": "33015",
+    "node_ids": [
+      "rule_mark_designated_condition_check__example_1"
+    ]
+  },
+  {
+    "name": "Wall of Static",
+    "card_code": "20131",
+    "node_ids": [
+      "rule_run_ends_condition__example_1"
+    ]
+  },
+  {
+    "name": "Warden Fatuma",
+    "card_code": "21093",
+    "node_ids": [
+      "rule_subroutine_origin_external_before__example_1",
+      "rule_independent_effects__example_1"
+    ]
+  },
+  {
+    "name": "Warroid Tracker",
+    "card_code": "12068",
+    "node_ids": [
+      "rule_this_server__example_1",
+      "rule_act_on_multiple_cards__example_1"
+    ]
+  },
+  {
+    "name": "Wasteland",
+    "card_code": "09036",
+    "node_ids": [
+      "sec_replacing_movements__example_1"
+    ]
+  },
+  {
+    "name": "Wendigo",
+    "card_code": "06047",
+    "node_ids": [
+      "rule_forced_mid_access_ability_optional__example_1"
+    ]
+  },
+  {
+    "name": "Weyland Consortium: Built to Last",
+    "card_code": "30059",
+    "node_ids": [
+      "rule_instruction_requirements_past_state__example_1"
+    ]
+  },
+  {
+    "name": "Whitespace",
+    "card_code": "30074",
+    "node_ids": [
+      "rule_hosted_counters_not_on_player__example_1"
+    ]
+  },
+  {
+    "name": "Wormhole",
+    "card_code": "07013",
+    "node_ids": [
+      "rule_mandatory_infinite_loop__example_1"
+    ]
+  },
+  {
+    "name": "Wraparound",
+    "card_code": "31067",
+    "node_ids": [
+      "rule_drawn_card_swapped__example_1"
+    ]
+  },
+  {
+    "name": "Zahya Sadeghi",
+    "card_code": "30010",
+    "node_ids": [
+      "rule_is_resolving__example_2",
+      "rule_once_per_turn_flag__example_1"
+    ]
+  },
+  {
+    "name": "Zahya Sadeghi: Versatile Smuggler",
+    "card_code": "30010",
+    "node_ids": [
+      "rule_number_of_accesses__example_1",
+      "rule_is_resolving__example_2"
+    ]
+  },
+  {
+    "name": "ZATO City Grid",
+    "card_code": "33127",
+    "node_ids": [
+      "rule_this_server__example_2",
+      "rule_values_defined_by_x__example_1"
+    ]
+  },
+  {
+    "name": "Zer0",
+    "card_code": "21101",
+    "node_ids": [
+      "rule_cost_restrictions__example_1"
+    ]
+  }
+]

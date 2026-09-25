@@ -1,0 +1,28 @@
+{
+  "id": "rule_reaction_window_closing_timing_structure",
+  "kind": "rule",
+  "number": "9.2.8f",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_reaction_window",
+  "child_ids": [
+    "rule_reaction_window_closing_timing_structure__example_1"
+  ],
+  "text_markup": "If a reaction window opens due to a timing structure beginning, and during that reaction window the timing structure ends (e.g. by an effect moving the game to another timing point past the end of the structure), then the reaction window immediately closes. All remaining abilities associated with the window lose their pending status without being triggered, even if they are mandatory abilities.",
+  "text_plain": "If a reaction window opens due to a timing structure beginning, and during that reaction window the timing structure ends (e.g. by an effect moving the game to another timing point past the end of the structure), then the reaction window immediately closes. All remaining abilities associated with the window lose their pending status without being triggered, even if they are mandatory abilities.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_reaction_window_closing_timing_structure__example_1",
+      "text_markup": "The Runner has a {card:Femme Fatale} installed and chose a {card:Tollbooth} with its \"when installed\" ability. When the Runner encounters the {card:Tollbooth}, they pay 1[c] to bypass the {card:Tollbooth} with {card:Femme Fatale}. Because the resolution of {card:Femme Fatale}'s ability causes the encounter to end, the pending ability from {card:Tollbooth} cannot be triggered. The Runner does not pay 3[c], and the run does not end.",
+      "text_plain": "The Runner has a Femme Fatale installed and chose a Tollbooth with its \"when installed\" ability. When the Runner encounters the Tollbooth, they pay 1{c} to bypass the Tollbooth with Femme Fatale. Because the resolution of Femme Fatale's ability causes the encounter to end, the pending ability from Tollbooth cannot be triggered. The Runner does not pay 3{c}, and the run does not end.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_reaction_window_closing_timing_structure"
+}

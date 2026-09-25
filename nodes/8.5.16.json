@@ -1,0 +1,26 @@
+{
+  "id": "sec_steps_installing",
+  "kind": "subsection",
+  "number": "8.5.16",
+  "ref_type": "step",
+  "title": "Steps of Installing a Card",
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [
+    "rule_steps_installing_place",
+    "rule_steps_installing_destination",
+    "rule_steps_installing_trash_like_cards",
+    "rule_steps_installing_pay_install_cost",
+    "rule_steps_installing_become_installed",
+    "rule_steps_installing_installed_condition"
+  ],
+  "text_markup": "Steps of Installing a Card",
+  "text_plain": "Steps of Installing a Card",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": true,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_steps_installing"
+}

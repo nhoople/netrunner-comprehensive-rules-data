@@ -1,0 +1,26 @@
+{
+  "id": "rule_bypass",
+  "kind": "rule",
+  "number": "6.5.8a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_bypass",
+  "child_ids": [],
+  "text_markup": "When an effect allows the Runner to {term:bypass} a piece of ice, the Encounter Ice Phase is aborted and the Runner immediately proceeds to pass that ice.",
+  "text_plain": "When an effect allows the Runner to bypass a piece of ice, the Encounter Ice Phase is aborted and the Runner immediately proceeds to pass that ice.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 36,
+      "end": 42,
+      "target": "bypass"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_bypass"
+}

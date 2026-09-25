@@ -1,0 +1,19 @@
+{
+  "id": "rule_start_credits",
+  "kind": "rule",
+  "number": "1.6.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_starting_the_game",
+  "child_ids": [],
+  "text_markup": "Each player takes five credits from the bank, placing the credits in their credit pool.",
+  "text_plain": "Each player takes five credits from the bank, placing the credits in their credit pool.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_start_credits"
+}

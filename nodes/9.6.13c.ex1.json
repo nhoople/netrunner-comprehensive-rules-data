@@ -1,0 +1,40 @@
+{
+  "id": "rule_delayed_conditional_ability_relevant_once__example_1",
+  "kind": "example",
+  "number": "9.6.13c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_delayed_conditional_ability_relevant_once",
+  "child_ids": [],
+  "text_markup": "{card:Joshua B.}'s ability allows the Runner to gain [click]. If they do, it creates a delayed conditional ability that is independent of {card:Joshua B.} itself, which will meet its trigger condition only once, when that turn ends. After that ability resolves, the game no longer maintains the lingering effect creating the ability.",
+  "text_plain": "Joshua B.'s ability allows the Runner to gain {click}. If they do, it creates a delayed conditional ability that is independent of Joshua B. itself, which will meet its trigger condition only once, when that turn ends. After that ability resolves, the game no longer maintains the lingering effect creating the ability.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 9,
+      "target": "Joshua B.",
+      "card_code": "02042"
+    },
+    {
+      "type": "symbol",
+      "start": 46,
+      "end": 53,
+      "target": "click"
+    },
+    {
+      "type": "card",
+      "start": 131,
+      "end": 140,
+      "target": "Joshua B.",
+      "card_code": "02042"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

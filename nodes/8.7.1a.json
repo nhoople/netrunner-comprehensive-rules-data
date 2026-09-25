@@ -1,0 +1,19 @@
+{
+  "id": "rule_search_hidden_secret_zone",
+  "kind": "rule",
+  "number": "8.7.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_search",
+  "child_ids": [],
+  "text_markup": "If a player is instructed to search a hidden or secret zone, they are temporarily allowed to look at those cards until the search is complete, so long as they maintain that zone as hidden or secret as necessary to the other player.",
+  "text_plain": "If a player is instructed to search a hidden or secret zone, they are temporarily allowed to look at those cards until the search is complete, so long as they maintain that zone as hidden or secret as necessary to the other player.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_search_hidden_secret_zone"
+}

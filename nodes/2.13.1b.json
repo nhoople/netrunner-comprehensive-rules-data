@@ -1,0 +1,19 @@
+{
+  "id": "rule_runner_major_faction_list",
+  "kind": "rule",
+  "number": "2.13.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_faction_list",
+  "child_ids": [],
+  "text_markup": "The major Runner factions are Anarch, Criminal, and Shaper.",
+  "text_plain": "The major Runner factions are Anarch, Criminal, and Shaper.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_runner_major_faction_list"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rule_subroutines_link",
+  "kind": "rule",
+  "number": "9.3.7e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_classification",
+  "child_ids": [],
+  "text_markup": "Subroutines ({ref:sec_subroutines}) always begin with the [sub] symbol, and can contain conditions, restrictions, and/or instructions.",
+  "text_plain": "Subroutines (section 9.8) always begin with the {sub} symbol, and can contain conditions, restrictions, and/or instructions.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 13,
+      "end": 24,
+      "ids": [
+        "sec_subroutines"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "symbol",
+      "start": 48,
+      "end": 53,
+      "target": "sub"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutines_link"
+}

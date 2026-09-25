@@ -1,0 +1,31 @@
+{
+  "id": "rule_cost_checkpoint",
+  "kind": "subsection",
+  "number": "1.16.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_costs",
+  "child_ids": [
+    "rule_cost_checkpoint_cost_zero"
+  ],
+  "text_markup": "After a player pays a cost, a checkpoint occurs. See {ref:sec_checkpoints}.",
+  "text_plain": "After a player pays a cost, a checkpoint occurs. See section 10.3.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 53,
+      "end": 65,
+      "ids": [
+        "sec_checkpoints"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cost_checkpoint"
+}

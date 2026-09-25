@@ -1,0 +1,26 @@
+{
+  "id": "rule_score_not_an_action",
+  "kind": "rule",
+  "number": "1.17.3c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_score_steal",
+  "child_ids": [],
+  "text_markup": "Scoring an agenda does not cost [click] and is not an action.",
+  "text_plain": "Scoring an agenda does not cost {click} and is not an action.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 32,
+      "end": 39,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_score_not_an_action"
+}

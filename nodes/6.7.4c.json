@@ -1,0 +1,38 @@
+{
+  "id": "rule_if_successful_ability_optional",
+  "kind": "rule",
+  "number": "6.7.4c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_if_successful",
+  "child_ids": [
+    "rule_if_successful_ability_optional__example_1"
+  ],
+  "text_markup": "If an \"If successful\" effect gives the Runner an effect they can optionally carry out instead of breaching, that decision is made at the time the breach would begin, in {ref:step_breach}.",
+  "text_plain": "If an \"If successful\" effect gives the Runner an effect they can optionally carry out instead of breaching, that decision is made at the time the breach would begin, in step 6.9.5b.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 169,
+      "end": 180,
+      "ids": [
+        "step_breach"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_if_successful_ability_optional__example_1",
+      "text_markup": "The Runner plays {card:Account Siphon} while {card:Ash 2X3ZB9CY} is installed in the root of HQ, and the run is successful. The Runner can wait until after the trace from {card:Ash 2X3ZB9CY} completes before deciding to access cards normally or force the Corp to lose credits.",
+      "text_plain": "The Runner plays Account Siphon while Ash 2X3ZB9CY is installed in the root of HQ, and the run is successful. The Runner can wait until after the trace from Ash 2X3ZB9CY completes before deciding to access cards normally or force the Corp to lose credits.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_if_successful_ability_optional"
+}

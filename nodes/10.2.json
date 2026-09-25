@@ -1,0 +1,23 @@
+{
+  "id": "sec_information",
+  "kind": "section",
+  "number": "10.2",
+  "ref_type": "section",
+  "title": "Information",
+  "parent_id": "chpt_additional_rules",
+  "child_ids": [
+    "rule_hidden_or_open_information",
+    "subsec_hidden_information",
+    "subsec_open_information"
+  ],
+  "text_markup": "Information",
+  "text_plain": "Information",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "The game, at its core, is about information. Much of the game revolves around deducing information about the opponent's cards and strategy.",
+  "snippet_plain": "The game, at its core, is about information. Much of the game revolves around deducing information about the opponent's cards and strategy.",
+  "url": "https://rules.nullsignal.games/?r=sec_information"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rule_calculated_quantity__example_2",
+  "kind": "example",
+  "number": "9.12.2b.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_calculated_quantity",
+  "child_ids": [],
+  "text_markup": "The Runner accesses {card:Urtica Cipher} with 3 hosted advancement counters. The Corp resolves the instruction \"do 2 net damage plus 1 net damage for each hosted advancement counter\", doing a single instance of 5 net damage. They can only apply the interrupt ability from {card:Prāna Condenser} to the damage once.",
+  "text_plain": "The Runner accesses Urtica Cipher with 3 hosted advancement counters. The Corp resolves the instruction \"do 2 net damage plus 1 net damage for each hosted advancement counter\", doing a single instance of 5 net damage. They can only apply the interrupt ability from Prāna Condenser to the damage once.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 33,
+      "target": "Urtica Cipher",
+      "card_code": "30045"
+    },
+    {
+      "type": "card",
+      "start": 265,
+      "end": 280,
+      "target": "Prāna Condenser",
+      "card_code": "26107"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

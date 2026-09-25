@@ -1,0 +1,25 @@
+{
+  "id": "rule_unflipping_runner_cards",
+  "kind": "rule",
+  "number": "8.1.4e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_facedown_runner_cards",
+  "child_ids": [],
+  "text_markup": "If an installed facedown Runner card is turned faceup, the {n}card regains its printed characteristics{/n} and it becomes active. Turning an installed facedown Runner card faceup does not meet the trigger conditions of \"when installed\" abilities.",
+  "text_plain": "If an installed facedown Runner card is turned faceup, the card regains its printed characteristics and it becomes active. Turning an installed facedown Runner card faceup does not meet the trigger conditions of \"when installed\" abilities.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 59,
+      "end": 99
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_unflipping_runner_cards"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_cannot_repeat_modes",
+  "kind": "rule",
+  "number": "9.12.6d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_modal_abilities",
+  "child_ids": [],
+  "text_markup": "In a single instance of resolving a modal ability, each mode can be resolved no more than 1 time, unless the ability specifically states that its modes can be chosen more than once.",
+  "text_plain": "In a single instance of resolving a modal ability, each mode can be resolved no more than 1 time, unless the ability specifically states that its modes can be chosen more than once.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cannot_repeat_modes"
+}

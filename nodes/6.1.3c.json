@@ -1,0 +1,29 @@
+{
+  "id": "rule_forced_encounter_link",
+  "kind": "rule",
+  "number": "6.1.3c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_modify_run_steps",
+  "child_ids": [],
+  "text_markup": "An ability that directs the Runner to encounter a piece of ice without first moving the Runner's position does not change the current timing point of the run, the attacked server, or the Runner's position. The effect of such an ability is to resolve an Encounter Ice Phase independent of the current state of the run. See {ref:subsec_forced_encounters}.",
+  "text_plain": "An ability that directs the Runner to encounter a piece of ice without first moving the Runner's position does not change the current timing point of the run, the attacked server, or the Runner's position. The effect of such an ability is to resolve an Encounter Ice Phase independent of the current state of the run. See section 6.5.9.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 322,
+      "end": 335,
+      "ids": [
+        "subsec_forced_encounters"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_forced_encounter_link"
+}

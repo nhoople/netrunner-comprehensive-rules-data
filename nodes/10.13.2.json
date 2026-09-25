@@ -1,0 +1,28 @@
+{
+  "id": "rule_dividends_timing",
+  "kind": "rule",
+  "number": "10.13.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_dividends",
+  "child_ids": [
+    "rule_dividends_timing__example_1"
+  ],
+  "text_markup": "A dividends ability checks its source agenda's advancement requirement and number of hosted advancement counters at the time that agenda began to be scored, before it moved to the Corp's score area.",
+  "text_plain": "A dividends ability checks its source agenda's advancement requirement and number of hosted advancement counters at the time that agenda began to be scored, before it moved to the Corp's score area.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_dividends_timing__example_1",
+      "text_markup": "The Corp has {card:Project Ingatan} and a rezzed {card:SanSan City Grid} in the root of a server. The Corp advances {card:Project Ingatan} 3 times and scores it. Once {card:Project Ingatan} moves to the Corp's score area, its hosted advancement counters are all removed, and the modifier from {card:SanSan City Grid} no longer applies. But it did have 3 hosted advancement counters and an advancement requirement of 2 at the time it was scored, so the Corp places 1 agenda counter on it with its dividends 1 ability.",
+      "text_plain": "The Corp has Project Ingatan and a rezzed SanSan City Grid in the root of a server. The Corp advances Project Ingatan 3 times and scores it. Once Project Ingatan moves to the Corp's score area, its hosted advancement counters are all removed, and the modifier from SanSan City Grid no longer applies. But it did have 3 hosted advancement counters and an advancement requirement of 2 at the time it was scored, so the Corp places 1 agenda counter on it with its dividends 1 ability.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_dividends_timing"
+}

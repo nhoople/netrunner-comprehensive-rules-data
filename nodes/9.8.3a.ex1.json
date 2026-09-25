@@ -1,0 +1,118 @@
+{
+  "id": "rule_subroutine_origin_external_before__example_1",
+  "kind": "example",
+  "number": "9.8.3a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_subroutine_origin_external_before",
+  "child_ids": [],
+  "text_markup": "The Runner encounters a copy of {card:Loki} while {card:Stick and Poke} is installed and {card:Warden Fatuma} is rezzed. Since {card:Warden Fatuma}'s ability is a static ability, the subroutine it grants is already present when the encounter begins. The Runner resolves the ability from {card:Stick and Poke}, then the Corp resolves the ability from {card:Loki}, choosing a copy of {card:Tithe}. The subroutines on {card:Loki} are, in order: \"[sub] Do 1 net damage.\", \"[sub] Gain 1[c].\", \"[sub] Do 1 net damage. The Runner draws 1 card.\", \"[sub] The Runner loses [click].\", and \"[sub] End the run unless the Runner shuffles all cards from the grip into the stack.\"",
+  "text_plain": "The Runner encounters a copy of Loki while Stick and Poke is installed and Warden Fatuma is rezzed. Since Warden Fatuma's ability is a static ability, the subroutine it grants is already present when the encounter begins. The Runner resolves the ability from Stick and Poke, then the Corp resolves the ability from Loki, choosing a copy of Tithe. The subroutines on Loki are, in order: \"{sub} Do 1 net damage.\", \"{sub} Gain 1{c}.\", \"{sub} Do 1 net damage. The Runner draws 1 card.\", \"{sub} The Runner loses {click}.\", and \"{sub} End the run unless the Runner shuffles all cards from the grip into the stack.\"",
+  "spans": [
+    {
+      "type": "card",
+      "start": 32,
+      "end": 36,
+      "target": "Loki",
+      "card_code": "12069"
+    },
+    {
+      "type": "card",
+      "start": 43,
+      "end": 57,
+      "target": "Stick and Poke",
+      "card_code": "36008"
+    },
+    {
+      "type": "card",
+      "start": 75,
+      "end": 88,
+      "target": "Warden Fatuma",
+      "card_code": "21093"
+    },
+    {
+      "type": "card",
+      "start": 106,
+      "end": 119,
+      "target": "Warden Fatuma",
+      "card_code": "21093"
+    },
+    {
+      "type": "card",
+      "start": 259,
+      "end": 273,
+      "target": "Stick and Poke",
+      "card_code": "36008"
+    },
+    {
+      "type": "card",
+      "start": 315,
+      "end": 319,
+      "target": "Loki",
+      "card_code": "12069"
+    },
+    {
+      "type": "card",
+      "start": 340,
+      "end": 345,
+      "target": "Tithe",
+      "card_code": "30073"
+    },
+    {
+      "type": "card",
+      "start": 366,
+      "end": 370,
+      "target": "Loki",
+      "card_code": "12069"
+    },
+    {
+      "type": "symbol",
+      "start": 387,
+      "end": 392,
+      "target": "sub"
+    },
+    {
+      "type": "symbol",
+      "start": 413,
+      "end": 418,
+      "target": "sub"
+    },
+    {
+      "type": "symbol",
+      "start": 425,
+      "end": 428,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 433,
+      "end": 438,
+      "target": "sub"
+    },
+    {
+      "type": "symbol",
+      "start": 484,
+      "end": 489,
+      "target": "sub"
+    },
+    {
+      "type": "symbol",
+      "start": 507,
+      "end": 514,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 523,
+      "end": 528,
+      "target": "sub"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

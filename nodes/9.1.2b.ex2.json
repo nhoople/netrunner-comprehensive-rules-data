@@ -1,0 +1,55 @@
+{
+  "id": "rule_is_resolving__example_2",
+  "kind": "example",
+  "number": "9.1.2b.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_is_resolving",
+  "child_ids": [],
+  "text_markup": "The Runner is playing {card:Zahya Sadeghi: Versatile Smuggler} and plays {card:Direct Access} to run HQ. The static ability on {card:Direct Access} removes {card:Zahya Sadeghi}'s ability while it is resolving. Normally, that ability would meet its trigger condition and resolve immediately after the \"Run any server.\" instruction. This reaction window is outside of the run, but it is still part of {card:Direct Access} resolving, so the ability is not present at the needed time and cannot be triggered or resolved.",
+  "text_plain": "The Runner is playing Zahya Sadeghi: Versatile Smuggler and plays Direct Access to run HQ. The static ability on Direct Access removes Zahya Sadeghi's ability while it is resolving. Normally, that ability would meet its trigger condition and resolve immediately after the \"Run any server.\" instruction. This reaction window is outside of the run, but it is still part of Direct Access resolving, so the ability is not present at the needed time and cannot be triggered or resolved.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 22,
+      "end": 55,
+      "target": "Zahya Sadeghi: Versatile Smuggler",
+      "card_code": "30010"
+    },
+    {
+      "type": "card",
+      "start": 66,
+      "end": 79,
+      "target": "Direct Access",
+      "card_code": "26028"
+    },
+    {
+      "type": "card",
+      "start": 113,
+      "end": 126,
+      "target": "Direct Access",
+      "card_code": "26028"
+    },
+    {
+      "type": "card",
+      "start": 135,
+      "end": 148,
+      "target": "Zahya Sadeghi",
+      "card_code": "30010"
+    },
+    {
+      "type": "card",
+      "start": 371,
+      "end": 384,
+      "target": "Direct Access",
+      "card_code": "26028"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

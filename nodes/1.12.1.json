@@ -1,0 +1,26 @@
+{
+  "id": "rule_object",
+  "kind": "rule",
+  "number": "1.12.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_objects",
+  "child_ids": [],
+  "text_markup": "An {term:object} is an occurrence of a card or counter existing in a particular zone. When a card or counter moves from one zone to another, it becomes a new object.",
+  "text_plain": "An object is an occurrence of a card or counter existing in a particular zone. When a card or counter moves from one zone to another, it becomes a new object.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 9,
+      "target": "object"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_object"
+}

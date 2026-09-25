@@ -1,0 +1,29 @@
+{
+  "id": "rule_paying_printed_costs",
+  "kind": "rule",
+  "number": "2.3.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_printed_cost",
+  "child_ids": [],
+  "text_markup": "Play, install, and rez costs on cards are all paid in credits. {ref:Chpt_card_manipulation} details how cards are played, installed, and rezzed.",
+  "text_plain": "Play, install, and rez costs on cards are all paid in credits. Section 8 details how cards are played, installed, and rezzed.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 63,
+      "end": 72,
+      "ids": [
+        "chpt_card_manipulation"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_paying_printed_costs"
+}

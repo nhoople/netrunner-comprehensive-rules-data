@@ -1,0 +1,23 @@
+{
+  "id": "rule_install_trash_like_cards",
+  "kind": "subsection",
+  "number": "8.5.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [
+    "rule_must_trash_cases_in_root_of_server",
+    "rule_install_trash_ice",
+    "rule_install_trash_programs"
+  ],
+  "text_markup": "As part of the installation process, a player installing an agenda, asset, upgrade, ice, or program has the opportunity to trash like cards.",
+  "text_plain": "As part of the installation process, a player installing an agenda, asset, upgrade, ice, or program has the opportunity to trash like cards.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_trash_like_cards"
+}

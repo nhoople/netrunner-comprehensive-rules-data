@@ -1,0 +1,28 @@
+{
+  "id": "rule_host_transitivity",
+  "kind": "rule",
+  "number": "1.13.9",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [
+    "rule_host_transitivity__example_1"
+  ],
+  "text_markup": "Host relationships are not transitive. If card A is hosted on card B, and card B is hosted on card C, card A is not considered to be hosted on card C.",
+  "text_plain": "Host relationships are not transitive. If card A is hosted on card B, and card B is hosted on card C, card A is not considered to be hosted on card C.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_host_transitivity__example_1",
+      "text_markup": "If the Runner installs a {card:Leprechaun} hosted on a {card:Dhegdheer}, programs hosted on {card:Leprechaun} do not have their install costs reduced because they are hosted on {card:Leprechaun} and not on {card:Dhegdheer}.",
+      "text_plain": "If the Runner installs a Leprechaun hosted on a Dhegdheer, programs hosted on Leprechaun do not have their install costs reduced because they are hosted on Leprechaun and not on Dhegdheer.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_host_transitivity"
+}

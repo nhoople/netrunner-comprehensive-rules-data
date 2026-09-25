@@ -1,0 +1,76 @@
+{
+  "id": "rule_modify_duration_of_lingering_effect__example_1",
+  "kind": "example",
+  "number": "9.10.5.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_modify_duration_of_lingering_effect",
+  "child_ids": [],
+  "text_markup": "The Runner controls {card:Gebrselassie} hosted on {card:Na'Not'K}. They run a server protected by 3 pieces of ice, and use {card:Na'Not'K}'s last ability to raise its strength to a total of 6. When the run ends, {card:Na'Not'K}'s static ability will no longer provide +3 strength, but the lingering effect of +2 strength from its paid ability will be maintained by {card:Gebrselassie} until the turn ends or {card:Gebrselassie} stops being hosted on {card:Na'Not'K}. If the Runner makes another run on a server protected by only 1 piece of ice, {card:Na'Not'K} will have 4 strength when that run begins.",
+  "text_plain": "The Runner controls Gebrselassie hosted on Na'Not'K. They run a server protected by 3 pieces of ice, and use Na'Not'K's last ability to raise its strength to a total of 6. When the run ends, Na'Not'K's static ability will no longer provide +3 strength, but the lingering effect of +2 strength from its paid ability will be maintained by Gebrselassie until the turn ends or Gebrselassie stops being hosted on Na'Not'K. If the Runner makes another run on a server protected by only 1 piece of ice, Na'Not'K will have 4 strength when that run begins.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 20,
+      "end": 32,
+      "target": "Gebrselassie",
+      "card_code": "21087"
+    },
+    {
+      "type": "card",
+      "start": 43,
+      "end": 51,
+      "target": "Na'Not'K",
+      "card_code": "12088"
+    },
+    {
+      "type": "card",
+      "start": 109,
+      "end": 117,
+      "target": "Na'Not'K",
+      "card_code": "12088"
+    },
+    {
+      "type": "card",
+      "start": 191,
+      "end": 199,
+      "target": "Na'Not'K",
+      "card_code": "12088"
+    },
+    {
+      "type": "card",
+      "start": 337,
+      "end": 349,
+      "target": "Gebrselassie",
+      "card_code": "21087"
+    },
+    {
+      "type": "card",
+      "start": 373,
+      "end": 385,
+      "target": "Gebrselassie",
+      "card_code": "21087"
+    },
+    {
+      "type": "card",
+      "start": 408,
+      "end": 416,
+      "target": "Na'Not'K",
+      "card_code": "12088"
+    },
+    {
+      "type": "card",
+      "start": 496,
+      "end": 504,
+      "target": "Na'Not'K",
+      "card_code": "12088"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

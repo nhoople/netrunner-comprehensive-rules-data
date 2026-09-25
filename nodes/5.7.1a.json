@@ -1,0 +1,44 @@
+{
+  "id": "step_runner_turn_allotted_clicks",
+  "kind": "rule",
+  "number": "5.7.1a",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "subsec_runner_action_phase",
+  "child_ids": [],
+  "text_markup": "The Runner gains allotted clicks (default [click][click][click][click]).",
+  "text_plain": "The Runner gains allotted clicks (default {click}{click}{click}{click}).",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 42,
+      "end": 49,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 49,
+      "end": 56,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 56,
+      "end": 63,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 63,
+      "end": 70,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_runner_turn_allotted_clicks"
+}

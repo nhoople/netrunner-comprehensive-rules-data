@@ -1,0 +1,19 @@
+{
+  "id": "rule_faction_identification",
+  "kind": "rule",
+  "number": "2.13.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_faction",
+  "child_ids": [],
+  "text_markup": "A card's faction can be identified by the color of its background, as well as a faction logo in one of its four corners. This logo also appears as a watermark behind the text box. If a card has a white background and no logo, it is neutral.",
+  "text_plain": "A card's faction can be identified by the color of its background, as well as a faction logo in one of its four corners. This logo also appears as a watermark behind the text box. If a card has a white background and no logo, it is neutral.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_faction_identification"
+}

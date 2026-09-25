@@ -1,0 +1,40 @@
+{
+  "id": "rule_bid_possible__example_2",
+  "kind": "example",
+  "number": "10.14.3.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_bid_possible",
+  "child_ids": [],
+  "text_markup": "The Runner encounters {card:RSVP} and its subroutine resolves. Later in that run, they are required to bid credits by another ability. Since the effect of {card:RSVP}'s subroutine prohibits the Runner from spending credits, they must bid 0[c].",
+  "text_plain": "The Runner encounters RSVP and its subroutine resolves. Later in that run, they are required to bid credits by another ability. Since the effect of RSVP's subroutine prohibits the Runner from spending credits, they must bid 0{c}.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 22,
+      "end": 26,
+      "target": "RSVP",
+      "card_code": "04077"
+    },
+    {
+      "type": "card",
+      "start": 148,
+      "end": 152,
+      "target": "RSVP",
+      "card_code": "04077"
+    },
+    {
+      "type": "symbol",
+      "start": 225,
+      "end": 228,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

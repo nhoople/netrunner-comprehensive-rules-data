@@ -1,0 +1,29 @@
+{
+  "id": "rule_replacement_effect_from_lingering_effect",
+  "kind": "rule",
+  "number": "9.9.8c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_replacement_effects",
+  "child_ids": [],
+  "text_markup": "Other abilities can create replacement effects ahead of time, which apply to effects that could happen later. This is a type of lingering effect (see {ref:sec_lingering_effects}).",
+  "text_plain": "Other abilities can create replacement effects ahead of time, which apply to effects that could happen later. This is a type of lingering effect (see section 9.10).",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 150,
+      "end": 162,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_replacement_effect_from_lingering_effect"
+}

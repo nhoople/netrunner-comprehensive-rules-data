@@ -1,0 +1,78 @@
+{
+  "id": "rule_prohibition_removed__example_1",
+  "kind": "example",
+  "number": "7.4.2a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_prohibition_removed",
+  "child_ids": [],
+  "text_markup": "The Runner breaches HQ during a run on HQ while {card:Flagship} is rezzed in the root of HQ. They have an installed copy of {card:Docklands Pass}, so the random access limit is set to 2. The Runner accesses a card in HQ, meaning that {card:Flagship}'s restriction applies and all the other cards in HQ cease to be candidates. The Runner then accesses {card:Flagship} and uses {card:Cupellation}'s ability to host {card:Flagship} on {card:Cupellation}, thereby uninstalling it without its persistent ability remaining active (see {ref:subsec_persistent}). Since the restriction on accessing cards other than Flagship no longer applies, the cards in HQ become candidates again, except for the card the Runner previously accessed.",
+  "text_plain": "The Runner breaches HQ during a run on HQ while Flagship is rezzed in the root of HQ. They have an installed copy of Docklands Pass, so the random access limit is set to 2. The Runner accesses a card in HQ, meaning that Flagship's restriction applies and all the other cards in HQ cease to be candidates. The Runner then accesses Flagship and uses Cupellation's ability to host Flagship on Cupellation, thereby uninstalling it without its persistent ability remaining active (see section 9.12.5). Since the restriction on accessing cards other than Flagship no longer applies, the cards in HQ become candidates again, except for the card the Runner previously accessed.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 48,
+      "end": 56,
+      "target": "Flagship",
+      "card_code": "36064"
+    },
+    {
+      "type": "card",
+      "start": 117,
+      "end": 131,
+      "target": "Docklands Pass",
+      "card_code": "30013"
+    },
+    {
+      "type": "card",
+      "start": 220,
+      "end": 228,
+      "target": "Flagship",
+      "card_code": "36064"
+    },
+    {
+      "type": "card",
+      "start": 330,
+      "end": 338,
+      "target": "Flagship",
+      "card_code": "36064"
+    },
+    {
+      "type": "card",
+      "start": 348,
+      "end": 359,
+      "target": "Cupellation",
+      "card_code": "34080"
+    },
+    {
+      "type": "card",
+      "start": 378,
+      "end": 386,
+      "target": "Flagship",
+      "card_code": "36064"
+    },
+    {
+      "type": "card",
+      "start": 390,
+      "end": 401,
+      "target": "Cupellation",
+      "card_code": "34080"
+    },
+    {
+      "type": "ref",
+      "start": 480,
+      "end": 494,
+      "ids": [
+        "subsec_persistent"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

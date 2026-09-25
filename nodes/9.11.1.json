@@ -1,0 +1,25 @@
+{
+  "id": "rule_instruction_pause",
+  "kind": "subsection",
+  "number": "9.11.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_identifying_instructions",
+  "child_ids": [
+    "rule_cost_paid_checkpoint",
+    "rule_checkpoint_timing_structure",
+    "rule_draw_checkpoint",
+    "rule_play_checkpoint",
+    "rule_trace_checkpoint"
+  ],
+  "text_markup": "An instruction normally cannot be paused once it begins to resolve. An instruction can only be paused if a checkpoint opens in the middle of its resolution, which only occurs in the following cases:",
+  "text_plain": "An instruction normally cannot be paused once it begins to resolve. An instruction can only be paused if a checkpoint opens in the middle of its resolution, which only occurs in the following cases:",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_instruction_pause"
+}

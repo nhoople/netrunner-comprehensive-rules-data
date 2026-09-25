@@ -1,0 +1,65 @@
+{
+  "id": "rule_alternate_payment__example_1",
+  "kind": "example",
+  "number": "1.16.2e.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_alternate_payment",
+  "child_ids": [],
+  "text_markup": "The Corp rezzes {card:Biawak}, which has the ability \"You can forfeit 1 agenda as you rez this ice to pay for 10[c] of its rez cost.\" and a rez cost of 14[c]. The Corp chooses to pay {card:Biawak}'s rez cost by spending 2[c] from their credit pool, spending 2[c] from a {card:Mahkota Langit Grid}, and forfeiting 1 agenda.",
+  "text_plain": "The Corp rezzes Biawak, which has the ability \"You can forfeit 1 agenda as you rez this ice to pay for 10{c} of its rez cost.\" and a rez cost of 14{c}. The Corp chooses to pay Biawak's rez cost by spending 2{c} from their credit pool, spending 2{c} from a Mahkota Langit Grid, and forfeiting 1 agenda.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 22,
+      "target": "Biawak",
+      "card_code": "35074"
+    },
+    {
+      "type": "symbol",
+      "start": 105,
+      "end": 108,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 147,
+      "end": 150,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 176,
+      "end": 182,
+      "target": "Biawak",
+      "card_code": "35074"
+    },
+    {
+      "type": "symbol",
+      "start": 207,
+      "end": 210,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 245,
+      "end": 248,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 256,
+      "end": 275,
+      "target": "Mahkota Langit Grid",
+      "card_code": "35082"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

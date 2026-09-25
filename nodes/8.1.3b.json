@@ -1,0 +1,19 @@
+{
+  "id": "rule_derez_cost",
+  "kind": "rule",
+  "number": "8.1.3b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_derez",
+  "child_ids": [],
+  "text_markup": "There is no inherent cost associated with derezzing a card.",
+  "text_plain": "There is no inherent cost associated with derezzing a card.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_derez_cost"
+}

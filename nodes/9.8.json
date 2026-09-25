@@ -1,0 +1,30 @@
+{
+  "id": "sec_subroutines",
+  "kind": "section",
+  "number": "9.8",
+  "ref_type": "section",
+  "title": "Subroutines",
+  "parent_id": "chpt_abilities",
+  "child_ids": [
+    "rule_subroutine",
+    "rule_subroutines_ordered",
+    "rule_subroutine_origins",
+    "rule_subroutines_status",
+    "rule_break_subroutine",
+    "rule_unbroken_subroutines_target_for_break_abilities",
+    "rule_resolve_unbroken_subroutines",
+    "rule_subroutine_independent",
+    "rule_replace_subroutine_resolution",
+    "sec_steps_of_resolving_a_subroutine"
+  ],
+  "text_markup": "Subroutines",
+  "text_plain": "Subroutines",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_subroutines"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_rez_procedure",
+  "kind": "rule",
+  "number": "8.1.2e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_rez",
+  "child_ids": [],
+  "text_markup": "To resolve rezzing a card, the Corp pays its rez cost (accounting for any modifiers or additional costs), a checkpoint occurs (as required by {ref:rule_checkpoint_after_paying_cost}), then the Corp turns the card faceup. For purposes of meeting trigger conditions, the card is considered to be rezzed at the conclusion of this process.",
+  "text_plain": "To resolve rezzing a card, the Corp pays its rez cost (accounting for any modifiers or additional costs), a checkpoint occurs (as required by rule 10.3.4), then the Corp turns the card faceup. For purposes of meeting trigger conditions, the card is considered to be rezzed at the conclusion of this process.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 142,
+      "end": 153,
+      "ids": [
+        "rule_checkpoint_after_paying_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rez_procedure"
+}

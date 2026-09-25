@@ -1,0 +1,40 @@
+{
+  "id": "rule_delayed_conditional_ability",
+  "kind": "subsection",
+  "number": "9.6.13",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [
+    "rule_delayed_conditional_ability_if_successful_duration",
+    "rule_delayed_conditional_ability_specified_duration",
+    "rule_delayed_conditional_ability_relevant_once",
+    "rule_delayed_run_ends_condition_outside_run"
+  ],
+  "text_markup": "A {term:delayed conditional ability} is a conditional ability maintained by a lingering effect (see {ref:sec_lingering_effects}). Unlike other lingering effects, some delayed conditional abilities are created without an explicitly stated duration.",
+  "text_plain": "A delayed conditional ability is a conditional ability maintained by a lingering effect (see section 9.10). Unlike other lingering effects, some delayed conditional abilities are created without an explicitly stated duration.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 29,
+      "target": "delayed conditional ability"
+    },
+    {
+      "type": "ref",
+      "start": 93,
+      "end": 105,
+      "ids": [
+        "sec_lingering_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_delayed_conditional_ability"
+}

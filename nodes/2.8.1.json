@@ -1,0 +1,26 @@
+{
+  "id": "rule_memory_cost_location",
+  "kind": "rule",
+  "number": "2.8.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_memory_cost",
+  "child_ids": [],
+  "text_markup": "Memory Cost is a number appearing only on programs. It appears to the right of the install cost, within an [MU] symbol.",
+  "text_plain": "Memory Cost is a number appearing only on programs. It appears to the right of the install cost, within an {MU} symbol.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 107,
+      "end": 111,
+      "target": "mu"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_memory_cost_location"
+}

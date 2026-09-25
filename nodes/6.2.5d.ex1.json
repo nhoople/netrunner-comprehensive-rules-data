@@ -1,0 +1,48 @@
+{
+  "id": "rule_no_position_after_approach_server__example_1",
+  "kind": "example",
+  "number": "6.2.5d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_no_position_after_approach_server",
+  "child_ids": [],
+  "text_markup": "The Corp uses {card:Ganked!} to force the Runner to encounter {card:Cell Portal} in the middle of breaching a server. Since the run is already successful, resolving {card:Cell Portal}'s subroutine will have no meaningful effect except to derez {card:Cell Portal}.",
+  "text_plain": "The Corp uses Ganked! to force the Runner to encounter Cell Portal in the middle of breaching a server. Since the run is already successful, resolving Cell Portal's subroutine will have no meaningful effect except to derez Cell Portal.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 14,
+      "end": 21,
+      "target": "Ganked!",
+      "card_code": "26119"
+    },
+    {
+      "type": "card",
+      "start": 55,
+      "end": 66,
+      "target": "Cell Portal",
+      "card_code": "01074"
+    },
+    {
+      "type": "card",
+      "start": 151,
+      "end": 162,
+      "target": "Cell Portal",
+      "card_code": "01074"
+    },
+    {
+      "type": "card",
+      "start": 223,
+      "end": 234,
+      "target": "Cell Portal",
+      "card_code": "01074"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

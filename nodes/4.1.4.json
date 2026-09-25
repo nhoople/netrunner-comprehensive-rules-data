@@ -1,0 +1,44 @@
+{
+  "id": "rule_public_zone",
+  "kind": "rule",
+  "number": "4.1.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_game_zones_general",
+  "child_ids": [],
+  "text_markup": "A {term:public} zone is one where cards are freely visible to both players unless they are facedown. The play area, the bank, the set-aside zone, the removed-from-game zone, and both players' score areas and discard piles are public zones. See {ref:sec_card_visibility} for rules on card visibility and {ref:sec_faceup_facedown_status} for rules on the faceup and facedown status of a card.",
+  "text_plain": "A public zone is one where cards are freely visible to both players unless they are facedown. The play area, the bank, the set-aside zone, the removed-from-game zone, and both players' score areas and discard piles are public zones. See section 1.21 for rules on card visibility and section 8.1 for rules on the faceup and facedown status of a card.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 8,
+      "target": "public"
+    },
+    {
+      "type": "ref",
+      "start": 237,
+      "end": 249,
+      "ids": [
+        "sec_card_visibility"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 283,
+      "end": 294,
+      "ids": [
+        "sec_faceup_facedown_status"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_public_zone"
+}

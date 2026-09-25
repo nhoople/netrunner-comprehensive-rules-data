@@ -1,0 +1,55 @@
+{
+  "id": "rule_host_transitivity__example_1",
+  "kind": "example",
+  "number": "1.13.9.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_host_transitivity",
+  "child_ids": [],
+  "text_markup": "If the Runner installs a {card:Leprechaun} hosted on a {card:Dhegdheer}, programs hosted on {card:Leprechaun} do not have their install costs reduced because they are hosted on {card:Leprechaun} and not on {card:Dhegdheer}.",
+  "text_plain": "If the Runner installs a Leprechaun hosted on a Dhegdheer, programs hosted on Leprechaun do not have their install costs reduced because they are hosted on Leprechaun and not on Dhegdheer.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 25,
+      "end": 35,
+      "target": "Leprechaun",
+      "card_code": "06019"
+    },
+    {
+      "type": "card",
+      "start": 48,
+      "end": 57,
+      "target": "Dhegdheer",
+      "card_code": "13020"
+    },
+    {
+      "type": "card",
+      "start": 78,
+      "end": 88,
+      "target": "Leprechaun",
+      "card_code": "06019"
+    },
+    {
+      "type": "card",
+      "start": 156,
+      "end": 166,
+      "target": "Leprechaun",
+      "card_code": "06019"
+    },
+    {
+      "type": "card",
+      "start": 178,
+      "end": 187,
+      "target": "Dhegdheer",
+      "card_code": "13020"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

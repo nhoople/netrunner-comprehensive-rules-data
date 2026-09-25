@@ -1,0 +1,29 @@
+{
+  "id": "rule_access_trash",
+  "kind": "rule",
+  "number": "1.19.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_trashing",
+  "child_ids": [],
+  "text_markup": "During access, the Runner has the opportunity to pay the trash cost of the accessed card to trash it. See {ref:rule_basic_trash_ability}.",
+  "text_plain": "During access, the Runner has the opportunity to pay the trash cost of the accessed card to trash it. See section 7.1.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 106,
+      "end": 119,
+      "ids": [
+        "rule_basic_trash_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_access_trash"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_special_tournament_rules",
+  "kind": "rule",
+  "number": "1.4.8",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_deck_construction",
+  "child_ids": [],
+  "text_markup": "Tournament play may impose other restrictions or requirements on the legal configurations of identities and decks.",
+  "text_plain": "Tournament play may impose other restrictions or requirements on the legal configurations of identities and decks.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_special_tournament_rules"
+}

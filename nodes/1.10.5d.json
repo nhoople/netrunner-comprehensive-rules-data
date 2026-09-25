@@ -1,0 +1,28 @@
+{
+  "id": "rule_recurring_credits_do_not_accumulate",
+  "kind": "rule",
+  "number": "1.10.5d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_sec_recurring",
+  "child_ids": [
+    "rule_recurring_credits_do_not_accumulate__example_1"
+  ],
+  "text_markup": "Recurring credits do not accumulate. They are refilled only up to the indicated number.",
+  "text_plain": "Recurring credits do not accumulate. They are refilled only up to the indicated number.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_recurring_credits_do_not_accumulate__example_1",
+      "text_markup": "The Runner installs {card:Spinal Modem}, which has 2[recurring]. 2 credits are placed on {card:Spinal Modem} now. The Runner spends 1 of those credits later in their turn. At the beginning of the Runner's next turn, the credits on {card:Spinal Modem} should be replenished up to 2[c], so 1 more credit is placed on it.",
+      "text_plain": "The Runner installs Spinal Modem, which has 2{recurring}. 2 credits are placed on Spinal Modem now. The Runner spends 1 of those credits later in their turn. At the beginning of the Runner's next turn, the credits on Spinal Modem should be replenished up to 2{c}, so 1 more credit is placed on it.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_recurring_credits_do_not_accumulate"
+}

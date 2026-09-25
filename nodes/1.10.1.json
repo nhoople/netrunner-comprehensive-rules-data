@@ -1,0 +1,38 @@
+{
+  "id": "rule_credit",
+  "kind": "rule",
+  "number": "1.10.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_credits",
+  "child_ids": [],
+  "text_markup": "A {term:credit} ([c]) is the basic unit of currency. Players spend their credits to pay for various costs, card abilities, traces, etc. Credit counters most commonly represent 1[c] each, but can represent larger denominations if clearly marked.",
+  "text_plain": "A credit ({c}) is the basic unit of currency. Players spend their credits to pay for various costs, card abilities, traces, etc. Credit counters most commonly represent 1{c} each, but can represent larger denominations if clearly marked.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 8,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 10,
+      "end": 13,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 170,
+      "end": 173,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_credit"
+}

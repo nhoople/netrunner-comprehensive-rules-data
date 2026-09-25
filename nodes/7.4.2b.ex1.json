@@ -1,0 +1,55 @@
+{
+  "id": "rule_prohibiting_access_to_1__example_1",
+  "kind": "example",
+  "number": "7.4.2b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_prohibiting_access_to_1",
+  "child_ids": [],
+  "text_markup": "The Runner breaches HQ during a run on HQ while {card:Flagship} is rezzed in the root of HQ, and they have an installed copy of {card:Docklands Pass}, but they have previously accessed a card during that run because of {card:Otoroshi}'s ability. The random access limit is still set to 2, but since the Runner is not allowed to access any cards other than {card:Flagship}, none of the cards in the Corp's hand will be candidates. If {card:Flagship}'s ability becomes inactive before the breach ends, the cards in the Corp's hand will become candidates and the Runner will be able to access 2 of them.",
+  "text_plain": "The Runner breaches HQ during a run on HQ while Flagship is rezzed in the root of HQ, and they have an installed copy of Docklands Pass, but they have previously accessed a card during that run because of Otoroshi's ability. The random access limit is still set to 2, but since the Runner is not allowed to access any cards other than Flagship, none of the cards in the Corp's hand will be candidates. If Flagship's ability becomes inactive before the breach ends, the cards in the Corp's hand will become candidates and the Runner will be able to access 2 of them.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 48,
+      "end": 56,
+      "target": "Flagship",
+      "card_code": "36064"
+    },
+    {
+      "type": "card",
+      "start": 121,
+      "end": 135,
+      "target": "Docklands Pass",
+      "card_code": "30013"
+    },
+    {
+      "type": "card",
+      "start": 205,
+      "end": 213,
+      "target": "Otoroshi",
+      "card_code": "22038"
+    },
+    {
+      "type": "card",
+      "start": 335,
+      "end": 343,
+      "target": "Flagship",
+      "card_code": "36064"
+    },
+    {
+      "type": "card",
+      "start": 405,
+      "end": 413,
+      "target": "Flagship",
+      "card_code": "36064"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

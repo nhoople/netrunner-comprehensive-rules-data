@@ -1,0 +1,25 @@
+{
+  "id": "sec_run_initiation",
+  "kind": "section",
+  "number": "6.3",
+  "ref_type": "section",
+  "title": "Initiation",
+  "parent_id": "chpt_runs",
+  "child_ids": [
+    "rule_run_initiation_phase",
+    "rule_start_initiation_phase",
+    "rule_initiation_bad_publicity",
+    "rule_abilities_during_a_run",
+    "rule_run_initiation_phase_next_phase"
+  ],
+  "text_markup": "Initiation",
+  "text_plain": "Initiation",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_run_initiation"
+}

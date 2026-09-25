@@ -1,0 +1,28 @@
+{
+  "id": "sec_deck_construction",
+  "kind": "section",
+  "number": "1.4",
+  "ref_type": "section",
+  "title": "Deck Construction",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_identity",
+    "rule_legal_deck",
+    "rule_minimum_deck_size",
+    "rule_disallowed_cards",
+    "rule_influence_limit",
+    "rule_agenda_points",
+    "rule_maximum_copies",
+    "rule_special_tournament_rules"
+  ],
+  "text_markup": "Deck Construction",
+  "text_plain": "Deck Construction",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_deck_construction"
+}

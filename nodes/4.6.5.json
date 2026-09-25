@@ -1,0 +1,28 @@
+{
+  "id": "rule_play_area_organization",
+  "kind": "subsection",
+  "number": "4.6.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_play_area",
+  "child_ids": [
+    "rule_play_area_corp_cards_distinct_server",
+    "rule_play_area_corp_identity",
+    "rule_play_area_runner_identity",
+    "rule_play_area_operation_events",
+    "rule_play_area_credit_pool",
+    "rule_play_area_counters",
+    "rule_play_area_installed_hosted",
+    "rule_play_area_not_installed_hosted"
+  ],
+  "text_markup": "Some objects in the play area are organized into specific orientations and/or locations.",
+  "text_plain": "Some objects in the play area are organized into specific orientations and/or locations.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_play_area_organization"
+}

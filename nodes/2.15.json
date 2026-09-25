@@ -1,0 +1,25 @@
+{
+  "id": "sec_card_type",
+  "kind": "section",
+  "number": "2.15",
+  "ref_type": "section",
+  "title": "Card Type",
+  "parent_id": "chpt_parts_of_a_card",
+  "child_ids": [
+    "rule_type_line_location",
+    "rule_card_type_list",
+    "rule_card_type_while_inactive",
+    "rule_card_type_conversion_citation",
+    "rule_card_type_counters"
+  ],
+  "text_markup": "Card Type",
+  "text_plain": "Card Type",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_card_type"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "sec_rez",
+  "kind": "subsection",
+  "number": "8.1.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_faceup_facedown_status",
+  "child_ids": [
+    "rule_rez_in_paw",
+    "rule_rez_by_ability",
+    "rule_cannot_rez_agendas",
+    "rule_inherent_rez_cost",
+    "rule_rez_procedure"
+  ],
+  "text_markup": "To {term:rez} an unrezzed card is to turn it faceup.",
+  "text_plain": "To rez an unrezzed card is to turn it faceup.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 6,
+      "target": "rez"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_rez"
+}

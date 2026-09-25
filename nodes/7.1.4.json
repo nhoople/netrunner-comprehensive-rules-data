@@ -1,0 +1,19 @@
+{
+  "id": "rule_mid_access_ability_opportunity",
+  "kind": "rule",
+  "number": "7.1.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_accessing_cards",
+  "child_ids": [],
+  "text_markup": "During each access, the Runner has 1 opportunity to use a mid-access ability. This occurs after the reaction window at the beginning of the access, and before the Runner steals an accessed agenda.",
+  "text_plain": "During each access, the Runner has 1 opportunity to use a mid-access ability. This occurs after the reaction window at the beginning of the access, and before the Runner steals an accessed agenda.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_mid_access_ability_opportunity"
+}

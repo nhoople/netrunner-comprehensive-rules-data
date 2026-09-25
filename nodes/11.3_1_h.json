@@ -1,0 +1,19 @@
+{
+  "id": "sec_appendix_timing_structure_runners_turn_1_h",
+  "kind": "timing_structure",
+  "number": "11.3_1_h",
+  "ref_type": "appendix",
+  "title": null,
+  "parent_id": "sec_appendix_timing_structure_runners_turn_1",
+  "child_ids": [],
+  "text_markup": "The Runner's action phase ends.",
+  "text_plain": "The Runner's action phase ends.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_runners_turn_1_h"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "rule_cost_quantities__example_1",
+  "kind": "example",
+  "number": "1.16.2b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_cost_quantities",
+  "child_ids": [],
+  "text_markup": "The Runner approaches a server protected by 3 advanced pieces of ice and with a rezzed {card:Cayambe Grid} in its root. They pay the nested cost in {card:Cayambe Grid}'s ability. This cost is 1 payment of 6[c], not 3 payments of 2[c], so this only meets the trigger condition for 1 instance of {card:GameNET}'s ability.",
+  "text_plain": "The Runner approaches a server protected by 3 advanced pieces of ice and with a rezzed Cayambe Grid in its root. They pay the nested cost in Cayambe Grid's ability. This cost is 1 payment of 6{c}, not 3 payments of 2{c}, so this only meets the trigger condition for 1 instance of GameNET's ability.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 87,
+      "end": 99,
+      "target": "Cayambe Grid",
+      "card_code": "26127"
+    },
+    {
+      "type": "card",
+      "start": 141,
+      "end": 153,
+      "target": "Cayambe Grid",
+      "card_code": "26127"
+    },
+    {
+      "type": "symbol",
+      "start": 192,
+      "end": 195,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 216,
+      "end": 219,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 280,
+      "end": 287,
+      "target": "GameNET",
+      "card_code": "26113"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

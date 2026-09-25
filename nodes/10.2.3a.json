@@ -1,0 +1,26 @@
+{
+  "id": "rule_open_information",
+  "kind": "rule",
+  "number": "10.2.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_open_information",
+  "child_ids": [],
+  "text_markup": "{term:open information} is any information about the game, game state, cards, or abilities that is available to both players. This includes faceup cards in Archives and the heap, the number of cards in HQ, R&D, the stack, and the grip, the number of credits in a credit pool, and any other information continuously available to both players.",
+  "text_plain": "open information is any information about the game, game state, cards, or abilities that is available to both players. This includes faceup cards in Archives and the heap, the number of cards in HQ, R&D, the stack, and the grip, the number of credits in a credit pool, and any other information continuously available to both players.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 16,
+      "target": "open information"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_open_information"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_after_resolving_mode",
+  "kind": "rule",
+  "number": "9.12.6c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_modal_abilities",
+  "child_ids": [],
+  "text_markup": "After the instructions of a mode are complete, the game returns to the instruction to resolve 1 or more modes. If the maximum allowed number of modes have not yet been resolved, the player will choose another mode to resolve, as if resolving that initial instruction again. If the maximum number of allowed modes have been resolved, the game proceeds to the next instruction or ability following the list of modes.",
+  "text_plain": "After the instructions of a mode are complete, the game returns to the instruction to resolve 1 or more modes. If the maximum allowed number of modes have not yet been resolved, the player will choose another mode to resolve, as if resolving that initial instruction again. If the maximum number of allowed modes have been resolved, the game proceeds to the next instruction or ability following the list of modes.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_after_resolving_mode"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sec_targets",
+  "kind": "section",
+  "number": "1.15",
+  "ref_type": "section",
+  "title": "Targets",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_target",
+    "rule_announce_targets",
+    "rule_targets_gone",
+    "rule_target_beyond_move"
+  ],
+  "text_markup": "Targets",
+  "text_plain": "Targets",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_targets"
+}

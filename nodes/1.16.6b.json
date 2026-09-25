@@ -1,0 +1,19 @@
+{
+  "id": "rule_install_cost_ice",
+  "kind": "rule",
+  "number": "1.16.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_install_cost",
+  "child_ids": [],
+  "text_markup": "The install cost of a piece of ice is a number of credits equal to the number of pieces of ice already protecting the server that ice will be installed protecting.",
+  "text_plain": "The install cost of a piece of ice is a number of credits equal to the number of pieces of ice already protecting the server that ice will be installed protecting.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_cost_ice"
+}

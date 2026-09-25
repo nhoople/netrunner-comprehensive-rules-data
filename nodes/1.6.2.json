@@ -1,0 +1,19 @@
+{
+  "id": "rule_setup_abilities",
+  "kind": "rule",
+  "number": "1.6.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_starting_the_game",
+  "child_ids": [],
+  "text_markup": "If a player's identity has an ability that affects setup or the start of the game, and that ability does not directly correspond to a setup step outlined in this section of the rules, that player makes any necessary decisions and changes for their identity's special setup or start of game abilities at this time. If both players have setup or start of game abilities at this time, the Corp resolves theirs first.",
+  "text_plain": "If a player's identity has an ability that affects setup or the start of the game, and that ability does not directly correspond to a setup step outlined in this section of the rules, that player makes any necessary decisions and changes for their identity's special setup or start of game abilities at this time. If both players have setup or start of game abilities at this time, the Corp resolves theirs first.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_setup_abilities"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rule_allotted_clicks",
+  "kind": "subsection",
+  "number": "1.11.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_clicks",
+  "child_ids": [
+    "rule_corp_allotted_clicks",
+    "rule_runner_allotted_clicks"
+  ],
+  "text_markup": "As the first step of a player's turn, they gain an allotted number of clicks to spend during the action phase of that turn. See {ref:chpt_turns} for details about the procedures of player turns.",
+  "text_plain": "As the first step of a player's turn, they gain an allotted number of clicks to spend during the action phase of that turn. See section 5 for details about the procedures of player turns.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 128,
+      "end": 137,
+      "ids": [
+        "chpt_turns"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_allotted_clicks"
+}

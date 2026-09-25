@@ -1,0 +1,26 @@
+{
+  "id": "rule_drawing",
+  "kind": "rule",
+  "number": "8.4.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_drawing_cards",
+  "child_ids": [],
+  "text_markup": "{term:drawing} cards is a process that moves cards from a player's deck to their hand.",
+  "text_plain": "drawing cards is a process that moves cards from a player's deck to their hand.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 7,
+      "target": "drawing"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_drawing"
+}

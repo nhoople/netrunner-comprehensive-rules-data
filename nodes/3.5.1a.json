@@ -1,0 +1,53 @@
+{
+  "id": "rule_operation_condition",
+  "kind": "rule",
+  "number": "3.5.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_operation_play",
+  "child_ids": [],
+  "text_markup": "Some operations have the subtype {subtype:condition}. As part of their abilities, {subtype:condition} operations convert themselves into {subtype:condition} counters and install themselves. A {subtype:condition} operation cannot be installed by an install effect; it can only be installed through its own conversion ability. See {ref:rule_card_to_counter}.",
+  "text_plain": "Some operations have the subtype condition. As part of their abilities, condition operations convert themselves into condition counters and install themselves. A condition operation cannot be installed by an install effect; it can only be installed through its own conversion ability. See rule 10.1.4.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 33,
+      "end": 42,
+      "target": "condition"
+    },
+    {
+      "type": "subtype",
+      "start": 72,
+      "end": 81,
+      "target": "condition"
+    },
+    {
+      "type": "subtype",
+      "start": 117,
+      "end": 126,
+      "target": "condition"
+    },
+    {
+      "type": "subtype",
+      "start": 162,
+      "end": 171,
+      "target": "condition"
+    },
+    {
+      "type": "ref",
+      "start": 289,
+      "end": 300,
+      "ids": [
+        "rule_card_to_counter"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_operation_condition"
+}

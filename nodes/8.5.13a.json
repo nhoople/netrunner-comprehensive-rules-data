@@ -1,0 +1,35 @@
+{
+  "id": "rule_no_reveal_for_default_install",
+  "kind": "rule",
+  "number": "8.5.13a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_install_from_hidden_or_secret_zone",
+  "child_ids": [
+    "rule_no_reveal_for_default_install__example_1",
+    "rule_no_reveal_for_default_install__example_2"
+  ],
+  "text_markup": "Players are not required to and should not reveal an installed card simply to verify that it has an appropriate card type.",
+  "text_plain": "Players are not required to and should not reveal an installed card simply to verify that it has an appropriate card type.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_no_reveal_for_default_install__example_1",
+      "text_markup": "The Corp controls a remote server with a facedown card in its root, and uses a basic action to install another card into that root. To satisfy the rules, the new card must be an asset, upgrade, or agenda, since those are the only card types that can normally be installed in the root of a remote server. Additionally, at least one of the two cards must be an upgrade, since there can only be at most 1 asset or agenda in the root of a server. However, the Corp does not reveal cards to verify either of these properties.",
+      "text_plain": "The Corp controls a remote server with a facedown card in its root, and uses a basic action to install another card into that root. To satisfy the rules, the new card must be an asset, upgrade, or agenda, since those are the only card types that can normally be installed in the root of a remote server. Additionally, at least one of the two cards must be an upgrade, since there can only be at most 1 asset or agenda in the root of a server. However, the Corp does not reveal cards to verify either of these properties.",
+      "is_new": false
+    },
+    {
+      "id": "rule_no_reveal_for_default_install__example_2",
+      "text_markup": "The Corp resolves the first subroutine on {card:Brân 1.0}. They do not reveal the card they install to verify that it is a piece of ice as stipulated in the text of the subroutine, nor do they reveal the card to verify that it is a piece of ice as necessitated from installing it protecting a server.",
+      "text_plain": "The Corp resolves the first subroutine on Brân 1.0. They do not reveal the card they install to verify that it is a piece of ice as stipulated in the text of the subroutine, nor do they reveal the card to verify that it is a piece of ice as necessitated from installing it protecting a server.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_no_reveal_for_default_install"
+}

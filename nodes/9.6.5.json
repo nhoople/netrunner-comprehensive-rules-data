@@ -1,0 +1,35 @@
+{
+  "id": "rule_trigger_description",
+  "kind": "subsection",
+  "number": "9.6.5",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [
+    "rule_condition_checked_in_checkpoints",
+    "rule_condition_only_met_while_active",
+    "rule_condition_requirements_part_of_condition",
+    "rule_condition_requirements_part_of_effect",
+    "rule_condition_if_successful"
+  ],
+  "text_markup": "The trigger condition of most conditional abilities describes an occurrence that allows it to become pending. These rules about trigger conditions also apply to conditional abilities with static conditions, except as described in {ref:rule_conditional_ability_with_static_condition}.",
+  "text_plain": "The trigger condition of most conditional abilities describes an occurrence that allows it to become pending. These rules about trigger conditions also apply to conditional abilities with static conditions, except as described in section 9.6.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 230,
+      "end": 243,
+      "ids": [
+        "rule_conditional_ability_with_static_condition"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trigger_description"
+}

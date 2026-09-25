@@ -1,0 +1,29 @@
+{
+  "id": "rule_no_position_after_innermost_ice",
+  "kind": "rule",
+  "number": "6.2.5c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_position_runner",
+  "child_ids": [],
+  "text_markup": "Once the Runner leaves the innermost position protecting a server, they no longer have a position. This occurs at {ref:step_move_position} of the Movement Phase. However, abilities can still move the Runner to a position later in that phase.",
+  "text_plain": "Once the Runner leaves the innermost position protecting a server, they no longer have a position. This occurs at step 6.9.4d of the Movement Phase. However, abilities can still move the Runner to a position later in that phase.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 114,
+      "end": 125,
+      "ids": [
+        "step_move_position"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_no_position_after_innermost_ice"
+}

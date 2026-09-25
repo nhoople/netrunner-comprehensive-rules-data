@@ -1,0 +1,29 @@
+{
+  "id": "rule_install_cost_checkpoint",
+  "kind": "rule",
+  "number": "8.5.11c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_install_cost",
+  "child_ids": [],
+  "text_markup": "After the install cost is paid, a checkpoint occurs, as required by {ref:rule_checkpoint_after_paying_cost}.",
+  "text_plain": "After the install cost is paid, a checkpoint occurs, as required by rule 10.3.4.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 68,
+      "end": 79,
+      "ids": [
+        "rule_checkpoint_after_paying_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_install_cost_checkpoint"
+}

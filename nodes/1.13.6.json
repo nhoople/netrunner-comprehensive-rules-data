@@ -1,0 +1,24 @@
+{
+  "id": "rule_host_relationship",
+  "kind": "subsection",
+  "number": "1.13.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [
+    "rule_host_via_install",
+    "rule_host_via_ability",
+    "rule_host_on_ability",
+    "rule_condition_counter"
+  ],
+  "text_markup": "Any card in an eligible location can act as a host, but a host relationship can only be created or permitted by a card ability.",
+  "text_plain": "Any card in an eligible location can act as a host, but a host relationship can only be created or permitted by a card ability.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_host_relationship"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sec_ice",
+  "kind": "section",
+  "number": "3.4",
+  "ref_type": "section",
+  "title": "Ice",
+  "parent_id": "chpt_card_types",
+  "child_ids": [
+    "rule_ice_piece_of_ice",
+    "rule_ice_install",
+    "rule_ice_rez_cost",
+    "rule_ice_strength_value",
+    "rule_ice_trash_cost",
+    "rule_ice_install_cost",
+    "rule_ice_subroutine"
+  ],
+  "text_markup": "Ice",
+  "text_plain": "Ice",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Ice are sophisticated security systems that protect Corporate servers through a variety of means. \"Ice\" has been suggested to stand for a variety of expressions, but is most commonly expanded as \"Intrusion Countermeasures Electronics\".",
+  "snippet_plain": "Ice are sophisticated security systems that protect Corporate servers through a variety of means. \"Ice\" has been suggested to stand for a variety of expressions, but is most commonly expanded as \"Intrusion Countermeasures Electronics\".",
+  "url": "https://rules.nullsignal.games/?r=sec_ice"
+}

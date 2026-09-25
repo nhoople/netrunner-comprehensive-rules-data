@@ -1,0 +1,41 @@
+{
+  "id": "rule_no_reveal_for_server_limitation__example_1",
+  "kind": "example",
+  "number": "8.5.13b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_no_reveal_for_server_limitation",
+  "child_ids": [],
+  "text_markup": "The Corp installs a card in the root of a server with a rezzed {subtype:region} upgrade. The new card cannot also be a {subtype:region} upgrade (unless the old one is trashed as part of the installation), as per {ref:subsec_regions}. They do not reveal the installed card to verify this.",
+  "text_plain": "The Corp installs a card in the root of a server with a rezzed region upgrade. The new card cannot also be a region upgrade (unless the old one is trashed as part of the installation), as per section 3.6.5. They do not reveal the installed card to verify this.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 63,
+      "end": 69,
+      "target": "region"
+    },
+    {
+      "type": "subtype",
+      "start": 109,
+      "end": 115,
+      "target": "region"
+    },
+    {
+      "type": "ref",
+      "start": 192,
+      "end": 205,
+      "ids": [
+        "subsec_regions"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

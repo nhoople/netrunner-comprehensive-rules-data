@@ -1,0 +1,19 @@
+{
+  "id": "rule_hosted_when_installed",
+  "kind": "rule",
+  "number": "1.13.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_host_faceup_facedown",
+  "child_ids": [],
+  "text_markup": "Unless otherwise specified, a card that is hosted while it is being installed is hosted onto the destination card in the same faceup or facedown status it would normally be installed in.",
+  "text_plain": "Unless otherwise specified, a card that is hosted while it is being installed is hosted onto the destination card in the same faceup or facedown status it would normally be installed in.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_when_installed"
+}

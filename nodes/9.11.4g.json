@@ -1,0 +1,28 @@
+{
+  "id": "rule_choice_instruction",
+  "kind": "rule",
+  "number": "9.11.4g",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_instruction_sentence_exceptions",
+  "child_ids": [
+    "rule_choice_instruction__example_1"
+  ],
+  "text_markup": "If an effect directs a player to choose between a set of options that would create different effects, that choice ends an instruction. Each option begins its own instruction or set of instructions, and the one chosen will resolve next.",
+  "text_plain": "If an effect directs a player to choose between a set of options that would create different effects, that choice ends an instruction. Each option begins its own instruction or set of instructions, and the one chosen will resolve next.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_choice_instruction__example_1",
+      "text_markup": "The Runner encounters {card:Data Raven} and is forced by its first ability to resolve either \"take 1 tag\" or \"end the run.\" Making this choice ends the first instruction, and the option the Runner chooses will become imminent after a checkpoint.",
+      "text_plain": "The Runner encounters Data Raven and is forced by its first ability to resolve either \"take 1 tag\" or \"end the run.\" Making this choice ends the first instruction, and the option the Runner chooses will become imminent after a checkpoint.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_choice_instruction"
+}

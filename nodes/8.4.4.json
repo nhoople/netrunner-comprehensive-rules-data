@@ -1,0 +1,21 @@
+{
+  "id": "rule_drawing_simultaneously",
+  "kind": "subsection",
+  "number": "8.4.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_drawing_cards",
+  "child_ids": [
+    "rule_optional_drawing_simultaneously"
+  ],
+  "text_markup": "If an ability directs multiple players to draw cards at the same time, those players follow the procedure for drawing cards together. Abilities relating to all of those draws will become pending in the same reaction window.",
+  "text_plain": "If an ability directs multiple players to draw cards at the same time, those players follow the procedure for drawing cards together. Abilities relating to all of those draws will become pending in the same reaction window.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_drawing_simultaneously"
+}

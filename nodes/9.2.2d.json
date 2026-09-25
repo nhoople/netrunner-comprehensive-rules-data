@@ -1,0 +1,30 @@
+{
+  "id": "rule_accessing_timing_structure",
+  "kind": "rule",
+  "number": "9.2.2d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_timing_structure",
+  "child_ids": [],
+  "text_markup": "Accessing a card is a timing structure. See {ref:sec_accessing_cards,sec_steps_accessing_card}.",
+  "text_plain": "Accessing a card is a timing structure. See sections 7.1 and 7.2.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 44,
+      "end": 64,
+      "ids": [
+        "sec_accessing_cards",
+        "sec_steps_accessing_card"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_accessing_timing_structure"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rule_identity",
+  "kind": "subsection",
+  "number": "1.4.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_deck_construction",
+  "child_ids": [
+    "rule_gateway_identities"
+  ],
+  "text_markup": "Each player's deck is associated with a single identity card that determines the faction, minimum deck size, and influence limit of that deck. The identity card may also stipulate other variances from the standard deckbuilding rules.",
+  "text_plain": "Each player's deck is associated with a single identity card that determines the faction, minimum deck size, and influence limit of that deck. The identity card may also stipulate other variances from the standard deckbuilding rules.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identity"
+}

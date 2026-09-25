@@ -1,0 +1,23 @@
+{
+  "id": "subsec_bypass",
+  "kind": "subsection",
+  "number": "6.5.8",
+  "ref_type": "section",
+  "title": "Bypass",
+  "parent_id": "sec_encounter_ice_phase",
+  "child_ids": [
+    "rule_bypass",
+    "rule_bypass_start_of_encounter",
+    "rule_bypass_during_encounter"
+  ],
+  "text_markup": "Bypass",
+  "text_plain": "Bypass",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_bypass"
+}

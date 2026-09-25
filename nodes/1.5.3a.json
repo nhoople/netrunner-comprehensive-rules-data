@@ -1,0 +1,32 @@
+{
+  "id": "rule_adam_different_directives",
+  "kind": "rule",
+  "number": "1.5.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_adam",
+  "child_ids": [],
+  "text_markup": "A player playing Adam as their identity must bring at least 3 differently named cards with the {subtype:directive} subtype along with their deck. The player may bring any number of {subtype:directive} cards over the required 3.",
+  "text_plain": "A player playing Adam as their identity must bring at least 3 differently named cards with the directive subtype along with their deck. The player may bring any number of directive cards over the required 3.",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 95,
+      "end": 104,
+      "target": "directive"
+    },
+    {
+      "type": "subtype",
+      "start": 171,
+      "end": 180,
+      "target": "directive"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_adam_different_directives"
+}

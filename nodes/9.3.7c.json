@@ -1,0 +1,29 @@
+{
+  "id": "rule_conditional_abilities_link",
+  "kind": "rule",
+  "number": "9.3.7c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_ability_classification",
+  "child_ids": [],
+  "text_markup": "Conditional abilities ({ref:sec_conditional_abilities}) always contain a trigger condition or static condition and at least one instruction. They can also contain restrictions, other instructions, or nested conditions. The primary condition is often written with a timing-related word or phrase like \"when\", \"after\", \"the first time\", and so on, and is usually the first part of the ability's text. Some older cards write the condition at the end of the ability or use \"if\" to indicate the condition.",
+  "text_plain": "Conditional abilities (section 9.6) always contain a trigger condition or static condition and at least one instruction. They can also contain restrictions, other instructions, or nested conditions. The primary condition is often written with a timing-related word or phrase like \"when\", \"after\", \"the first time\", and so on, and is usually the first part of the ability's text. Some older cards write the condition at the end of the ability or use \"if\" to indicate the condition.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 23,
+      "end": 34,
+      "ids": [
+        "sec_conditional_abilities"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_conditional_abilities_link"
+}

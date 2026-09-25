@@ -1,0 +1,19 @@
+{
+  "id": "rule_static_condition_one_instance",
+  "kind": "rule",
+  "number": "9.6.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [],
+  "text_markup": "A conditional ability with a static condition can only have one instance at a time.",
+  "text_plain": "A conditional ability with a static condition can only have one instance at a time.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_static_condition_one_instance"
+}

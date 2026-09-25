@@ -1,0 +1,25 @@
+{
+  "id": "subsec_quantities_and_sets",
+  "kind": "subsection",
+  "number": "9.12.2",
+  "ref_type": "section",
+  "title": "Quantities and Sets",
+  "parent_id": "sec_other_rules_and_terminology",
+  "child_ids": [
+    "rule_act_on_multiple_cards",
+    "rule_calculated_quantity",
+    "rule_aggregated_instructions",
+    "rule_vacuous_truth",
+    "rule_values_defined_by_x"
+  ],
+  "text_markup": "Quantities and Sets",
+  "text_plain": "Quantities and Sets",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=subsec_quantities_and_sets"
+}

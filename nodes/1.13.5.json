@@ -1,0 +1,19 @@
+{
+  "id": "rule_hosting_limit",
+  "kind": "rule",
+  "number": "1.13.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [],
+  "text_markup": "A card can host any number of other objects, except where explicitly restricted by a card ability.",
+  "text_plain": "A card can host any number of other objects, except where explicitly restricted by a card ability.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosting_limit"
+}

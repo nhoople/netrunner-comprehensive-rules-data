@@ -1,0 +1,19 @@
+{
+  "id": "rule_modifiable_value_damage",
+  "kind": "rule",
+  "number": "9.9.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_modifiable_values",
+  "child_ids": [],
+  "text_markup": "An amount of damage the Runner would take from an effect is a value. Preventing an amount of that damage decreases that value. The value for an amount of damage the Runner takes must be greater than 0 for the damage effect to occur.",
+  "text_plain": "An amount of damage the Runner would take from an effect is a value. Preventing an amount of that damage decreases that value. The value for an amount of damage the Runner takes must be greater than 0 for the damage effect to occur.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modifiable_value_damage"
+}

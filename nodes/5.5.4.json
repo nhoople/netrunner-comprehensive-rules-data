@@ -1,0 +1,49 @@
+{
+  "id": "rule_discard_step",
+  "kind": "subsection",
+  "number": "5.5.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_discard_phase",
+  "child_ids": [
+    "rule_runner_discard_step",
+    "rule_discard_step_noop",
+    "rule_discarding_process",
+    "rule_skip_discard_step"
+  ],
+  "text_markup": "The {term:discard step} is {ref:step_corp_turn_discard} for the Corp, and {ref:step_runner_turn_discard} for the Runner. In that step, the active player discards cards to reach their maximum hand size.",
+  "text_plain": "The discard step is step 5.6.3a for the Corp, and step 5.7.2a for the Runner. In that step, the active player discards cards to reach their maximum hand size.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 16,
+      "target": "discard step"
+    },
+    {
+      "type": "ref",
+      "start": 20,
+      "end": 31,
+      "ids": [
+        "step_corp_turn_discard"
+      ],
+      "combiner": "and"
+    },
+    {
+      "type": "ref",
+      "start": 50,
+      "end": 61,
+      "ids": [
+        "step_runner_turn_discard"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_discard_step"
+}

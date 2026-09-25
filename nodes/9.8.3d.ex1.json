@@ -1,0 +1,48 @@
+{
+  "id": "rule_subroutine_origin_static_after__example_1",
+  "kind": "example",
+  "number": "9.8.3d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_subroutine_origin_static_after",
+  "child_ids": [],
+  "text_markup": "The Corp has 3 cards in HQ while the Runner is encountering {card:Ashigaru}. After the Runner breaks {card:Ashigaru}'s 3 subroutines, the Corp uses {card:Panic Button} to draw another card. The new subroutine is added after the previous 3, so the Runner can use {card:Gbahali} to break it.",
+  "text_plain": "The Corp has 3 cards in HQ while the Runner is encountering Ashigaru. After the Runner breaks Ashigaru's 3 subroutines, the Corp uses Panic Button to draw another card. The new subroutine is added after the previous 3, so the Runner can use Gbahali to break it.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 60,
+      "end": 68,
+      "target": "Ashigaru",
+      "card_code": "06064"
+    },
+    {
+      "type": "card",
+      "start": 94,
+      "end": 102,
+      "target": "Ashigaru",
+      "card_code": "06064"
+    },
+    {
+      "type": "card",
+      "start": 134,
+      "end": 146,
+      "target": "Panic Button",
+      "card_code": "04072"
+    },
+    {
+      "type": "card",
+      "start": 241,
+      "end": 248,
+      "target": "Gbahali",
+      "card_code": "21047"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

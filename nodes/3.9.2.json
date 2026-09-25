@@ -1,0 +1,29 @@
+{
+  "id": "rule_program_install_cost",
+  "kind": "rule",
+  "number": "3.9.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_programs",
+  "child_ids": [],
+  "text_markup": "Programs are among the types of cards with install costs. The Runner installs a program faceup and active by paying its install cost. See {ref:sec_install_uninstall}.",
+  "text_plain": "Programs are among the types of cards with install costs. The Runner installs a program faceup and active by paying its install cost. See section 8.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 138,
+      "end": 149,
+      "ids": [
+        "sec_install_uninstall"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_program_install_cost"
+}

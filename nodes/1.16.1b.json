@@ -1,0 +1,35 @@
+{
+  "id": "rule_cost_interrupt_static_mandatory",
+  "kind": "rule",
+  "number": "1.16.1b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_cost",
+  "child_ids": [
+    "rule_cost_interrupt_static_mandatory__example_1",
+    "rule_cost_interrupt_static_mandatory__example_2"
+  ],
+  "text_markup": "If a static ability or a mandatory conditional ability interrupt would prevent the steps of paying a cost from being carried out if they were performed as an effect, that cost cannot be paid.",
+  "text_plain": "If a static ability or a mandatory conditional ability interrupt would prevent the steps of paying a cost from being carried out if they were performed as an effect, that cost cannot be paid.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_cost_interrupt_static_mandatory__example_1",
+      "text_markup": "The Runner cannot pay the additional cost to steal {card:Obokata Protocol} while {card:Guru Davinder} is installed, because the Runner could not currently take 4 damage if instructed to: {card:Guru Davinder}'s first ability would prevent the damage.",
+      "text_plain": "The Runner cannot pay the additional cost to steal Obokata Protocol while Guru Davinder is installed, because the Runner could not currently take 4 damage if instructed to: Guru Davinder's first ability would prevent the damage.",
+      "is_new": false
+    },
+    {
+      "id": "rule_cost_interrupt_static_mandatory__example_2",
+      "text_markup": "The Runner is playing as {card:Jesminder Sareen} and encounters {card:Funhouse}, without any other tag-related effects resolving earlier in the run. Since {card:Jesminder Sareen}'s ability would prevent taking 1 tag, the Runner cannot take 1 tag to pay the nested cost in {card:Funhouse}'s ability. {card:Funhouse} will end the run.",
+      "text_plain": "The Runner is playing as Jesminder Sareen and encounters Funhouse, without any other tag-related effects resolving earlier in the run. Since Jesminder Sareen's ability would prevent taking 1 tag, the Runner cannot take 1 tag to pay the nested cost in Funhouse's ability. Funhouse will end the run.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cost_interrupt_static_mandatory"
+}

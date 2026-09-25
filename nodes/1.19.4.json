@@ -1,0 +1,37 @@
+{
+  "id": "rule_trash_symbol",
+  "kind": "subsection",
+  "number": "1.19.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_trashing",
+  "child_ids": [
+    "rule_trash_ability",
+    "rule_use_trash_ability",
+    "rule_trash_symbol__example_1"
+  ],
+  "text_markup": "The symbol [trash] represents trashing the object it appears on. It is used as a cost for certain abilities.",
+  "text_plain": "The symbol {trash} represents trashing the object it appears on. It is used as a cost for certain abilities.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 11,
+      "end": 18,
+      "target": "trash"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_trash_symbol__example_1",
+      "text_markup": "{card:Fall Guy}'s last ability reads \"[trash]: Gain 2[c].\" The cost to trigger this ability is to trash {card:Fall Guy}.",
+      "text_plain": "Fall Guy's last ability reads \"{trash}: Gain 2{c}.\" The cost to trigger this ability is to trash Fall Guy.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_trash_symbol"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_declaring_successful_run",
+  "kind": "rule",
+  "number": "6.7.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_success_phase",
+  "child_ids": [],
+  "text_markup": "Declaring a run to be successful is not the same as the Success Phase beginning. Accordingly, abilities that have trigger conditions related to a successful run are not subject to {ref:rule_reaction_window_closing_timing_structure}.",
+  "text_plain": "Declaring a run to be successful is not the same as the Success Phase beginning. Accordingly, abilities that have trigger conditions related to a successful run are not subject to rule 9.2.8f.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 180,
+      "end": 191,
+      "ids": [
+        "rule_reaction_window_closing_timing_structure"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_declaring_successful_run"
+}

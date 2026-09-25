@@ -1,0 +1,38 @@
+{
+  "id": "rule_target_beyond_move",
+  "kind": "rule",
+  "number": "1.15.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_targets",
+  "child_ids": [
+    "rule_target_beyond_move__example_1"
+  ],
+  "text_markup": "After the resolution of an instruction that chose a particular target, subsequent instructions of the same ability can continue to act on that target without needing to select it again, even if the ability moves the target or changes its properties. See also {ref:rule_no_memory}.",
+  "text_plain": "After the resolution of an instruction that chose a particular target, subsequent instructions of the same ability can continue to act on that target without needing to select it again, even if the ability moves the target or changes its properties. See also section 1.12.2.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 259,
+      "end": 273,
+      "ids": [
+        "rule_no_memory"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_target_beyond_move__example_1",
+      "text_markup": "{card:Howler}'s ability targets a card in HQ. Its first instruction installs that card, and its second instruction creates a delayed conditional ability that refers to that card in the play area. The latter ability can find and act on the card as long as it is still installed.",
+      "text_plain": "Howler's ability targets a card in HQ. Its first instruction installs that card, and its second instruction creates a delayed conditional ability that refers to that card in the play area. The latter ability can find and act on the card as long as it is still installed.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_target_beyond_move"
+}

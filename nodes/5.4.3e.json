@@ -1,0 +1,29 @@
+{
+  "id": "rule_terminal_to_discard_phase",
+  "kind": "rule",
+  "number": "5.4.3e",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_forced_action_phase_end",
+  "child_ids": [],
+  "text_markup": "After completing any reaction windows opened by the checkpoint from {ref:rule_terminal_checkpoint}, the game proceeds to the active player's discard phase.",
+  "text_plain": "After completing any reaction windows opened by the checkpoint from rule 5.4.3d, the game proceeds to the active player's discard phase.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 68,
+      "end": 79,
+      "ids": [
+        "rule_terminal_checkpoint"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_terminal_to_discard_phase"
+}

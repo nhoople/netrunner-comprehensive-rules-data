@@ -1,0 +1,19 @@
+{
+  "id": "rule_discarding_facedown_status",
+  "kind": "rule",
+  "number": "5.5.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_discard_phase_discarding",
+  "child_ids": [],
+  "text_markup": "Cards discarded from HQ are always sent to Archives facedown, regardless of whether they have been previously accessed by the Runner.",
+  "text_plain": "Cards discarded from HQ are always sent to Archives facedown, regardless of whether they have been previously accessed by the Runner.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_discarding_facedown_status"
+}

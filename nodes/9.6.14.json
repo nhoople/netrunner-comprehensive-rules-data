@@ -1,0 +1,24 @@
+{
+  "id": "rule_references_to_trigger_conditions",
+  "kind": "subsection",
+  "number": "9.6.14",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [
+    "rule_when_encountered",
+    "rule_when_installed",
+    "rule_when_scored",
+    "rule_instructed_to_resolve_conditional_ability"
+  ],
+  "text_markup": "Some cards refer to a class of conditional abilities according to their trigger condition.",
+  "text_plain": "Some cards refer to a class of conditional abilities according to their trigger condition.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_references_to_trigger_conditions"
+}

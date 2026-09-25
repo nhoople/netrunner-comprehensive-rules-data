@@ -1,0 +1,19 @@
+{
+  "id": "rule_default_location",
+  "kind": "rule",
+  "number": "4.1.7d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_location",
+  "child_ids": [],
+  "text_markup": "All other objects are simply located in their zone and do not have a more specific location.",
+  "text_plain": "All other objects are simply located in their zone and do not have a more specific location.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_default_location"
+}

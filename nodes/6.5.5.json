@@ -1,0 +1,29 @@
+{
+  "id": "rule_encounter_sub_resolve",
+  "kind": "rule",
+  "number": "6.5.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_encounter_ice_phase",
+  "child_ids": [],
+  "text_markup": "After the paid ability window in the Encounter Ice Phase closes, unbroken subroutines on the encountered ice resolve. See {ref:rule_resolve_unbroken_subroutines}.",
+  "text_plain": "After the paid ability window in the Encounter Ice Phase closes, unbroken subroutines on the encountered ice resolve. See section 9.8.7.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 122,
+      "end": 135,
+      "ids": [
+        "rule_resolve_unbroken_subroutines"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_encounter_sub_resolve"
+}

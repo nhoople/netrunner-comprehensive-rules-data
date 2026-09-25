@@ -1,0 +1,24 @@
+{
+  "id": "rule_host_faceup_facedown",
+  "kind": "subsection",
+  "number": "1.13.7",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [
+    "rule_hosted_when_installed",
+    "rule_hosted_when_not_installed",
+    "rule_hosted_facedown_distinct",
+    "rule_hosted_facedown_groups"
+  ],
+  "text_markup": "Cards can be hosted faceup or facedown.",
+  "text_plain": "Cards can be hosted faceup or facedown.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_host_faceup_facedown"
+}

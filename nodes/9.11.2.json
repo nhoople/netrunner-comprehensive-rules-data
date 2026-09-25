@@ -1,0 +1,21 @@
+{
+  "id": "rule_step_in_timing_structure_is_instruction",
+  "kind": "subsection",
+  "number": "9.11.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_identifying_instructions",
+  "child_ids": [
+    "rule_step_sequences"
+  ],
+  "text_markup": "Each step in a timing structure forms a single instruction, and is accordingly preceded by an interrupt window and followed by a checkpoint.",
+  "text_plain": "Each step in a timing structure forms a single instruction, and is accordingly preceded by an interrupt window and followed by a checkpoint.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_step_in_timing_structure_is_instruction"
+}

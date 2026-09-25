@@ -1,0 +1,25 @@
+{
+  "id": "sec_credits",
+  "kind": "section",
+  "number": "1.10",
+  "ref_type": "section",
+  "title": "Credits",
+  "parent_id": "chpt_game_concepts",
+  "child_ids": [
+    "rule_credit",
+    "rule_credit_pool",
+    "rule_gain_spend_lose_credits",
+    "rule_hosted_credits",
+    "rule_sec_recurring"
+  ],
+  "text_markup": "Credits",
+  "text_plain": "Credits",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Each of the Runner's credits represents enough money to upgrade some basic parts for their console, have a meal at a decent restaurant, or buy a ticket and some concessions for a night at the sensies.\nEach of the Corp's credits represents enough money to manufacture a run of computer parts, buy out a decent restaurant, or film a low-budget sensie.",
+  "snippet_plain": "Each of the Runner's credits represents enough money to upgrade some basic parts for their console, have a meal at a decent restaurant, or buy a ticket and some concessions for a night at the sensies.\nEach of the Corp's credits represents enough money to manufacture a run of computer parts, buy out a decent restaurant, or film a low-budget sensie.",
+  "url": "https://rules.nullsignal.games/?r=sec_credits"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_persistent_expiration",
+  "kind": "rule",
+  "number": "9.12.5c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_persistent",
+  "child_ids": [],
+  "text_markup": "An ability only persists until just after the end of the run during which it began to persist. When the reaction window immediately following {ref:step_run_complete} of that run closes, the lingering effect allowing the ability to persist expires, and the ability ceases to persist.",
+  "text_plain": "An ability only persists until just after the end of the run during which it began to persist. When the reaction window immediately following step 6.9.6d of that run closes, the lingering effect allowing the ability to persist expires, and the ability ceases to persist.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 142,
+      "end": 153,
+      "ids": [
+        "step_run_complete"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_persistent_expiration"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_reveal_not_turn_faceup",
+  "kind": "rule",
+  "number": "1.21.3a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_reveal",
+  "child_ids": [],
+  "text_markup": "Revealing a facedown card does not count as turning it faceup.",
+  "text_plain": "Revealing a facedown card does not count as turning it faceup.",
+  "spans": [],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_reveal_not_turn_faceup"
+}

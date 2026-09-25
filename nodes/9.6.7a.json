@@ -1,0 +1,19 @@
+{
+  "id": "rule_conditional_ability_check_to_become_pending",
+  "kind": "rule",
+  "number": "9.6.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_conditional_ability_with_static_condition",
+  "child_ids": [],
+  "text_markup": "During each checkpoint, the game checks whether any conditional abilities with static conditions should become pending, alongside conditional abilities with trigger conditions. However, there are further requirements for this kind of ability to be marked pending.",
+  "text_plain": "During each checkpoint, the game checks whether any conditional abilities with static conditions should become pending, alongside conditional abilities with trigger conditions. However, there are further requirements for this kind of ability to be marked pending.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_conditional_ability_check_to_become_pending"
+}

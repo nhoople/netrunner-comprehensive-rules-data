@@ -1,0 +1,32 @@
+{
+  "id": "rule_click",
+  "kind": "rule",
+  "number": "1.11.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_clicks",
+  "child_ids": [],
+  "text_markup": "A {term:click} ([click]) is the basic unit of activity. Players spend their clicks to perform actions and trigger abilities. Each click counter represents 1 click.",
+  "text_plain": "A click ({click}) is the basic unit of activity. Players spend their clicks to perform actions and trigger abilities. Each click counter represents 1 click.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 7,
+      "target": "click"
+    },
+    {
+      "type": "symbol",
+      "start": 9,
+      "end": 16,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_click"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rule_inf_cost_citation",
+  "kind": "rule",
+  "number": "2.14.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_inf_cost",
+  "child_ids": [],
+  "text_markup": "{ref:Sec_deck_construction} details how a card's influence cost (or lack thereof) affects deckbuilding.",
+  "text_plain": "Section 1.4 details how a card's influence cost (or lack thereof) affects deckbuilding.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 0,
+      "end": 11,
+      "ids": [
+        "sec_deck_construction"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_inf_cost_citation"
+}

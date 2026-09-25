@@ -1,0 +1,35 @@
+{
+  "id": "movement_arrange",
+  "kind": "rule",
+  "number": "8.2.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_movements",
+  "child_ids": [],
+  "text_markup": "To {term:arrange} a set of cards is to reposition them among their current locations. The full rules for arranging are detailed in {ref:sec_arranging_rearranging}.",
+  "text_plain": "To arrange a set of cards is to reposition them among their current locations. The full rules for arranging are detailed in section 8.3.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 3,
+      "end": 10,
+      "target": "arrange"
+    },
+    {
+      "type": "ref",
+      "start": 124,
+      "end": 135,
+      "ids": [
+        "sec_arranging_rearranging"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=movement_arrange"
+}

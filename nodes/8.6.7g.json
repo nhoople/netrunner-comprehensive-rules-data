@@ -1,0 +1,19 @@
+{
+  "id": "rule_steps_playing_trash_played_card",
+  "kind": "rule",
+  "number": "8.6.7g",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_playing",
+  "child_ids": [],
+  "text_markup": "Trash the card if applicable.",
+  "text_plain": "Trash the card if applicable.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_steps_playing_trash_played_card"
+}

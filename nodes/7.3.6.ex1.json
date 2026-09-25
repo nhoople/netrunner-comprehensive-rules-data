@@ -1,0 +1,47 @@
+{
+  "id": "rule_number_of_accesses__example_1",
+  "kind": "example",
+  "number": "7.3.6.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_number_of_accesses",
+  "child_ids": [],
+  "text_markup": "The Runner uses {card:Hades Shard} to breach Archives during a run on HQ. For 1 of the accesses in that breach, after choosing a candidate, they use {card:Archives Interface} to apply a replacement effect, removing the chosen candidate from the game instead of accessing it. When the run ends, the Runner uses {card:Zahya Sadeghi: Versatile Smuggler} to gain 1[c] for each time they accessed a card during the run. The access that was replaced does not contribute to the number of credits the Runner gains.",
+  "text_plain": "The Runner uses Hades Shard to breach Archives during a run on HQ. For 1 of the accesses in that breach, after choosing a candidate, they use Archives Interface to apply a replacement effect, removing the chosen candidate from the game instead of accessing it. When the run ends, the Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1{c} for each time they accessed a card during the run. The access that was replaced does not contribute to the number of credits the Runner gains.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 16,
+      "end": 27,
+      "target": "Hades Shard",
+      "card_code": "06059"
+    },
+    {
+      "type": "card",
+      "start": 142,
+      "end": 160,
+      "target": "Archives Interface",
+      "card_code": "07044"
+    },
+    {
+      "type": "card",
+      "start": 296,
+      "end": 329,
+      "target": "Zahya Sadeghi: Versatile Smuggler",
+      "card_code": "30010"
+    },
+    {
+      "type": "symbol",
+      "start": 339,
+      "end": 342,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

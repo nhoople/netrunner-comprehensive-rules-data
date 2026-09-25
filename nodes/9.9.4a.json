@@ -1,0 +1,29 @@
+{
+  "id": "rule_apply_replacement_effects_on_opening_interrupt_window",
+  "kind": "rule",
+  "number": "9.9.4a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_interrupt_window_for_imminent_instruction",
+  "child_ids": [],
+  "text_markup": "As the window opens, the initial expected effects of the instruction are determined, then any active replacement effects that replace all or part of the expected effects are applied. If multiple replacement effects could apply, the order in which they are applied follows the rules in {ref:rule_order_of_replacement_effects}.",
+  "text_plain": "As the window opens, the initial expected effects of the instruction are determined, then any active replacement effects that replace all or part of the expected effects are applied. If multiple replacement effects could apply, the order in which they are applied follows the rules in section 9.9.11.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 285,
+      "end": 299,
+      "ids": [
+        "rule_order_of_replacement_effects"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_apply_replacement_effects_on_opening_interrupt_window"
+}

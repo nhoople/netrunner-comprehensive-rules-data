@@ -1,0 +1,27 @@
+{
+  "id": "rule_subroutines_static_ability_remove_subroutines",
+  "kind": "rule",
+  "number": "9.8.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_subroutines_ordered",
+  "child_ids": [],
+  "text_markup": "One card, {card:Hive}, has a static ability that removes its own printed subroutines. Subroutines are lost to this ability beginning with the last printed subroutine and working backwards.",
+  "text_plain": "One card, Hive, has a static ability that removes its own printed subroutines. Subroutines are lost to this ability beginning with the last printed subroutine and working backwards.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 14,
+      "target": "Hive",
+      "card_code": "20087"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutines_static_ability_remove_subroutines"
+}

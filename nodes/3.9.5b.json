@@ -1,0 +1,41 @@
+{
+  "id": "rule_icebreaker_strength_increase_implicit",
+  "kind": "rule",
+  "number": "3.9.5b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_icebreakers",
+  "child_ids": [
+    "rule_icebreaker_strength_increase_implicit__example_1"
+  ],
+  "text_markup": "Paid abilities on an {subtype:icebreaker} that modify that {subtype:icebreaker}'s strength implicitly have a duration of \"for the remainder of the current encounter\".",
+  "text_plain": "Paid abilities on an icebreaker that modify that icebreaker's strength implicitly have a duration of \"for the remainder of the current encounter\".",
+  "spans": [
+    {
+      "type": "subtype",
+      "start": 21,
+      "end": 31,
+      "target": "icebreaker"
+    },
+    {
+      "type": "subtype",
+      "start": 49,
+      "end": 59,
+      "target": "icebreaker"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_icebreaker_strength_increase_implicit__example_1",
+      "text_markup": "{card:Corroder} has the ability \"1[c]: +1 strength.\"\" Since no duration is specified, this strength increase applies until the end of the current encounter.",
+      "text_plain": "Corroder has the ability \"1{c}: +1 strength.\"\" Since no duration is specified, this strength increase applies until the end of the current encounter.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_icebreaker_strength_increase_implicit"
+}

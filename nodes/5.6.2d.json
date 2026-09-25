@@ -1,0 +1,19 @@
+{
+  "id": "step_corp_turn_action_phase_end",
+  "kind": "rule",
+  "number": "5.6.2d",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "subsec_corp_action_phase",
+  "child_ids": [],
+  "text_markup": "The Corp's action phase formally ends. Conditions related to the action phase ending are met.",
+  "text_plain": "The Corp's action phase formally ends. Conditions related to the action phase ending are met.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_corp_turn_action_phase_end"
+}

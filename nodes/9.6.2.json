@@ -1,0 +1,32 @@
+{
+  "id": "rule_pending_instances",
+  "kind": "rule",
+  "number": "9.6.2",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_conditional_abilities",
+  "child_ids": [],
+  "text_markup": "When a conditional ability has met its condition, one or more {term:instances} of that conditional ability is created {term:pending} in the next reaction window that opens. Each instance of a conditional ability is a separate copy of that ability that resolves independently of the others. An instance of an ability with the pending status is waiting for its controller to trigger it.",
+  "text_plain": "When a conditional ability has met its condition, one or more instances of that conditional ability is created pending in the next reaction window that opens. Each instance of a conditional ability is a separate copy of that ability that resolves independently of the others. An instance of an ability with the pending status is waiting for its controller to trigger it.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 62,
+      "end": 71,
+      "target": "instances"
+    },
+    {
+      "type": "term",
+      "start": 111,
+      "end": 118,
+      "target": "pending"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_pending_instances"
+}

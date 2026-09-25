@@ -1,0 +1,19 @@
+{
+  "id": "rule_facedown_runner_cards_are_distinct",
+  "kind": "rule",
+  "number": "8.1.4b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_facedown_runner_cards",
+  "child_ids": [],
+  "text_markup": "Facedown installed Runner cards are distinct. The origin of each such card (when and how it was installed facedown, or what faceup installed card was turned facedown) is open information.",
+  "text_plain": "Facedown installed Runner cards are distinct. The origin of each such card (when and how it was installed facedown, or what faceup installed card was turned facedown) is open information.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_facedown_runner_cards_are_distinct"
+}

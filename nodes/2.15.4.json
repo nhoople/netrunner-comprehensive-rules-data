@@ -1,0 +1,29 @@
+{
+  "id": "rule_card_type_conversion_citation",
+  "kind": "rule",
+  "number": "2.15.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_type",
+  "child_ids": [],
+  "text_markup": "Abilities can change a card from its printed type to an agenda. See {ref:rule_add_card_to_score_area}.",
+  "text_plain": "Abilities can change a card from its printed type to an agenda. See rule 10.1.3.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 68,
+      "end": 79,
+      "ids": [
+        "rule_add_card_to_score_area"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_card_type_conversion_citation"
+}

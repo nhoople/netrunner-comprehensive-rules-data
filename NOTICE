@@ -1,0 +1,25 @@
+Netrunner Comprehensive Rules Data
+=================================
+
+This repository is an unofficial community dataset. It is not associated with,
+produced by, or endorsed by Null Signal Games, Fantasy Flight Games,
+R. Talsorian Games, or Wizards of the Coast.
+
+The Comprehensive Rules text is published by Null Signal Games as reference
+material. Machine-readable YAML used to generate the published PDF and web
+editions lives in the public document-generator repository maintained by a
+Null Signal Games rules associate:
+
+  https://github.com/rubenpieters/netrunner-comprehensive-rules
+
+That YAML is a build pipeline for the published Comprehensive Rules. The
+semantic source of truth for this dataset is the published CR
+(https://rules.nullsignal.games/). If this conversion disagrees with the
+published document, the published numbering and wording win.
+
+Netrunner is a trademark of R. Talsorian Games, Inc. Android is a trademark
+of and copyright Fantasy Flight Games.
+
+Toolchain code in `src/` and `scripts/` is offered under the MIT License
+(see LICENSE). Do not assume a license to commercially reuse Null Signal
+Games rules text beyond what NSG itself permits for reference material.

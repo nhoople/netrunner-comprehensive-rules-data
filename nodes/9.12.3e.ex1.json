@@ -1,0 +1,66 @@
+{
+  "id": "rule_must_cannot_force_additional_cost__example_1",
+  "kind": "example",
+  "number": "9.12.3e.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_must_cannot_force_additional_cost",
+  "child_ids": [],
+  "text_markup": "If {card:Service Outage} is active and the Runner has {card:Always Be Running} installed, the Runner can decline to pay the additional 1[c] to make a run with their first [click], thus satisfying the \"must\" of {card:Always Be Running} and allowing them to spend their first click on a different action. However, if a Runner has a {card:False Echo} installed and passes an unrezzed Archer, the Corporation cannot choose to rez the Archer but decline to forfeit an agenda; the Corp must either pay 4[c] and forfeit an agenda to rez the Archer or add the Archer to HQ.",
+  "text_plain": "If Service Outage is active and the Runner has Always Be Running installed, the Runner can decline to pay the additional 1{c} to make a run with their first {click}, thus satisfying the \"must\" of Always Be Running and allowing them to spend their first click on a different action. However, if a Runner has a False Echo installed and passes an unrezzed Archer, the Corporation cannot choose to rez the Archer but decline to forfeit an agenda; the Corp must either pay 4{c} and forfeit an agenda to rez the Archer or add the Archer to HQ.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 3,
+      "end": 17,
+      "target": "Service Outage",
+      "card_code": "11057"
+    },
+    {
+      "type": "card",
+      "start": 47,
+      "end": 64,
+      "target": "Always Be Running",
+      "card_code": "09041"
+    },
+    {
+      "type": "symbol",
+      "start": 122,
+      "end": 125,
+      "target": "credit"
+    },
+    {
+      "type": "symbol",
+      "start": 157,
+      "end": 164,
+      "target": "click"
+    },
+    {
+      "type": "card",
+      "start": 196,
+      "end": 213,
+      "target": "Always Be Running",
+      "card_code": "09041"
+    },
+    {
+      "type": "card",
+      "start": 309,
+      "end": 319,
+      "target": "False Echo",
+      "card_code": "04007"
+    },
+    {
+      "type": "symbol",
+      "start": 469,
+      "end": 472,
+      "target": "credit"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

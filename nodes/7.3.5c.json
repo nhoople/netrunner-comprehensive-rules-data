@@ -1,0 +1,25 @@
+{
+  "id": "rule_counting_random_access_limit",
+  "kind": "rule",
+  "number": "7.3.5c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_random_access_limit",
+  "child_ids": [],
+  "text_markup": "{n}If the Runner chooses a candidate in HQ or R&D but does not actually access that card for any reason, that candidate still counts towards reaching the random access limit.{/n}",
+  "text_plain": "If the Runner chooses a candidate in HQ or R&D but does not actually access that card for any reason, that candidate still counts towards reaching the random access limit.",
+  "spans": [
+    {
+      "type": "new",
+      "start": 0,
+      "end": 171
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_counting_random_access_limit"
+}

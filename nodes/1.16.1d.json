@@ -1,0 +1,28 @@
+{
+  "id": "rule_cost_zero",
+  "kind": "rule",
+  "number": "1.16.1d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_cost",
+  "child_ids": [
+    "rule_cost_zero__example_1"
+  ],
+  "text_markup": "A cost of 0 can still be paid by a player, even though no items are paid. Costs of 0 are not paid automatically. A player pays a cost of 0 by explicitly announcing they are paying it.",
+  "text_plain": "A cost of 0 can still be paid by a player, even though no items are paid. Costs of 0 are not paid automatically. A player pays a cost of 0 by explicitly announcing they are paying it.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_cost_zero__example_1",
+      "text_markup": "The Runner accesses a {card:Beanstalk Royalties} from R&D and announces that they are using the ability of {card:Freedom Khumalo: Crypto-Anarchist} to trash the {card:Beanstalk Royalties}. Even though the Runner does not remove any virus counters from any cards, they have still paid the cost.",
+      "text_plain": "The Runner accesses a Beanstalk Royalties from R&D and announces that they are using the ability of Freedom Khumalo: Crypto-Anarchist to trash the Beanstalk Royalties. Even though the Runner does not remove any virus counters from any cards, they have still paid the cost.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cost_zero"
+}

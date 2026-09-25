@@ -1,0 +1,28 @@
+{
+  "id": "rule_no_position_after_approach_server",
+  "kind": "rule",
+  "number": "6.2.5d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_position_runner",
+  "child_ids": [
+    "rule_no_position_after_approach_server__example_1"
+  ],
+  "text_markup": "During the Success Phase and the Run Ends Phase, the Runner has no position and can no longer move to a position.",
+  "text_plain": "During the Success Phase and the Run Ends Phase, the Runner has no position and can no longer move to a position.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_no_position_after_approach_server__example_1",
+      "text_markup": "The Corp uses {card:Ganked!} to force the Runner to encounter {card:Cell Portal} in the middle of breaching a server. Since the run is already successful, resolving {card:Cell Portal}'s subroutine will have no meaningful effect except to derez {card:Cell Portal}.",
+      "text_plain": "The Corp uses Ganked! to force the Runner to encounter Cell Portal in the middle of breaching a server. Since the run is already successful, resolving Cell Portal's subroutine will have no meaningful effect except to derez Cell Portal.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_no_position_after_approach_server"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_priority_window_types",
+  "kind": "rule",
+  "number": "9.2.5",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_timing_and_priority",
+  "child_ids": [],
+  "text_markup": "The types of priority windows are action windows, paid ability windows, reaction windows, interrupt windows, and mid-access ability windows.",
+  "text_plain": "The types of priority windows are action windows, paid ability windows, reaction windows, interrupt windows, and mid-access ability windows.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_priority_window_types"
+}

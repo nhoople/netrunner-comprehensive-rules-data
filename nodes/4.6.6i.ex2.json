@@ -1,0 +1,48 @@
+{
+  "id": "rule_this_server__example_2",
+  "kind": "example",
+  "number": "4.6.6i.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_this_server",
+  "child_ids": [],
+  "text_markup": "The Corp uses the ability granted by {card:ZATO City Grid} to trash {card:Border Control} and resolve its first subroutine. The phrase \"this server\" in that subroutine refers to the server from which the {card:Border Control} was trashed. However, {card:Border Control} is no longer protecting that server, so it is not included in the number of ice counted.",
+  "text_plain": "The Corp uses the ability granted by ZATO City Grid to trash Border Control and resolve its first subroutine. The phrase \"this server\" in that subroutine refers to the server from which the Border Control was trashed. However, Border Control is no longer protecting that server, so it is not included in the number of ice counted.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 37,
+      "end": 51,
+      "target": "ZATO City Grid",
+      "card_code": "33127"
+    },
+    {
+      "type": "card",
+      "start": 61,
+      "end": 75,
+      "target": "Border Control",
+      "card_code": "28005"
+    },
+    {
+      "type": "card",
+      "start": 190,
+      "end": 204,
+      "target": "Border Control",
+      "card_code": "28005"
+    },
+    {
+      "type": "card",
+      "start": 227,
+      "end": 241,
+      "target": "Border Control",
+      "card_code": "28005"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

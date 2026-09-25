@@ -1,0 +1,19 @@
+{
+  "id": "step_encounter_paw",
+  "kind": "rule",
+  "number": "6.9.3b",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_encounter_ice_phase",
+  "child_ids": [],
+  "text_markup": "A paid ability window occurs, in which players may only use paid abilities. Subroutines on the encountered ice can be broken during this window. (P)",
+  "text_plain": "A paid ability window occurs, in which players may only use paid abilities. Subroutines on the encountered ice can be broken during this window. (P)",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_encounter_paw"
+}

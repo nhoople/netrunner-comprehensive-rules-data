@@ -1,0 +1,28 @@
+{
+  "id": "rule_hosted_object_same_zone_as_host",
+  "kind": "rule",
+  "number": "1.13.12",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_host",
+  "child_ids": [
+    "rule_hosted_object_same_zone_as_host__example_1"
+  ],
+  "text_markup": "Creating a hosting relationship moves the hosted object to the same zone as the host. If the hosted object is subsequently moved to another zone or hosted on a different card, the hosting relationship ends.",
+  "text_plain": "Creating a hosting relationship moves the hosted object to the same zone as the host. If the hosted object is subsequently moved to another zone or hosted on a different card, the hosting relationship ends.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_hosted_object_same_zone_as_host__example_1",
+      "text_markup": "The Runner uses the action on {card:Madani}, choosing 2 programs in their grip to host on {card:Madani}. The chosen cards change zones, moving from the Runner's grip to the play area.",
+      "text_plain": "The Runner uses the action on Madani, choosing 2 programs in their grip to host on Madani. The chosen cards change zones, moving from the Runner's grip to the play area.",
+      "is_new": true
+    }
+  ],
+  "is_new": true,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_hosted_object_same_zone_as_host"
+}

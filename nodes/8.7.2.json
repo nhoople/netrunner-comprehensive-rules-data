@@ -1,0 +1,32 @@
+{
+  "id": "rule_find",
+  "kind": "subsection",
+  "number": "8.7.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_searching_cards",
+  "child_ids": [
+    "rule_valid_search_target_criteria",
+    "rule_valid_search_target_install_play",
+    "rule_reveal_for_search",
+    "rule_search_multiple_cards",
+    "rule_fail_to_find"
+  ],
+  "text_markup": "While a player is searching, they may {term:find} an appropriate number of cards matching any criteria of the search by taking them from the zone being searched and setting them aside facedown.",
+  "text_plain": "While a player is searching, they may find an appropriate number of cards matching any criteria of the search by taking them from the zone being searched and setting them aside facedown.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 38,
+      "end": 42,
+      "target": "find"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_find"
+}

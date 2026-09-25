@@ -1,0 +1,19 @@
+{
+  "id": "step_paid_ability_resolution",
+  "kind": "rule",
+  "number": "9.5.7e",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_using_a_paid_ability",
+  "child_ids": [],
+  "text_markup": "Resolve the instruction, applying any changes to its effects from interrupts that were resolved.",
+  "text_plain": "Resolve the instruction, applying any changes to its effects from interrupts that were resolved.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_paid_ability_resolution"
+}

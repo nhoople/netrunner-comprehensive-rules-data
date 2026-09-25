@@ -1,0 +1,33 @@
+{
+  "id": "rule_paid_ability_refers_to_approached_ice__example_1",
+  "kind": "example",
+  "number": "9.5.6b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_paid_ability_refers_to_approached_ice",
+  "child_ids": [],
+  "text_markup": "The Corp can only use the paid ability on {card:Project Wotan} while the Runner is approaching a rezzed piece of {subtype:bioroid} ice.",
+  "text_plain": "The Corp can only use the paid ability on Project Wotan while the Runner is approaching a rezzed piece of bioroid ice.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 42,
+      "end": 55,
+      "target": "Project Wotan",
+      "card_code": "03006"
+    },
+    {
+      "type": "subtype",
+      "start": 106,
+      "end": 113,
+      "target": "bioroid"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rule_target_beyond_move__example_1",
+  "kind": "example",
+  "number": "1.15.4.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_target_beyond_move",
+  "child_ids": [],
+  "text_markup": "{card:Howler}'s ability targets a card in HQ. Its first instruction installs that card, and its second instruction creates a delayed conditional ability that refers to that card in the play area. The latter ability can find and act on the card as long as it is still installed.",
+  "text_plain": "Howler's ability targets a card in HQ. Its first instruction installs that card, and its second instruction creates a delayed conditional ability that refers to that card in the play area. The latter ability can find and act on the card as long as it is still installed.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 6,
+      "target": "Howler",
+      "card_code": "03016"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

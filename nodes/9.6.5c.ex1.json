@@ -1,0 +1,62 @@
+{
+  "id": "rule_condition_requirements_part_of_condition__example_1",
+  "kind": "example",
+  "number": "9.6.5c.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_condition_requirements_part_of_condition",
+  "child_ids": [],
+  "text_markup": "The entire trigger condition on {card:Quantum Predictive Model} is \"If the Runner is tagged when {card:Quantum Predictive Model} is accessed\". {card:Quantum Predictive Model} can only meet its trigger condition if the Runner is tagged at the time the access occurs. Even if {card:Casting Call} is hosted on {card:Quantum Predictive Model}, the tag will be given after the access begins, and no ordering of the abilities will allow {card:Quantum Predictive Model} to meet its trigger condition.",
+  "text_plain": "The entire trigger condition on Quantum Predictive Model is \"If the Runner is tagged when Quantum Predictive Model is accessed\". Quantum Predictive Model can only meet its trigger condition if the Runner is tagged at the time the access occurs. Even if Casting Call is hosted on Quantum Predictive Model, the tag will be given after the access begins, and no ordering of the abilities will allow Quantum Predictive Model to meet its trigger condition.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 32,
+      "end": 56,
+      "target": "Quantum Predictive Model",
+      "card_code": "09007"
+    },
+    {
+      "type": "card",
+      "start": 90,
+      "end": 114,
+      "target": "Quantum Predictive Model",
+      "card_code": "09007"
+    },
+    {
+      "type": "card",
+      "start": 129,
+      "end": 153,
+      "target": "Quantum Predictive Model",
+      "card_code": "09007"
+    },
+    {
+      "type": "card",
+      "start": 253,
+      "end": 265,
+      "target": "Casting Call",
+      "card_code": "08096"
+    },
+    {
+      "type": "card",
+      "start": 279,
+      "end": 303,
+      "target": "Quantum Predictive Model",
+      "card_code": "09007"
+    },
+    {
+      "type": "card",
+      "start": 396,
+      "end": 420,
+      "target": "Quantum Predictive Model",
+      "card_code": "09007"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

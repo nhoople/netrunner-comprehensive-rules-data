@@ -1,0 +1,19 @@
+{
+  "id": "rule_setup_identity",
+  "kind": "rule",
+  "number": "1.6.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_player_roles",
+  "child_ids": [],
+  "text_markup": "Some identity cards have abilities that affect setup. Even though cards are not active until the game begins, these identities still alter setup at the appropriate step as indicated by their text.",
+  "text_plain": "Some identity cards have abilities that affect setup. Even though cards are not active until the game begins, these identities still alter setup at the appropriate step as indicated by their text.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_setup_identity"
+}

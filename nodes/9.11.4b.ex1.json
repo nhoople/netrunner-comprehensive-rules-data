@@ -1,0 +1,27 @@
+{
+  "id": "rule_split_up_instruction__example_1",
+  "kind": "example",
+  "number": "9.11.4b.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_split_up_instruction",
+  "child_ids": [],
+  "text_markup": "The Corp plays {card:Shipment from MirrorMorph}, which has a single sentence directing them to install up to 3 cards from HQ. This is treated as though it said, \"You may install a card from HQ. You may install a card from HQ. You may install a card from HQ.\", or equivalently, \"You may install a card from HQ. Repeat this process 2 more times.\"",
+  "text_plain": "The Corp plays Shipment from MirrorMorph, which has a single sentence directing them to install up to 3 cards from HQ. This is treated as though it said, \"You may install a card from HQ. You may install a card from HQ. You may install a card from HQ.\", or equivalently, \"You may install a card from HQ. Repeat this process 2 more times.\"",
+  "spans": [
+    {
+      "type": "card",
+      "start": 15,
+      "end": 40,
+      "target": "Shipment from MirrorMorph",
+      "card_code": "20074"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

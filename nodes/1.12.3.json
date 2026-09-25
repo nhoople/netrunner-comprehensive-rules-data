@@ -1,0 +1,35 @@
+{
+  "id": "rule_object_move_location",
+  "kind": "rule",
+  "number": "1.12.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_objects",
+  "child_ids": [
+    "rule_object_move_location__example_1",
+    "rule_object_move_location__example_2"
+  ],
+  "text_markup": "A card that moves from its location to a hidden or secret location becomes a new object, even if the new location is in the same zone.",
+  "text_plain": "A card that moves from its location to a hidden or secret location becomes a new object, even if the new location is in the same zone.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_object_move_location__example_1",
+      "text_markup": "The Corp scores {card:Accelerated Beta Test}, looks at the top 3 cards of R&D, and installs and rezzes a piece of ice from among them. As a chain reaction, the Corp then uses {card:The Foundry: Refining the Process} to search R&D, with the result that the other cards currently being looked at by {card:Accelerated Beta Test} are shuffled along with the rest of R&D. Since the cards were moved to an unknown location in R&D, {card:Accelerated Beta Test} can no longer act on them, so those cards can no longer be looked at and will not be installed or trashed.",
+      "text_plain": "The Corp scores Accelerated Beta Test, looks at the top 3 cards of R&D, and installs and rezzes a piece of ice from among them. As a chain reaction, the Corp then uses The Foundry: Refining the Process to search R&D, with the result that the other cards currently being looked at by Accelerated Beta Test are shuffled along with the rest of R&D. Since the cards were moved to an unknown location in R&D, Accelerated Beta Test can no longer act on them, so those cards can no longer be looked at and will not be installed or trashed.",
+      "is_new": false
+    },
+    {
+      "id": "rule_object_move_location__example_2",
+      "text_markup": "The top card of R&D in the current game state is an object. So is the 2nd card from the top of R&D, the 3rd card, and so on. If the Corp plays {card:Precognition} and rearranges the top 5 cards of R&D, the Runner will not know which cards correspond to which objects in the previous order, so the cards become new objects under their new order.",
+      "text_plain": "The top card of R&D in the current game state is an object. So is the 2nd card from the top of R&D, the 3rd card, and so on. If the Corp plays Precognition and rearranges the top 5 cards of R&D, the Runner will not know which cards correspond to which objects in the previous order, so the cards become new objects under their new order.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_object_move_location"
+}

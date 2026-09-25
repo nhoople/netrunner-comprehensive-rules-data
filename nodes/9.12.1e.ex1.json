@@ -1,0 +1,214 @@
+{
+  "id": "rule_independent_effects__example_1",
+  "kind": "example",
+  "number": "9.12.1e.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_independent_effects",
+  "child_ids": [],
+  "text_markup": "{card:Mother Goddess}, {card:Ansel 1.0}, and {card:Warden Fatuma} are rezzed, and {card:Hush} is hosted on {card:Mother Goddess}. {card:Mother Goddess}, {card:Warden Fatuma}, and {card:Hush} all produce effects that could modify the characteristics of {card:Mother Goddess}, so in order to determine {card:Mother Goddess}'s true characteristics, we must examine how those effects depend on each other. {card:Mother Goddess}'s effect grants it the subtypes of {card:Ansel 1.0}, including the {subtype:bioroid} subtype, which affects whether {card:Warden Fatuma}'s ability applies to {card:Mother Goddess}, so {card:Warden Fatuma}'s effect depends on {card:Mother Goddess}'s effect. {card:Hush}'s effect removes {card:Mother Goddess}'s ability, so {card:Mother Goddess}'s effect depends on {card:Hush}'s effect. No other effects change how {card:Hush}'s effect behaves. Since {card:Hush}'s effect is independent, it must be applied first. When it is applied, {card:Mother Goddess}'s ability no longer exists, so {card:Warden Fatuma}'s effect is now independent. It is applied next and grants a subroutine to {card:Ansel 1.0}, but not to {card:Mother Goddess}, which does not have the {subtype:bioroid} subtype.",
+  "text_plain": "Mother Goddess, Ansel 1.0, and Warden Fatuma are rezzed, and Hush is hosted on Mother Goddess. Mother Goddess, Warden Fatuma, and Hush all produce effects that could modify the characteristics of Mother Goddess, so in order to determine Mother Goddess's true characteristics, we must examine how those effects depend on each other. Mother Goddess's effect grants it the subtypes of Ansel 1.0, including the bioroid subtype, which affects whether Warden Fatuma's ability applies to Mother Goddess, so Warden Fatuma's effect depends on Mother Goddess's effect. Hush's effect removes Mother Goddess's ability, so Mother Goddess's effect depends on Hush's effect. No other effects change how Hush's effect behaves. Since Hush's effect is independent, it must be applied first. When it is applied, Mother Goddess's ability no longer exists, so Warden Fatuma's effect is now independent. It is applied next and grants a subroutine to Ansel 1.0, but not to Mother Goddess, which does not have the bioroid subtype.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 14,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "card",
+      "start": 16,
+      "end": 25,
+      "target": "Ansel 1.0",
+      "card_code": "30038"
+    },
+    {
+      "type": "card",
+      "start": 31,
+      "end": 44,
+      "target": "Warden Fatuma",
+      "card_code": "21093"
+    },
+    {
+      "type": "card",
+      "start": 61,
+      "end": 65,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 79,
+      "end": 93,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "card",
+      "start": 95,
+      "end": 109,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "card",
+      "start": 111,
+      "end": 124,
+      "target": "Warden Fatuma",
+      "card_code": "21093"
+    },
+    {
+      "type": "card",
+      "start": 130,
+      "end": 134,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 196,
+      "end": 210,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "card",
+      "start": 237,
+      "end": 251,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "card",
+      "start": 332,
+      "end": 346,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "card",
+      "start": 382,
+      "end": 391,
+      "target": "Ansel 1.0",
+      "card_code": "30038"
+    },
+    {
+      "type": "subtype",
+      "start": 407,
+      "end": 414,
+      "target": "bioroid"
+    },
+    {
+      "type": "card",
+      "start": 446,
+      "end": 459,
+      "target": "Warden Fatuma",
+      "card_code": "21093"
+    },
+    {
+      "type": "card",
+      "start": 481,
+      "end": 495,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "card",
+      "start": 500,
+      "end": 513,
+      "target": "Warden Fatuma",
+      "card_code": "21093"
+    },
+    {
+      "type": "card",
+      "start": 534,
+      "end": 548,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "card",
+      "start": 559,
+      "end": 563,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 581,
+      "end": 595,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "card",
+      "start": 610,
+      "end": 624,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "card",
+      "start": 645,
+      "end": 649,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 688,
+      "end": 692,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 717,
+      "end": 721,
+      "target": "Hush",
+      "card_code": "33071"
+    },
+    {
+      "type": "card",
+      "start": 793,
+      "end": 807,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "card",
+      "start": 839,
+      "end": 852,
+      "target": "Warden Fatuma",
+      "card_code": "21093"
+    },
+    {
+      "type": "card",
+      "start": 928,
+      "end": 937,
+      "target": "Ansel 1.0",
+      "card_code": "30038"
+    },
+    {
+      "type": "card",
+      "start": 950,
+      "end": 964,
+      "target": "Mother Goddess",
+      "card_code": "06010"
+    },
+    {
+      "type": "subtype",
+      "start": 990,
+      "end": 997,
+      "target": "bioroid"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

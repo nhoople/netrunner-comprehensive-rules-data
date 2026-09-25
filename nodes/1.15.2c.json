@@ -1,0 +1,28 @@
+{
+  "id": "rule_targets_must_be_in_play_area",
+  "kind": "rule",
+  "number": "1.15.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_announce_targets",
+  "child_ids": [
+    "rule_targets_must_be_in_play_area__example_1"
+  ],
+  "text_markup": "Unless an instruction explicitly specifies the zone from which an object must be selected as a target, only counters in the play area and installed cards are valid targets for that instruction.",
+  "text_plain": "Unless an instruction explicitly specifies the zone from which an object must be selected as a target, only counters in the play area and installed cards are valid targets for that instruction.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_targets_must_be_in_play_area__example_1",
+      "text_markup": "The Corp resolves a subroutine that says \"[sub] The Runner trashes 1 program.\" The Runner must trash 1 of their installed programs and may not trash a program from their grip or stack.",
+      "text_plain": "The Corp resolves a subroutine that says \"{sub} The Runner trashes 1 program.\" The Runner must trash 1 of their installed programs and may not trash a program from their grip or stack.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_targets_must_be_in_play_area"
+}

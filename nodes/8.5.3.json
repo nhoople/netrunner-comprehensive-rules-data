@@ -1,0 +1,22 @@
+{
+  "id": "rule_cards_in_server_cannot_be_rearranged",
+  "kind": "subsection",
+  "number": "8.5.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_install_uninstall",
+  "child_ids": [
+    "rule_cards_in_root_vertical",
+    "rule_ice_horizontal"
+  ],
+  "text_markup": "Cards in servers cannot be rearranged unless instructed by a card ability. To organize this hidden information for both players, it is important that the Corp observes the following rules for card orientation:",
+  "text_plain": "Cards in servers cannot be rearranged unless instructed by a card ability. To organize this hidden information for both players, it is important that the Corp observes the following rules for card orientation:",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_cards_in_server_cannot_be_rearranged"
+}

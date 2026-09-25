@@ -1,0 +1,29 @@
+{
+  "id": "rule_expected_effects_resolve",
+  "kind": "rule",
+  "number": "9.9.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_expected_effects",
+  "child_ids": [],
+  "text_markup": "When an instruction resolves, its expected effects correspond to the effects that occur, except for situations where {ref:rule_negative_values_resolution} applies.",
+  "text_plain": "When an instruction resolves, its expected effects correspond to the effects that occur, except for situations where rule 9.9.7d applies.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 117,
+      "end": 128,
+      "ids": [
+        "rule_negative_values_resolution"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_expected_effects_resolve"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rule_brain_damage",
+  "kind": "rule",
+  "number": "10.4.2c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_damage_types",
+  "child_ids": [],
+  "text_markup": "Some cards refer to \"brain damage\". This is an older term for core damage. The two terms are interchangeable.",
+  "text_plain": "Some cards refer to \"brain damage\". This is an older term for core damage. The two terms are interchangeable.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_brain_damage"
+}

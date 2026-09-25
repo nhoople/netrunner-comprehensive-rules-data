@@ -1,0 +1,22 @@
+{
+  "id": "rule_modify_drawn_cards",
+  "kind": "subsection",
+  "number": "8.4.3",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_drawing_cards",
+  "child_ids": [
+    "rule_card_leaves_drawn_set",
+    "rule_drawn_card_swapped"
+  ],
+  "text_markup": "Abilities that resolve while drawn cards are set aside can move those cards or add new cards to that set.",
+  "text_plain": "Abilities that resolve while drawn cards are set aside can move those cards or add new cards to that set.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_modify_drawn_cards"
+}

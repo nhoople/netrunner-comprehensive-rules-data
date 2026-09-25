@@ -1,0 +1,42 @@
+{
+  "id": "rule_event_condition",
+  "kind": "rule",
+  "number": "3.7.1a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_event_play",
+  "child_ids": [],
+  "text_markup": "One event, {card:On the Lam}, has the subtype {subtype:condition}. As part of its abilities, it converts itself into a condition counter and installs itself. This event cannot be installed by an install effect; it can only be installed through its own conversion ability. See {ref:rule_card_to_counter}.",
+  "text_plain": "One event, On the Lam, has the subtype condition. As part of its abilities, it converts itself into a condition counter and installs itself. This event cannot be installed by an install effect; it can only be installed through its own conversion ability. See rule 10.1.4.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 11,
+      "end": 21,
+      "target": "On the Lam",
+      "card_code": "11082"
+    },
+    {
+      "type": "subtype",
+      "start": 39,
+      "end": 48,
+      "target": "condition"
+    },
+    {
+      "type": "ref",
+      "start": 259,
+      "end": 270,
+      "ids": [
+        "rule_card_to_counter"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_event_condition"
+}

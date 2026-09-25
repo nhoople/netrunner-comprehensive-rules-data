@@ -1,0 +1,31 @@
+{
+  "id": "rule_core_damage",
+  "kind": "rule",
+  "number": "10.4.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_damage_types",
+  "child_ids": [],
+  "text_markup": "For each point of {term:core damage} suffered, {n}the player responsible for the damage trashes 1 randomly-chosen card{/n} from the grip, and the Runner's maximum hand size is permanently reduced by 1. The Runner takes a core damage counter for each core damage suffered to track the reduction in hand size.",
+  "text_plain": "For each point of core damage suffered, the player responsible for the damage trashes 1 randomly-chosen card from the grip, and the Runner's maximum hand size is permanently reduced by 1. The Runner takes a core damage counter for each core damage suffered to track the reduction in hand size.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 18,
+      "end": 29,
+      "target": "core damage"
+    },
+    {
+      "type": "new",
+      "start": 40,
+      "end": 108
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_core_damage"
+}

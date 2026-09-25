@@ -1,0 +1,34 @@
+{
+  "id": "rule_counters_cards",
+  "kind": "subsection",
+  "number": "1.9.1",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_counters_and_tokens",
+  "child_ids": [
+    "rule_counter_token"
+  ],
+  "text_markup": "{term:Counters} and {term:tokens} are game pieces (or equivalent) that track various resources, effects, and statuses of players and their cards.",
+  "text_plain": "Counters and tokens are game pieces (or equivalent) that track various resources, effects, and statuses of players and their cards.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 0,
+      "end": 8,
+      "target": "Counters"
+    },
+    {
+      "type": "term",
+      "start": 13,
+      "end": 19,
+      "target": "tokens"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_counters_cards"
+}

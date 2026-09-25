@@ -1,0 +1,26 @@
+{
+  "id": "rule_heap_name",
+  "kind": "rule",
+  "number": "4.4.7a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_heap",
+  "child_ids": [],
+  "text_markup": "The {term:heap} is the name for the Runner's discard pile.",
+  "text_plain": "The heap is the name for the Runner's discard pile.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 4,
+      "end": 8,
+      "target": "heap"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_heap_name"
+}

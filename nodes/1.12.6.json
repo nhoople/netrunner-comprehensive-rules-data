@@ -1,0 +1,36 @@
+{
+  "id": "rule_previous_object",
+  "kind": "subsection",
+  "number": "1.12.6",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_objects",
+  "child_ids": [
+    "rule_previous_object_source",
+    "rule_previous_object__example_1",
+    "rule_previous_object__example_2"
+  ],
+  "text_markup": "When a card or counter becomes a new object, its previous object ceases to exist, but can still be remembered by rules or abilities that refer to past game states.",
+  "text_plain": "When a card or counter becomes a new object, its previous object ceases to exist, but can still be remembered by rules or abilities that refer to past game states.",
+  "spans": [],
+  "examples": [
+    {
+      "id": "rule_previous_object__example_1",
+      "text_markup": "The Runner plays {card:Bravado}. During the run, a piece of ice that the Runner has already passed is trashed. When the run ends, {card:Bravado}'s ability must determine how many pieces of ice the Runner passed during that run. It does this by reviewing the game history and counting each distinct ice object that the Runner passed. Even though the object corresponding to the trashed ice no longer exists in the present game state, {card:Bravado} can still count it.",
+      "text_plain": "The Runner plays Bravado. During the run, a piece of ice that the Runner has already passed is trashed. When the run ends, Bravado's ability must determine how many pieces of ice the Runner passed during that run. It does this by reviewing the game history and counting each distinct ice object that the Runner passed. Even though the object corresponding to the trashed ice no longer exists in the present game state, Bravado can still count it.",
+      "is_new": false
+    },
+    {
+      "id": "rule_previous_object__example_2",
+      "text_markup": "The Runner trashes the top card of R&D while accessing it. The object corresponding to that card in its location on top of R&D ceases to exist, but still counts against the number of cards the Runner can access from R&D during this breach.",
+      "text_plain": "The Runner trashes the top card of R&D while accessing it. The object corresponding to that card in its location on top of R&D ceases to exist, but still counts against the number of cards the Runner can access from R&D during this breach.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_previous_object"
+}

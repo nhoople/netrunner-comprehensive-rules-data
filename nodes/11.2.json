@@ -1,0 +1,33 @@
+{
+  "id": "sec_appendix_timing_structure_corps_turn",
+  "kind": "section",
+  "number": "11.2",
+  "ref_type": "section",
+  "title": "Timing Structure of The Corp's Turn",
+  "parent_id": "chpt_appendix_timing_structures",
+  "child_ids": [
+    "sec_appendix_timing_structure_corps_turn_1",
+    "sec_appendix_timing_structure_corps_turn_2",
+    "sec_appendix_timing_structure_corps_turn_3"
+  ],
+  "text_markup": "Timing Structure of The Corp's Turn ({ref:Sec_steps_corp_turn})",
+  "text_plain": "Timing Structure of The Corp's Turn (Section 5.6)",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 37,
+      "end": 48,
+      "ids": [
+        "sec_steps_corp_turn"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_appendix_timing_structure_corps_turn"
+}

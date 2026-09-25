@@ -1,0 +1,29 @@
+{
+  "id": "step_open_priority_windows_closed",
+  "kind": "rule",
+  "number": "6.9.6a",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "rule_sec_run_run_ends_phase",
+  "child_ids": [],
+  "text_markup": "Any priority windows that were open when the run moved to this phase are completed or closed as described in {ref:rule_run_ends_process_priority_windows}.",
+  "text_plain": "Any priority windows that were open when the run moved to this phase are completed or closed as described in section 6.8.2.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 109,
+      "end": 122,
+      "ids": [
+        "rule_run_ends_process_priority_windows"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_open_priority_windows_closed"
+}

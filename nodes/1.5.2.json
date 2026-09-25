@@ -1,0 +1,42 @@
+{
+  "id": "rule_identity_copy",
+  "kind": "subsection",
+  "number": "1.5.2",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_extra_cards",
+  "child_ids": [
+    "rule_jinteki_biotech_detail",
+    "rule_melies_u_detail"
+  ],
+  "text_markup": "{n}{card:Jinteki Biotech: Life Imagined} and {card:Méliès U: Only the Brightest} each have an ability which references different copies of the identity. There are different versions of those identities which have different abilities on their reverse side.{/n}",
+  "text_plain": "Jinteki Biotech: Life Imagined and Méliès U: Only the Brightest each have an ability which references different copies of the identity. There are different versions of those identities which have different abilities on their reverse side.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 30,
+      "target": "Jinteki Biotech: Life Imagined",
+      "card_code": "08012"
+    },
+    {
+      "type": "card",
+      "start": 35,
+      "end": 63,
+      "target": "Méliès U: Only the Brightest",
+      "card_code": "36036"
+    },
+    {
+      "type": "new",
+      "start": 0,
+      "end": 238
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_identity_copy"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rule_resolve_subroutines_runner_choice",
+  "kind": "rule",
+  "number": "9.8.7d",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_resolve_unbroken_subroutines",
+  "child_ids": [],
+  "text_markup": "One card, {card:Street Magic}, allows the Runner to set the order in which subroutines are resolved. If this ability is active when {ref:step_resolve_subroutine} is reached for the first time in an encounter, the Runner declares an order for the unbroken subroutines, and the Corp must resolve them in this order instead of their normal order. The new order is determined before any subroutines are resolved.",
+  "text_plain": "One card, Street Magic, allows the Runner to set the order in which subroutines are resolved. If this ability is active when step 6.9.3c is reached for the first time in an encounter, the Runner declares an order for the unbroken subroutines, and the Corp must resolve them in this order instead of their normal order. The new order is determined before any subroutines are resolved.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 22,
+      "target": "Street Magic",
+      "card_code": "10003"
+    },
+    {
+      "type": "ref",
+      "start": 125,
+      "end": 136,
+      "ids": [
+        "step_resolve_subroutine"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_resolve_subroutines_runner_choice"
+}

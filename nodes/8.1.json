@@ -1,0 +1,24 @@
+{
+  "id": "sec_faceup_facedown_status",
+  "kind": "section",
+  "number": "8.1",
+  "ref_type": "section",
+  "title": "Faceup and Facedown Status",
+  "parent_id": "chpt_card_manipulation",
+  "child_ids": [
+    "rule_rezzed_unrezzed",
+    "sec_rez",
+    "sec_derez",
+    "sec_facedown_runner_cards"
+  ],
+  "text_markup": "Faceup and Facedown Status",
+  "text_plain": "Faceup and Facedown Status",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_faceup_facedown_status"
+}

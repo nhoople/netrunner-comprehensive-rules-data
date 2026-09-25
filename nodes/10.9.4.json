@@ -1,0 +1,19 @@
+{
+  "id": "rule_loading_does_not_restrict_counters",
+  "kind": "rule",
+  "number": "10.9.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_load_and_empty",
+  "child_ids": [],
+  "text_markup": "Loading a card with counters does not impose any further restrictions upon those counters for that card. Other abilities can still issue instructions to act upon counters of that type, including but not limited to placing more of them or removing some of them.",
+  "text_plain": "Loading a card with counters does not impose any further restrictions upon those counters for that card. Other abilities can still issue instructions to act upon counters of that type, including but not limited to placing more of them or removing some of them.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_loading_does_not_restrict_counters"
+}

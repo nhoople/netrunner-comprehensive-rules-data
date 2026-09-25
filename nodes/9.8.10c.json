@@ -1,0 +1,19 @@
+{
+  "id": "step_subroutine_target_first_instruction",
+  "kind": "rule",
+  "number": "9.8.10c",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_of_resolving_a_subroutine",
+  "child_ids": [],
+  "text_markup": "Announce any targets for the subroutine's first instruction. That instruction then becomes imminent.",
+  "text_plain": "Announce any targets for the subroutine's first instruction. That instruction then becomes imminent.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=step_subroutine_target_first_instruction"
+}

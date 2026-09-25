@@ -1,0 +1,26 @@
+{
+  "id": "rule_corp_allotted_clicks",
+  "kind": "rule",
+  "number": "1.11.2a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_allotted_clicks",
+  "child_ids": [],
+  "text_markup": "The Corp receives 3[click] on each of their turns.",
+  "text_plain": "The Corp receives 3{click} on each of their turns.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 19,
+      "end": 26,
+      "target": "click"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_corp_allotted_clicks"
+}

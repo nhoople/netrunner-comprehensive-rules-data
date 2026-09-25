@@ -1,0 +1,35 @@
+{
+  "id": "rule_memory_cost",
+  "kind": "rule",
+  "number": "1.20.3",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_memory",
+  "child_ids": [],
+  "text_markup": "Programs have a {term:memory cost} that is continually applied against the memory limit. {ref:Rule_program_memory_cost} details how the Runner's installed programs are constrained by the memory limit.",
+  "text_plain": "Programs have a memory cost that is continually applied against the memory limit. Section 3.9.3 details how the Runner's installed programs are constrained by the memory limit.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 16,
+      "end": 27,
+      "target": "memory cost"
+    },
+    {
+      "type": "ref",
+      "start": 82,
+      "end": 95,
+      "ids": [
+        "rule_program_memory_cost"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_memory_cost"
+}

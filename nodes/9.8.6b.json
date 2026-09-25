@@ -1,0 +1,36 @@
+{
+  "id": "rule_break_all_but_x_subroutines_targets",
+  "kind": "rule",
+  "number": "9.8.6b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_unbroken_subroutines_target_for_break_abilities",
+  "child_ids": [
+    "rule_break_all_but_x_subroutines_targets__example_1"
+  ],
+  "text_markup": "One card, {card:Grappling Hook}, has the ability to break \"all but 1 subroutine\" on the encountered ice. To trigger this ability, its controller chooses as its target the 1 subroutine that will not be broken. When the ability resolves, it breaks all unbroken subroutines except the chosen subroutine.",
+  "text_plain": "One card, Grappling Hook, has the ability to break \"all but 1 subroutine\" on the encountered ice. To trigger this ability, its controller chooses as its target the 1 subroutine that will not be broken. When the ability resolves, it breaks all unbroken subroutines except the chosen subroutine.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 10,
+      "end": 24,
+      "target": "Grappling Hook",
+      "card_code": "05045"
+    }
+  ],
+  "examples": [
+    {
+      "id": "rule_break_all_but_x_subroutines_targets__example_1",
+      "text_markup": "The Runner uses two copies of {card:Grappling Hook} to break all of the subroutines on {card:Heimdall 1.0}. For the first {card:Grappling Hook}, the Runner chooses the unbroken \"[sub] Do 1 core damage.\" subroutine as the target, and {card:Grappling Hook} breaks both \"[sub] End the run.\" subroutines. For the second {card:Grappling Hook}, the Runner chooses one of the already-broken \"[sub] End the run.\" subroutines as the target. They can choose the broken subroutine as {card:Grappling Hook}'s target because {card:Grappling Hook} will not attempt to break the chosen subroutine. When the ability resolves, {card:Grappling Hook} breaks the \"[sub] Do 1 core damage.\" subroutine, but does nothing to the other \"[sub] End the run.\" subroutine, because it is already broken.",
+      "text_plain": "The Runner uses two copies of Grappling Hook to break all of the subroutines on Heimdall 1.0. For the first Grappling Hook, the Runner chooses the unbroken \"{sub} Do 1 core damage.\" subroutine as the target, and Grappling Hook breaks both \"{sub} End the run.\" subroutines. For the second Grappling Hook, the Runner chooses one of the already-broken \"{sub} End the run.\" subroutines as the target. They can choose the broken subroutine as Grappling Hook's target because Grappling Hook will not attempt to break the chosen subroutine. When the ability resolves, Grappling Hook breaks the \"{sub} Do 1 core damage.\" subroutine, but does nothing to the other \"{sub} End the run.\" subroutine, because it is already broken.",
+      "is_new": false
+    }
+  ],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_break_all_but_x_subroutines_targets"
+}

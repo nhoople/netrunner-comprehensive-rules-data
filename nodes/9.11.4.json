@@ -1,0 +1,27 @@
+{
+  "id": "rule_instruction_sentence_exceptions",
+  "kind": "subsection",
+  "number": "9.11.4",
+  "ref_type": "section",
+  "title": null,
+  "parent_id": "sec_identifying_instructions",
+  "child_ids": [
+    "rule_use_restrictions",
+    "rule_split_up_instruction",
+    "rule_choose_instruction",
+    "rule_search_instruction",
+    "rule_look_reveal_instruction",
+    "rule_nested_cost_instruction",
+    "rule_choice_instruction"
+  ],
+  "text_markup": "Some sentences are not instructions, some sentences encompass multiple instructions, and some instructions encompass multiple sentences. These are the cases in which sentences do not correspond one-to-one with instructions:",
+  "text_plain": "Some sentences are not instructions, some sentences encompass multiple instructions, and some instructions encompass multiple sentences. These are the cases in which sentences do not correspond one-to-one with instructions:",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_instruction_sentence_exceptions"
+}

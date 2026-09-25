@@ -1,0 +1,32 @@
+{
+  "id": "rule_subroutine",
+  "kind": "rule",
+  "number": "9.8.1",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_subroutines",
+  "child_ids": [],
+  "text_markup": "A {term:subroutine} is an ability beginning with the [sub] symbol. Only ice can have subroutines.",
+  "text_plain": "A subroutine is an ability beginning with the {sub} symbol. Only ice can have subroutines.",
+  "spans": [
+    {
+      "type": "term",
+      "start": 2,
+      "end": 12,
+      "target": "subroutine"
+    },
+    {
+      "type": "symbol",
+      "start": 46,
+      "end": 51,
+      "target": "sub"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_subroutine"
+}

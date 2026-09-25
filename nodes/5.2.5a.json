@@ -1,0 +1,19 @@
+{
+  "id": "rule_same_actions",
+  "kind": "rule",
+  "number": "5.2.5a",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_same_different_actions",
+  "child_ids": [],
+  "text_markup": "Actions a player performs are the same if they are all the same basic action or if all of those actions were initiated by the same ability from the same card.",
+  "text_plain": "Actions a player performs are the same if they are all the same basic action or if all of those actions were initiated by the same ability from the same card.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_same_actions"
+}

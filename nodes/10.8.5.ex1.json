@@ -1,0 +1,36 @@
+{
+  "id": "rule_trace_conditional_abilities__example_1",
+  "kind": "example",
+  "number": "10.8.5.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_trace_conditional_abilities",
+  "child_ids": [],
+  "text_markup": "{card:Gemini}'s subroutine initiates a trace attempt with two associated conditional abilities. The first is \"If successful, do 1 net damage.\" and the second is \"When the trace is determined to be successful or unsuccessful, if your trace strength is 5 or greater, do 1 net damage.\" Both of these will become pending (if appropriate) after {ref:step_trace_determine_success} below.",
+  "text_plain": "Gemini's subroutine initiates a trace attempt with two associated conditional abilities. The first is \"If successful, do 1 net damage.\" and the second is \"When the trace is determined to be successful or unsuccessful, if your trace strength is 5 or greater, do 1 net damage.\" Both of these will become pending (if appropriate) after step 10.8.6e below.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 6,
+      "target": "Gemini",
+      "card_code": "06084"
+    },
+    {
+      "type": "ref",
+      "start": 333,
+      "end": 345,
+      "ids": [
+        "step_trace_determine_success"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

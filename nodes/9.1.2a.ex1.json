@@ -1,0 +1,104 @@
+{
+  "id": "rule_chain_reaction__example_1",
+  "kind": "example",
+  "number": "9.1.2a.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_chain_reaction",
+  "child_ids": [],
+  "text_markup": "The Runner's identity is {card:Armand \"Geist\" Walker}. They access a {card:Snare!} from R&D with only 2 cards in their grip. Before taking a tag or suffering any net damage, the Runner triggers {card:Decoy}'s ability in order to avoid the tag. Using the {card:Decoy} meets the trigger condition of {card:Armand \"Geist\" Walker}'s ability. As this is the most recent ability to meet its trigger condition, {card:Armand \"Geist\" Walker}'s ability must resolve first, before {card:Decoy} avoids the tag and before {card:Snare!} finishes resolving. The Runner draws a card from {card:Armand \"Geist\" Walker}, avoids the tag from {card:Snare!} with {card:Decoy}, and then finally suffers (and survives) the 3 net damage from {card:Snare!}.",
+  "text_plain": "The Runner's identity is Armand \"Geist\" Walker. They access a Snare! from R&D with only 2 cards in their grip. Before taking a tag or suffering any net damage, the Runner triggers Decoy's ability in order to avoid the tag. Using the Decoy meets the trigger condition of Armand \"Geist\" Walker's ability. As this is the most recent ability to meet its trigger condition, Armand \"Geist\" Walker's ability must resolve first, before Decoy avoids the tag and before Snare! finishes resolving. The Runner draws a card from Armand \"Geist\" Walker, avoids the tag from Snare! with Decoy, and then finally suffers (and survives) the 3 net damage from Snare!.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 25,
+      "end": 46,
+      "target": "Armand \"Geist\" Walker",
+      "card_code": "08063"
+    },
+    {
+      "type": "card",
+      "start": 62,
+      "end": 68,
+      "target": "Snare!",
+      "card_code": "31054"
+    },
+    {
+      "type": "card",
+      "start": 180,
+      "end": 185,
+      "target": "Decoy",
+      "card_code": "01032"
+    },
+    {
+      "type": "card",
+      "start": 233,
+      "end": 238,
+      "target": "Decoy",
+      "card_code": "01032"
+    },
+    {
+      "type": "card",
+      "start": 270,
+      "end": 291,
+      "target": "Armand \"Geist\" Walker",
+      "card_code": "08063"
+    },
+    {
+      "type": "card",
+      "start": 369,
+      "end": 390,
+      "target": "Armand \"Geist\" Walker",
+      "card_code": "08063"
+    },
+    {
+      "type": "card",
+      "start": 428,
+      "end": 433,
+      "target": "Decoy",
+      "card_code": "01032"
+    },
+    {
+      "type": "card",
+      "start": 460,
+      "end": 466,
+      "target": "Snare!",
+      "card_code": "31054"
+    },
+    {
+      "type": "card",
+      "start": 516,
+      "end": 537,
+      "target": "Armand \"Geist\" Walker",
+      "card_code": "08063"
+    },
+    {
+      "type": "card",
+      "start": 559,
+      "end": 565,
+      "target": "Snare!",
+      "card_code": "31054"
+    },
+    {
+      "type": "card",
+      "start": 571,
+      "end": 576,
+      "target": "Decoy",
+      "card_code": "01032"
+    },
+    {
+      "type": "card",
+      "start": 640,
+      "end": 646,
+      "target": "Snare!",
+      "card_code": "31054"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

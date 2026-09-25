@@ -1,0 +1,76 @@
+{
+  "id": "rule_condition_requirements_part_of_effect__example_1",
+  "kind": "example",
+  "number": "9.6.5d.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_condition_requirements_part_of_effect",
+  "child_ids": [],
+  "text_markup": "If a Runner with 1 link has both {card:Underworld Contact} installed and {card:The Supplier} installed hosting a {card:Dyson Mem Chip}, both {card:Underworld Contact} and {card:The Supplier} meet their trigger conditions at the same time. The Runner can trigger {card:The Supplier} first, installing the Dyson Mem Chip, thus allowing {card:Underworld Contact} to recognize that the Runner has 2 link and give them 1 credit, even though the Runner did not have 2 link at the time the {card:Underworld Contact} became pending.",
+  "text_plain": "If a Runner with 1 link has both Underworld Contact installed and The Supplier installed hosting a Dyson Mem Chip, both Underworld Contact and The Supplier meet their trigger conditions at the same time. The Runner can trigger The Supplier first, installing the Dyson Mem Chip, thus allowing Underworld Contact to recognize that the Runner has 2 link and give them 1 credit, even though the Runner did not have 2 link at the time the Underworld Contact became pending.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 33,
+      "end": 51,
+      "target": "Underworld Contact",
+      "card_code": "20060"
+    },
+    {
+      "type": "card",
+      "start": 66,
+      "end": 78,
+      "target": "The Supplier",
+      "card_code": "06056"
+    },
+    {
+      "type": "card",
+      "start": 99,
+      "end": 113,
+      "target": "Dyson Mem Chip",
+      "card_code": "20057"
+    },
+    {
+      "type": "card",
+      "start": 120,
+      "end": 138,
+      "target": "Underworld Contact",
+      "card_code": "20060"
+    },
+    {
+      "type": "card",
+      "start": 143,
+      "end": 155,
+      "target": "The Supplier",
+      "card_code": "06056"
+    },
+    {
+      "type": "card",
+      "start": 227,
+      "end": 239,
+      "target": "The Supplier",
+      "card_code": "06056"
+    },
+    {
+      "type": "card",
+      "start": 292,
+      "end": 310,
+      "target": "Underworld Contact",
+      "card_code": "20060"
+    },
+    {
+      "type": "card",
+      "start": 434,
+      "end": 452,
+      "target": "Underworld Contact",
+      "card_code": "20060"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

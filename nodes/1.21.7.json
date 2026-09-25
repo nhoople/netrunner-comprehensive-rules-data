@@ -1,0 +1,19 @@
+{
+  "id": "rule_ambush_text",
+  "kind": "rule",
+  "number": "1.21.7",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_card_visibility",
+  "child_ids": [],
+  "text_markup": "The ability \"While the Runner is accessing this [type] in R&D, they must reveal it.\" is a static ability that applies for the entire duration of the access. This is also the case for cards with the older wording, \"If [this card] is accessed from R&D, the Runner must reveal it.\"",
+  "text_plain": "The ability \"While the Runner is accessing this [type] in R&D, they must reveal it.\" is a static ability that applies for the entire duration of the access. This is also the case for cards with the older wording, \"If [this card] is accessed from R&D, the Runner must reveal it.\"",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_ambush_text"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rule_count_positions__example_2",
+  "kind": "example",
+  "number": "6.2.3.ex2",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_count_positions",
+  "child_ids": [],
+  "text_markup": "The Runner passes a piece of ice in the innermost position protecting a server, and uses {card:Slipstream} to move to another server. Since positions are compared working from the innermost position, the Runner will be able to approach the innermost ice protecting any server, regardless of how many other pieces of ice are outward from that ice.",
+  "text_plain": "The Runner passes a piece of ice in the innermost position protecting a server, and uses Slipstream to move to another server. Since positions are compared working from the innermost position, the Runner will be able to approach the innermost ice protecting any server, regardless of how many other pieces of ice are outward from that ice.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 89,
+      "end": 99,
+      "target": "Slipstream",
+      "card_code": "21085"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

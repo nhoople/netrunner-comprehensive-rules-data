@@ -1,0 +1,41 @@
+{
+  "id": "rule_playing_one_at_a_time__example_1",
+  "kind": "example",
+  "number": "8.6.3.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_playing_one_at_a_time",
+  "child_ids": [],
+  "text_markup": "The Corp uses {card:Subcontract} to play {card:Hedge Fund} and another operation. The Corp can use the credits gained from {card:Hedge Fund} to pay for the second operation.",
+  "text_plain": "The Corp uses Subcontract to play Hedge Fund and another operation. The Corp can use the credits gained from Hedge Fund to pay for the second operation.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 14,
+      "end": 25,
+      "target": "Subcontract",
+      "card_code": "10113"
+    },
+    {
+      "type": "card",
+      "start": 34,
+      "end": 44,
+      "target": "Hedge Fund",
+      "card_code": "30075"
+    },
+    {
+      "type": "card",
+      "start": 109,
+      "end": 119,
+      "target": "Hedge Fund",
+      "card_code": "30075"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

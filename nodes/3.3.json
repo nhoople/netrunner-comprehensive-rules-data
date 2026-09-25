@@ -1,0 +1,24 @@
+{
+  "id": "sec_assets",
+  "kind": "section",
+  "number": "3.3",
+  "ref_type": "section",
+  "title": "Assets",
+  "parent_id": "chpt_card_types",
+  "child_ids": [
+    "rule_asset_root_remote",
+    "rule_asset_rez_cost",
+    "rule_asset_trash_cost",
+    "rule_asset_lady_liberty"
+  ],
+  "text_markup": "Assets",
+  "text_plain": "Assets",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": "Assets represent various resources and connections at the Corp's disposal.",
+  "snippet_plain": "Assets represent various resources and connections at the Corp's disposal.",
+  "url": "https://rules.nullsignal.games/?r=sec_assets"
+}

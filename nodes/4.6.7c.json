@@ -1,0 +1,19 @@
+{
+  "id": "rule_rnd_deck",
+  "kind": "rule",
+  "number": "4.6.7c",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "subsec_central_servers",
+  "child_ids": [],
+  "text_markup": "The Corp's deck is placed in the play area to indicate the location of R&D relative to other servers, but the cards in the deck are not installed. The cards in R&D are the cards in the deck. The upgrades installed in the root of R&D are placed in a vertical orientation near the deck. The ice installed protecting R&D are placed in a horizontal orientation in front of the deck outwards towards the Runner.",
+  "text_plain": "The Corp's deck is placed in the play area to indicate the location of R&D relative to other servers, but the cards in the deck are not installed. The cards in R&D are the cards in the deck. The upgrades installed in the root of R&D are placed in a vertical orientation near the deck. The ice installed protecting R&D are placed in a horizontal orientation in front of the deck outwards towards the Runner.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_rnd_deck"
+}

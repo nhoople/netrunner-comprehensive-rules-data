@@ -1,0 +1,46 @@
+{
+  "id": "rule_trash_symbol__example_1",
+  "kind": "example",
+  "number": "1.19.4.ex1",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_trash_symbol",
+  "child_ids": [],
+  "text_markup": "{card:Fall Guy}'s last ability reads \"[trash]: Gain 2[c].\" The cost to trigger this ability is to trash {card:Fall Guy}.",
+  "text_plain": "Fall Guy's last ability reads \"{trash}: Gain 2{c}.\" The cost to trigger this ability is to trash Fall Guy.",
+  "spans": [
+    {
+      "type": "card",
+      "start": 0,
+      "end": 8,
+      "target": "Fall Guy",
+      "card_code": "20035"
+    },
+    {
+      "type": "symbol",
+      "start": 31,
+      "end": 38,
+      "target": "trash"
+    },
+    {
+      "type": "symbol",
+      "start": 46,
+      "end": 49,
+      "target": "credit"
+    },
+    {
+      "type": "card",
+      "start": 97,
+      "end": 105,
+      "target": "Fall Guy",
+      "card_code": "20035"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

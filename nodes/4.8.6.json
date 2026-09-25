@@ -1,0 +1,19 @@
+{
+  "id": "rule_set_aside_default_faceup",
+  "kind": "rule",
+  "number": "4.8.6",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_set_aside",
+  "child_ids": [],
+  "text_markup": "Cards set aside by a card ability are faceup unless the ability specifically instructs that they be set aside facedown.",
+  "text_plain": "Cards set aside by a card ability are faceup unless the ability specifically instructs that they be set aside facedown.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_set_aside_default_faceup"
+}

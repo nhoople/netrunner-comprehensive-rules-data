@@ -1,0 +1,29 @@
+{
+  "id": "rule_upgrade_trash_cost",
+  "kind": "rule",
+  "number": "3.6.4",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "sec_upgrades",
+  "child_ids": [],
+  "text_markup": "Upgrades are among the card types that have trash costs. If the Runner accesses an upgrade, they may pay the trash cost to trash that upgrade. See {ref:rule_basic_trash_ability}.",
+  "text_plain": "Upgrades are among the card types that have trash costs. If the Runner accesses an upgrade, they may pay the trash cost to trash that upgrade. See section 7.1.5.",
+  "spans": [
+    {
+      "type": "ref",
+      "start": 147,
+      "end": 160,
+      "ids": [
+        "rule_basic_trash_ability"
+      ],
+      "combiner": "and"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_upgrade_trash_cost"
+}

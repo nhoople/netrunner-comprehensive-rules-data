@@ -1,0 +1,53 @@
+{
+  "id": "rule_trash_ability_keeps_track_of_hosted_objects__example_3",
+  "kind": "example",
+  "number": "9.5.5.ex3",
+  "ref_type": "example",
+  "title": null,
+  "parent_id": "rule_trash_ability_keeps_track_of_hosted_objects",
+  "child_ids": [],
+  "text_markup": "This example describes a situation similar to the previous examples, but covers the sequence of steps the game carries out in a higher level of detail. The Corp has priority in a paid ability window, and chooses to trigger the [trash] ability on {card:Reconstruction Contract}. As they pay the trigger cost, moving {card:Reconstruction Contract} to Archives, they set aside the advancement counters hosted on {card:Reconstruction Contract}. Next, a checkpoint occurs following the cost having been paid. After that checkpoint and any corresponding reaction window, the [trash] ability's instruction is ready to become imminent. The Corp chooses a card they can advance to be the instruction's target, and an interrupt window opens. After the interrupt window (assuming the effects of the instruction are not prevented), the Corp moves the set-aside counters to the target card.",
+  "text_plain": "This example describes a situation similar to the previous examples, but covers the sequence of steps the game carries out in a higher level of detail. The Corp has priority in a paid ability window, and chooses to trigger the {trash} ability on Reconstruction Contract. As they pay the trigger cost, moving Reconstruction Contract to Archives, they set aside the advancement counters hosted on Reconstruction Contract. Next, a checkpoint occurs following the cost having been paid. After that checkpoint and any corresponding reaction window, the {trash} ability's instruction is ready to become imminent. The Corp chooses a card they can advance to be the instruction's target, and an interrupt window opens. After the interrupt window (assuming the effects of the instruction are not prevented), the Corp moves the set-aside counters to the target card.",
+  "spans": [
+    {
+      "type": "symbol",
+      "start": 227,
+      "end": 234,
+      "target": "trash"
+    },
+    {
+      "type": "card",
+      "start": 246,
+      "end": 269,
+      "target": "Reconstruction Contract",
+      "card_code": "21020"
+    },
+    {
+      "type": "card",
+      "start": 308,
+      "end": 331,
+      "target": "Reconstruction Contract",
+      "card_code": "21020"
+    },
+    {
+      "type": "card",
+      "start": 395,
+      "end": 418,
+      "target": "Reconstruction Contract",
+      "card_code": "21020"
+    },
+    {
+      "type": "symbol",
+      "start": 548,
+      "end": 555,
+      "target": "trash"
+    }
+  ],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": null
+}

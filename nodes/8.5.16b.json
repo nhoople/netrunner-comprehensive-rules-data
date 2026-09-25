@@ -1,0 +1,19 @@
+{
+  "id": "rule_steps_installing_destination",
+  "kind": "rule",
+  "number": "8.5.16b",
+  "ref_type": "step",
+  "title": null,
+  "parent_id": "sec_steps_installing",
+  "child_ids": [],
+  "text_markup": "Choose and declare the install destination appropriate to the card that will be installed, including any host relationships, if applicable.",
+  "text_plain": "Choose and declare the install destination appropriate to the card that will be installed, including any host relationships, if applicable.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_steps_installing_destination"
+}

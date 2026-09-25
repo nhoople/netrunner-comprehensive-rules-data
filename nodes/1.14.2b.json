@@ -1,0 +1,19 @@
+{
+  "id": "rule_controller_agenda",
+  "kind": "rule",
+  "number": "1.14.2b",
+  "ref_type": "rule",
+  "title": null,
+  "parent_id": "rule_controller_object",
+  "child_ids": [],
+  "text_markup": "The Corp controls each agenda in the Corp's score area. The Runner controls each agenda in the Runner's score area.",
+  "text_plain": "The Corp controls each agenda in the Corp's score area. The Runner controls each agenda in the Runner's score area.",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": false,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=rule_controller_agenda"
+}

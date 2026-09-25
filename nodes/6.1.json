@@ -1,0 +1,25 @@
+{
+  "id": "sec_run_general",
+  "kind": "section",
+  "number": "6.1",
+  "ref_type": "section",
+  "title": "General",
+  "parent_id": "chpt_runs",
+  "child_ids": [
+    "rule_run",
+    "rule_attacked_server",
+    "rule_modify_run_steps",
+    "rule_end_the_run",
+    "rule_jacking_out"
+  ],
+  "text_markup": "General",
+  "text_plain": "General",
+  "spans": [],
+  "examples": [],
+  "is_new": false,
+  "toc": true,
+  "steps": false,
+  "snippet_markup": null,
+  "snippet_plain": null,
+  "url": "https://rules.nullsignal.games/?r=sec_run_general"
+}
