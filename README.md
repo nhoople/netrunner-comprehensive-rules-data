@@ -69,7 +69,7 @@ Pin consumers to a tag (`v26.03`), not `master`, so a later CR update does not b
 
 ## Rebuild
 
-Python 3.11+.
+Python 3.14+.
 
 ```bash
 python3 -m venv .venv
