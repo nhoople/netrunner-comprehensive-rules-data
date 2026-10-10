@@ -1,5 +1,7 @@
 # Netrunner Comprehensive Rules data
 
+These repositories stay separate and are consumed by release tag.
+
 Unofficial, machine-readable Comprehensive Rules (CR) for Netrunner, converted from the published Null Signal Games document.
 
 This is a **consumer dataset**, in the same spirit as [netrunner-cards-json](https://github.com/Null-Signal-Games/netrunner-cards-json). It is not a rules website and not a PDF generator.
