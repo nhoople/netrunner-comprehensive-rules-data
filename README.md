@@ -1,6 +1,6 @@
 # Netrunner Comprehensive Rules data
 
-These repositories stay separate and are consumed by release tag.
+Part of [nhoople/netrunner](https://github.com/nhoople/netrunner). These repositories stay separate and are consumed by release tag.
 
 Unofficial, machine-readable Comprehensive Rules (CR) for Netrunner, converted from the published Null Signal Games document.
 
