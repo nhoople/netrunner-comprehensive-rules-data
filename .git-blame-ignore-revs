@@ -1,0 +1,6 @@
+# Formatting-only commits for git blame to skip.
+# Use with: git config blame.ignoreRevsFile .git-blame-ignore-revs
+# (GitHub reads this file automatically.)
+
+# Format the Python code with Ruff (#10)
+fc83d97fba17eed00339beaa872125a5480746ba
