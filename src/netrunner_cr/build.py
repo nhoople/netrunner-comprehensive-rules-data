@@ -237,7 +237,9 @@ def _example_child_ids(parent_id: str, examples: list[Example]) -> list[tuple[st
     return [(f"{parent_id}__example_{i}", example) for i, example in enumerate(examples, start=1)]
 
 
-def _example_summaries(parent_id: str, examples: list[Example], id_map, nrdb) -> list[dict[str, Any]]:
+def _example_summaries(
+    parent_id: str, examples: list[Example], id_map, nrdb
+) -> list[dict[str, Any]]:
     summaries = []
     for ident, example in _example_child_ids(parent_id, examples):
         rendered = parse_markup(example.text, id_map=id_map)

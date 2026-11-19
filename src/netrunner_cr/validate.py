@@ -73,9 +73,7 @@ def _uniqueness(nodes: list[dict[str, Any]]) -> list[str]:
             errors.append(f"duplicate id {ident}")
         seen_ids[ident] = number
         if number in seen_numbers:
-            errors.append(
-                f"duplicate number {number} ({seen_numbers[number]} and {ident})"
-            )
+            errors.append(f"duplicate number {number} ({seen_numbers[number]} and {ident})")
         seen_numbers[number] = ident
     return errors
 
@@ -117,9 +115,7 @@ def _heading_fixture(nodes: list[dict[str, Any]]) -> list[str]:
         actual = node.get("title") or node["text_plain"]
         expected_prefix = title.lower().split("(")[0].strip()
         if not actual.lower().startswith(expected_prefix):
-            errors.append(
-                f"published heading {number} title mismatch: {actual!r} vs {title!r}"
-            )
+            errors.append(f"published heading {number} title mismatch: {actual!r} vs {title!r}")
     return errors
 
 

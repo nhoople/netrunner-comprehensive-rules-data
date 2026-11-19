@@ -38,13 +38,22 @@ def emit_all(document: dict[str, Any]) -> None:
 
 def _with_children(node: dict[str, Any], by_id: dict[str, dict[str, Any]]) -> dict[str, Any]:
     copy = dict(node)
-    copy["children"] = [_with_children(by_id[child_id], by_id) for child_id in node["child_ids"] if child_id in by_id]
+    copy["children"] = [
+        _with_children(by_id[child_id], by_id)
+        for child_id in node["child_ids"]
+        if child_id in by_id
+    ]
     return copy
 
 
 def _index(document: dict[str, Any], nodes: list[dict[str, Any]]) -> dict[str, Any]:
     toc = [
-        {"id": node["id"], "number": node["number"], "title": node["title"] or node["text_plain"], "kind": node["kind"]}
+        {
+            "id": node["id"],
+            "number": node["number"],
+            "title": node["title"] or node["text_plain"],
+            "kind": node["kind"],
+        }
         for node in nodes
         if node["toc"]
     ]
