@@ -32,22 +32,30 @@ def _number_section(id_map, section: Section, chapter_index: int, section_index:
         _number_section_element(id_map, element, chapter_index, section_index, i + 1, sub_ref_type)
 
 
-def _number_section_element(id_map, element, chapter_index, section_index, subsection_index, ref_type) -> None:
+def _number_section_element(
+    id_map, element, chapter_index, section_index, subsection_index, ref_type
+) -> None:
     number = f"{chapter_index}.{section_index}.{subsection_index}"
     if isinstance(element, SubSection):
         kind = "step" if element.steps else "section"
         _add(id_map, element.id, number, kind, element.text if element.toc else "", toc=element.toc)
         child_type = "step" if element.steps else "rule"
         for i, rule in enumerate(element.rules):
-            _number_subrule(id_map, rule, chapter_index, section_index, subsection_index, i, child_type)
+            _number_subrule(
+                id_map, rule, chapter_index, section_index, subsection_index, i, child_type
+            )
         return
     if isinstance(element, Rule):
         _add(id_map, element.id, number, ref_type, "", toc=False)
 
 
-def _number_subrule(id_map, rule: Rule, chapter_index, section_index, subsection_index, subrule_index, ref_type) -> None:
+def _number_subrule(
+    id_map, rule: Rule, chapter_index, section_index, subsection_index, subrule_index, ref_type
+) -> None:
     if subrule_index >= len(LETTERS):
-        raise ValueError(f"Too many lettered subrules under {chapter_index}.{section_index}.{subsection_index}")
+        raise ValueError(
+            f"Too many lettered subrules under {chapter_index}.{section_index}.{subsection_index}"
+        )
     number = f"{chapter_index}.{section_index}.{subsection_index}{LETTERS[subrule_index]}"
     _add(id_map, rule.id, number, ref_type, "", toc=False)
 

@@ -13,7 +13,9 @@ from netrunner_cr.ingest import ingest  # noqa: E402
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Fetch pinned official CR YAML.")
-    parser.add_argument("--force", action="store_true", help="Re-download even if SOURCE_SHA matches.")
+    parser.add_argument(
+        "--force", action="store_true", help="Re-download even if SOURCE_SHA matches."
+    )
     args = parser.parse_args()
     dest = ingest(force=args.force)
     print(f"Ingested YAML into {dest}")

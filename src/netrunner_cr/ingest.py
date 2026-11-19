@@ -33,7 +33,10 @@ def ingest(*, force: bool = False) -> Path:
 
     for name in pin["chapter_files"]:
         _download(f"{base}/{CHAPTER_DIR}/{name}.yaml", dest / "input" / f"{name}.yaml")
-    _download(f"{base}/{CHANGELOG_DIR}/{pin['version']}.yaml", dest / "changelogs" / f"{pin['version']}.yaml")
+    _download(
+        f"{base}/{CHANGELOG_DIR}/{pin['version']}.yaml",
+        dest / "changelogs" / f"{pin['version']}.yaml",
+    )
     _download(f"{base}/{NRDB_PATH}", dest / "nrdb.yaml")
     _download(f"{base}/{CONFIG_PATH}", dest / "config.yaml")
     (dest / "SOURCE_SHA").write_text(sha + "\n", encoding="utf-8")
