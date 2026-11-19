@@ -1,0 +1,8 @@
+# Ruff formats the Python code only (scripts/, src/, tests/). The CR JSON
+# under nodes/, data/ and schemas/ is generated and is never reformatted.
+# Run `ruff format` to fix and `ruff format --check` to check (CI runs the check).
+line-length = 100
+include = ["scripts/**/*.py", "src/**/*.py", "tests/**/*.py"]
+
+[format]
+quote-style = "double"
