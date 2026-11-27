@@ -21,6 +21,7 @@
 
 ## Tests
 
+- [ ] `ruff format --check` (CI fails on unformatted Python)
 - [ ] `python3 scripts/ingest.py && python3 scripts/transform.py`
 - [ ] `python3 -m unittest discover -s tests` and `python3 scripts/validate.py` pass
 
