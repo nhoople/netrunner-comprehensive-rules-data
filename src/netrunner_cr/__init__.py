@@ -5,9 +5,9 @@ from __future__ import annotations
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-SOURCE_DIR = ROOT / "source"
-YAML_DIR = SOURCE_DIR / "yaml"
-PIN_PATH = SOURCE_DIR / "pin.json"
+UPSTREAM_DIR = ROOT / "upstream"
+YAML_DIR = UPSTREAM_DIR / "yaml"
+PIN_PATH = UPSTREAM_DIR / "pin.json"
 DATA_DIR = ROOT / "data"
 NODES_DIR = ROOT / "nodes"
 SCHEMAS_DIR = ROOT / "schemas"

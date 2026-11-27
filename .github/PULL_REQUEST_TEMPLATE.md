@@ -17,7 +17,7 @@
 ## Source and numbering
 
 - [ ] Rule numbering and wording match the published Comprehensive Rules at [rules.nullsignal.games](https://rules.nullsignal.games/); where the YAML and the published document disagree, the published one wins
-- [ ] `source/pin.json` names the ingested commit (if the source moved)
+- [ ] `upstream/pin.json` names the ingested commit (if the source moved)
 
 ## Tests
 
