@@ -2,7 +2,7 @@
 
 This repository converts the published Null Signal Games Comprehensive Rules into JSON. It is part of [nhoople/netrunner](https://github.com/nhoople/netrunner); the git and release process is in that repo's [`docs/git-hygiene.md`](https://github.com/nhoople/netrunner/blob/main/docs/git-hygiene.md).
 
-- **Authority:** the published document at [rules.nullsignal.games](https://rules.nullsignal.games/). The YAML source is pinned in [`source/pin.json`](source/pin.json); when it disagrees with the published numbering or wording, validation fails and the published version wins.
+- **Authority:** the published document at [rules.nullsignal.games](https://rules.nullsignal.games/). The YAML source is pinned in [`upstream/pin.json`](upstream/pin.json); when it disagrees with the published numbering or wording, validation fails and the published version wins.
 - **Setup:** `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`.
 - **Before a pull request:** `python3 scripts/ingest.py && python3 scripts/transform.py`, then `python3 -m unittest discover -s tests` and `python3 scripts/validate.py`. CI runs the same steps as `transform-validate`.
 - **Formatting:** Python code is formatted with Ruff (`ruff.toml`). Install it with `pip install -r requirements-dev.txt` and run `ruff format` before committing. CI fails on `ruff format --check`. CR JSON is never reformatted.

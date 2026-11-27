@@ -8,7 +8,7 @@ This is a **consumer dataset**, in the same spirit as [netrunner-cards-json](htt
 
 **Semantic authority:** the published CR at [rules.nullsignal.games](https://rules.nullsignal.games/) (currently v26.03, effective 2 March 2026).
 
-**Machine pipeline:** YAML in [rubenpieters/netrunner-comprehensive-rules](https://github.com/rubenpieters/netrunner-comprehensive-rules), the public document generator used to produce that PDF/HTML. Ingest is pinned to a git SHA in [`source/pin.json`](source/pin.json). If YAML and the published document disagree, the published numbering and wording win and validation fails.
+**Machine pipeline:** YAML in [rubenpieters/netrunner-comprehensive-rules](https://github.com/rubenpieters/netrunner-comprehensive-rules), the public document generator used to produce that PDF/HTML. Ingest is pinned to a git SHA in [`upstream/pin.json`](upstream/pin.json). If YAML and the published document disagree, the published numbering and wording win and validation fails.
 
 See [`NOTICE`](NOTICE) for affiliation and trademark notes. Toolchain code is MIT; rules text remains Null Signal Games reference material.
 
@@ -77,7 +77,7 @@ Python 3.15+.
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python3 scripts/ingest.py          # fetch pinned YAML into source/yaml/
+python3 scripts/ingest.py          # fetch pinned YAML into upstream/yaml/
 python3 scripts/transform.py       # emit data/ and nodes/
 python3 scripts/validate.py        # schema, uniqueness, published headings
 python3 -m unittest discover -s tests -v
